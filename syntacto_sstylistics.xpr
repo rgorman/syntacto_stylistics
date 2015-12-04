@@ -4,5 +4,7 @@
         <filters directoryPatterns="" filePatterns="" positiveFilePatterns="" showHiddenFiles="false"/>
         <options/>
     </meta>
-    <projectTree name="syntacto_sstylistics.xpr"/>
+    <projectTree name="syntacto_sstylistics.xpr">
+        <folder path="."/>
+    </projectTree>
 </project>

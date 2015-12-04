@@ -4,11 +4,9 @@
 
 
 # The script will contain a loop which in turn contains a  nested loop;
-# The following creates indices for the chunks and should be in the outer loop.
 
-sample_index <- sample(1:length(sWord.l[[1]]), 2)
-full_index <- seq_along(1:length(sWord.l[[1]]))
-main_index <- full_index[-sample_index]
+
+
 
 #reset holder and inccrementizer j
 
@@ -21,6 +19,15 @@ j <- 1
 for (j in 1:length(main_index)) {
   h <- sapply(sWord.l[[1]][main_index[j]], paste, sep="", collapse=" ")
   holder <- append(holder, h)
+  
+  
+  cite.param.m[1,1]
+  author.v <- cite.param.m[1,1]
+  no_punc <- gsub("\\.|:", "", author.v)
+  underscore <- as.character(gsub(" ", "_", no_punc))
+  author.v
+  as.character(underscore)
+  underscore
   
 }
 

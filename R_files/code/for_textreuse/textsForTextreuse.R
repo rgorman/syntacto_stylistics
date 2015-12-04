@@ -42,12 +42,17 @@ colnames(df) <- c("First", "Last", "Size")
 
 i <- 1
 holder.l <- list()
+chunk.name.l <- list()
+xyz <- NULL
 
 for (i in 1:length(files.v)) {
-  j <- 1
+  j <- 2
   for (j in j:length(cite.l[[i]])) {
     holder.l <- cite.l[[i]][j]
     df <- rbind(df, c(holder.l[[1]][1], holder.l[[1]][length(holder.l[[1]])], length(holder.l[[1]])))
+    
+    xyz <- append(xyz, holder.l[[1]][1])
+   chunk.name.l[[i]] <- rbind(df, c(holder.l[[1]][1], holder.l[[1]][length(holder.l[[1]])], length(holder.l[[1]])))
     
   }
   
@@ -72,6 +77,7 @@ underscore <- as.character(gsub(" ", "_", no_punc))
 author.v
 as.character(underscore)
 underscore
+
 # the next step is to extract sWord content for each chunk created above
 
 

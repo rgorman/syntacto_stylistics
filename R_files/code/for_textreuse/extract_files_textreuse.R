@@ -24,7 +24,7 @@ for (i in 1:length(sWord.l)) {
   
   
   chunk.name.v <- NULL
-  full.file.v <- NULL
+  
   j <- 1
   
   for (j in j:length(cite.l[[i]])) {
@@ -32,9 +32,18 @@ for (i in 1:length(sWord.l)) {
     df <- rbind(df, c(holder.l[[1]][1], holder.l[[1]][length(holder.l[[1]])], length(holder.l[[1]])))
     
     chunk.name.v <- append(chunk.name.v, holder.l[[1]][1])
-    full.file.v <- append(full.file.v, sapply(sWord.l[[i]][j], paste, sep="", collapse=" "))
+    
     
   }
+  
+  full.file.v <- NULL
+  m <- 1
+  for (m in m:length(main_index)) {
+    
+    full.file.v <- append(full.file.v, sapply(sWord.l[[i]][main_index[m]], paste, sep="", collapse=" "))
+    
+  }
+  
   
   full.file.name <- paste(prefix.v, full_name[i], suffix.v, sep="", collapse="" )
   write(full.file.v, file=full.file.name)
@@ -46,14 +55,14 @@ for (i in 1:length(sWord.l)) {
   
   for (k in k:length(author.v)) {
     
+    sample.chunk <- sapply(sWord.l[[i]][sample_index[k]], paste, sep="", collapse=" ")
     chunk_file <- paste(prefix.v, underscore[k], suffix.v, sep="", collapse="")
-    write(author.v, file=chunk_file)
+    write(sample.chunk, file=chunk_file)
     
   }
   
   
 }
-
 
 
 

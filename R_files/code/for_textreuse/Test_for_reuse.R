@@ -21,6 +21,8 @@ for (j in 1:length(main_index)) {
   holder <- append(holder, h)
   
   
+ 
+  
   cite.param.m[1,1]
   author.v <- cite.param.m[1,1]
   no_punc <- gsub("\\.|:", "", author.v)

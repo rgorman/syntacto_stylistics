@@ -10,18 +10,19 @@ input.dir <- "../rel_pos_prose"
 files.v <- dir(path=input.dir, pattern=".*xml")
 
 
+# this loop creates a list ("cite.l") which contains metadata for each sWord in each file
 
-
+#create an emty list to contain data
 cite.l <- list()
 
 for(i in 1:length(files.v)){
-  doc.object <- xmlTreeParse(file.path(input.dir, files.v[i]), useInternalNodes=TRUE)
-  chunk.size <-1000
-  sword.cite <- getNodeSet(doc.object, "//sWord/@cite")
-  cite.v <- paste(sword.cite, collapse=NULL)
+  doc.object <- xmlTreeParse(file.path(input.dir, files.v[i]), useInternalNodes=TRUE) # create object containing xml for each file
+  chunk.size <-1000 # set size of chunks into which to divide file
+  sword.cite <- getNodeSet(doc.object, "//sWord/@cite") # extract @cite attribues from each sWord element in file
+  cite.v <- paste(sword.cite, collapse=NULL) # extract content from the @cite attribues
   
   
-  divisor <- length(cite.v)/chunk.size
+  divisor <- length(cite.v)/chunk.size 
   max.length <- length(cite.v)/divisor
   x <- seq_along(cite.v)
   
@@ -33,25 +34,26 @@ for(i in 1:length(files.v)){
 
 summary(cite.l)
 
-# The following script creates a matrix containing the citation of the first and last words in a
-# given chunk and the size (in words) of the chunk. It depends on the list object "cite.l"
-# created by the previous script.
 
-df <- matrix(nrow=1, ncol=3)
-colnames(df) <- c("First", "Last", "Size")
+# the following loop creates vector object "xyz" containing metadata for first sWord in each chunk
+# object "chunk.name.l" redundantly holds metadata for first and last sWord in each chunk, along with number of sWords in chunk
 
+
+# set increment counter and create empty objects to be used by loop:
 i <- 1
 holder.l <- list()
 chunk.name.l <- list()
-xyz <- NULL
+xyz <- NULL # this vector hold the chunk names for later use.
+metadata.l <- list()
 
 for (i in 1:length(files.v)) {
-  j <- 2
+  j <- 1
   for (j in j:length(cite.l[[i]])) {
     holder.l <- cite.l[[i]][j]
-    df <- rbind(df, c(holder.l[[1]][1], holder.l[[1]][length(holder.l[[1]])], length(holder.l[[1]])))
+   
     
     xyz <- append(xyz, holder.l[[1]][1])
+    metadata.l[[i]] <- append(xyz, holder.l[[1]][1])
    chunk.name.l[[i]] <- rbind(df, c(holder.l[[1]][1], holder.l[[1]][length(holder.l[[1]])], length(holder.l[[1]])))
     
   }
@@ -59,38 +61,76 @@ for (i in 1:length(files.v)) {
   
 }
 
-# Delete the empty first row of df and rename the results
-
-cite.param.m <-df[-1,]
-View(cite.param.m)
-
-#save cite.param.m as .csv file
-
-write.csv (cite.param.m, file="Rresults/chunk_parameters5.csv")
 
 
+# a loop create list of files names for all chunks to be extracted. This loop uses object "xyz" as basis.
 
-cite.param.m[1,1]
-author.v <- cite.param.m[1,1]
-no_punc <- gsub("\\.|:", "", author.v)
-underscore <- as.character(gsub(" ", "_", no_punc))
-author.v
-as.character(underscore)
-underscore
+
+authors.v <-  gsub(" ", "_", xyz) # replace white spance with underscores
+authors.v <- gsub("\\.|:", "", authors.v) # eleminate dots and colons
+suffix <- ".txt" # create object with suffix for text files
+
+
+
+
+
+# function to remove white space
+underscore.f <- function(x) {
+  gsub(" ", "_", x)
+  
+}
+
+metadata.l <- lapply(metadata.l, underscore.f)
+
+#function to eliminate dots and colons
+
+dots.f <- function(x) {
+  gsub("\\.|:", "", x)
+  
+}
+
+metadata.l <- lapply(metadata.l, dots.f)
+
+
+# function to add suffix
+suffix.f <- function(x) {
+  paste(x, suffix, sep="")
+  
+  
+}
+
+metadata.l <- lapply(metadata.l, suffix.f)
+
+metadata.l[[1]]
+
+# create vector object to contain file names for each chunk created by the appropriate loop
+names_for_chunks <- NULL
+
+# set incrementizer to 1
+i <-1
+for (i in 1:length(authors.v)) {
+  
+  names_for_chunks <- append(names_for_chunks, paste(authors.v[i], suffix, sep=""))
+  
+  
+}
+
+
+
 
 # the next step is to extract sWord content for each chunk created above
 
 
 # the following script extracts the sword content from each chunk
 
-sWord.l <- list()
-i <- 1
+sWord.l <- list() # create empty list object to contain output
+i <- 1 # set incrementizer to 1
 for(i in 1:length(files.v)) {
-  doc.object <- xmlTreeParse(file.path(input.dir, files.v[i]), useInternalNodes=TRUE)
-  chunk.size <-1000
-  sword.content <- getNodeSet(doc.object, "//sWord")
-  sWord.v <- paste(sapply(sword.content, xmlValue), sep=" ", collapse=NULL)
-  sWord.v <- tolower(sWord.v)
+  doc.object <- xmlTreeParse(file.path(input.dir, files.v[i]), useInternalNodes=TRUE) # make R object of xml file
+  chunk.size <-1000 # set chunk size
+  sword.content <- getNodeSet(doc.object, "//sWord") # create vector and populate with <sWord> elements
+  sWord.v <- paste(sapply(sword.content, xmlValue), sep=" ", collapse=NULL) # populate vector with content of sWord elements
+  sWord.v <- tolower(sWord.v) # change contents of vector to lower case
   
   
   divisor <- length(sWord.v)/chunk.size
@@ -103,26 +143,22 @@ for(i in 1:length(files.v)) {
   
 }
 
-# create a sequence of integers representing each chunk in sWord.l. These integers will be used as index numbers to select chunks for sample and test files.
+str(sWord.l[[2]][1])
 
 
-sample_index <- sample(1:length(sWord.l[[1]]), 2)
-full_index <- seq_along(1:length(sWord.l[[1]]))
-main_index <- full_index[-sample_index]
+# the following loop associated chunk contents with metadata and writes chunks as text files to disk
+
+i <- 1
+for (i in 1:length(sWord.l)) {
+  
+  
+  
+  
+  
+}
 
 
-h <- unlist(sWord.l[[1]][25])
-
-h <- sapply(sWord.l[[1]][25], paste, sep="", collapse=" ")
 
 
-directory <- "../rel_pos_prose/"
-suffix <- ".txt"
-underscore
-full_file
 
-full_file <-paste(directory, underscore, sep="")
-fuller_file <- paste(full_file, suffix, sep="")
-
-write(author.v,  file=fuller_file, append=TRUE)
 

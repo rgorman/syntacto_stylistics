@@ -57,11 +57,11 @@ for (i in 1:length(files.v)) {
    chunk.name.l[[i]] <- rbind(df, c(holder.l[[1]][1], holder.l[[1]][length(holder.l[[1]])], length(holder.l[[1]])))
     
   }
-  
+  xyz <- NULL
   
 }
 
-
+metadata.l[[3]]
 
 # a loop create list of files names for all chunks to be extracted. This loop uses object "xyz" as basis.
 
@@ -72,7 +72,7 @@ suffix <- ".txt" # create object with suffix for text files
 
 
 
-
+# 3 functions to create file names for all chunks to be extracted.
 
 # function to remove white space
 underscore.f <- function(x) {
@@ -101,19 +101,7 @@ suffix.f <- function(x) {
 
 metadata.l <- lapply(metadata.l, suffix.f)
 
-metadata.l[[1]]
-
-# create vector object to contain file names for each chunk created by the appropriate loop
-names_for_chunks <- NULL
-
-# set incrementizer to 1
-i <-1
-for (i in 1:length(authors.v)) {
-  
-  names_for_chunks <- append(names_for_chunks, paste(authors.v[i], suffix, sep=""))
-  
-  
-}
+metadata.l[[2]]
 
 
 
@@ -148,17 +136,20 @@ str(sWord.l[[2]][1])
 
 # the following loop associated chunk contents with metadata and writes chunks as text files to disk
 
+folder <- "../rel_pos_prose/test_reuse/" # folder for file destination
+length(sWord.l[[i]])
 i <- 1
+
 for (i in 1:length(sWord.l)) {
-  
-  
-  
-  
+  j <- 1
+ for (j in j:length(sWord.l[[i]])) {
+   final_data <- sapply(sWord.l[[i]][j], paste, sep="", collapse=" ")
+   folder_file <- paste(folder, metadata.l[[i]][j], sep="")
+   write(final_data, file=folder_file)
+   
+   
+ }
   
 }
-
-
-
-
 
 

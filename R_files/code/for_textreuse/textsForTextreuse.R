@@ -54,14 +54,13 @@ for (i in 1:length(files.v)) {
     
     xyz <- append(xyz, holder.l[[1]][1])
     metadata.l[[i]] <- append(xyz, holder.l[[1]][1])
-   chunk.name.l[[i]] <- rbind(df, c(holder.l[[1]][1], holder.l[[1]][length(holder.l[[1]])], length(holder.l[[1]])))
-    
+  
   }
   xyz <- NULL
   
 }
 
-metadata.l[[3]]
+metadata.l[[6]]
 
 # a loop create list of files names for all chunks to be extracted. This loop uses object "xyz" as basis.
 
@@ -101,7 +100,7 @@ suffix.f <- function(x) {
 
 metadata.l <- lapply(metadata.l, suffix.f)
 
-metadata.l[[2]]
+metadata.l[[6]]
 
 
 

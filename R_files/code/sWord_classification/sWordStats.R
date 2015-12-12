@@ -1,7 +1,7 @@
 library(XML)
 
 source("code/corpusFunctions.R")
-input.dir <- "sWord_input/stat_files/combined_authors"
+input.dir <- "../Leipzig_Dec15/rel_pos_files"
 files.v <- dir(path=input.dir, pattern=".*xml")
 
 i <- 1
@@ -14,7 +14,9 @@ for (i in 1:length(files.v)) {
 }
 
 
-
+length(book.freqs.l[[25]])
+str(book.freqs.l[[1]])
+files.v[21:25]
 
 
 

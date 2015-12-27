@@ -72,15 +72,4 @@ groups <- hclust(dist.smaller.m, method="ward.D2")
 # plot the results
 plot(groups, hang=-1, xlab="PROIEL")
 
-#process data through stylo
-stylo.results <-stylo(frequencies = smaller.m)
 
-rotated.stylo.freq.table <- t(stylo.results$table.with.all.freqs)
-
-str(stylo.results)
-names(stylo.results)
-stylo.results$table.with.all.zscores
-write.csv(stylo.results$distance.table, file ="results/clusters/test1_100_MFW.csv")
-write.csv(stylo.results$table.with.all.freqs, file ="results/clusters/test2_199.csv")
-write.csv(stylo.results$table.with.all.zscores, file ="results/clusters/test1_1210_MFW_zscores.csv")
-write.csv(rotated.stylo.freq.table, file ="results/clusters/rotated_test1_200_3gram.csv")

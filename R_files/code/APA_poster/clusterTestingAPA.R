@@ -83,9 +83,34 @@ plot(groups, hang=-1, xlab="Perseus Treebank")
 dend <- as.dendrogram(groups)
 
 dend2 <- color_branches(dend, k=3)
-dend2 <- hang.dendrogram(dend2, hang_height = 0.5)
+dend2 <- hang.dendrogram(dend2, hang_height = -0.1)
 plot(dend2)
 
-labels_colors(dend2) <- rainbow(4)[1]
+labels_colors(dend2) <- 2
+dend2 <- color_labels(dend2, k=3)
+rect.dendrogram(dend2, k=3)
 
+labels_colors(dend2)[2] <- rainbow(12)[3]
 
+labels_colors(dend2)
+
+order.dendrogram(dend2)
+
+orders <- order.dendrogram(dend2)
+orders[27:33]
+
+labels_colors(dend2)[1] <- "red" # Hdt
+labels_colors(dend2)[2] <- "indianred1" # Diodorus
+labels_colors(dend2)[c(3,7)] <- "hotpink1" # # Plutarch
+labels_colors(dend2)[4] <- "darksalmon" # Thuc.
+labels_colors(dend2)[5] <- "darkred" # Athen.
+labels_colors(dend2)[6] <- "darkorange" # Lysias
+labels_colors(dend2)[c(8,9)] <- "deeppink" # Polybius
+labels_colors(dend2)[c(10, 11, 12, 13, 14, 15)] <- "forestgreen" # Iliad
+labels_colors(dend2)[c(16, 17, 18, 19, 20, 21)] <- "darkgoldenrod" # Odyssey
+labels_colors(dend2)[c(22, 23, 24, 25, 26)] <- "cornflowerblue" # Sophocles
+labels_colors(dend2)[c(27, 28, 29, 30, 31, 32, 33)] <- "blue" # Aeschylus
+labels_colors(dend2)[c(34, 35, 36)] <- "blueviolet" # Hesiod
+
+plot(dend3)
+dend3 <- hang.dendrogram(dend2, hang_height = 0.1)

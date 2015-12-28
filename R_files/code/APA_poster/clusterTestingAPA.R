@@ -4,12 +4,16 @@ library(dendextend)
 
 source("code/corpusFunctions.R")
 
-# input from  files (location: C:\Users\rgorm\Documents\syntacto_stylistics\Leipzig_Dec15\rel_pos_files)
-input.dir <- "../Leipzig_Dec15/rel_pos_files"
+# change working directory to C:\Users\rgorm\Documents\author_attribution\R_files
+
+# input from  files (location: C:\Users\rgorm\Documents\syntacto_stylistics\sWord_rel)
+input.dir <- "sWord_input/stat_files/divided_authors"
 files.v <- dir(path=input.dir, pattern=".*xml")
 
+length(files.v)
 
-
+# set increment to 1
+i <- 1
 
 book.freqs.l <- list ()
 for (i in 1:length(files.v)) {
@@ -23,25 +27,6 @@ for (i in 1:length(files.v)) {
   book.freqs.l[[files.v[i]]] <-book.freqs.rel.t
   
 }
-
-
-
-
-#function to make n-grams of sword elements ; takes uploaded xml file as argument (called "doc.object)
-#use xmlTreeParse to generate "doc.object"
-getSwordNgramTableList <- function(doc.object) {
-  swords <-getNodeSet(doc.object, "//sWord", )
-  sword.content <- paste(sapply(swords, xmlValue), collapse = NULL)
-  sword.ngrams <- make.ngrams(sword.content, ngram.size=1)
-  sword.ngrams <-tolower(sword.ngrams)
-  book.freqs.t <-table(sword.ngrams)
-  book.freqs.rel.t <- 100*(book.freqs.t/sum(book.freqs.t))
-  
-  return(book.freqs.rel.t)
-}
-
-
-
 
 
 
@@ -75,7 +60,6 @@ rownames(final.m)
 
 
 
-dim(final.m)
 
 #reduce data matrix to features with largest means (most common features)
 smaller.m <- final.m[, apply(final.m,2,mean)>=.0025]
@@ -83,6 +67,7 @@ smaller.m <- final.m[, apply(final.m,2,mean)>=.0025]
 #check size of reduced feature set
 dim(smaller.m)
 
+View(smaller.m)
 
 #create distance object as input to hclust algorithm. Possible methods are "euclidian", "maximum", "manhattan", "canberra", "binary" or "minkowski". Default is "euclidian".
 dist.smaller.m <- dist(smaller.m)
@@ -93,5 +78,14 @@ groups <- hclust(dist.smaller.m, method="ward.D2")
 
 # plot the results
 plot(groups, hang=-1, xlab="Perseus Treebank")
+
+# use package dendextend to improve appearance of dendrogram
+dend <- as.dendrogram(groups)
+
+dend2 <- color_branches(dend, k=3)
+dend2 <- hang.dendrogram(dend2, hang_height = 0.5)
+plot(dend2)
+
+labels_colors(dend2) <- rainbow(4)[1]
 
 

@@ -50,26 +50,23 @@
                                 </sWord-0>
                                 <sWord-1>
                                     <xsl:choose>
-                                        <xsl:when test="$head_1=0">
-                                            #-<xsl:value-of select="
+                                    <xsl:when test="$head_1=0">#-<xsl:value-of select="
                                                 normalize-space(string-join((
                                                 parent::sentence/word[@id = $head_1]/@relation,
                                                 ./@relation
                                                 ), '-'))"></xsl:value-of>                                            
                                         </xsl:when>
-                                        <xsl:otherwise>
-                                            <xsl:value-of select="
+                                        <xsl:when test="$head_1>0"><xsl:value-of select="
                                                 normalize-space(string-join((                                                
                                                 parent::sentence/word[@id = $head_1]/@relation,
                                                 ./@relation
-                                                ), '-'))"></xsl:value-of>
-                                        </xsl:otherwise>
+                                                ), '-'))"></xsl:value-of></xsl:when>
+                                        
                                     </xsl:choose>
                                 </sWord-1>
                                 <xsl:choose>
                                     <xsl:when test="$head_2=0">
-                                        <sWord-2>
-                                            #-<xsl:value-of select="
+                                        <sWord-2>#-<xsl:value-of select="
                                                 normalize-space(string-join((
                                                 parent::sentence/word[@id = $head_2]/@relation,
                                                 parent::sentence/word[@id = $head_1]/@relation,
@@ -85,18 +82,18 @@
                                                 parent::sentence/word[@id = $head_1]/@relation,
                                                 ./@relation
                                                 ), '-'))"></xsl:value-of> 
-                                        </sWord-2></xsl:when>
+                                        </sWord-2>
+                                    </xsl:when>
                                 </xsl:choose>
                                 <xsl:choose>
                                     <xsl:when test="$head_3=0">
-                                        <sWord-3>
-                                            #-<xsl:value-of select="
+                                        <sWord-3>#-<xsl:value-of select="
                                                 normalize-space(string-join((
                                                 parent::sentence/word[@id = $head_3]/@relation,
                                                 parent::sentence/word[@id = $head_2]/@relation,
                                                 parent::sentence/word[@id = $head_1]/@relation,
                                                 ./@relation
-                                                ), '-'))"></xsl:value-of> 
+                                                ), '-'))"></xsl:value-of>
                                         </sWord-3>
                                     </xsl:when>
                                     <xsl:when test="$head_3>0">
@@ -112,15 +109,14 @@
                                 </xsl:choose>
                                 <xsl:choose>
                                     <xsl:when test="$head_4=0">
-                                        <sWord-4>
-                                            #-<xsl:value-of select="
+                                        <sWord-4>#-<xsl:value-of select="
                                                 normalize-space(string-join((
                                                 parent::sentence/word[@id = $head_4]/@relation,
                                                 parent::sentence/word[@id = $head_3]/@relation,
                                                 parent::sentence/word[@id = $head_2]/@relation,
                                                 parent::sentence/word[@id = $head_1]/@relation,
                                                 ./@relation
-                                                ), '-'))"></xsl:value-of> 
+                                                ), '-'))"></xsl:value-of>
                                         </sWord-4>
                                     </xsl:when>
                                     <xsl:when test="$head_4>0">
@@ -137,8 +133,7 @@
                                 </xsl:choose>
                                 <xsl:choose>
                                     <xsl:when test="$head_5=0">
-                                        <sWord-5>
-                                            #-<xsl:value-of select="
+                                        <sWord-5>#-<xsl:value-of select="
                                                 normalize-space(string-join((
                                                 parent::sentence/word[@id = $head_5]/@relation,
                                                 parent::sentence/word[@id = $head_4]/@relation,
@@ -146,7 +141,7 @@
                                                 parent::sentence/word[@id = $head_2]/@relation,
                                                 parent::sentence/word[@id = $head_1]/@relation,
                                                 ./@relation
-                                                ), '-'))"></xsl:value-of> 
+                                                ), '-'))"></xsl:value-of>
                                         </sWord-5>
                                     </xsl:when>
                                     <xsl:when test="$head_5>0">
@@ -164,8 +159,7 @@
                                 </xsl:choose>
                                 <xsl:choose>
                                     <xsl:when test="$head_6=0">
-                                        <sWord-6>
-                                            #-<xsl:value-of select="
+                                        <sWord-6>#-<xsl:value-of select="
                                                 normalize-space(string-join((
                                                 parent::sentence/word[@id = $head_6]/@relation,
                                                 parent::sentence/word[@id = $head_5]/@relation,
@@ -189,6 +183,138 @@
                                                 parent::sentence/word[@id = $head_1]/@relation,
                                                 ./@relation
                                                 ), '-'))"></xsl:value-of> </sWord-6>
+                                    </xsl:when>
+                                </xsl:choose>
+                                <xsl:choose>
+                                    <xsl:when test="$head_7=0">
+                                        <sWord-7>#-<xsl:value-of select="
+                                                normalize-space(string-join((
+                                                parent::sentence/word[@id = $head_7]/@relation,
+                                                parent::sentence/word[@id = $head_6]/@relation,
+                                                parent::sentence/word[@id = $head_5]/@relation,
+                                                parent::sentence/word[@id = $head_4]/@relation,
+                                                parent::sentence/word[@id = $head_3]/@relation,
+                                                parent::sentence/word[@id = $head_2]/@relation,
+                                                parent::sentence/word[@id = $head_1]/@relation,
+                                                ./@relation
+                                                ), '-'))"></xsl:value-of> 
+                                        </sWord-7>
+                                    </xsl:when>
+                                    <xsl:when test="$head_7>0">
+                                        <sWord-7>
+                                            <xsl:value-of select="
+                                                normalize-space(string-join((
+                                                parent::sentence/word[@id = $head_7]/@relation,
+                                                parent::sentence/word[@id = $head_6]/@relation,
+                                                parent::sentence/word[@id = $head_5]/@relation,
+                                                parent::sentence/word[@id = $head_4]/@relation,
+                                                parent::sentence/word[@id = $head_3]/@relation,
+                                                parent::sentence/word[@id = $head_2]/@relation,
+                                                parent::sentence/word[@id = $head_1]/@relation,
+                                                ./@relation
+                                                ), '-'))"></xsl:value-of> </sWord-7>
+                                    </xsl:when>
+                                </xsl:choose>
+                                <xsl:choose>
+                                    <xsl:when test="$head_8=0">
+                                        <sWord-8>#-<xsl:value-of select="
+                                                normalize-space(string-join((
+                                                parent::sentence/word[@id = $head_8]/@relation,
+                                                parent::sentence/word[@id = $head_7]/@relation,
+                                                parent::sentence/word[@id = $head_6]/@relation,
+                                                parent::sentence/word[@id = $head_5]/@relation,
+                                                parent::sentence/word[@id = $head_4]/@relation,
+                                                parent::sentence/word[@id = $head_3]/@relation,
+                                                parent::sentence/word[@id = $head_2]/@relation,
+                                                parent::sentence/word[@id = $head_1]/@relation,
+                                                ./@relation
+                                                ), '-'))"></xsl:value-of> 
+                                        </sWord-8>
+                                    </xsl:when>
+                                    <xsl:when test="$head_8>0">
+                                        <sWord-8>
+                                            <xsl:value-of select="
+                                                normalize-space(string-join((
+                                                parent::sentence/word[@id = $head_8]/@relation,
+                                                parent::sentence/word[@id = $head_7]/@relation,
+                                                parent::sentence/word[@id = $head_6]/@relation,
+                                                parent::sentence/word[@id = $head_5]/@relation,
+                                                parent::sentence/word[@id = $head_4]/@relation,
+                                                parent::sentence/word[@id = $head_3]/@relation,
+                                                parent::sentence/word[@id = $head_2]/@relation,
+                                                parent::sentence/word[@id = $head_1]/@relation,
+                                                ./@relation
+                                                ), '-'))"></xsl:value-of> </sWord-8>
+                                    </xsl:when>
+                                </xsl:choose>
+                                <xsl:choose>
+                                    <xsl:when test="$head_9=0">
+                                        <sWord-9>#-<xsl:value-of select="
+                                                normalize-space(string-join((
+                                                parent::sentence/word[@id = $head_9]/@relation,
+                                                parent::sentence/word[@id = $head_8]/@relation,
+                                                parent::sentence/word[@id = $head_7]/@relation,
+                                                parent::sentence/word[@id = $head_6]/@relation,
+                                                parent::sentence/word[@id = $head_5]/@relation,
+                                                parent::sentence/word[@id = $head_4]/@relation,
+                                                parent::sentence/word[@id = $head_3]/@relation,
+                                                parent::sentence/word[@id = $head_2]/@relation,
+                                                parent::sentence/word[@id = $head_1]/@relation,
+                                                ./@relation
+                                                ), '-'))"></xsl:value-of> 
+                                        </sWord-9>
+                                    </xsl:when>
+                                    <xsl:when test="$head_9>0">
+                                        <sWord-9>
+                                            <xsl:value-of select="
+                                                normalize-space(string-join((
+                                                parent::sentence/word[@id = $head_9]/@relation,
+                                                parent::sentence/word[@id = $head_8]/@relation,
+                                                parent::sentence/word[@id = $head_7]/@relation,
+                                                parent::sentence/word[@id = $head_6]/@relation,
+                                                parent::sentence/word[@id = $head_5]/@relation,
+                                                parent::sentence/word[@id = $head_4]/@relation,
+                                                parent::sentence/word[@id = $head_3]/@relation,
+                                                parent::sentence/word[@id = $head_2]/@relation,
+                                                parent::sentence/word[@id = $head_1]/@relation,
+                                                ./@relation
+                                                ), '-'))"></xsl:value-of> </sWord-9>
+                                    </xsl:when>
+                                </xsl:choose>
+                                <xsl:choose>
+                                    <xsl:when test="$head_10=0">
+                                        <sWord-10>#-<xsl:value-of select="
+                                                normalize-space(string-join((
+                                                parent::sentence/word[@id = $head_10]/@relation,
+                                                parent::sentence/word[@id = $head_9]/@relation,
+                                                parent::sentence/word[@id = $head_8]/@relation,
+                                                parent::sentence/word[@id = $head_7]/@relation,
+                                                parent::sentence/word[@id = $head_6]/@relation,
+                                                parent::sentence/word[@id = $head_5]/@relation,
+                                                parent::sentence/word[@id = $head_4]/@relation,
+                                                parent::sentence/word[@id = $head_3]/@relation,
+                                                parent::sentence/word[@id = $head_2]/@relation,
+                                                parent::sentence/word[@id = $head_1]/@relation,
+                                                ./@relation
+                                                ), '-'))"></xsl:value-of> 
+                                        </sWord-10>
+                                    </xsl:when>
+                                    <xsl:when test="$head_10>0">
+                                        <sWord-10>
+                                            <xsl:value-of select="
+                                                normalize-space(string-join((
+                                                parent::sentence/word[@id = $head_10]/@relation,
+                                                parent::sentence/word[@id = $head_9]/@relation,
+                                                parent::sentence/word[@id = $head_8]/@relation,
+                                                parent::sentence/word[@id = $head_7]/@relation,
+                                                parent::sentence/word[@id = $head_6]/@relation,
+                                                parent::sentence/word[@id = $head_5]/@relation,
+                                                parent::sentence/word[@id = $head_4]/@relation,
+                                                parent::sentence/word[@id = $head_3]/@relation,
+                                                parent::sentence/word[@id = $head_2]/@relation,
+                                                parent::sentence/word[@id = $head_1]/@relation,
+                                                ./@relation
+                                                ), '-'))"></xsl:value-of> </sWord-10>
                                     </xsl:when>
                                 </xsl:choose>
                             </word>

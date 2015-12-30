@@ -1,0 +1,73 @@
+library(XML)
+
+source("code/corpusFunctions.R")
+
+
+# location of files: C:\Users\rgorm\Documents\syntacto_stylistics\sWord_levels\files_with_sWords
+
+
+input.dir <- "../sWord_levels/files_with_sWords"
+files.v <- dir(path=input.dir, pattern=".*xml")
+
+
+
+# The following loop extracts the sWords from each file in the given directory and inserts them as character vectors
+# into the appropriate element in a list object.
+
+# set incremental varaible to 1
+i <- 1
+
+# create list object with no content. Vectors extracted from XML files will be stored here.
+sWord.freq.table.list <- list()
+
+for (i in 1:length(files.v))  {
+  
+  # read xml structure from file to .R object
+  doc.object <- xmlTreeParse(file.path(input.dir, files.v[i]), useInternalNodes=TRUE)
+  # extract all <word> elements and children into XmlNodeList object
+  word.nodes <- getNodeSet(doc.object, "//word")
+  # extract all <sWord> elements from word,nodes. The result is an XMLNodeList object.
+  sWord.nodes <- sapply(word.nodes, xmlChildren)
+  
+  
+  # The following loop extracts contents of all <sWord> elements, i.e., extracts the sWords themselve srom the XML.
+  
+  # set incremetal variable for loop
+  j <- 1
+  
+  # create vector object sWord,contents with no content.
+  sWord.contents <- NULL
+  
+  for (j in 1:length(sWord.nodes)) {
+    
+    
+    # extract contents of all <sWord> elements. Result is a charcter vector object.
+    sWord.contents <- append(sWord.contents, paste(sapply(sWord.nodes[[j]], xmlValue), collapse = NULL))
+    
+    
+  }
+  
+  # change sWord.contents vector to lower case
+  sWord.contents <- tolower(sWord.contents)
+  
+  # create a contingency table of sWord.contents. The table lists nuber of occurences for all sWords.
+  sWord.table <- table(sWord.contents)
+  
+  # normalize sWord.table by dividing by total sWords. Multiply by 100 to produce rate of sWord occurence per 100 sWords.
+  sWord.freq.table <- 100*(sWord.table/sum(sWord.table))
+  
+  # insert sWord.freq.table into list
+  sWord.freq.table.list[[i]] <- sWord.freq.table
+  
+}
+
+
+
+
+View(sWord.table)
+View(sWord.freq.table)
+
+length(sWord.freq.table.list[[2]])
+
+
+

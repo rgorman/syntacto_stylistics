@@ -4,10 +4,11 @@ library(dendextend)
 
 source("code/corpusFunctions.R")
 
-# change working directory to C:\Users\rgorm\Documents\author_attribution\R_files
 
-# input from  files (location: C:\Users\rgorm\Documents\syntacto_stylistics\sWord_rel)
-input.dir <- "sWord_input/stat_files/divided_authors"
+# location of files: C:\Users\rgorm\Documents\syntacto_stylistics\APA_Poster\sWord_files\divided_authors
+
+
+input.dir <- "../APA_Poster/sWord_files/divided_authors"
 files.v <- dir(path=input.dir, pattern=".*xml")
 
 length(files.v)
@@ -76,15 +77,21 @@ dist.smaller.m <- dist(smaller.m)
 # run hclust and get result in object (available methods are "ward.D", "ward.D2", "single", "complete" "average", "mcquitty", "median", or "centroid")
 groups <- hclust(dist.smaller.m, method="ward.D2")
 
+
+
 # plot the results
-plot(groups, hang=-1, xlab="Perseus Treebank")
+plot(groups, hang=-1, xlab="Perseus Treebank", main="Dendrogram of Ancient Languages Dependency Treebank")
 
 # use package dendextend to improve appearance of dendrogram
 dend <- as.dendrogram(groups)
 
 dend2 <- color_branches(dend, k=3)
-dend2 <- hang.dendrogram(dend2, hang_height = -0.1)
+dend2 <- color_labels(dend2, k=3)
+
 plot(dend2)
+
+dend3 <- hang.dendrogram(dend2, hang_height = 0.1)
+plot(dend3, main="Dendrogram of Ancient Languages Dependency Treebank")
 
 labels_colors(dend2) <- 2
 dend2 <- color_labels(dend2, k=3)
@@ -112,5 +119,27 @@ labels_colors(dend2)[c(22, 23, 24, 25, 26)] <- "cornflowerblue" # Sophocles
 labels_colors(dend2)[c(27, 28, 29, 30, 31, 32, 33)] <- "blue" # Aeschylus
 labels_colors(dend2)[c(34, 35, 36)] <- "blueviolet" # Hesiod
 
-plot(dend3)
+plot(dend2, main="Dendrogram of Ancient Languages Dependency Treebank")
 dend3 <- hang.dendrogram(dend2, hang_height = 0.1)
+
+labels_cex(dend3) <- 1
+get_leaves_branches_attr(dend3, "height")
+dend3 %>% get_leaves_attr("height")
+dend4 <- hang.dendrogram(dend3, hang_height = 1)
+
+plot(dend4)
+
+get_branches_heights(dend3)
+
+dend4 <- rank_branches(dend4, diff_height = 2)
+
+dend3[[1]][1]
+plot(flatten.dendrogram(dend3))
+
+groups[[8]]
+
+dend3[[2]][1]
+
+plot(ladderize(dend3), horiz = TRUE)
+     
+     

@@ -310,7 +310,7 @@
       <word id="16" form="fruenda" lemma="fruor" postag="v-s-g-fn-" relation="PRED_CO" head="15"/>
       <word id="17" form="etiam" lemma="etiam" postag="d-------_" relation="ADV" head="16"/>
       <word id="18" form="[" lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="19" form="sapientia" lemma="sapientia" postag="n-s---fb-" relation="" head=""/>
+      <word id="19" form="sapientia" lemma="sapientia" postag="n-s---fb-" relation="SBJ" head="16"/>
       <word id="20" form="]" lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
       <word id="21" form="est" lemma="sum1" postag="v3spia---" relation="AuxV" head="16"/>
       <word id="22" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>

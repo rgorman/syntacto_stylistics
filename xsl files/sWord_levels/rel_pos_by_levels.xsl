@@ -75,10 +75,8 @@
                                 </sWord-1>
                                 <xsl:choose>
                                     <xsl:when test="$head_2=0">
-                                        <sWord-2>#<xsl:value-of select="
+                                        <sWord-2>#-<xsl:value-of select="
                                             normalize-space(string-join((
-                                            parent::sentence/word[@id = $head_2]/@relation,
-                                            substring(parent::sentence/word[@id = $head_2]/@postag, 1,1),
                                             parent::sentence/word[@id = $head_1]/@relation,
                                             substring(parent::sentence/word[@id = $head_1]/@postag, 1,1),
                                             ./@relation,
@@ -104,10 +102,12 @@
                                     <xsl:when test="$head_3=0">
                                         <sWord-3>#-<xsl:value-of select="
                                                 normalize-space(string-join((
-                                                parent::sentence/word[@id = $head_3]/@relation,
                                                 parent::sentence/word[@id = $head_2]/@relation,
+                                                substring(parent::sentence/word[@id = $head_2]/@postag, 1,1),
                                                 parent::sentence/word[@id = $head_1]/@relation,
-                                                ./@relation
+                                                substring(parent::sentence/word[@id = $head_1]/@postag, 1,1),
+                                                ./@relation,
+                                                substring(./@postag, 1,1)
                                                 ), '-'))"></xsl:value-of>
                                         </sWord-3>
                                     </xsl:when>
@@ -116,9 +116,13 @@
                                         <xsl:value-of select="
                                             normalize-space(string-join((
                                             parent::sentence/word[@id = $head_3]/@relation,
+                                            substring(parent::sentence/word[@id = $head_3]/@postag, 1,1),
                                             parent::sentence/word[@id = $head_2]/@relation,
+                                            substring(parent::sentence/word[@id = $head_2]/@postag, 1,1),
                                             parent::sentence/word[@id = $head_1]/@relation,
-                                            ./@relation
+                                            substring(parent::sentence/word[@id = $head_1]/@postag, 1,1),
+                                            ./@relation,
+                                            substring(./@postag, 1,1)
                                             ), '-'))"></xsl:value-of> </sWord-3>
                                     </xsl:when>
                                 </xsl:choose>
@@ -126,11 +130,14 @@
                                     <xsl:when test="$head_4=0">
                                         <sWord-4>#-<xsl:value-of select="
                                                 normalize-space(string-join((
-                                                parent::sentence/word[@id = $head_4]/@relation,
                                                 parent::sentence/word[@id = $head_3]/@relation,
+                                                substring(parent::sentence/word[@id = $head_3]/@postag, 1,1),
                                                 parent::sentence/word[@id = $head_2]/@relation,
+                                                substring(parent::sentence/word[@id = $head_2]/@postag, 1,1),
                                                 parent::sentence/word[@id = $head_1]/@relation,
-                                                ./@relation
+                                                substring(parent::sentence/word[@id = $head_1]/@postag, 1,1),
+                                                ./@relation,
+                                                substring(./@postag, 1,1)
                                                 ), '-'))"></xsl:value-of>
                                         </sWord-4>
                                     </xsl:when>
@@ -139,10 +146,15 @@
                                             <xsl:value-of select="
                                                 normalize-space(string-join((
                                                 parent::sentence/word[@id = $head_4]/@relation,
+                                                substring(parent::sentence/word[@id = $head_4]/@postag, 1,1),
                                                 parent::sentence/word[@id = $head_3]/@relation,
+                                                substring(parent::sentence/word[@id = $head_3]/@postag, 1,1),
                                                 parent::sentence/word[@id = $head_2]/@relation,
+                                                substring(parent::sentence/word[@id = $head_2]/@postag, 1,1),
                                                 parent::sentence/word[@id = $head_1]/@relation,
-                                                ./@relation
+                                                substring(parent::sentence/word[@id = $head_1]/@postag, 1,1),
+                                                ./@relation,
+                                                substring(./@postag, 1,1)
                                                 ), '-'))"></xsl:value-of> </sWord-4>
                                     </xsl:when>
                                 </xsl:choose>

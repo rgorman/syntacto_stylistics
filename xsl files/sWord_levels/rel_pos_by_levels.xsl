@@ -817,9 +817,9 @@
                                         <sWord-16>
                                             <xsl:value-of select="
                                                 normalize-space(string-join((
-                                                parent::sentence/word[@id = $head_14]/@relation,
-                                                substring(parent::sentence/word[@id = $head_16]/@postag, 1,1),
                                                 parent::sentence/word[@id = $head_16]/@relation,
+                                                substring(parent::sentence/word[@id = $head_16]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_15]/@relation,
                                                 substring(parent::sentence/word[@id = $head_15]/@postag, 1,1),
                                                 parent::sentence/word[@id = $head_14]/@relation,
                                                 substring(parent::sentence/word[@id = $head_14]/@postag, 1,1),

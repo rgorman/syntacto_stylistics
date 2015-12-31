@@ -72,7 +72,7 @@
                                     parent::sentence/word[@id = $head_2]/@relation,
                                     substring (parent::sentence/word[@id = $head_2]/@postag, 1,1),
                                     parent::sentence/word[@id = $head_1]/@relation,
-                                    substring (parent::sentence/word[@id = $head_1]/@postag, 1,1),
+                                    substring(parent::sentence/word[@id = $head_1]/@postag, 1,1),
                                     ./@relation,
                                     substring(./@postag, 1, 1)
                                     ), '-'))"></xsl:value-of></sWord>

@@ -434,6 +434,426 @@
                                                 ), '-'))"></xsl:value-of> </sWord-10>
                                     </xsl:when>
                                 </xsl:choose>
+                                <xsl:choose>
+                                    <xsl:when test="$head_11=0">
+                                        <sWord-11>#-<xsl:value-of select="
+                                            normalize-space(string-join((
+                                            parent::sentence/word[@id = $head_10]/@relation,
+                                            substring(parent::sentence/word[@id = $head_10]/@postag, 1,1),
+                                            parent::sentence/word[@id = $head_9]/@relation,
+                                            substring(parent::sentence/word[@id = $head_9]/@postag, 1,1),
+                                            parent::sentence/word[@id = $head_8]/@relation,
+                                            substring(parent::sentence/word[@id = $head_8]/@postag, 1,1),
+                                            parent::sentence/word[@id = $head_7]/@relation,
+                                            substring(parent::sentence/word[@id = $head_7]/@postag, 1,1),
+                                            parent::sentence/word[@id = $head_6]/@relation,
+                                            substring(parent::sentence/word[@id = $head_6]/@postag, 1,1),
+                                            parent::sentence/word[@id = $head_5]/@relation,
+                                            substring(parent::sentence/word[@id = $head_5]/@postag, 1,1),
+                                            parent::sentence/word[@id = $head_4]/@relation,
+                                            substring(parent::sentence/word[@id = $head_4]/@postag, 1,1),
+                                            parent::sentence/word[@id = $head_3]/@relation,
+                                            substring(parent::sentence/word[@id = $head_3]/@postag, 1,1),
+                                            parent::sentence/word[@id = $head_2]/@relation,
+                                            substring(parent::sentence/word[@id = $head_2]/@postag, 1,1),
+                                            parent::sentence/word[@id = $head_1]/@relation,
+                                            substring(parent::sentence/word[@id = $head_1]/@postag, 1,1),
+                                            ./@relation,
+                                            substring(./@postag, 1,1)
+                                            ), '-'))"></xsl:value-of> 
+                                        </sWord-11>
+                                    </xsl:when>
+                                    <xsl:when test="$head_11>0">
+                                        <sWord-11>
+                                            <xsl:value-of select="
+                                                normalize-space(string-join((
+                                                parent::sentence/word[@id = $head_11]/@relation,
+                                                substring(parent::sentence/word[@id = $head_11]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_10]/@relation,
+                                                substring(parent::sentence/word[@id = $head_10]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_9]/@relation,
+                                                substring(parent::sentence/word[@id = $head_9]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_8]/@relation,
+                                                substring(parent::sentence/word[@id = $head_8]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_7]/@relation,
+                                                substring(parent::sentence/word[@id = $head_7]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_6]/@relation,
+                                                substring(parent::sentence/word[@id = $head_6]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_5]/@relation,
+                                                substring(parent::sentence/word[@id = $head_5]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_4]/@relation,
+                                                substring(parent::sentence/word[@id = $head_4]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_3]/@relation,
+                                                substring(parent::sentence/word[@id = $head_3]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_2]/@relation,
+                                                substring(parent::sentence/word[@id = $head_2]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_1]/@relation,
+                                                substring(parent::sentence/word[@id = $head_1]/@postag, 1,1),
+                                                ./@relation,
+                                                substring(./@postag, 1,1)
+                                                ), '-'))"></xsl:value-of> </sWord-11>
+                                    </xsl:when>
+                                </xsl:choose>
+                                <xsl:choose>
+                                    <xsl:when test="$head_12=0">
+                                        <sWord-12>#-<xsl:value-of select="
+                                            normalize-space(string-join((
+                                            parent::sentence/word[@id = $head_11]/@relation,
+                                            substring(parent::sentence/word[@id = $head_11]/@postag, 1,1),
+                                            parent::sentence/word[@id = $head_10]/@relation,
+                                            substring(parent::sentence/word[@id = $head_10]/@postag, 1,1),
+                                            parent::sentence/word[@id = $head_9]/@relation,
+                                            substring(parent::sentence/word[@id = $head_9]/@postag, 1,1),
+                                            parent::sentence/word[@id = $head_8]/@relation,
+                                            substring(parent::sentence/word[@id = $head_8]/@postag, 1,1),
+                                            parent::sentence/word[@id = $head_7]/@relation,
+                                            substring(parent::sentence/word[@id = $head_7]/@postag, 1,1),
+                                            parent::sentence/word[@id = $head_6]/@relation,
+                                            substring(parent::sentence/word[@id = $head_6]/@postag, 1,1),
+                                            parent::sentence/word[@id = $head_5]/@relation,
+                                            substring(parent::sentence/word[@id = $head_5]/@postag, 1,1),
+                                            parent::sentence/word[@id = $head_4]/@relation,
+                                            substring(parent::sentence/word[@id = $head_4]/@postag, 1,1),
+                                            parent::sentence/word[@id = $head_3]/@relation,
+                                            substring(parent::sentence/word[@id = $head_3]/@postag, 1,1),
+                                            parent::sentence/word[@id = $head_2]/@relation,
+                                            substring(parent::sentence/word[@id = $head_2]/@postag, 1,1),
+                                            parent::sentence/word[@id = $head_1]/@relation,
+                                            substring(parent::sentence/word[@id = $head_1]/@postag, 1,1),
+                                            ./@relation,
+                                            substring(./@postag, 1,1)
+                                            ), '-'))"></xsl:value-of> 
+                                        </sWord-12>
+                                    </xsl:when>
+                                    <xsl:when test="$head_12>0">
+                                        <sWord-12>
+                                            <xsl:value-of select="
+                                                normalize-space(string-join((
+                                                parent::sentence/word[@id = $head_12]/@relation,
+                                                substring(parent::sentence/word[@id = $head_12]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_11]/@relation,
+                                                substring(parent::sentence/word[@id = $head_11]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_10]/@relation,
+                                                substring(parent::sentence/word[@id = $head_10]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_9]/@relation,
+                                                substring(parent::sentence/word[@id = $head_9]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_8]/@relation,
+                                                substring(parent::sentence/word[@id = $head_8]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_7]/@relation,
+                                                substring(parent::sentence/word[@id = $head_7]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_6]/@relation,
+                                                substring(parent::sentence/word[@id = $head_6]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_5]/@relation,
+                                                substring(parent::sentence/word[@id = $head_5]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_4]/@relation,
+                                                substring(parent::sentence/word[@id = $head_4]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_3]/@relation,
+                                                substring(parent::sentence/word[@id = $head_3]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_2]/@relation,
+                                                substring(parent::sentence/word[@id = $head_2]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_1]/@relation,
+                                                substring(parent::sentence/word[@id = $head_1]/@postag, 1,1),
+                                                ./@relation,
+                                                substring(./@postag, 1,1)
+                                                ), '-'))"></xsl:value-of> </sWord-12>
+                                    </xsl:when>
+                                </xsl:choose>
+                                <xsl:choose>
+                                    <xsl:when test="$head_13=0">
+                                        <sWord-13>#-<xsl:value-of select="
+                                            normalize-space(string-join((
+                                            parent::sentence/word[@id = $head_12]/@relation,
+                                            substring(parent::sentence/word[@id = $head_12]/@postag, 1,1),
+                                            parent::sentence/word[@id = $head_11]/@relation,
+                                            substring(parent::sentence/word[@id = $head_11]/@postag, 1,1),
+                                            parent::sentence/word[@id = $head_10]/@relation,
+                                            substring(parent::sentence/word[@id = $head_10]/@postag, 1,1),
+                                            parent::sentence/word[@id = $head_9]/@relation,
+                                            substring(parent::sentence/word[@id = $head_9]/@postag, 1,1),
+                                            parent::sentence/word[@id = $head_8]/@relation,
+                                            substring(parent::sentence/word[@id = $head_8]/@postag, 1,1),
+                                            parent::sentence/word[@id = $head_7]/@relation,
+                                            substring(parent::sentence/word[@id = $head_7]/@postag, 1,1),
+                                            parent::sentence/word[@id = $head_6]/@relation,
+                                            substring(parent::sentence/word[@id = $head_6]/@postag, 1,1),
+                                            parent::sentence/word[@id = $head_5]/@relation,
+                                            substring(parent::sentence/word[@id = $head_5]/@postag, 1,1),
+                                            parent::sentence/word[@id = $head_4]/@relation,
+                                            substring(parent::sentence/word[@id = $head_4]/@postag, 1,1),
+                                            parent::sentence/word[@id = $head_3]/@relation,
+                                            substring(parent::sentence/word[@id = $head_3]/@postag, 1,1),
+                                            parent::sentence/word[@id = $head_2]/@relation,
+                                            substring(parent::sentence/word[@id = $head_2]/@postag, 1,1),
+                                            parent::sentence/word[@id = $head_1]/@relation,
+                                            substring(parent::sentence/word[@id = $head_1]/@postag, 1,1),
+                                            ./@relation,
+                                            substring(./@postag, 1,1)
+                                            ), '-'))"></xsl:value-of> 
+                                        </sWord-13>
+                                    </xsl:when>
+                                    <xsl:when test="$head_13>0">
+                                        <sWord-13>
+                                            <xsl:value-of select="
+                                                normalize-space(string-join((
+                                                parent::sentence/word[@id = $head_13]/@relation,
+                                                substring(parent::sentence/word[@id = $head_13]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_12]/@relation,
+                                                substring(parent::sentence/word[@id = $head_12]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_11]/@relation,
+                                                substring(parent::sentence/word[@id = $head_11]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_10]/@relation,
+                                                substring(parent::sentence/word[@id = $head_10]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_9]/@relation,
+                                                substring(parent::sentence/word[@id = $head_9]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_8]/@relation,
+                                                substring(parent::sentence/word[@id = $head_8]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_7]/@relation,
+                                                substring(parent::sentence/word[@id = $head_7]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_6]/@relation,
+                                                substring(parent::sentence/word[@id = $head_6]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_5]/@relation,
+                                                substring(parent::sentence/word[@id = $head_5]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_4]/@relation,
+                                                substring(parent::sentence/word[@id = $head_4]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_3]/@relation,
+                                                substring(parent::sentence/word[@id = $head_3]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_2]/@relation,
+                                                substring(parent::sentence/word[@id = $head_2]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_1]/@relation,
+                                                substring(parent::sentence/word[@id = $head_1]/@postag, 1,1),
+                                                ./@relation,
+                                                substring(./@postag, 1,1)
+                                                ), '-'))"></xsl:value-of> </sWord-13>
+                                    </xsl:when>
+                                </xsl:choose>
+                                <xsl:choose>
+                                    <xsl:when test="$head_14=0">
+                                        <sWord-14>#-<xsl:value-of select="
+                                            normalize-space(string-join((
+                                            parent::sentence/word[@id = $head_13]/@relation,
+                                            substring(parent::sentence/word[@id = $head_13]/@postag, 1,1),
+                                            parent::sentence/word[@id = $head_12]/@relation,
+                                            substring(parent::sentence/word[@id = $head_12]/@postag, 1,1),
+                                            parent::sentence/word[@id = $head_11]/@relation,
+                                            substring(parent::sentence/word[@id = $head_11]/@postag, 1,1),
+                                            parent::sentence/word[@id = $head_10]/@relation,
+                                            substring(parent::sentence/word[@id = $head_10]/@postag, 1,1),
+                                            parent::sentence/word[@id = $head_9]/@relation,
+                                            substring(parent::sentence/word[@id = $head_9]/@postag, 1,1),
+                                            parent::sentence/word[@id = $head_8]/@relation,
+                                            substring(parent::sentence/word[@id = $head_8]/@postag, 1,1),
+                                            parent::sentence/word[@id = $head_7]/@relation,
+                                            substring(parent::sentence/word[@id = $head_7]/@postag, 1,1),
+                                            parent::sentence/word[@id = $head_6]/@relation,
+                                            substring(parent::sentence/word[@id = $head_6]/@postag, 1,1),
+                                            parent::sentence/word[@id = $head_5]/@relation,
+                                            substring(parent::sentence/word[@id = $head_5]/@postag, 1,1),
+                                            parent::sentence/word[@id = $head_4]/@relation,
+                                            substring(parent::sentence/word[@id = $head_4]/@postag, 1,1),
+                                            parent::sentence/word[@id = $head_3]/@relation,
+                                            substring(parent::sentence/word[@id = $head_3]/@postag, 1,1),
+                                            parent::sentence/word[@id = $head_2]/@relation,
+                                            substring(parent::sentence/word[@id = $head_2]/@postag, 1,1),
+                                            parent::sentence/word[@id = $head_1]/@relation,
+                                            substring(parent::sentence/word[@id = $head_1]/@postag, 1,1),
+                                            ./@relation,
+                                            substring(./@postag, 1,1)
+                                            ), '-'))"></xsl:value-of> 
+                                        </sWord-14>
+                                    </xsl:when>
+                                    <xsl:when test="$head_14>0">
+                                        <sWord-14>
+                                            <xsl:value-of select="
+                                                normalize-space(string-join((
+                                                parent::sentence/word[@id = $head_14]/@relation,
+                                                substring(parent::sentence/word[@id = $head_14]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_13]/@relation,
+                                                substring(parent::sentence/word[@id = $head_13]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_12]/@relation,
+                                                substring(parent::sentence/word[@id = $head_12]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_11]/@relation,
+                                                substring(parent::sentence/word[@id = $head_11]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_10]/@relation,
+                                                substring(parent::sentence/word[@id = $head_10]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_9]/@relation,
+                                                substring(parent::sentence/word[@id = $head_9]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_8]/@relation,
+                                                substring(parent::sentence/word[@id = $head_8]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_7]/@relation,
+                                                substring(parent::sentence/word[@id = $head_7]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_6]/@relation,
+                                                substring(parent::sentence/word[@id = $head_6]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_5]/@relation,
+                                                substring(parent::sentence/word[@id = $head_5]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_4]/@relation,
+                                                substring(parent::sentence/word[@id = $head_4]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_3]/@relation,
+                                                substring(parent::sentence/word[@id = $head_3]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_2]/@relation,
+                                                substring(parent::sentence/word[@id = $head_2]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_1]/@relation,
+                                                substring(parent::sentence/word[@id = $head_1]/@postag, 1,1),
+                                                ./@relation,
+                                                substring(./@postag, 1,1)
+                                                ), '-'))"></xsl:value-of> </sWord-14>
+                                    </xsl:when>
+                                </xsl:choose>
+                                <xsl:choose>
+                                    <xsl:when test="$head_15=0">
+                                        <sWord-15>#-<xsl:value-of select="
+                                            normalize-space(string-join((
+                                            parent::sentence/word[@id = $head_14]/@relation,
+                                            substring(parent::sentence/word[@id = $head_14]/@postag, 1,1),
+                                            parent::sentence/word[@id = $head_13]/@relation,
+                                            substring(parent::sentence/word[@id = $head_13]/@postag, 1,1),
+                                            parent::sentence/word[@id = $head_12]/@relation,
+                                            substring(parent::sentence/word[@id = $head_12]/@postag, 1,1),
+                                            parent::sentence/word[@id = $head_11]/@relation,
+                                            substring(parent::sentence/word[@id = $head_11]/@postag, 1,1),
+                                            parent::sentence/word[@id = $head_10]/@relation,
+                                            substring(parent::sentence/word[@id = $head_10]/@postag, 1,1),
+                                            parent::sentence/word[@id = $head_9]/@relation,
+                                            substring(parent::sentence/word[@id = $head_9]/@postag, 1,1),
+                                            parent::sentence/word[@id = $head_8]/@relation,
+                                            substring(parent::sentence/word[@id = $head_8]/@postag, 1,1),
+                                            parent::sentence/word[@id = $head_7]/@relation,
+                                            substring(parent::sentence/word[@id = $head_7]/@postag, 1,1),
+                                            parent::sentence/word[@id = $head_6]/@relation,
+                                            substring(parent::sentence/word[@id = $head_6]/@postag, 1,1),
+                                            parent::sentence/word[@id = $head_5]/@relation,
+                                            substring(parent::sentence/word[@id = $head_5]/@postag, 1,1),
+                                            parent::sentence/word[@id = $head_4]/@relation,
+                                            substring(parent::sentence/word[@id = $head_4]/@postag, 1,1),
+                                            parent::sentence/word[@id = $head_3]/@relation,
+                                            substring(parent::sentence/word[@id = $head_3]/@postag, 1,1),
+                                            parent::sentence/word[@id = $head_2]/@relation,
+                                            substring(parent::sentence/word[@id = $head_2]/@postag, 1,1),
+                                            parent::sentence/word[@id = $head_1]/@relation,
+                                            substring(parent::sentence/word[@id = $head_1]/@postag, 1,1),
+                                            ./@relation,
+                                            substring(./@postag, 1,1)
+                                            ), '-'))"></xsl:value-of> 
+                                        </sWord-15>
+                                    </xsl:when>
+                                    <xsl:when test="$head_15>0">
+                                        <sWord-15>
+                                            <xsl:value-of select="
+                                                normalize-space(string-join((
+                                                parent::sentence/word[@id = $head_15]/@relation,
+                                                substring(parent::sentence/word[@id = $head_15]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_14]/@relation,
+                                                substring(parent::sentence/word[@id = $head_14]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_13]/@relation,
+                                                substring(parent::sentence/word[@id = $head_13]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_12]/@relation,
+                                                substring(parent::sentence/word[@id = $head_12]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_11]/@relation,
+                                                substring(parent::sentence/word[@id = $head_11]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_10]/@relation,
+                                                substring(parent::sentence/word[@id = $head_10]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_9]/@relation,
+                                                substring(parent::sentence/word[@id = $head_9]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_8]/@relation,
+                                                substring(parent::sentence/word[@id = $head_8]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_7]/@relation,
+                                                substring(parent::sentence/word[@id = $head_7]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_6]/@relation,
+                                                substring(parent::sentence/word[@id = $head_6]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_5]/@relation,
+                                                substring(parent::sentence/word[@id = $head_5]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_4]/@relation,
+                                                substring(parent::sentence/word[@id = $head_4]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_3]/@relation,
+                                                substring(parent::sentence/word[@id = $head_3]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_2]/@relation,
+                                                substring(parent::sentence/word[@id = $head_2]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_1]/@relation,
+                                                substring(parent::sentence/word[@id = $head_1]/@postag, 1,1),
+                                                ./@relation,
+                                                substring(./@postag, 1,1)
+                                                ), '-'))"></xsl:value-of> </sWord-15>
+                                    </xsl:when>
+                                </xsl:choose>
+                                <xsl:choose>
+                                    <xsl:when test="$head_16=0">
+                                        <sWord-16>#-<xsl:value-of select="
+                                            normalize-space(string-join((
+                                            parent::sentence/word[@id = $head_15]/@relation,
+                                            substring(parent::sentence/word[@id = $head_15]/@postag, 1,1),
+                                            parent::sentence/word[@id = $head_14]/@relation,
+                                            substring(parent::sentence/word[@id = $head_14]/@postag, 1,1),
+                                            parent::sentence/word[@id = $head_13]/@relation,
+                                            substring(parent::sentence/word[@id = $head_13]/@postag, 1,1),
+                                            parent::sentence/word[@id = $head_12]/@relation,
+                                            substring(parent::sentence/word[@id = $head_12]/@postag, 1,1),
+                                            parent::sentence/word[@id = $head_11]/@relation,
+                                            substring(parent::sentence/word[@id = $head_11]/@postag, 1,1),
+                                            parent::sentence/word[@id = $head_10]/@relation,
+                                            substring(parent::sentence/word[@id = $head_10]/@postag, 1,1),
+                                            parent::sentence/word[@id = $head_9]/@relation,
+                                            substring(parent::sentence/word[@id = $head_9]/@postag, 1,1),
+                                            parent::sentence/word[@id = $head_8]/@relation,
+                                            substring(parent::sentence/word[@id = $head_8]/@postag, 1,1),
+                                            parent::sentence/word[@id = $head_7]/@relation,
+                                            substring(parent::sentence/word[@id = $head_7]/@postag, 1,1),
+                                            parent::sentence/word[@id = $head_6]/@relation,
+                                            substring(parent::sentence/word[@id = $head_6]/@postag, 1,1),
+                                            parent::sentence/word[@id = $head_5]/@relation,
+                                            substring(parent::sentence/word[@id = $head_5]/@postag, 1,1),
+                                            parent::sentence/word[@id = $head_4]/@relation,
+                                            substring(parent::sentence/word[@id = $head_4]/@postag, 1,1),
+                                            parent::sentence/word[@id = $head_3]/@relation,
+                                            substring(parent::sentence/word[@id = $head_3]/@postag, 1,1),
+                                            parent::sentence/word[@id = $head_2]/@relation,
+                                            substring(parent::sentence/word[@id = $head_2]/@postag, 1,1),
+                                            parent::sentence/word[@id = $head_1]/@relation,
+                                            substring(parent::sentence/word[@id = $head_1]/@postag, 1,1),
+                                            ./@relation,
+                                            substring(./@postag, 1,1)
+                                            ), '-'))"></xsl:value-of> 
+                                        </sWord-16>
+                                    </xsl:when>
+                                    <xsl:when test="$head_16>0">
+                                        <sWord-16>
+                                            <xsl:value-of select="
+                                                normalize-space(string-join((
+                                                parent::sentence/word[@id = $head_14]/@relation,
+                                                substring(parent::sentence/word[@id = $head_16]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_16]/@relation,
+                                                substring(parent::sentence/word[@id = $head_15]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_14]/@relation,
+                                                substring(parent::sentence/word[@id = $head_14]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_13]/@relation,
+                                                substring(parent::sentence/word[@id = $head_13]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_12]/@relation,
+                                                substring(parent::sentence/word[@id = $head_12]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_11]/@relation,
+                                                substring(parent::sentence/word[@id = $head_11]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_10]/@relation,
+                                                substring(parent::sentence/word[@id = $head_10]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_9]/@relation,
+                                                substring(parent::sentence/word[@id = $head_9]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_8]/@relation,
+                                                substring(parent::sentence/word[@id = $head_8]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_7]/@relation,
+                                                substring(parent::sentence/word[@id = $head_7]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_6]/@relation,
+                                                substring(parent::sentence/word[@id = $head_6]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_5]/@relation,
+                                                substring(parent::sentence/word[@id = $head_5]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_4]/@relation,
+                                                substring(parent::sentence/word[@id = $head_4]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_3]/@relation,
+                                                substring(parent::sentence/word[@id = $head_3]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_2]/@relation,
+                                                substring(parent::sentence/word[@id = $head_2]/@postag, 1,1),
+                                                parent::sentence/word[@id = $head_1]/@relation,
+                                                substring(parent::sentence/word[@id = $head_1]/@postag, 1,1),
+                                                ./@relation,
+                                                substring(./@postag, 1,1)
+                                                ), '-'))"></xsl:value-of> </sWord-16>
+                                    </xsl:when>
+                                </xsl:choose>
                             </word>
                         </xsl:when>
                     </xsl:choose>

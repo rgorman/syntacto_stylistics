@@ -18329,7 +18329,7 @@
       <word id="56" form="ἐπὶ" lemma="ἐπί" postag="r--------" relation="AuxP" head="75"/>
       <word id="57" form="τὰς" lemma="ὁ" postag="l-p---fa-" relation="ATR" head="58"/>
       <word id="58" form="δυνάμεις" lemma="δύναμις" postag="n-p---fa-" relation="OBJ" head="56"/>
-      <word id="59" form="," lemma="punc1" postag="u--------" relation="AuxX" head="41"/>
+      <word id="59" form="," lemma="punc1" postag="u--------" relation="COORD" head="41"/>
       <word id="60" form="τρίτον" lemma="τρίτος" postag="a-s---na-" relation="ADV" head="76"/>
       <word id="61" form="ἐπὶ" lemma="ἐπί" postag="r--------" relation="AuxP" head="76"/>
       <word id="62" form="τὰς" lemma="ὁ" postag="l-p---fa-" relation="ATR" head="65"/>

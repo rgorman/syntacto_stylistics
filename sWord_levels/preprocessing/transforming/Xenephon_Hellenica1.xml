@@ -34,7 +34,7 @@
    <sentence id="1"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.1"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-1">
       <word id="1"
             form="μετὰ"
             lemma="μετά"
@@ -144,7 +144,7 @@
    <sentence id="2"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.1"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-2">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -247,7 +247,7 @@
    <sentence id="3"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.2"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-3">
       <word id="1"
             form="μετʼ"
             lemma="μετά"
@@ -399,7 +399,7 @@
    <sentence id="4"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.2"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-4">
       <word id="1"
             form="κατιδὼν"
             lemma="κατεῖδον"
@@ -474,7 +474,7 @@
    <sentence id="5"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.2"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-5">
       <word id="1"
             form="οἱ"
             lemma="ὁ"
@@ -668,7 +668,7 @@
    <sentence id="6"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.3"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-6">
       <word id="1"
             form="ἐγγὺς"
             lemma="ἐγγύς"
@@ -855,7 +855,7 @@
    <sentence id="7"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.4"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-7">
       <word id="1"
             form="Μίνδαρος"
             lemma="Μίνδαρος"
@@ -1063,7 +1063,7 @@
    <sentence id="8"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.5"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-8">
       <word id="1"
             form="οἱ"
             lemma="ὁ"
@@ -1180,7 +1180,7 @@
    <sentence id="9"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.5"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-9">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -1297,7 +1297,7 @@
    <sentence id="10"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.6"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-10">
       <word id="1"
             form="ἐντεῦθεν"
             lemma="ἐντεῦθεν"
@@ -1372,7 +1372,7 @@
    <sentence id="11"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.6"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-11">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -1566,7 +1566,7 @@
    <sentence id="12"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.7"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-12">
       <word id="1"
             form="συμφράξαντες"
             lemma="συμφράσσω"
@@ -1662,7 +1662,7 @@
    <sentence id="13"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.7"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-13">
       <word id="1"
             form="Ἀθηναῖοι"
             lemma="Ἀθηναῖος"
@@ -1800,7 +1800,7 @@
    <sentence id="14"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.8"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-14">
       <word id="1"
             form="ἐντεῦθεν"
             lemma="ἐντεῦθεν"
@@ -1896,7 +1896,7 @@
    <sentence id="15"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.8"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-15">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -2041,7 +2041,7 @@
    <sentence id="16"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.9"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-16">
       <word id="1"
             form="μετὰ"
             lemma="μετά"
@@ -2102,7 +2102,7 @@
    <sentence id="17"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.9"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-17">
       <word id="1"
             form="ἀφικόμενον"
             lemma="ἀφικνέομαι"
@@ -2268,7 +2268,7 @@
    <sentence id="18"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.10"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-18">
       <word id="1"
             form="ἡμέραις"
             lemma="ἡμέρα"
@@ -2413,7 +2413,7 @@
    <sentence id="19"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.11"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-19">
       <word id="1"
             form="οἱ"
             lemma="ὁ"
@@ -2558,7 +2558,7 @@
    <sentence id="20"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.11"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-20">
       <word id="1"
             form="ἐνταῦθα"
             lemma="ἐνταῦθα"
@@ -2661,7 +2661,7 @@
    <sentence id="21"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.11"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-21">
       <word id="1"
             form="πυθόμενος"
             lemma="πυνθάνομαι"
@@ -2862,7 +2862,7 @@
    <sentence id="22"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.12"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-22">
       <word id="1"
             form="ἐπεὶ"
             lemma="ἐπεί"
@@ -3086,7 +3086,7 @@
    <sentence id="23"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.13"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-23">
       <word id="1"
             form="Ἀλκιβιάδης"
             lemma="Ἀλκιβιάδης"
@@ -3203,7 +3203,7 @@
    <sentence id="24"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.13"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-24">
       <word id="1"
             form="ἁθρόαι"
             lemma="ἀθρόος"
@@ -3397,7 +3397,7 @@
    <sentence id="25"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.14"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-25">
       <word id="1"
             form="ἐκεῖ"
             lemma="ἐκεῖ"
@@ -3500,7 +3500,7 @@
    <sentence id="26"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.14"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-26">
       <word id="1"
             form="ταύτην"
             lemma="οὗτος"
@@ -3687,7 +3687,7 @@
    <sentence id="27"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.14"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-27">
       <word id="1"
             form="οὐ"
             lemma="οὐ"
@@ -3813,7 +3813,7 @@
    <sentence id="28"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.15"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-28">
       <word id="1"
             form="τῇ"
             lemma="ὁ"
@@ -4112,7 +4112,7 @@
    <sentence id="29"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.16"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-29">
       <word id="1"
             form="μετὰ"
             lemma="μετά"
@@ -4222,7 +4222,7 @@
    <sentence id="30"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.16"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-30">
       <word id="1"
             form="ἐπειδὴ"
             lemma="ἐπεί"
@@ -4444,7 +4444,7 @@
    <sentence id="31"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.17"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-31">
       <word id="1"
             form="οἱ"
             lemma="ὁ"
@@ -4626,7 +4626,7 @@
    <sentence id="32"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.17"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-32">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -4694,7 +4694,7 @@
    <sentence id="33"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.18"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-33">
       <word id="1"
             form="Ἀλκιβιάδης"
             lemma="Ἀλκιβιάδης"
@@ -4783,7 +4783,7 @@
    <sentence id="34"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.18"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-34">
       <word id="1"
             form="ἰδὼν"
             lemma="εἶδον"
@@ -4886,7 +4886,7 @@
    <sentence id="35"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.18"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-35">
       <word id="1"
             form="οἱ"
             lemma="ὁ"
@@ -4940,7 +4940,7 @@
    <sentence id="36"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.18"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-36">
       <word id="1"
             form="τὰς"
             lemma="ὁ"
@@ -5043,7 +5043,7 @@
    <sentence id="37"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.18"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-37">
       <word id="1"
             form="ἐκείνας"
             lemma="ἐκεῖνος"
@@ -5097,7 +5097,7 @@
    <sentence id="38"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.19"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-38">
       <word id="1"
             form="ἐκεῖθεν"
             lemma="ἐκεῖθεν"
@@ -5172,7 +5172,7 @@
    <sentence id="39"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.19"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-39">
       <word id="1"
             form="οἱ"
             lemma="ὁ"
@@ -5268,7 +5268,7 @@
    <sentence id="40"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.20"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-40">
       <word id="1"
             form="Ἀλκιβιάδης"
             lemma="Ἀλκιβιάδης"
@@ -5448,7 +5448,7 @@
    <sentence id="41"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.20"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-41">
       <word id="1"
             form="ἐκεῖθεν"
             lemma="ἐκεῖθεν"
@@ -5509,7 +5509,7 @@
    <sentence id="42"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.21"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-42">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -5584,7 +5584,7 @@
    <sentence id="43"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.21"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-43">
       <word id="1"
             form="Σηλυμβριανοὶ"
             lemma="Σηλυμβριανός"
@@ -5659,7 +5659,7 @@
    <sentence id="44"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.22"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-44">
       <word id="1"
             form="ἐντεῦθεν"
             lemma="ἐντεῦθεν"
@@ -6056,7 +6056,7 @@
    <sentence id="45"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.22"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-45">
       <word id="1"
             form="οἱ"
             lemma="ὁ"
@@ -6124,7 +6124,7 @@
    <sentence id="46"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.23"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-46">
       <word id="1"
             form="παρὰ"
             lemma="παρά"
@@ -6241,7 +6241,7 @@
    <sentence id="47"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.23"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-47">
       <word id="1"
             form="ἔρρει"
             lemma="ῥέω"
@@ -6274,7 +6274,7 @@
    <sentence id="48"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.23"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-48">
       <word id="1"
             form="Μίνδαρος"
             lemma="Μίνδαρος"
@@ -6300,7 +6300,7 @@
    <sentence id="49"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.23"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-49">
       <word id="1"
             form="πεινῶντι"
             lemma="πεινάω"
@@ -6333,7 +6333,7 @@
    <sentence id="50"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.23"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-50">
       <word id="1"
             form="ἀπορίομες"
             lemma="ἀπορέω"
@@ -6373,7 +6373,7 @@
    <sentence id="51"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.24"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-51">
       <word id="1"
             form="Φαρνάβαζος"
             lemma="Φαρνάβαζος"
@@ -6728,7 +6728,7 @@
    <sentence id="52"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.25"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-52">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -6943,7 +6943,7 @@
    <sentence id="53"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.26"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-53">
       <word id="1"
             form="ναυπηγουμένων"
             lemma="ναυπηγέω"
@@ -7088,7 +7088,7 @@
    <sentence id="54"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.26"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-54">
       <word id="1"
             form="διὰ"
             lemma="διά"
@@ -7177,7 +7177,7 @@
    <sentence id="55"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.26"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-55">
       <word id="1"
             form="Φαρνάβαζος"
             lemma="Φαρνάβαζος"
@@ -7252,7 +7252,7 @@
    <sentence id="56"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.27"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-56">
       <word id="1"
             form="ἐν"
             lemma="ἐν"
@@ -7376,7 +7376,7 @@
    <sentence id="57"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.27"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-57">
       <word id="1"
             form="συγκαλέσαντες"
             lemma="συγκαλέω"
@@ -7521,7 +7521,7 @@
    <sentence id="58"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.27"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-58">
       <word id="1"
             form="παρῄνεσάν"
             lemma="παραινέω"
@@ -7766,7 +7766,7 @@
    <sentence id="59"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.28"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-59">
       <word id="1"
             form="οἱ"
             lemma="ὁ"
@@ -7897,7 +7897,7 @@
    <sentence id="60"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.28"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-60">
       <word id="1"
             form="οἱ"
             lemma="ὁ"
@@ -7979,7 +7979,7 @@
    <sentence id="61"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.28"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-61">
       <word id="1"
             form="εἰ"
             lemma="εἰ"
@@ -8376,7 +8376,7 @@
    <sentence id="62"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.29"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-62">
       <word id="1"
             form="οὐδενὸς"
             lemma="οὐδείς"
@@ -8549,7 +8549,7 @@
    <sentence id="63"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.29"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-63">
       <word id="1"
             form="τῶν"
             lemma="ὁ"
@@ -8694,7 +8694,7 @@
    <sentence id="64"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.30"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-64">
       <word id="1"
             form="ἰδίᾳ"
             lemma="ἴδιος"
@@ -8811,7 +8811,7 @@
    <sentence id="65"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.30"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-65">
       <word id="1"
             form="ὧν"
             lemma="ὅς"
@@ -9161,7 +9161,7 @@
    <sentence id="66"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.31"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-66">
       <word id="1"
             form="ἐκ"
             lemma="ἐκ"
@@ -9292,7 +9292,7 @@
    <sentence id="67"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.31"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-67">
       <word id="1"
             form="κατηγορήσας"
             lemma="κατηγορέω"
@@ -9556,7 +9556,7 @@
    <sentence id="68"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.31"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-68">
       <word id="1"
             form="ἐν"
             lemma="ἐν"
@@ -9687,7 +9687,7 @@
    <sentence id="69"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.32"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-69">
       <word id="1"
             form="ἐν"
             lemma="ἐν"
@@ -9818,7 +9818,7 @@
    <sentence id="70"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.32"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-70">
       <word id="1"
             form="καταιτιαθεὶς"
             lemma="καταιτιάομαι"
@@ -9914,7 +9914,7 @@
    <sentence id="71"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.32"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-71">
       <word id="1"
             form="ἐπὶ"
             lemma="ἐπί"
@@ -10059,7 +10059,7 @@
    <sentence id="72"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.33"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-72">
       <word id="1"
             form="περὶ"
             lemma="περί"
@@ -10225,7 +10225,7 @@
    <sentence id="73"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.33"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-73">
       <word id="1"
             form="Θράσυλλος"
             lemma="Θράσυλλος"
@@ -10405,7 +10405,7 @@
    <sentence id="74"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.34"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-74">
       <word id="1"
             form="ἰδὼν"
             lemma="εἶδον"
@@ -10543,7 +10543,7 @@
    <sentence id="75"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.34"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-75">
       <word id="1"
             form="οἱ"
             lemma="ὁ"
@@ -10758,7 +10758,7 @@
    <sentence id="76"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.35"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-76">
       <word id="1"
             form="Ἆγις"
             lemma="Ἄγις"
@@ -11043,7 +11043,7 @@
    <sentence id="77"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.35"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-77">
       <word id="1"
             form="κράτιστόν"
             lemma="κράτιστος"
@@ -11176,7 +11176,7 @@
    <sentence id="78"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.36"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-78">
       <word id="1"
             form="δόξαντος"
             lemma="δοκέω"
@@ -11337,7 +11337,7 @@
    <sentence id="79"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.36"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-79">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -11594,7 +11594,7 @@
    <sentence id="80"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.37 "
-             span="">
+             span="Xenophon Hellenica Book 1 : s-80">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -11797,7 +11797,7 @@
    <sentence id="81"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.2.1"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-81">
       <word id="1"
             form="τῷ"
             lemma="ὁ"
@@ -12301,7 +12301,7 @@
    <sentence id="82"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.2.2"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-82">
       <word id="1"
             form="ἐκεῖ"
             lemma="ἐκεῖ"
@@ -12369,7 +12369,7 @@
    <sentence id="83"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.2.2"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-83">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -12451,7 +12451,7 @@
    <sentence id="84"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.2.2"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-84">
       <word id="1"
             form="ἐκ"
             lemma="ἐκ"
@@ -12568,7 +12568,7 @@
    <sentence id="85"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.2.3"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-85">
       <word id="1"
             form="οἱ"
             lemma="ὁ"
@@ -12790,7 +12790,7 @@
    <sentence id="86"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.2.4"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-86">
       <word id="1"
             form="τῇ"
             lemma="ὁ"
@@ -12893,7 +12893,7 @@
    <sentence id="87"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.2.4"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-87">
       <word id="1"
             form="Κολοφώνιοι"
             lemma="Κολοφώνιος"
@@ -12926,7 +12926,7 @@
    <sentence id="88"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.2.4"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-88">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -13120,7 +13120,7 @@
    <sentence id="89"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.2.5"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-89">
       <word id="1"
             form="Στάγης"
             lemma="Στάγης"
@@ -13370,7 +13370,7 @@
    <sentence id="90"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.2.6"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-90">
       <word id="1"
             form="Θράσυλλος"
             lemma="Θράσυλλος"
@@ -13480,7 +13480,7 @@
    <sentence id="91"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.2.6"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-91">
       <word id="1"
             form="Τισσαφέρνης"
             lemma="Τισσαφέρνης"
@@ -13639,7 +13639,7 @@
    <sentence id="92"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.2.7"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-92">
       <word id="1"
             form="Θράσυλλος"
             lemma="Θράσυλλος"
@@ -13996,7 +13996,7 @@
    <sentence id="93"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.2.8"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-93">
       <word id="1"
             form="οἱ"
             lemma="ὁ"
@@ -14374,7 +14374,7 @@
    <sentence id="94"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.2.9"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-94">
       <word id="1"
             form="οὗτοι"
             lemma="οὗτος"
@@ -14470,7 +14470,7 @@
    <sentence id="95"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.2.9"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-95">
       <word id="1"
             form="τούτους"
             lemma="οὗτος"
@@ -14622,7 +14622,7 @@
    <sentence id="96"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.2.9"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-96">
       <word id="1"
             form="ἔφυγον"
             lemma="φεύγω"
@@ -14718,7 +14718,7 @@
    <sentence id="97"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.2.10"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-97">
       <word id="1"
             form="οἱ"
             lemma="ὁ"
@@ -14816,7 +14816,7 @@
    <sentence id="98"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.2.10"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-98">
       <word id="1"
             form="τοῖς"
             lemma="ὁ"
@@ -14989,7 +14989,7 @@
    <sentence id="99"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.2.10"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-99">
       <word id="1"
             form="Σελινουσίοις"
             lemma="Σελινούσιος"
@@ -15078,7 +15078,7 @@
    <sentence id="100"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.2.11"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-100">
       <word id="1"
             form="οἱ"
             lemma="ὁ"
@@ -15230,7 +15230,7 @@
    <sentence id="101"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.2.12"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-101">
       <word id="1"
             form="ὁρμοῦντες"
             lemma="ὁρμάω"
@@ -15354,7 +15354,7 @@
    <sentence id="102"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.2.12"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-102">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -15478,7 +15478,7 @@
    <sentence id="103"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.2.13"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-103">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -15644,7 +15644,7 @@
    <sentence id="104"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.2.13"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-104">
       <word id="1"
             form="ἐντεῦθεν"
             lemma="ἐντεῦθεν"
@@ -15726,7 +15726,7 @@
    <sentence id="105"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.2.14"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-105">
       <word id="1"
             form="ἐκεῖθεν"
             lemma="ἐκεῖθεν"
@@ -15794,7 +15794,7 @@
    <sentence id="106"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.2.14"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-106">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -16025,7 +16025,7 @@
    <sentence id="107"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.2.15"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-107">
       <word id="1"
             form="ἐν"
             lemma="ἐν"
@@ -16249,7 +16249,7 @@
    <sentence id="108"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.2.15"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-108">
       <word id="1"
             form="ἐνταῦθα"
             lemma="ἐνταῦθα"
@@ -16303,7 +16303,7 @@
    <sentence id="109"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.2.16"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-109">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -16343,7 +16343,7 @@
    <sentence id="110"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.2.16"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-110">
       <word id="1"
             form="Φαρνάβαζος"
             lemma="Φαρνάβαζος"
@@ -16425,7 +16425,7 @@
    <sentence id="111"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1-1.4"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-111">
       <word id="1"
             form="Ἀλκιβιάδης"
             lemma="Ἀλκιβιάδης"
@@ -16584,7 +16584,7 @@
    <sentence id="112"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.2.17"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-112">
       <word id="1"
             form="ἐκ"
             lemma="ἐκ"
@@ -16701,7 +16701,7 @@
    <sentence id="113"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.2.17"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-113">
       <word id="1"
             form="ἐξῆλθον"
             lemma="ἐξέρχομαι"
@@ -16825,7 +16825,7 @@
    <sentence id="114"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.2.18"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-114">
       <word id="1"
             form="τῷ"
             lemma="ὁ"
@@ -16956,7 +16956,7 @@
    <sentence id="115"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.2.18"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-115">
       <word id="1"
             form="κατὰ"
             lemma="κατά"
@@ -17206,7 +17206,7 @@
    <sentence id="116"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.2.19"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-116">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -17351,7 +17351,7 @@
    <sentence id="117"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.3.1"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-117">
       <word id="1"
             form="τοῦ"
             lemma="ὁ"
@@ -17454,7 +17454,7 @@
    <sentence id="118"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.3.1"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-118">
       <word id="1"
             form="ἐπεὶ"
             lemma="ἐπεί"
@@ -17697,7 +17697,7 @@
    <sentence id="119"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.3.2"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-119">
       <word id="1"
             form="ἐκεῖθεν"
             lemma="ἐκεῖθεν"
@@ -17779,7 +17779,7 @@
    <sentence id="120"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.3.2"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-120">
       <word id="1"
             form="οἱ"
             lemma="ὁ"
@@ -17924,7 +17924,7 @@
    <sentence id="121"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.3.3"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-121">
       <word id="1"
             form="Ἀλκιβιάδης"
             lemma="Ἀλκιβιάδης"
@@ -18118,7 +18118,7 @@
    <sentence id="122"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.3.3"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-122">
       <word id="1"
             form="εἰ"
             lemma="εἰ"
@@ -18188,7 +18188,7 @@
    <sentence id="123"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.3.3"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-123">
       <word id="1"
             form="οἱ"
             lemma="ὁ"
@@ -18221,7 +18221,7 @@
    <sentence id="124"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.3.4"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-124">
       <word id="1"
             form="Ἀλκιβιάδης"
             lemma="Ἀλκιβιάδης"
@@ -18471,7 +18471,7 @@
    <sentence id="125"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.3.5"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-125">
       <word id="1"
             form="ἐνταῦθα"
             lemma="ἐνταῦθα"
@@ -18588,7 +18588,7 @@
    <sentence id="126"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.3.5"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-126">
       <word id="1"
             form="οἱ"
             lemma="ὁ"
@@ -18719,7 +18719,7 @@
    <sentence id="127"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.3.6"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-127">
       <word id="1"
             form="Ἱπποκράτης"
             lemma="Ἱπποκράτης"
@@ -18885,7 +18885,7 @@
    <sentence id="128"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.3.6"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-128">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -18995,7 +18995,7 @@
    <sentence id="129"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.3.7"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-129">
       <word id="1"
             form="ἅμα"
             lemma="ἅμα"
@@ -19259,7 +19259,7 @@
    <sentence id="130"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.3.8"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-130">
       <word id="1"
             form="ἐκ"
             lemma="ἐκ"
@@ -19369,7 +19369,7 @@
    <sentence id="131"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.3.8"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-131">
       <word id="1"
             form="οἱ"
             lemma="ὁ"
@@ -19768,7 +19768,7 @@
    <sentence id="132"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.3.10"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-132">
       <word id="1"
             form="Ἀλκιβιάδης"
             lemma="Ἀλκιβιάδης"
@@ -19864,7 +19864,7 @@
    <sentence id="133"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.3.10"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-133">
       <word id="1"
             form="ἐκείνην"
             lemma="ἐκεῖνος"
@@ -20016,7 +20016,7 @@
    <sentence id="134"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.3.11"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-134">
       <word id="1"
             form="Φαρνάβαζος"
             lemma="Φαρνάβαζος"
@@ -20147,7 +20147,7 @@
    <sentence id="135"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.3.11"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-135">
       <word id="1"
             form="ἐπειδὴ"
             lemma="ἐπεί"
@@ -20257,7 +20257,7 @@
    <sentence id="136"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.3.12"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-136">
       <word id="1"
             form="μετὰ"
             lemma="μετά"
@@ -20509,7 +20509,7 @@
    <sentence id="137"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.3.13"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-137">
       <word id="1"
             form="Φαρνάβαζος"
             lemma="Φαρνάβαζος"
@@ -20633,7 +20633,7 @@
    <sentence id="138"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.3.13"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-138">
       <word id="1"
             form="ἐπέμφθησαν"
             lemma="πέμπω"
@@ -20801,7 +20801,7 @@
    <sentence id="139"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.3.13"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-139">
       <word id="1"
             form="ἐπορεύοντο"
             lemma="πορεύω"
@@ -20997,7 +20997,7 @@
    <sentence id="140"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.3.14"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-140">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -21044,7 +21044,7 @@
    <sentence id="141"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.3.14"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-141">
       <word id="1"
             form="οἱ"
             lemma="ὁ"
@@ -21168,7 +21168,7 @@
    <sentence id="142"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.3.15"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-142">
       <word id="1"
             form="ἐν"
             lemma="ἐν"
@@ -21413,7 +21413,7 @@
    <sentence id="143"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.3.16"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-143">
       <word id="1"
             form="οἱ"
             lemma="ὁ"
@@ -21544,7 +21544,7 @@
    <sentence id="144"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.3.17"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-144">
       <word id="1"
             form="Κλέαρχος"
             lemma="Κλέαρχος"
@@ -22186,7 +22186,7 @@
    <sentence id="145"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.3.18"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-145">
       <word id="1"
             form="ἐπεὶ"
             lemma="ἐπεί"
@@ -22820,7 +22820,7 @@
    <sentence id="146"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.3.20"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-146">
       <word id="1"
             form="ἐπεὶ"
             lemma="ἐπεί"
@@ -22972,7 +22972,7 @@
    <sentence id="147"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.3.21"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-147">
       <word id="1"
             form="ὁ"
             lemma="ὁ"
@@ -23089,7 +23089,7 @@
    <sentence id="148"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.3.21"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-148">
       <word id="1"
             form="ἐπεὶ"
             lemma="ἐπεί"
@@ -23213,7 +23213,7 @@
    <sentence id="149"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.3.22"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-149">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -23379,7 +23379,7 @@
    <sentence id="150"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.4.1"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-150">
       <word id="1"
             form="Φαρνάβαζος"
             lemma="Φαρνάβαζος"
@@ -23517,7 +23517,7 @@
    <sentence id="151"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.4.2"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-151">
       <word id="1"
             form="ἀρχομένου"
             lemma="ἄρχω"
@@ -23993,7 +23993,7 @@
    <sentence id="152"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.4.3"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-152">
       <word id="1"
             form="Καταπέμπω"
             lemma="καταπέμπω"
@@ -24054,7 +24054,7 @@
    <sentence id="153"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.4.3"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-153">
       <word id="1"
             form="τὸ"
             lemma="ὁ"
@@ -24101,7 +24101,7 @@
    <sentence id="154"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.4.4"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-154">
       <word id="1"
             form="ταῦτʼ"
             lemma="οὗτος"
@@ -24304,7 +24304,7 @@
    <sentence id="155"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.4.5"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-155">
       <word id="1"
             form="Κῦρος"
             lemma="Κῦρος"
@@ -24470,7 +24470,7 @@
    <sentence id="156"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.4.6"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-156">
       <word id="1"
             form="Φαρνάβαζος"
             lemma="Φαρνάβαζος"
@@ -24650,7 +24650,7 @@
    <sentence id="157"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.4.7"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-157">
       <word id="1"
             form="ἐπειδὴ"
             lemma="ἐπεί"
@@ -24832,7 +24832,7 @@
    <sentence id="158"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.4.7"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-158">
       <word id="1"
             form="πέμψαντες"
             lemma="πέμπω"
@@ -24886,7 +24886,7 @@
    <sentence id="159"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.4.7"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-159">
       <word id="1"
             form="ὁ"
             lemma="ὁ"
@@ -24996,7 +24996,7 @@
    <sentence id="160"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.4.8"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-160">
       <word id="1"
             form="Ἀλκιβιάδης"
             lemma="Ἀλκιβιάδης"
@@ -25099,7 +25099,7 @@
    <sentence id="161"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.4.8"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-161">
       <word id="1"
             form="ἐκεῖθεν"
             lemma="ἐκεῖθεν"
@@ -25202,7 +25202,7 @@
    <sentence id="162"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.4.9"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-162">
       <word id="1"
             form="ἐκεῖθεν"
             lemma="ἐκεῖθεν"
@@ -25277,7 +25277,7 @@
    <sentence id="163"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.4.9"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-163">
       <word id="1"
             form="Θρασύβουλος"
             lemma="Θρασύβουλος"
@@ -25520,7 +25520,7 @@
    <sentence id="164"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.4.10"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-164">
       <word id="1"
             form="Θράσυλλος"
             lemma="Θράσυλλος"
@@ -25595,7 +25595,7 @@
    <sentence id="165"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.4.10"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-165">
       <word id="1"
             form="πρὶν"
             lemma="πρὶν"
@@ -25772,7 +25772,7 @@
    <sentence id="166"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.4.11"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-166">
       <word id="1"
             form="Ἀλκιβιάδης"
             lemma="Ἀλκιβιάδης"
@@ -26071,7 +26071,7 @@
    <sentence id="167"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.4.12"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-167">
       <word id="1"
             form="ἐπεὶ"
             lemma="ἐπεί"
@@ -26384,7 +26384,7 @@
    <sentence id="168"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.4.12"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-168">
       <word id="1"
             form="Ἀθηναίων"
             lemma="Ἀθήναιος"
@@ -26487,7 +26487,7 @@
    <sentence id="169"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.4.13"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-169">
       <word id="1"
             form="καταπλέοντος"
             lemma="καταπλέω"
@@ -27031,7 +27031,7 @@
    <sentence id="170"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.4.14"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-170">
       <word id="1"
             form="ἐθέλοντος"
             lemma="ἐθέλω"
@@ -27232,7 +27232,7 @@
    <sentence id="171"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.4.15"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-171">
       <word id="1"
             form="ἐν"
             lemma="ἐν"
@@ -27370,7 +27370,7 @@
    <sentence id="172"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.4.15"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-172">
       <word id="1"
             form="τοὺς"
             lemma="ὁ"
@@ -27522,7 +27522,7 @@
    <sentence id="173"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.4.16"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-173">
       <word id="1"
             form="οὐκ"
             lemma="οὐ"
@@ -27632,7 +27632,7 @@
    <sentence id="174"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.4.16"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-174">
       <word id="1"
             form="ὑπάρχειν"
             lemma="ὑπάρχω"
@@ -28058,7 +28058,7 @@
    <sentence id="175"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.4.17"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-175">
       <word id="1"
             form="οἱ"
             lemma="ὁ"
@@ -28240,7 +28240,7 @@
    <sentence id="176"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.4.18"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-176">
       <word id="1"
             form="Ἀλκιβιάδης"
             lemma="Ἀλκιβιάδης"
@@ -28350,7 +28350,7 @@
    <sentence id="177"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.4.18"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-177">
       <word id="1"
             form="ἐπαναστὰς"
             lemma="ἐπανίστημι"
@@ -28446,7 +28446,7 @@
    <sentence id="178"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.4.19"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-178">
       <word id="1"
             form="κατιδὼν"
             lemma="κατεῖδον"
@@ -28710,7 +28710,7 @@
    <sentence id="179"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.4.20"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-179">
       <word id="1"
             form="ἐν"
             lemma="ἐν"
@@ -29205,7 +29205,7 @@
    <sentence id="180"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.4.21"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-180">
       <word id="1"
             form="μετὰ"
             lemma="μετά"
@@ -29364,7 +29364,7 @@
    <sentence id="181"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.4.21"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-181">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -29558,7 +29558,7 @@
    <sentence id="182"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.4.22"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-182">
       <word id="1"
             form="Ἀλκιβιάδης"
             lemma="Ἀλκιβιάδης"
@@ -29640,7 +29640,7 @@
    <sentence id="183"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.4.22"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-183">
       <word id="1"
             form="ἐκβοηθήσαντας"
             lemma="ἐκβοηθέω"
@@ -29806,7 +29806,7 @@
    <sentence id="184"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.4.23"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-184">
       <word id="1"
             form="Ἀλκιβιάδης"
             lemma="Ἀλκιβιάδης"
@@ -29944,7 +29944,7 @@
    <sentence id="1"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.5.1"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-185">
       <word id="1"
             form="οἱ"
             lemma="ὁ"
@@ -30061,7 +30061,7 @@
    <sentence id="2"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.5.1"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-186">
       <word id="1"
             form="ὁ"
             lemma="ὁ"
@@ -30304,7 +30304,7 @@
    <sentence id="3"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.5.2"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-187">
       <word id="1"
             form="ἐπεὶ"
             lemma="ἐπεί"
@@ -30400,7 +30400,7 @@
    <sentence id="4"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.5.2"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-188">
       <word id="1"
             form="ἐνταῦθα"
             lemma="ἐνταῦθα"
@@ -30559,7 +30559,7 @@
    <sentence id="5"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.5.3"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-189">
       <word id="1"
             form="Κῦρος"
             lemma="Κῦρος"
@@ -30690,7 +30690,7 @@
    <sentence id="6"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.5.3"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-190">
       <word id="1"
             form="ἔχων"
             lemma="ἔχω"
@@ -30746,7 +30746,7 @@
    <sentence id="7"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.5.3"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-191">
       <word id="1"
             form="ἐὰν"
             lemma="ἐάν"
@@ -30863,7 +30863,7 @@
    <sentence id="8"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.5.3"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-192">
       <word id="1"
             form="ἐὰν"
             lemma="ἐάν"
@@ -31012,7 +31012,7 @@
    <sentence id="9"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.5.4"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-193">
       <word id="1"
             form="οἱ"
             lemma="ὁ"
@@ -31269,7 +31269,7 @@
    <sentence id="10"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.5.5"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-194">
       <word id="1"
             form="ὁ"
             lemma="ὁ"
@@ -31414,7 +31414,7 @@
    <sentence id="11"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.5.5"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-195">
       <word id="1"
             form="εἶναι"
             lemma="εἰμί"
@@ -31582,7 +31582,7 @@
    <sentence id="12"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.5.6"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-196">
       <word id="1"
             form="ὁ"
             lemma="ὁ"
@@ -31636,7 +31636,7 @@
    <sentence id="13"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.5.6"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-197">
       <word id="1"
             form="μετὰ"
             lemma="μετά"
@@ -31837,7 +31837,7 @@
    <sentence id="14"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.5.7"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-198">
       <word id="1"
             form="ἐκ"
             lemma="ἐκ"
@@ -31942,7 +31942,7 @@
    <sentence id="15"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.5.7"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-199">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -32066,7 +32066,7 @@
    <sentence id="16"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.5.8"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-200">
       <word id="1"
             form="οἱ"
             lemma="ὁ"
@@ -32197,7 +32197,7 @@
    <sentence id="17"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.5.9"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-201">
       <word id="1"
             form="ὁ"
             lemma="ὁ"
@@ -32456,7 +32456,7 @@
    <sentence id="18"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.5.10"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-202">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -32650,7 +32650,7 @@
    <sentence id="19"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.5.11"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-203">
       <word id="1"
             form="Ἀλκιβιάδης"
             lemma="Ἀλκιβιάδης"
@@ -32872,7 +32872,7 @@
    <sentence id="20"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.5.12"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-204">
       <word id="1"
             form="ὁ"
             lemma="ὁ"
@@ -33059,7 +33059,7 @@
    <sentence id="21"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.5.13"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-205">
       <word id="1"
             form="ὁ"
             lemma="ὁ"
@@ -33274,7 +33274,7 @@
    <sentence id="22"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.5.13"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-206">
       <word id="1"
             form="μετὰ"
             lemma="μετά"
@@ -33412,7 +33412,7 @@
    <sentence id="23"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.5.14"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-207">
       <word id="1"
             form="ἐκ"
             lemma="ἐκ"
@@ -33587,7 +33587,7 @@
    <sentence id="24"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.5.14"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-208">
       <word id="1"
             form="τῶν"
             lemma="ὁ"
@@ -33676,7 +33676,7 @@
    <sentence id="25"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.5.14"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-209">
       <word id="1"
             form="Λύσανδρος"
             lemma="Λύσανδρος"
@@ -33844,7 +33844,7 @@
    <sentence id="26"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.5.15"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-210">
       <word id="1"
             form="μετὰ"
             lemma="μετά"
@@ -34045,7 +34045,7 @@
    <sentence id="27"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.5.15"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-211">
       <word id="1"
             form="ἐπειδὴ"
             lemma="ἐπεί"
@@ -34155,7 +34155,7 @@
    <sentence id="28"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.5.15"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-212">
       <word id="1"
             form="Λακεδαιμόνιοι"
             lemma="Λακεδαιμόνιος"
@@ -34223,7 +34223,7 @@
    <sentence id="29"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.5.16"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-213">
       <word id="1"
             form="οἱ"
             lemma="ὁ"
@@ -34592,7 +34592,7 @@
    <sentence id="30"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.5.17"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-214">
       <word id="1"
             form="Ἀλκιβιάδης"
             lemma="Ἀλκιβιάδης"
@@ -34744,7 +34744,7 @@
    <sentence id="31"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.5.18"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-215">
       <word id="1"
             form="μετὰ"
             lemma="μετά"
@@ -34896,7 +34896,7 @@
    <sentence id="32"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.5.18"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-216">
       <word id="1"
             form="ἀντὶ"
             lemma="ἀντί"
@@ -34985,7 +34985,7 @@
    <sentence id="33"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.5.19"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-217">
       <word id="1"
             form="οὗτος"
             lemma="οὗτος"
@@ -35053,7 +35053,7 @@
    <sentence id="34"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.5.19"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-218">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -35389,7 +35389,7 @@
    <sentence id="35"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.5.20"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-219">
       <word id="1"
             form="Κόνων"
             lemma="Κόνων"
@@ -35704,7 +35704,7 @@
    <sentence id="36"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.5.21"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-220">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -35940,7 +35940,7 @@
    <sentence id="37"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.1"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-221">
       <word id="1"
             form="τῷ"
             lemma="ὁ"
@@ -36311,7 +36311,7 @@
    <sentence id="38"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.2"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-222">
       <word id="1"
             form="ὅτε"
             lemma="ὅτε"
@@ -36458,7 +36458,7 @@
    <sentence id="39"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.2"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-223">
       <word id="1"
             form="ὁ"
             lemma="ὁ"
@@ -36659,7 +36659,7 @@
    <sentence id="40"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.3"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-224">
       <word id="1"
             form="οὐ"
             lemma="οὐ"
@@ -36881,7 +36881,7 @@
    <sentence id="41"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.3"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-225">
       <word id="1"
             form="ταύτας"
             lemma="οὗτος"
@@ -36998,7 +36998,7 @@
    <sentence id="42"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.4"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-226">
       <word id="1"
             form="καταμαθὼν"
             lemma="καταμανθάνω"
@@ -37523,7 +37523,7 @@
    <sentence id="43"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.5"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-227">
       <word id="1"
             form="ἐμοὶ"
             lemma="ἐγώ"
@@ -37735,7 +37735,7 @@
    <sentence id="44"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.5"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-228">
       <word id="1"
             form="ἐγὼ"
             lemma="ἐγώ"
@@ -37903,7 +37903,7 @@
    <sentence id="45"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.5"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-229">
       <word id="1"
             form="ὑμεῖς"
             lemma="σύ"
@@ -38197,7 +38197,7 @@
    <sentence id="46"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.6"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-230">
       <word id="1"
             form="οὐδενὸς"
             lemma="οὐδείς"
@@ -38379,7 +38379,7 @@
    <sentence id="47"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.6"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-231">
       <word id="1"
             form="ὁ"
             lemma="ὁ"
@@ -38440,7 +38440,7 @@
    <sentence id="48"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.7"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-232">
       <word id="1"
             form="Καλλικρατίδας"
             lemma="Καλλικρατίδας"
@@ -38767,7 +38767,7 @@
    <sentence id="49"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.8"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-233">
       <word id="1"
             form="κ-"
             lemma="καί"
@@ -38884,7 +38884,7 @@
    <sentence id="50"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.8"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-234">
       <word id="1"
             form="ἐμοὶ"
             lemma="ἐγώ"
@@ -38982,7 +38982,7 @@
    <sentence id="51"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.8"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-235">
       <word id="1"
             form="ὑμᾶς"
             lemma="σύ"
@@ -39134,7 +39134,7 @@
    <sentence id="52"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.9"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-236">
       <word id="1"
             form="δεῖ"
             lemma="δεῖ"
@@ -39433,7 +39433,7 @@
    <sentence id="53"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.10"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-237">
       <word id="1"
             form="Κῦρος"
             lemma="Κῦρος"
@@ -39599,7 +39599,7 @@
    <sentence id="54"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.11"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-238">
       <word id="1"
             form="ὑπισχνοῦμαι"
             lemma="ὑπισχνέομαι"
@@ -39737,7 +39737,7 @@
    <sentence id="55"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.11"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-239">
       <word id="1"
             form="ἀλλὰ"
             lemma="ἀλλά"
@@ -39868,7 +39868,7 @@
    <sentence id="56"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.12"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-240">
       <word id="1"
             form="ἐπεὶ"
             lemma="ἐπεί"
@@ -40029,7 +40029,7 @@
    <sentence id="57"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.12"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-241">
       <word id="1"
             form="λαβὼν"
             lemma="λαμβάνω"
@@ -40174,7 +40174,7 @@
    <sentence id="58"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.13"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-242">
       <word id="1"
             form="οὐ"
             lemma="οὐ"
@@ -40361,7 +40361,7 @@
    <sentence id="59"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.14"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-243">
       <word id="1"
             form="τὰ"
             lemma="ὁ"
@@ -40660,7 +40660,7 @@
    <sentence id="60"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.15"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-244">
       <word id="1"
             form="τῇ"
             lemma="ὁ"
@@ -40812,7 +40812,7 @@
    <sentence id="61"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.15"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-245">
       <word id="1"
             form="Κόνωνι"
             lemma="Κόνων"
@@ -40887,7 +40887,7 @@
    <sentence id="62"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.15"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-246">
       <word id="1"
             form="κατιδὼν"
             lemma="κατεῖδον"
@@ -41032,7 +41032,7 @@
    <sentence id="63"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.16"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-247">
       <word id="1"
             form="Κόνων"
             lemma="Κόνων"
@@ -41291,7 +41291,7 @@
    <sentence id="64"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.16"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-248">
       <word id="1"
             form="Καλλικρατίδας"
             lemma="Καλλικρατίδας"
@@ -41387,7 +41387,7 @@
    <sentence id="65"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.17"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-249">
       <word id="1"
             form="Κόνων"
             lemma="Κόνων"
@@ -41532,7 +41532,7 @@
    <sentence id="66"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.17"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-250">
       <word id="1"
             form="οἱ"
             lemma="ὁ"
@@ -41593,7 +41593,7 @@
    <sentence id="67"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.17"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-251">
       <word id="1"
             form="τὰς"
             lemma="ὁ"
@@ -41696,7 +41696,7 @@
    <sentence id="68"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.18"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-252">
       <word id="1"
             form="Καλλικρατίδας"
             lemma="Καλλικρατίδας"
@@ -41792,7 +41792,7 @@
    <sentence id="69"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.18"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-253">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -41911,7 +41911,7 @@
    <sentence id="70"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.18"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-254">
       <word id="1"
             form="χρήματά"
             lemma="χρῆμα"
@@ -41965,7 +41965,7 @@
    <sentence id="71"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.19"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-255">
       <word id="1"
             form="ὁ"
             lemma="ὁ"
@@ -42446,7 +42446,7 @@
    <sentence id="72"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.20"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-256">
       <word id="1"
             form="τὴν"
             lemma="ὁ"
@@ -42640,7 +42640,7 @@
    <sentence id="73"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.20"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-257">
       <word id="1"
             form="πέμπτῃ"
             lemma="πέμπτος"
@@ -42927,7 +42927,7 @@
    <sentence id="74"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.21"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-258">
       <word id="1"
             form="τῶν"
             lemma="ὁ"
@@ -43086,7 +43086,7 @@
    <sentence id="75"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.21"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-259">
       <word id="1"
             form="εἰσβάντες"
             lemma="εἰσβαίνω"
@@ -43287,7 +43287,7 @@
    <sentence id="76"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.22"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-260">
       <word id="1"
             form="ἡ"
             lemma="ὁ"
@@ -43418,7 +43418,7 @@
    <sentence id="77"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.22"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-261">
       <word id="1"
             form="Διομέδων"
             lemma="Διομέδων"
@@ -43528,7 +43528,7 @@
    <sentence id="78"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.23"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-262">
       <word id="1"
             form="ὁ"
             lemma="ὁ"
@@ -43680,7 +43680,7 @@
    <sentence id="79"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.24"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-263">
       <word id="1"
             form="οἱ"
             lemma="ὁ"
@@ -43895,7 +43895,7 @@
    <sentence id="80"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.24"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-264">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -43977,7 +43977,7 @@
    <sentence id="81"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.24"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-265">
       <word id="1"
             form="εἰσέβησαν"
             lemma="εἰσβαίνω"
@@ -44031,7 +44031,7 @@
    <sentence id="82"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.25"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-266">
       <word id="1"
             form="μετὰ"
             lemma="μετά"
@@ -44127,7 +44127,7 @@
    <sentence id="83"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.25"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-267">
       <word id="1"
             form="ἥθροισαν"
             lemma="ἀθροίζω"
@@ -44332,7 +44332,7 @@
    <sentence id="84"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.25"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-268">
       <word id="1"
             form="ἐγένοντο"
             lemma="γίγνομαι"
@@ -44416,7 +44416,7 @@
    <sentence id="85"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.26"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-269">
       <word id="1"
             form="ὁ"
             lemma="ὁ"
@@ -44680,7 +44680,7 @@
    <sentence id="86"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.27"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-270">
       <word id="1"
             form="τῇ"
             lemma="ὁ"
@@ -44776,7 +44776,7 @@
    <sentence id="87"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.27"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-271">
       <word id="1"
             form="αὗται"
             lemma="οὗτος"
@@ -44879,7 +44879,7 @@
    <sentence id="88"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.28"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-272">
       <word id="1"
             form="τῆς"
             lemma="ὁ"
@@ -45059,7 +45059,7 @@
    <sentence id="89"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.28"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-273">
       <word id="1"
             form="ὕδωρ"
             lemma="ὕδωρ"
@@ -45134,7 +45134,7 @@
    <sentence id="90"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.28"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-274">
       <word id="1"
             form="ἐπεὶ"
             lemma="ἐπεί"
@@ -45223,7 +45223,7 @@
    <sentence id="91"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.29"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-275">
       <word id="1"
             form="οἱ"
             lemma="ὁ"
@@ -45319,7 +45319,7 @@
    <sentence id="92"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.29"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-276">
       <word id="1"
             form="Ἀριστοκράτης"
             lemma="Ἀριστοκράτης"
@@ -45445,7 +45445,7 @@
    <sentence id="93"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.29"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-277">
       <word id="1"
             form="ἐπετέτακτο"
             lemma="ἐπιτάσσω"
@@ -45529,7 +45529,7 @@
    <sentence id="94"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.29"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-278">
       <word id="1"
             form="παρὰ"
             lemma="παρά"
@@ -45620,7 +45620,7 @@
    <sentence id="95"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.29"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-279">
       <word id="1"
             form="ἐστρατήγει"
             lemma="στρατηγέω"
@@ -45674,7 +45674,7 @@
    <sentence id="96"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.29"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-280">
       <word id="1"
             form="ἐχόμεναι"
             lemma="ἔχω"
@@ -45781,7 +45781,7 @@
    <sentence id="97"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.29"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-281">
       <word id="1"
             form="ἐπὶ"
             lemma="ἐπί"
@@ -45900,7 +45900,7 @@
    <sentence id="98"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.30"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-282">
       <word id="1"
             form="τὸ"
             lemma="ὁ"
@@ -45968,7 +45968,7 @@
    <sentence id="99"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.30"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-283">
       <word id="1"
             form="παρὰ"
             lemma="παρά"
@@ -46031,7 +46031,7 @@
    <sentence id="100"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.30"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-284">
       <word id="1"
             form="ἐπετέτακτο"
             lemma="ἐπιτάσσω"
@@ -46150,7 +46150,7 @@
    <sentence id="101"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.31"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-285">
       <word id="1"
             form="οὕτω"
             lemma="οὕτως"
@@ -46218,7 +46218,7 @@
    <sentence id="102"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.31"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-286">
       <word id="1"
             form="χεῖρον"
             lemma="χείρων"
@@ -46251,7 +46251,7 @@
    <sentence id="103"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.31"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-287">
       <word id="1"
             form="αἱ"
             lemma="ὁ"
@@ -46403,7 +46403,7 @@
    <sentence id="104"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.31"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-288">
       <word id="1"
             form="εἶχε"
             lemma="ἔχω"
@@ -46457,7 +46457,7 @@
    <sentence id="105"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.32"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-289">
       <word id="1"
             form="Ἕρμων"
             lemma="Ἕρμων"
@@ -46574,7 +46574,7 @@
    <sentence id="106"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.32"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-290">
       <word id="1"
             form="αἱ"
             lemma="ὁ"
@@ -46642,7 +46642,7 @@
    <sentence id="107"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.32"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-291">
       <word id="1"
             form="Καλλικρατίδας"
             lemma="Καλλικρατίδας"
@@ -46794,7 +46794,7 @@
    <sentence id="108"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.33"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-292">
       <word id="1"
             form="μετὰ"
             lemma="μετά"
@@ -46913,7 +46913,7 @@
    <sentence id="109"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.33"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-293">
       <word id="1"
             form="ἐπεὶ"
             lemma="ἐπεί"
@@ -47202,7 +47202,7 @@
    <sentence id="110"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.33"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-294">
       <word id="1"
             form="οἱ"
             lemma="ὁ"
@@ -47270,7 +47270,7 @@
    <sentence id="111"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.34"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-295">
       <word id="1"
             form="ἀπώλοντο"
             lemma="ἀπόλλυμι"
@@ -47568,7 +47568,7 @@
    <sentence id="112"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.35"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-296">
       <word id="1"
             form="ἔδοξε"
             lemma="δοκέω"
@@ -47890,7 +47890,7 @@
    <sentence id="113"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.35"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-297">
       <word id="1"
             form="ταῦτα"
             lemma="οὗτος"
@@ -47979,7 +47979,7 @@
    <sentence id="114"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.35"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-298">
       <word id="1"
             form="τροπαῖον"
             lemma="τροπαῖον"
@@ -48026,7 +48026,7 @@
    <sentence id="115"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.36"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-299">
       <word id="1"
             form="τῷ"
             lemma="ὁ"
@@ -48122,7 +48122,7 @@
    <sentence id="116"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.36"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-300">
       <word id="1"
             form="ὁ"
             lemma="ὁ"
@@ -48393,7 +48393,7 @@
    <sentence id="117"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.37"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-301">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -48440,7 +48440,7 @@
    <sentence id="118"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.37"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-302">
       <word id="1"
             form="αὐτὸς"
             lemma="αὐτός"
@@ -48773,7 +48773,7 @@
    <sentence id="119"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.38"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-303">
       <word id="1"
             form="αὐτὸς"
             lemma="αὐτός"
@@ -48869,7 +48869,7 @@
    <sentence id="120"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.38"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-304">
       <word id="1"
             form="Κόνων"
             lemma="Κόνων"
@@ -49091,7 +49091,7 @@
    <sentence id="121"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.6.38"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-305">
       <word id="1"
             form="οἱ"
             lemma="ὁ"
@@ -49250,7 +49250,7 @@
    <sentence id="122"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.1"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-306">
       <word id="1"
             form="οἱ"
             lemma="ὁ"
@@ -49339,7 +49339,7 @@
    <sentence id="123"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.1"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-307">
       <word id="1"
             form="πρὸς"
             lemma="πρός"
@@ -49407,7 +49407,7 @@
    <sentence id="124"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.2"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-308">
       <word id="1"
             form="τῶν"
             lemma="ὁ"
@@ -49825,7 +49825,7 @@
    <sentence id="125"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.2"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-309">
       <word id="1"
             form="κατηγόρει"
             lemma="κατηγορέω"
@@ -49879,7 +49879,7 @@
    <sentence id="126"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.2"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-310">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -49940,7 +49940,7 @@
    <sentence id="127"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.3"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-311">
       <word id="1"
             form="μετὰ"
             lemma="μετά"
@@ -50078,7 +50078,7 @@
    <sentence id="128"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.3"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-312">
       <word id="1"
             form="Τιμοκράτους"
             lemma="Τιμοκράτης"
@@ -50209,7 +50209,7 @@
    <sentence id="129"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.4"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-313">
       <word id="1"
             form="μετὰ"
             lemma="μετά"
@@ -50403,7 +50403,7 @@
    <sentence id="130"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.4"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-314">
       <word id="1"
             form="ὅτι"
             lemma="ὅτι2"
@@ -50620,7 +50620,7 @@
    <sentence id="131"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.5"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-315">
       <word id="1"
             form="μετὰ"
             lemma="μετά"
@@ -50996,7 +50996,7 @@
    <sentence id="132"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.6"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-316">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -51152,7 +51152,7 @@
    <sentence id="133"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.6"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-317">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -51339,7 +51339,7 @@
    <sentence id="134"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.6"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-318">
       <word id="1"
             form="τούτων"
             lemma="οὗτος"
@@ -51428,7 +51428,7 @@
    <sentence id="135"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.6"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-319">
       <word id="1"
             form="τοιαῦτα"
             lemma="τοιοῦτος"
@@ -51475,7 +51475,7 @@
    <sentence id="136"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.7"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-320">
       <word id="1"
             form="ἐβούλοντο"
             lemma="βούλομαι"
@@ -51536,7 +51536,7 @@
    <sentence id="137"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.7"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-321">
       <word id="1"
             form="ἔδοξε"
             lemma="δοκέω"
@@ -51751,7 +51751,7 @@
    <sentence id="138"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.8"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-322">
       <word id="1"
             form="μετὰ"
             lemma="μετά"
@@ -51882,7 +51882,7 @@
    <sentence id="139"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.8"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-323">
       <word id="1"
             form="οἱ"
             lemma="ὁ"
@@ -52188,7 +52188,7 @@
    <sentence id="140"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.9"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-324">
       <word id="1"
             form="ἐντεῦθεν"
             lemma="ἐντεῦθεν"
@@ -52305,7 +52305,7 @@
    <sentence id="141"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.9"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-325">
       <word id="1"
             form="ἐπειδὴ"
             lemma="ἐπεί"
@@ -52473,7 +52473,7 @@
    <sentence id="142"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.9"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-326">
       <word id="1"
             form="θεῖναι"
             lemma="τίθημι"
@@ -52550,7 +52550,7 @@
    <sentence id="143"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.9"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-327">
       <word id="1"
             form="ἐφʼ"
             lemma="ἐπί"
@@ -52838,7 +52838,7 @@
    <sentence id="144"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.10"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-328">
       <word id="1"
             form="ἂν"
             lemma="ἐάν"
@@ -53013,7 +53013,7 @@
    <sentence id="145"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.11"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-329">
       <word id="1"
             form="παρῆλθε"
             lemma="παρέρχομαι"
@@ -53102,7 +53102,7 @@
    <sentence id="146"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.11"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-330">
       <word id="1"
             form="ἐπιστέλλειν"
             lemma="ἐπιστέλλω"
@@ -53284,7 +53284,7 @@
    <sentence id="147"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.12"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-331">
       <word id="1"
             form="τὸν"
             lemma="ὁ"
@@ -53394,7 +53394,7 @@
    <sentence id="148"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.12"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-332">
       <word id="1"
             form="τοῦ"
             lemma="ὁ"
@@ -53567,7 +53567,7 @@
    <sentence id="149"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.13"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-333">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -53812,7 +53812,7 @@
    <sentence id="150"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.14"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-334">
       <word id="1"
             form="τῶν"
             lemma="ὁ"
@@ -53964,7 +53964,7 @@
    <sentence id="151"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.15"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-335">
       <word id="1"
             form="οἱ"
             lemma="ὁ"
@@ -54025,7 +54025,7 @@
    <sentence id="152"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.15"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-336">
       <word id="1"
             form="οἱ"
             lemma="ὁ"
@@ -54114,7 +54114,7 @@
    <sentence id="153"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.15"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-337">
       <word id="1"
             form="οὗτος"
             lemma="οὗτος"
@@ -54205,7 +54205,7 @@
    <sentence id="154"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.16"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-338">
       <word id="1"
             form="μετὰ"
             lemma="μετά"
@@ -54287,7 +54287,7 @@
    <sentence id="155"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.16"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-339">
       <word id="1"
             form="τὰ"
             lemma="ὁ"
@@ -54544,7 +54544,7 @@
    <sentence id="156"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.17"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-340">
       <word id="1"
             form="κατηγορῶ"
             lemma="κατηγορέω"
@@ -54794,7 +54794,7 @@
    <sentence id="157"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.18"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-341">
       <word id="1"
             form="εἶτα"
             lemma="εἶτα"
@@ -54981,7 +54981,7 @@
    <sentence id="158"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.19"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-342">
       <word id="1"
             form="οὔκ"
             lemma="οὐ"
@@ -55240,7 +55240,7 @@
    <sentence id="159"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.19"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-343">
       <word id="1"
             form="συμβουλεύω"
             lemma="συμβουλεύω"
@@ -55669,7 +55669,7 @@
    <sentence id="160"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.20"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-344">
       <word id="1"
             form="ἴστε"
             lemma="οἶδα"
@@ -56059,7 +56059,7 @@
    <sentence id="161"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.21"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-345">
       <word id="1"
             form="κατὰ"
             lemma="κατά"
@@ -56234,7 +56234,7 @@
    <sentence id="162"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.21"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-346">
       <word id="1"
             form="αἰσχρὸν"
             lemma="αἰσχρός"
@@ -56339,7 +56339,7 @@
    <sentence id="163"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.22"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-347">
       <word id="1"
             form="τοῦτο"
             lemma="οὗτος"
@@ -56694,7 +56694,7 @@
    <sentence id="164"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.23"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-348">
       <word id="1"
             form="τούτων"
             lemma="οὗτος"
@@ -57083,7 +57083,7 @@
    <sentence id="165"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.24"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-349">
       <word id="1"
             form="τούτων"
             lemma="οὗτος"
@@ -57277,7 +57277,7 @@
    <sentence id="166"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.25"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-350">
       <word id="1"
             form="ὑμεῖς"
             lemma="σύ"
@@ -57478,7 +57478,7 @@
    <sentence id="167"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.26"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-351">
       <word id="1"
             form="τί"
             lemma="τις"
@@ -57539,7 +57539,7 @@
    <sentence id="168"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.26"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-352">
       <word id="1"
             form="ἢ"
             lemma="ἤ1"
@@ -57823,7 +57823,7 @@
    <sentence id="169"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.27"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-353">
       <word id="1"
             form="ἀλλʼ"
             lemma="ἀλλά"
@@ -57940,7 +57940,7 @@
    <sentence id="170"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.27"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-354">
       <word id="1"
             form="†"
             lemma="punc1"
@@ -58078,7 +58078,7 @@
    <sentence id="171"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.28"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-355">
       <word id="1"
             form="δεινὰ"
             lemma="δεινός"
@@ -58461,7 +58461,7 @@
    <sentence id="172"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.29"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-356">
       <word id="1"
             form="μὴ"
             lemma="μή"
@@ -58655,7 +58655,7 @@
    <sentence id="173"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.29"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-357">
       <word id="1"
             form="ἐπανέλθετε"
             lemma="ἐπανέρχομαι"
@@ -58779,7 +58779,7 @@
    <sentence id="174"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.29"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-358">
       <word id="1"
             form="ἐπεὶ"
             lemma="ἐπεί"
@@ -59045,7 +59045,7 @@
    <sentence id="175"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.29"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-359">
       <word id="1"
             form="Θράσυλλος"
             lemma="Θράσυλλος"
@@ -59183,7 +59183,7 @@
    <sentence id="176"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.30"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-360">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -59533,7 +59533,7 @@
    <sentence id="177"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.31"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-361">
       <word id="1"
             form="τῶν"
             lemma="ὁ"
@@ -59678,7 +59678,7 @@
    <sentence id="178"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.31"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-362">
       <word id="1"
             form="ταῖς"
             lemma="ὁ"
@@ -59746,7 +59746,7 @@
    <sentence id="179"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.31"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-363">
       <word id="1"
             form="τί"
             lemma="τις"
@@ -59807,7 +59807,7 @@
    <sentence id="180"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.31"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-364">
       <word id="1"
             form="οὐκοῦν"
             lemma="οὐκοῦν"
@@ -60059,7 +60059,7 @@
    <sentence id="181"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.32"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-365">
       <word id="1"
             form="τοσοῦτον"
             lemma="τοσοῦτος"
@@ -60190,7 +60190,7 @@
    <sentence id="182"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.32"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-366">
       <word id="1"
             form="τούτων"
             lemma="οὗτος"
@@ -60486,7 +60486,7 @@
    <sentence id="183"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.33"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-367">
       <word id="1"
             form="μὴ"
             lemma="μή"
@@ -60813,7 +60813,7 @@
    <sentence id="184"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.33"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-368">
       <word id="1"
             form="ἀλλὰ"
             lemma="ἀλλά"
@@ -60925,7 +60925,7 @@
    <sentence id="185"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.34"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-369">
       <word id="1"
             form="ταῦτʼ"
             lemma="οὗτος"
@@ -61035,7 +61035,7 @@
    <sentence id="186"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.34"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-370">
       <word id="1"
             form="ἡ"
             lemma="ὁ"
@@ -61110,7 +61110,7 @@
    <sentence id="187"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.34"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-371">
       <word id="1"
             form="τούτων"
             lemma="οὗτος"
@@ -61185,7 +61185,7 @@
    <sentence id="188"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.34"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-372">
       <word id="1"
             form="ὑπομοσαμένου"
             lemma="ὑπόμνυμαι"
@@ -61274,7 +61274,7 @@
    <sentence id="189"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.34"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-373">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -61349,7 +61349,7 @@
    <sentence id="190"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.34"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-374">
       <word id="1"
             form="ἀπέθανον"
             lemma="ἀποθνήσκω"
@@ -61396,7 +61396,7 @@
    <sentence id="191"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.35"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-375">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -61646,7 +61646,7 @@
    <sentence id="192"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.35"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-376">
       <word id="1"
             form="προυβλήθησαν"
             lemma="προβάλλω"
@@ -61854,7 +61854,7 @@
    <sentence id="193"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.7.35"
-             span="">
+             span="Xenophon Hellenica Book 1 : s-377">
       <word id="1"
             form="Καλλίξενος"
             lemma="Καλλίξενος"

@@ -22,7 +22,7 @@
    <sentence id="1"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.1.1"
-             span="">
+             span="Polybius Book 9: s-1">
       <word id="1"
             form="αἱ"
             lemma="ὁ"
@@ -202,7 +202,7 @@
    <sentence id="2"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.1.1"
-             span="">
+             span="Polybius Book 9: s-2">
       <word id="1"
             form="περὶ"
             lemma="περί"
@@ -284,7 +284,7 @@
    <sentence id="3"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.1.2"
-             span="">
+             span="Polybius Book 9: s-3">
       <word id="1"
             form="οὐκ"
             lemma="οὐ"
@@ -464,7 +464,7 @@
    <sentence id="4"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.1.3"
-             span="">
+             span="Polybius Book 9: s-4">
       <word id="1"
             form="οἱ"
             lemma="ὁ"
@@ -699,7 +699,7 @@
    <sentence id="5"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.1.4"
-             span="">
+             span="Polybius Book 9: s-5">
       <word id="1"
             form="τὸν"
             lemma="ὁ"
@@ -1030,7 +1030,7 @@
    <sentence id="6"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.1.5"
-             span="">
+             span="Polybius Book 9: s-6">
       <word id="1"
             form="ἐφʼ"
             lemma="ἐπί"
@@ -1287,7 +1287,7 @@
    <sentence id="7"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.1.6"
-             span="">
+             span="Polybius Book 9: s-7">
       <word id="1"
             form="τίνος"
             lemma="τις"
@@ -1551,7 +1551,7 @@
    <sentence id="8"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.2.1"
-             span="">
+             span="Polybius Book 9: s-8">
       <word id="1"
             form="πολλῶν"
             lemma="πολύς"
@@ -2034,7 +2034,7 @@
    <sentence id="9"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.2.3"
-             span="">
+             span="Polybius Book 9: s-9">
       <word id="1"
             form="ταῦτα"
             lemma="οὗτος"
@@ -2109,7 +2109,7 @@
    <sentence id="10"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.2.4"
-             span="">
+             span="Polybius Book 9: s-10">
       <word id="1"
             form="ὁ"
             lemma="ὁ"
@@ -2643,7 +2643,7 @@
    <sentence id="11"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.2.6"
-             span="">
+             span="Polybius Book 9: s-11">
       <word id="1"
             form="διόπερ"
             lemma="διόπερ"
@@ -2825,7 +2825,7 @@
    <sentence id="12"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.2.7"
-             span="">
+             span="Polybius Book 9: s-12">
       <word id="1"
             form="περὶ"
             lemma="περί"
@@ -2942,7 +2942,7 @@
    <sentence id="13"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.3.1"
-             span="">
+             span="Polybius Book 9: s-13">
       <word id="1"
             form="Ἀννίβας"
             lemma="Ἀννίβας"
@@ -3087,7 +3087,7 @@
    <sentence id="14"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.3.2"
-             span="">
+             span="Polybius Book 9: s-14">
       <word id="1"
             form="οὐδενὸς"
             lemma="οὐδείς"
@@ -3344,7 +3344,7 @@
    <sentence id="15"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.3.3"
-             span="">
+             span="Polybius Book 9: s-15">
       <word id="1"
             form="οὐ"
             lemma="οὐ"
@@ -3643,7 +3643,7 @@
    <sentence id="16"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.3.4"
-             span="">
+             span="Polybius Book 9: s-16">
       <word id="1"
             form="Ἀννίβας"
             lemma="Ἀννίβας"
@@ -3837,7 +3837,7 @@
    <sentence id="17"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.3.5"
-             span="">
+             span="Polybius Book 9: s-17">
       <word id="1"
             form="ἐμοὶ"
             lemma="ἐγώ"
@@ -3989,7 +3989,7 @@
    <sentence id="18"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.3.6"
-             span="">
+             span="Polybius Book 9: s-18">
       <word id="1"
             form="τίς"
             lemma="τις"
@@ -4246,7 +4246,7 @@
    <sentence id="19"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.3.7"
-             span="">
+             span="Polybius Book 9: s-19">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -4559,7 +4559,7 @@
    <sentence id="20"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.3.8"
-             span="">
+             span="Polybius Book 9: s-20">
       <word id="1"
             form="Καρχηδόνιοί"
             lemma="Καρχηδόνιος"
@@ -4676,7 +4676,7 @@
    <sentence id="21"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.3.9"
-             span="">
+             span="Polybius Book 9: s-21">
       <word id="1"
             form="δοκεῖ"
             lemma="δοκέω"
@@ -4919,7 +4919,7 @@
    <sentence id="22"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.3.10"
-             span="">
+             span="Polybius Book 9: s-22">
       <word id="1"
             form="διόπερ"
             lemma="διόπερ"
@@ -5029,7 +5029,7 @@
    <sentence id="23"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.3.10"
-             span="">
+             span="Polybius Book 9: s-23">
       <word id="1"
             form="διὰ"
             lemma="διά"
@@ -5146,7 +5146,7 @@
    <sentence id="24"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.3.11"
-             span="">
+             span="Polybius Book 9: s-24">
       <word id="1"
             form="τά"
             lemma="ὁ"
@@ -5228,7 +5228,7 @@
    <sentence id="25"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.4.1"
-             span="">
+             span="Polybius Book 9: s-25">
       <word id="1"
             form="τὸ"
             lemma="ὁ"
@@ -5520,7 +5520,7 @@
    <sentence id="26"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.4.3"
-             span="">
+             span="Polybius Book 9: s-26">
       <word id="1"
             form="οἵ"
             lemma="ὁ"
@@ -5903,7 +5903,7 @@
    <sentence id="27"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.4.4"
-             span="">
+             span="Polybius Book 9: s-27">
       <word id="1"
             form="οὔ"
             lemma="οὐ"
@@ -6125,7 +6125,7 @@
    <sentence id="28"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.4.5"
-             span="">
+             span="Polybius Book 9: s-28">
       <word id="1"
             form="ἔτι"
             lemma="ἔτι"
@@ -6298,7 +6298,7 @@
    <sentence id="29"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.4.6"
-             span="">
+             span="Polybius Book 9: s-29">
       <word id="1"
             form="ἐξ"
             lemma="ἐκ"
@@ -6450,7 +6450,7 @@
    <sentence id="30"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.4.7"
-             span="">
+             span="Polybius Book 9: s-30">
       <word id="1"
             form="ὑπέλαβε"
             lemma="ὑπολαμβάνω"
@@ -6693,7 +6693,7 @@
    <sentence id="31"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.4.8"
-             span="">
+             span="Polybius Book 9: s-31">
       <word id="1"
             form="εἰ"
             lemma="εἰ"
@@ -6961,7 +6961,7 @@
    <sentence id="32"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.5.1"
-             span="">
+             span="Polybius Book 9: s-32">
       <word id="1"
             form="ἃ"
             lemma="ὅς"
@@ -7178,7 +7178,7 @@
    <sentence id="33"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.5.2"
-             span="">
+             span="Polybius Book 9: s-33">
       <word id="1"
             form="πάνυ"
             lemma="πάνυ"
@@ -7330,7 +7330,7 @@
    <sentence id="34"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.5.3"
-             span="">
+             span="Polybius Book 9: s-34">
       <word id="1"
             form="διὸ"
             lemma="διό"
@@ -7517,7 +7517,7 @@
    <sentence id="35"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.5.4"
-             span="">
+             span="Polybius Book 9: s-35">
       <word id="1"
             form="τοῖς"
             lemma="ὁ"
@@ -7774,7 +7774,7 @@
    <sentence id="36"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.5.5"
-             span="">
+             span="Polybius Book 9: s-36">
       <word id="1"
             form="διὸ"
             lemma="διό"
@@ -7891,7 +7891,7 @@
    <sentence id="37"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.5.6"
-             span="">
+             span="Polybius Book 9: s-37">
       <word id="1"
             form="οἱ"
             lemma="ὁ"
@@ -8092,7 +8092,7 @@
    <sentence id="38"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.5.6"
-             span="">
+             span="Polybius Book 9: s-38">
       <word id="1"
             form="Ἀννίβας"
             lemma="Ἀννίβας"
@@ -8286,7 +8286,7 @@
    <sentence id="39"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.5.8"
-             span="">
+             span="Polybius Book 9: s-39">
       <word id="1"
             form="χρησάμενος"
             lemma="χράω2"
@@ -8697,7 +8697,7 @@
    <sentence id="40"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.6.1"
-             span="">
+             span="Polybius Book 9: s-40">
       <word id="1"
             form="οὗ"
             lemma="ὅς"
@@ -9173,7 +9173,7 @@
    <sentence id="41"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.6.3"
-             span="">
+             span="Polybius Book 9: s-41">
       <word id="1"
             form="διόπερ"
             lemma="διόπερ"
@@ -9409,7 +9409,7 @@
    <sentence id="42"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.6.4"
-             span="">
+             span="Polybius Book 9: s-42">
       <word id="1"
             form="τοῦτο"
             lemma="οὗτος"
@@ -9519,7 +9519,7 @@
    <sentence id="43"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.6.5"
-             span="">
+             span="Polybius Book 9: s-43">
       <word id="1"
             form="ἄρτι"
             lemma="ἄρτι"
@@ -9727,7 +9727,7 @@
    <sentence id="44"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.6.6"
-             span="">
+             span="Polybius Book 9: s-44">
       <word id="1"
             form="οἱ"
             lemma="ὁ"
@@ -10019,7 +10019,7 @@
    <sentence id="45"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.6.7"
-             span="">
+             span="Polybius Book 9: s-45">
       <word id="1"
             form="ἐξ"
             lemma="ἐκ"
@@ -10129,7 +10129,7 @@
    <sentence id="46"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.6.7"
-             span="">
+             span="Polybius Book 9: s-46">
       <word id="1"
             form="οὓς"
             lemma="ὅς"
@@ -10260,7 +10260,7 @@
    <sentence id="47"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.6.8"
-             span="">
+             span="Polybius Book 9: s-47">
       <word id="1"
             form="οἱ"
             lemma="ὁ"
@@ -10391,7 +10391,7 @@
    <sentence id="48"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.6.8"
-             span="">
+             span="Polybius Book 9: s-48">
       <word id="1"
             form="συνθεασάμενοι"
             lemma="συνθεάομαι"
@@ -10620,7 +10620,7 @@
    <sentence id="49"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.6.9"
-             span="">
+             span="Polybius Book 9: s-49">
       <word id="1"
             form="τὰς"
             lemma="ὁ"
@@ -10814,7 +10814,7 @@
    <sentence id="50"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.7.1"
-             span="">
+             span="Polybius Book 9: s-50">
       <word id="1"
             form="μετὰ"
             lemma="μετά"
@@ -11360,7 +11360,7 @@
    <sentence id="51"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.7.3"
-             span="">
+             span="Polybius Book 9: s-51">
       <word id="1"
             form="ὧν"
             lemma="ὅς"
@@ -11491,7 +11491,7 @@
    <sentence id="52"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.7.4"
-             span="">
+             span="Polybius Book 9: s-52">
       <word id="1"
             form="οἱ"
             lemma="ὁ"
@@ -11727,7 +11727,7 @@
    <sentence id="53"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.7.5"
-             span="">
+             span="Polybius Book 9: s-53">
       <word id="1"
             form="ὁλοσχερὲς"
             lemma="ὁλοσχερής"
@@ -11872,7 +11872,7 @@
    <sentence id="54"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.1-9.20"
-             span="">
+             span="Polybius Book 9: s-54">
       <word id="1"
             form="τῆς"
             lemma="ὁ"
@@ -12143,7 +12143,7 @@
    <sentence id="55"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.7.7"
-             span="">
+             span="Polybius Book 9: s-55">
       <word id="1"
             form="Ἀννίβας"
             lemma="Ἀννίβας"
@@ -12232,7 +12232,7 @@
    <sentence id="56"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.7.7"
-             span="">
+             span="Polybius Book 9: s-56">
       <word id="1"
             form="μετὰ"
             lemma="μετά"
@@ -12524,7 +12524,7 @@
    <sentence id="57"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.7.9"
-             span="">
+             span="Polybius Book 9: s-57">
       <word id="1"
             form="τῆς"
             lemma="ὁ"
@@ -12984,7 +12984,7 @@
    <sentence id="58"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.8.1"
-             span="">
+             span="Polybius Book 9: s-58">
       <word id="1"
             form="δοκεῖ"
             lemma="δοκέω"
@@ -13150,7 +13150,7 @@
    <sentence id="59"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.8.2"
-             span="">
+             span="Polybius Book 9: s-59">
       <word id="1"
             form="καθάπερ"
             lemma="καθά"
@@ -13925,7 +13925,7 @@
    <sentence id="60"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.8.6"
-             span="">
+             span="Polybius Book 9: s-60">
       <word id="1"
             form="γενομένης"
             lemma="γίγνομαι"
@@ -14476,7 +14476,7 @@
    <sentence id="61"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.8.8"
-             span="">
+             span="Polybius Book 9: s-61">
       <word id="1"
             form="ὃ"
             lemma="ὅς"
@@ -14516,7 +14516,7 @@
    <sentence id="62"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.8.9"
-             span="">
+             span="Polybius Book 9: s-62">
       <word id="1"
             form="διὸ"
             lemma="διό"
@@ -14689,7 +14689,7 @@
    <sentence id="63"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.8.10"
-             span="">
+             span="Polybius Book 9: s-63">
       <word id="1"
             form="οἱ"
             lemma="ὁ"
@@ -14841,7 +14841,7 @@
    <sentence id="64"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.8.11"
-             span="">
+             span="Polybius Book 9: s-64">
       <word id="1"
             form="ἤδη"
             lemma="ἤδη"
@@ -15098,7 +15098,7 @@
    <sentence id="65"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.8.12"
-             span="">
+             span="Polybius Book 9: s-65">
       <word id="1"
             form="εἰς"
             lemma="εἰς"
@@ -15236,7 +15236,7 @@
    <sentence id="66"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.8.13"
-             span="">
+             span="Polybius Book 9: s-66">
       <word id="1"
             form="διόπερ"
             lemma="διόπερ"
@@ -15481,7 +15481,7 @@
    <sentence id="67"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.9.1"
-             span="">
+             span="Polybius Book 9: s-67">
       <word id="1"
             form="τὸ"
             lemma="ὁ"
@@ -15570,7 +15570,7 @@
    <sentence id="68"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.9.2"
-             span="">
+             span="Polybius Book 9: s-68">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -16254,7 +16254,7 @@
    <sentence id="69"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.9.6"
-             span="">
+             span="Polybius Book 9: s-69">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -16350,7 +16350,7 @@
    <sentence id="70"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.9.7"
-             span="">
+             span="Polybius Book 9: s-70">
       <word id="1"
             form="Λακεδαιμόνιοι"
             lemma="Λακεδαιμόνιος"
@@ -16502,7 +16502,7 @@
    <sentence id="71"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.9.8"
-             span="">
+             span="Polybius Book 9: s-71">
       <word id="1"
             form="Ῥωμαῖοι"
             lemma="Ῥωμαῖος"
@@ -16710,7 +16710,7 @@
    <sentence id="72"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.9.9"
-             span="">
+             span="Polybius Book 9: s-72">
       <word id="1"
             form="ταῦτα"
             lemma="οὗτος"
@@ -17359,7 +17359,7 @@
    <sentence id="73"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.9.10"
-             span="">
+             span="Polybius Book 9: s-73">
       <word id="1"
             form="Ἄτελλα"
             lemma="Ἀτελλα"
@@ -17443,7 +17443,7 @@
    <sentence id="74"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.9.10"
-             span="">
+             span="Polybius Book 9: s-74">
       <word id="1"
             form="τὸ"
             lemma="ὁ"
@@ -17543,7 +17543,7 @@
    <sentence id="75"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.9.11"
-             span="">
+             span="Polybius Book 9: s-75">
       <word id="1"
             form="τῶν"
             lemma="ὁ"
@@ -17823,7 +17823,7 @@
    <sentence id="76"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.9.11"
-             span="">
+             span="Polybius Book 9: s-76">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -17954,7 +17954,7 @@
    <sentence id="77"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.10.1"
-             span="">
+             span="Polybius Book 9: s-77">
       <word id="1"
             form="οὐκ"
             lemma="οὐ"
@@ -18057,7 +18057,7 @@
    <sentence id="78"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.10.2"
-             span="">
+             span="Polybius Book 9: s-78">
       <word id="1"
             form="ἐκρίθη"
             lemma="κρίνω"
@@ -18188,7 +18188,7 @@
    <sentence id="79"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.10.3"
-             span="">
+             span="Polybius Book 9: s-79">
       <word id="1"
             form="πότερα"
             lemma="πότερος"
@@ -18440,7 +18440,7 @@
    <sentence id="80"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.10.4"
-             span="">
+             span="Polybius Book 9: s-80">
       <word id="1"
             form="εἰ"
             lemma="εἰ"
@@ -18615,7 +18615,7 @@
    <sentence id="81"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.10.5"
-             span="">
+             span="Polybius Book 9: s-81">
       <word id="1"
             form="εἰ"
             lemma="εἰ"
@@ -18879,7 +18879,7 @@
    <sentence id="82"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.10.6"
-             span="">
+             span="Polybius Book 9: s-82">
       <word id="1"
             form="τὸ"
             lemma="ὁ"
@@ -19150,7 +19150,7 @@
    <sentence id="83"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.10.7"
-             span="">
+             span="Polybius Book 9: s-83">
       <word id="1"
             form="οὐ"
             lemma="οὐ"
@@ -19337,7 +19337,7 @@
    <sentence id="84"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.10.8"
-             span="">
+             span="Polybius Book 9: s-84">
       <word id="1"
             form="ἐπὰν"
             lemma="ἐπάν"
@@ -19559,7 +19559,7 @@
    <sentence id="85"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.10.9"
-             span="">
+             span="Polybius Book 9: s-85">
       <word id="1"
             form="οὐ"
             lemma="οὐ"
@@ -19706,7 +19706,7 @@
    <sentence id="86"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.10.10"
-             span="">
+             span="Polybius Book 9: s-86">
       <word id="1"
             form="ἐξ"
             lemma="ἐκ"
@@ -19816,7 +19816,7 @@
    <sentence id="87"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.10.10"
-             span="">
+             span="Polybius Book 9: s-87">
       <word id="1"
             form="ἡ"
             lemma="ὁ"
@@ -19963,7 +19963,7 @@
    <sentence id="88"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.10.11"
-             span="">
+             span="Polybius Book 9: s-88">
       <word id="1"
             form="τὸ"
             lemma="ὁ"
@@ -20080,7 +20080,7 @@
    <sentence id="89"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.10.11"
-             span="">
+             span="Polybius Book 9: s-89">
       <word id="1"
             form="οὐ"
             lemma="οὐ"
@@ -20255,7 +20255,7 @@
    <sentence id="90"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.10.12"
-             span="">
+             span="Polybius Book 9: s-90">
       <word id="1"
             form="τὰ"
             lemma="ὁ"
@@ -20514,7 +20514,7 @@
    <sentence id="91"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.10.13"
-             span="">
+             span="Polybius Book 9: s-91">
       <word id="1"
             form="οὐ"
             lemma="οὐ"
@@ -20722,7 +20722,7 @@
    <sentence id="92"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.10.13"
-             span="">
+             span="Polybius Book 9: s-92">
       <word id="1"
             form="Ῥωμαῖοι"
             lemma="Ῥωμαῖος"
@@ -20890,7 +20890,7 @@
    <sentence id="93"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.11.1"
-             span="">
+             span="Polybius Book 9: s-93">
       <word id="1"
             form="ὅτι"
             lemma="ὅτι1"
@@ -21154,7 +21154,7 @@
    <sentence id="94"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.11.3"
-             span="">
+             span="Polybius Book 9: s-94">
       <word id="1"
             form="ὧν"
             lemma="ὅς"
@@ -21474,7 +21474,7 @@
    <sentence id="95"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.11.4"
-             span="">
+             span="Polybius Book 9: s-95">
       <word id="1"
             form="τοῦ"
             lemma="ὁ"
@@ -21668,7 +21668,7 @@
    <sentence id="96"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.11.1"
-             span="">
+             span="Polybius Book 9: s-96">
       <word id="1"
             form="ὅτι"
             lemma="ὅτι1"
@@ -22107,7 +22107,7 @@
    <sentence id="97"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.11.3"
-             span="">
+             span="Polybius Book 9: s-97">
       <word id="1"
             form="εἰς"
             lemma="εἰς"
@@ -22238,7 +22238,7 @@
    <sentence id="98"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.11.4"
-             span="">
+             span="Polybius Book 9: s-98">
       <word id="1"
             form="ἀλλʼ"
             lemma="ἀλλά"
@@ -22320,7 +22320,7 @@
    <sentence id="99"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.12.1"
-             span="">
+             span="Polybius Book 9: s-99">
       <word id="1"
             form="πολλὴν"
             lemma="πολύς"
@@ -22409,7 +22409,7 @@
    <sentence id="100"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.12.1"
-             span="">
+             span="Polybius Book 9: s-100">
       <word id="1"
             form="ἔστι"
             lemma="εἰμί"
@@ -22526,7 +22526,7 @@
    <sentence id="101"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.12.2"
-             span="">
+             span="Polybius Book 9: s-101">
       <word id="1"
             form="ὅτι"
             lemma="ὅτι2"
@@ -22764,7 +22764,7 @@
    <sentence id="102"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.12.3"
-             span="">
+             span="Polybius Book 9: s-102">
       <word id="1"
             form="ὅτι"
             lemma="ὅτι2"
@@ -22953,7 +22953,7 @@
    <sentence id="103"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.12.4"
-             span="">
+             span="Polybius Book 9: s-103">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -23105,7 +23105,7 @@
    <sentence id="104"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.12.5"
-             span="">
+             span="Polybius Book 9: s-104">
       <word id="1"
             form="τίς"
             lemma="τις"
@@ -23187,7 +23187,7 @@
    <sentence id="105"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.12.6"
-             span="">
+             span="Polybius Book 9: s-105">
       <word id="1"
             form="τὰ"
             lemma="ὁ"
@@ -23341,7 +23341,7 @@
    <sentence id="106"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.12.7"
-             span="">
+             span="Polybius Book 9: s-106">
       <word id="1"
             form="διὸ"
             lemma="διό"
@@ -23416,7 +23416,7 @@
    <sentence id="107"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.12.7"
-             span="">
+             span="Polybius Book 9: s-107">
       <word id="1"
             form="τὰ"
             lemma="ὁ"
@@ -23484,7 +23484,7 @@
    <sentence id="108"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.12.7"
-             span="">
+             span="Polybius Book 9: s-108">
       <word id="1"
             form="περὶ"
             lemma="περί"
@@ -23547,7 +23547,7 @@
    <sentence id="109"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.12.8"
-             span="">
+             span="Polybius Book 9: s-109">
       <word id="1"
             form="πάσης"
             lemma="πᾶς"
@@ -23932,7 +23932,7 @@
    <sentence id="110"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.12.10"
-             span="">
+             span="Polybius Book 9: s-110">
       <word id="1"
             form="οὕτως"
             lemma="οὕτως"
@@ -24063,7 +24063,7 @@
    <sentence id="111"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.13.1"
-             span="">
+             span="Polybius Book 9: s-111">
       <word id="1"
             form="πρὸς"
             lemma="πρός"
@@ -24133,7 +24133,7 @@
    <sentence id="112"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.13.1"
-             span="">
+             span="Polybius Book 9: s-112">
       <word id="1"
             form="διὸ"
             lemma="διό"
@@ -24215,7 +24215,7 @@
    <sentence id="113"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.13.2"
-             span="">
+             span="Polybius Book 9: s-113">
       <word id="1"
             form="ἔστι"
             lemma="εἰμί"
@@ -24686,7 +24686,7 @@
    <sentence id="114"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.13.4"
-             span="">
+             span="Polybius Book 9: s-114">
       <word id="1"
             form="χρὴ"
             lemma="χρή"
@@ -24789,7 +24789,7 @@
    <sentence id="115"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.13.5"
-             span="">
+             span="Polybius Book 9: s-115">
       <word id="1"
             form="πολλοὶ"
             lemma="πολύς"
@@ -24969,7 +24969,7 @@
    <sentence id="116"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.13.6"
-             span="">
+             span="Polybius Book 9: s-116">
       <word id="1"
             form="δεύτερον"
             lemma="δεύτερος"
@@ -25144,7 +25144,7 @@
    <sentence id="117"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.13.7"
-             span="">
+             span="Polybius Book 9: s-117">
       <word id="1"
             form="τρίτον"
             lemma="τρίτος"
@@ -25291,7 +25291,7 @@
    <sentence id="118"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.13.8"
-             span="">
+             span="Polybius Book 9: s-118">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -25508,7 +25508,7 @@
    <sentence id="119"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.13.9"
-             span="">
+             span="Polybius Book 9: s-119">
       <word id="1"
             form="τὸ"
             lemma="ὁ"
@@ -25681,7 +25681,7 @@
    <sentence id="120"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.14.1"
-             span="">
+             span="Polybius Book 9: s-120">
       <word id="1"
             form="τῶν"
             lemma="ὁ"
@@ -25844,7 +25844,7 @@
    <sentence id="121"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.14.2"
-             span="">
+             span="Polybius Book 9: s-121">
       <word id="1"
             form="κάλλιστον"
             lemma="καλός"
@@ -26110,7 +26110,7 @@
    <sentence id="122"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.14.3"
-             span="">
+             span="Polybius Book 9: s-122">
       <word id="1"
             form="δεύτερον"
             lemma="δεύτερος"
@@ -26194,7 +26194,7 @@
    <sentence id="123"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.14.3"
-             span="">
+             span="Polybius Book 9: s-123">
       <word id="1"
             form="τὴν"
             lemma="ὁ"
@@ -26311,7 +26311,7 @@
    <sentence id="124"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.14.4"
-             span="">
+             span="Polybius Book 9: s-124">
       <word id="1"
             form="ταῦτα"
             lemma="οὗτος"
@@ -26528,7 +26528,7 @@
    <sentence id="125"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.14.5"
-             span="">
+             span="Polybius Book 9: s-125">
       <word id="1"
             form="τὰ"
             lemma="ὁ"
@@ -26852,7 +26852,7 @@
    <sentence id="126"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.14.6"
-             span="">
+             span="Polybius Book 9: s-126">
       <word id="1"
             form="ἀναγκαιότατον"
             lemma="ἀναγκαῖος"
@@ -26950,7 +26950,7 @@
    <sentence id="127"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.14.6"
-             span="">
+             span="Polybius Book 9: s-127">
       <word id="1"
             form="εἰ"
             lemma="εἰ"
@@ -27130,7 +27130,7 @@
    <sentence id="128"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.14.7"
-             span="">
+             span="Polybius Book 9: s-128">
       <word id="1"
             form="ἐπεὶ"
             lemma="ἐπεί"
@@ -27335,7 +27335,7 @@
    <sentence id="129"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.14.8"
-             span="">
+             span="Polybius Book 9: s-129">
       <word id="1"
             form="πῶς"
             lemma="πῶς2"
@@ -27505,7 +27505,7 @@
    <sentence id="130"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.14.9"
-             span="">
+             span="Polybius Book 9: s-130">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -27696,7 +27696,7 @@
    <sentence id="131"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.14.10"
-             span="">
+             span="Polybius Book 9: s-131">
       <word id="1"
             form="μεῖζον"
             lemma="μέγας"
@@ -27787,7 +27787,7 @@
    <sentence id="132"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.14.11"
-             span="">
+             span="Polybius Book 9: s-132">
       <word id="1"
             form="ὁ"
             lemma="ὁ"
@@ -28100,7 +28100,7 @@
    <sentence id="133"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.15.1"
-             span="">
+             span="Polybius Book 9: s-133">
       <word id="1"
             form="κρατεῖ"
             lemma="κρατέω"
@@ -28217,7 +28217,7 @@
    <sentence id="134"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.15.2"
-             span="">
+             span="Polybius Book 9: s-134">
       <word id="1"
             form="διὸ"
             lemma="διό"
@@ -28397,7 +28397,7 @@
    <sentence id="135"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.15.3"
-             span="">
+             span="Polybius Book 9: s-135">
       <word id="1"
             form="οὕτως"
             lemma="οὕτως"
@@ -28521,7 +28521,7 @@
    <sentence id="136"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.15.4"
-             span="">
+             span="Polybius Book 9: s-136">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -28745,7 +28745,7 @@
    <sentence id="137"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.15.5"
-             span="">
+             span="Polybius Book 9: s-137">
       <word id="1"
             form="οὐ"
             lemma="οὐ"
@@ -28850,7 +28850,7 @@
    <sentence id="138"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.15.6"
-             span="">
+             span="Polybius Book 9: s-138">
       <word id="1"
             form="τοὺς"
             lemma="ὁ"
@@ -29067,7 +29067,7 @@
    <sentence id="139"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.15.7"
-             span="">
+             span="Polybius Book 9: s-139">
       <word id="1"
             form="τοὺς"
             lemma="ὁ"
@@ -29237,7 +29237,7 @@
    <sentence id="140"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.15.7"
-             span="">
+             span="Polybius Book 9: s-140">
       <word id="1"
             form="πάνυ"
             lemma="πάνυ"
@@ -29321,7 +29321,7 @@
    <sentence id="141"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.15.8"
-             span="">
+             span="Polybius Book 9: s-141">
       <word id="1"
             form="ἐπεὶ"
             lemma="ἐπεί"
@@ -29582,7 +29582,7 @@
    <sentence id="142"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.15.9"
-             span="">
+             span="Polybius Book 9: s-142">
       <word id="1"
             form="τοῦ"
             lemma="ὁ"
@@ -29752,7 +29752,7 @@
    <sentence id="143"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.15.10"
-             span="">
+             span="Polybius Book 9: s-143">
       <word id="1"
             form="λοιπὸν"
             lemma="λοιπός"
@@ -29899,7 +29899,7 @@
    <sentence id="144"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.15.11"
-             span="">
+             span="Polybius Book 9: s-144">
       <word id="1"
             form="γνωριζομένων"
             lemma="γνωρίζω"
@@ -30086,7 +30086,7 @@
    <sentence id="145"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.15.12"
-             span="">
+             span="Polybius Book 9: s-145">
       <word id="1"
             form="ἐν"
             lemma="ἐν"
@@ -30294,7 +30294,7 @@
    <sentence id="146"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.15.13"
-             span="">
+             span="Polybius Book 9: s-146">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -30588,7 +30588,7 @@
    <sentence id="147"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.15.15"
-             span="">
+             span="Polybius Book 9: s-147">
       <word id="1"
             form="ἔστι"
             lemma="εἰμί"
@@ -30649,7 +30649,7 @@
    <sentence id="148"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.15.15"
-             span="">
+             span="Polybius Book 9: s-148">
       <word id="1"
             form="ὅρος"
             lemma="ὅρος"
@@ -30763,7 +30763,7 @@
    <sentence id="149"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.16.1"
-             span="">
+             span="Polybius Book 9: s-149">
       <word id="1"
             form="ᾗ"
             lemma="ᾗ"
@@ -31034,7 +31034,7 @@
    <sentence id="150"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.16.2"
-             span="">
+             span="Polybius Book 9: s-150">
       <word id="1"
             form="ἱκανὰ"
             lemma="ἱκανός"
@@ -31363,7 +31363,7 @@
    <sentence id="151"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.16.4"
-             span="">
+             span="Polybius Book 9: s-151">
       <word id="1"
             form="εἰ"
             lemma="εἰ"
@@ -31529,7 +31529,7 @@
    <sentence id="152"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.16.5"
-             span="">
+             span="Polybius Book 9: s-152">
       <word id="1"
             form="διόπερ"
             lemma="διόπερ"
@@ -31730,7 +31730,7 @@
    <sentence id="153"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.17.1"
-             span="">
+             span="Polybius Book 9: s-153">
       <word id="1"
             form="Ἄρατος"
             lemma="Ἄρατος"
@@ -32442,7 +32442,7 @@
    <sentence id="154"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.17.4"
-             span="">
+             span="Polybius Book 9: s-154">
       <word id="1"
             form="γενομένου"
             lemma="γίγνομαι"
@@ -32552,7 +32552,7 @@
    <sentence id="155"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.17.5"
-             span="">
+             span="Polybius Book 9: s-155">
       <word id="1"
             form="τούτων"
             lemma="οὗτος"
@@ -32711,7 +32711,7 @@
    <sentence id="156"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.17.6"
-             span="">
+             span="Polybius Book 9: s-156">
       <word id="1"
             form="περὶ"
             lemma="περί"
@@ -32996,7 +32996,7 @@
    <sentence id="157"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.17.7"
-             span="">
+             span="Polybius Book 9: s-157">
       <word id="1"
             form="οἱ"
             lemma="ὁ"
@@ -33120,7 +33120,7 @@
    <sentence id="158"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.17.8"
-             span="">
+             span="Polybius Book 9: s-158">
       <word id="1"
             form="ταχὺ"
             lemma="ταχύς"
@@ -33412,7 +33412,7 @@
    <sentence id="159"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.17.8"
-             span="">
+             span="Polybius Book 9: s-159">
       <word id="1"
             form="καταφανεῖς"
             lemma="καταφανής"
@@ -33466,7 +33466,7 @@
    <sentence id="160"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.17.9"
-             span="">
+             span="Polybius Book 9: s-160">
       <word id="1"
             form="τί"
             lemma="τίς"
@@ -33541,7 +33541,7 @@
    <sentence id="161"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.17.9"
-             span="">
+             span="Polybius Book 9: s-161">
       <word id="1"
             form="τὸ"
             lemma="ὁ"
@@ -33702,7 +33702,7 @@
    <sentence id="162"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.17.9"
-             span="">
+             span="Polybius Book 9: s-162">
       <word id="1"
             form="οὕτως"
             lemma="οὕτως"
@@ -33819,7 +33819,7 @@
    <sentence id="163"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.18.1"
-             span="">
+             span="Polybius Book 9: s-163">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -34055,7 +34055,7 @@
    <sentence id="164"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.18.1"
-             span="">
+             span="Polybius Book 9: s-164">
       <word id="1"
             form="τοῦτον"
             lemma="οὗτος"
@@ -34137,7 +34137,7 @@
    <sentence id="165"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.18.2"
-             span="">
+             span="Polybius Book 9: s-165">
       <word id="1"
             form="οὐκέτι"
             lemma="οὐκέτι"
@@ -34331,7 +34331,7 @@
    <sentence id="166"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.18.3"
-             span="">
+             span="Polybius Book 9: s-166">
       <word id="1"
             form="λοιπὸν"
             lemma="λοιπός"
@@ -34504,7 +34504,7 @@
    <sentence id="167"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.18.4"
-             span="">
+             span="Polybius Book 9: s-167">
       <word id="1"
             form="ὃς"
             lemma="ὅς"
@@ -34677,7 +34677,7 @@
    <sentence id="168"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.18.5"
-             span="">
+             span="Polybius Book 9: s-168">
       <word id="1"
             form="πάλιν"
             lemma="πάλιν"
@@ -34836,7 +34836,7 @@
    <sentence id="169"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.18.5"
-             span="">
+             span="Polybius Book 9: s-169">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -34939,7 +34939,7 @@
    <sentence id="170"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.18.6"
-             span="">
+             span="Polybius Book 9: s-170">
       <word id="1"
             form="συνταξάμενος"
             lemma="συντάσσω"
@@ -35238,7 +35238,7 @@
    <sentence id="171"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.18.7"
-             span="">
+             span="Polybius Book 9: s-171">
       <word id="1"
             form="διόπερ"
             lemma="διόπερ"
@@ -35355,7 +35355,7 @@
    <sentence id="172"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.18.8"
-             span="">
+             span="Polybius Book 9: s-172">
       <word id="1"
             form="ὅθεν"
             lemma="ὅθεν"
@@ -35556,7 +35556,7 @@
    <sentence id="173"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.18.9"
-             span="">
+             span="Polybius Book 9: s-173">
       <word id="1"
             form="τέλος"
             lemma="τέλος"
@@ -35750,7 +35750,7 @@
    <sentence id="174"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.19.1"
-             span="">
+             span="Polybius Book 9: s-174">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -36098,7 +36098,7 @@
    <sentence id="175"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.19.2"
-             span="">
+             span="Polybius Book 9: s-175">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -36299,7 +36299,7 @@
    <sentence id="176"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.19.3"
-             span="">
+             span="Polybius Book 9: s-176">
       <word id="1"
             form="καίτοι"
             lemma="καίτοι"
@@ -36521,7 +36521,7 @@
    <sentence id="177"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.19.4"
-             span="">
+             span="Polybius Book 9: s-177">
       <word id="1"
             form="ἡ"
             lemma="ὁ"
@@ -36617,7 +36617,7 @@
    <sentence id="178"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.19.5"
-             span="">
+             span="Polybius Book 9: s-178">
       <word id="1"
             form="ἐκ"
             lemma="ἐκ"
@@ -36685,7 +36685,7 @@
    <sentence id="179"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.19.5"
-             span="">
+             span="Polybius Book 9: s-179">
       <word id="1"
             form="περὶ"
             lemma="περί"
@@ -36788,7 +36788,7 @@
    <sentence id="180"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.19.6"
-             span="">
+             span="Polybius Book 9: s-180">
       <word id="1"
             form="ἐὰν"
             lemma="ἐάν"
@@ -36933,7 +36933,7 @@
    <sentence id="181"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.19.6"
-             span="">
+             span="Polybius Book 9: s-181">
       <word id="1"
             form="οἵων"
             lemma="οἷος"
@@ -37078,7 +37078,7 @@
    <sentence id="182"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.19.7"
-             span="">
+             span="Polybius Book 9: s-182">
       <word id="1"
             form="τὴν"
             lemma="ὁ"
@@ -37365,7 +37365,7 @@
    <sentence id="183"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.19.8"
-             span="">
+             span="Polybius Book 9: s-183">
       <word id="1"
             form="ἐὰν"
             lemma="ἐάν"
@@ -37552,7 +37552,7 @@
    <sentence id="184"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.19.9"
-             span="">
+             span="Polybius Book 9: s-184">
       <word id="1"
             form="ὅ"
             lemma="ὁ"
@@ -37685,7 +37685,7 @@
    <sentence id="185"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.20.1"
-             span="">
+             span="Polybius Book 9: s-185">
       <word id="1"
             form="διὸ"
             lemma="διό"
@@ -37937,7 +37937,7 @@
    <sentence id="186"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.20.2"
-             span="">
+             span="Polybius Book 9: s-186">
       <word id="1"
             form="οὐ"
             lemma="οὐ"
@@ -38418,7 +38418,7 @@
    <sentence id="187"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.20.4"
-             span="">
+             span="Polybius Book 9: s-187">
       <word id="1"
             form="ὑπὲρ"
             lemma="ὑπέρ"
@@ -38507,7 +38507,7 @@
    <sentence id="188"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.20.5"
-             span="">
+             span="Polybius Book 9: s-188">
       <word id="1"
             form="οὐ"
             lemma="οὐ"
@@ -38680,7 +38680,7 @@
    <sentence id="189"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.20.6"
-             span="">
+             span="Polybius Book 9: s-189">
       <word id="1"
             form="ἐγὼ"
             lemma="ἐγώ"
@@ -38972,7 +38972,7 @@
    <sentence id="190"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.20.7"
-             span="">
+             span="Polybius Book 9: s-190">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -39380,7 +39380,7 @@
    <sentence id="191"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.20.9"
-             span="">
+             span="Polybius Book 9: s-191">
       <word id="1"
             form="ὥστε"
             lemma="ὥστε"
@@ -39534,7 +39534,7 @@
    <sentence id="192"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.20.9"
-             span="">
+             span="Polybius Book 9: s-192">
       <word id="1"
             form="ὧν"
             lemma="ὅς"
@@ -39595,7 +39595,7 @@
    <sentence id="193"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.20.10"
-             span="">
+             span="Polybius Book 9: s-193">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -39663,7 +39663,7 @@
    <sentence id="1"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.21"
-             span="">
+             span="Polybius Book 9: s-194">
       <word id="1"
             form="ὅτι"
             lemma="ὅτι1"
@@ -39927,7 +39927,7 @@
    <sentence id="2"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.22.1"
-             span="">
+             span="Polybius Book 9: s-195">
       <word id="1"
             form="ὅτι"
             lemma="ὅτι2"
@@ -40107,7 +40107,7 @@
    <sentence id="3"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.22.2"
-             span="">
+             span="Polybius Book 9: s-196">
       <word id="1"
             form="τά"
             lemma="ὁ"
@@ -40359,7 +40359,7 @@
    <sentence id="4"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.22.3"
-             span="">
+             span="Polybius Book 9: s-197">
       <word id="1"
             form="οἱ"
             lemma="ὁ"
@@ -40483,7 +40483,7 @@
    <sentence id="5"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.22.4"
-             span="">
+             span="Polybius Book 9: s-198">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -40658,7 +40658,7 @@
    <sentence id="6"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.22.5"
-             span="">
+             span="Polybius Book 9: s-199">
       <word id="1"
             form="ὁμοίως"
             lemma="ὅμοιος"
@@ -40742,7 +40742,7 @@
    <sentence id="7"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.22.5"
-             span="">
+             span="Polybius Book 9: s-200">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -40873,7 +40873,7 @@
    <sentence id="8"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.22.6"
-             span="">
+             span="Polybius Book 9: s-201">
       <word id="1"
             form="οὕτως"
             lemma="οὕτως"
@@ -41067,7 +41067,7 @@
    <sentence id="9"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.22.7"
-             span="">
+             span="Polybius Book 9: s-202">
       <word id="1"
             form="ἐπεὶ"
             lemma="ἐπεί"
@@ -41268,7 +41268,7 @@
    <sentence id="10"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.22.8"
-             span="">
+             span="Polybius Book 9: s-203">
       <word id="1"
             form="τινὲς"
             lemma="τις"
@@ -41389,7 +41389,7 @@
    <sentence id="11"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.22.8"
-             span="">
+             span="Polybius Book 9: s-204">
       <word id="1"
             form="τὸ"
             lemma="ὁ"
@@ -41501,7 +41501,7 @@
    <sentence id="12"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.22.9"
-             span="">
+             span="Polybius Book 9: s-205">
       <word id="1"
             form="ἔνιοι"
             lemma="ἔνιοι"
@@ -41767,7 +41767,7 @@
    <sentence id="13"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.22.10"
-             span="">
+             span="Polybius Book 9: s-206">
       <word id="1"
             form="ἐμοὶ"
             lemma="ἐγώ"
@@ -41842,7 +41842,7 @@
    <sentence id="14"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.22.10"
-             span="">
+             span="Polybius Book 9: s-207">
       <word id="1"
             form="οὐ"
             lemma="οὐ"
@@ -42106,7 +42106,7 @@
    <sentence id="15"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.23.1"
-             span="">
+             span="Polybius Book 9: s-208">
       <word id="1"
             form="γνοίη"
             lemma="γιγνώσκω"
@@ -42188,7 +42188,7 @@
    <sentence id="16"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.23.2"
-             span="">
+             span="Polybius Book 9: s-209">
       <word id="1"
             form="τίς"
             lemma="τις"
@@ -42452,7 +42452,7 @@
    <sentence id="17"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.23.3"
-             span="">
+             span="Polybius Book 9: s-210">
       <word id="1"
             form="ἔτι"
             lemma="ἔτι"
@@ -42613,7 +42613,7 @@
    <sentence id="18"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.23.4"
-             span="">
+             span="Polybius Book 9: s-211">
       <word id="1"
             form="καίτοι"
             lemma="καίτοι"
@@ -42716,7 +42716,7 @@
    <sentence id="19"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.23.4"
-             span="">
+             span="Polybius Book 9: s-212">
       <word id="1"
             form="ἀλλʼ"
             lemma="ἀλλά"
@@ -42982,7 +42982,7 @@
    <sentence id="20"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.23.5"
-             span="">
+             span="Polybius Book 9: s-213">
       <word id="1"
             form="τὸ"
             lemma="ὁ"
@@ -43148,7 +43148,7 @@
    <sentence id="21"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.23.6"
-             span="">
+             span="Polybius Book 9: s-214">
       <word id="1"
             form="Ἀθηναίων"
             lemma="Ἀθήναιος"
@@ -43381,7 +43381,7 @@
    <sentence id="22"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.23.7"
-             span="">
+             span="Polybius Book 9: s-215">
       <word id="1"
             form="Λακεδαιμονίων"
             lemma="Λακεδαιμόνιος"
@@ -43593,7 +43593,7 @@
    <sentence id="23"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.23.8"
-             span="">
+             span="Polybius Book 9: s-216">
       <word id="1"
             form="ὥστε"
             lemma="ὥστε"
@@ -43691,7 +43691,7 @@
    <sentence id="24"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.23.9"
-             span="">
+             span="Polybius Book 9: s-217">
       <word id="1"
             form="Φίλιππος"
             lemma="Φίλιππος"
@@ -43889,7 +43889,7 @@
    <sentence id="25"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.24.1"
-             span="">
+             span="Polybius Book 9: s-218">
       <word id="1"
             form="παραπλήσια"
             lemma="παραπλήσιος"
@@ -43971,7 +43971,7 @@
    <sentence id="26"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.24.2"
-             span="">
+             span="Polybius Book 9: s-219">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -44186,7 +44186,7 @@
    <sentence id="27"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.24.3"
-             span="">
+             span="Polybius Book 9: s-220">
       <word id="1"
             form="τὰς"
             lemma="ὁ"
@@ -44498,7 +44498,7 @@
    <sentence id="28"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.24.4"
-             span="">
+             span="Polybius Book 9: s-221">
       <word id="1"
             form="καθʼ"
             lemma="κατά"
@@ -45140,7 +45140,7 @@
    <sentence id="29"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.24.6"
-             span="">
+             span="Polybius Book 9: s-222">
       <word id="1"
             form="τοῦ"
             lemma="ὁ"
@@ -45264,7 +45264,7 @@
    <sentence id="30"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.24.7"
-             span="">
+             span="Polybius Book 9: s-223">
       <word id="1"
             form="..."
             lemma="punc1"
@@ -45479,7 +45479,7 @@
    <sentence id="31"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.24.8"
-             span="">
+             span="Polybius Book 9: s-224">
       <word id="1"
             form="τούτου"
             lemma="οὗτος"
@@ -45659,7 +45659,7 @@
    <sentence id="32"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.25.1"
-             span="">
+             span="Polybius Book 9: s-225">
       <word id="1"
             form="φιλάργυρός"
             lemma="φιλάργυρος"
@@ -45790,7 +45790,7 @@
    <sentence id="33"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.25.2"
-             span="">
+             span="Polybius Book 9: s-226">
       <word id="1"
             form="ταύτην"
             lemma="οὗτος"
@@ -45879,7 +45879,7 @@
    <sentence id="34"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.25.3"
-             span="">
+             span="Polybius Book 9: s-227">
       <word id="1"
             form="ἐγχώριοι"
             lemma="ἐγχώριος"
@@ -46047,7 +46047,7 @@
    <sentence id="35"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.25.4"
-             span="">
+             span="Polybius Book 9: s-228">
       <word id="1"
             form="ἔτι"
             lemma="ἔτι"
@@ -46241,7 +46241,7 @@
    <sentence id="36"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.25.5"
-             span="">
+             span="Polybius Book 9: s-229">
       <word id="1"
             form="πρὸς"
             lemma="πρός"
@@ -46877,7 +46877,7 @@
    <sentence id="37"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.26.1"
-             span="">
+             span="Polybius Book 9: s-230">
       <word id="1"
             form="πλὴν"
             lemma="πλὴν"
@@ -47141,7 +47141,7 @@
    <sentence id="38"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.26.2"
-             span="">
+             span="Polybius Book 9: s-231">
       <word id="1"
             form="ἅμα"
             lemma="ἅμα"
@@ -47358,7 +47358,7 @@
    <sentence id="39"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.26.3"
-             span="">
+             span="Polybius Book 9: s-232">
       <word id="1"
             form="ὅτε"
             lemma="ὅτε"
@@ -47461,7 +47461,7 @@
    <sentence id="40"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.26.4"
-             span="">
+             span="Polybius Book 9: s-233">
       <word id="1"
             form="οὔ"
             lemma="οὐ"
@@ -47732,7 +47732,7 @@
    <sentence id="41"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.26.5"
-             span="">
+             span="Polybius Book 9: s-234">
       <word id="1"
             form="εὐχείρωτος"
             lemma="εὐχείρωτος"
@@ -47884,7 +47884,7 @@
    <sentence id="42"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.26.6"
-             span="">
+             span="Polybius Book 9: s-235">
       <word id="1"
             form="διόπερ"
             lemma="διόπερ"
@@ -48085,7 +48085,7 @@
    <sentence id="43"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.26.7"
-             span="">
+             span="Polybius Book 9: s-236">
       <word id="1"
             form="ἐνίας"
             lemma="ἔνιοι"
@@ -48209,7 +48209,7 @@
    <sentence id="44"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.26.8"
-             span="">
+             span="Polybius Book 9: s-237">
       <word id="1"
             form="ἐξ"
             lemma="ἐκ"
@@ -48307,7 +48307,7 @@
    <sentence id="45"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.26.9"
-             span="">
+             span="Polybius Book 9: s-238">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -48587,7 +48587,7 @@
    <sentence id="46"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.26.10"
-             span="">
+             span="Polybius Book 9: s-239">
       <word id="1"
             form="ἐξ"
             lemma="ἐκ"
@@ -48762,7 +48762,7 @@
    <sentence id="47"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.26.11"
-             span="">
+             span="Polybius Book 9: s-240">
       <word id="1"
             form="κρατεῖ"
             lemma="κρατέω"
@@ -48941,7 +48941,7 @@
    <sentence id="48"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.26.1"
-             span="">
+             span="Polybius Book 9: s-241">
       <word id="1"
             form="οἱ"
             lemma="ὁ"
@@ -49051,7 +49051,7 @@
    <sentence id="49"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.26.2"
-             span="">
+             span="Polybius Book 9: s-242">
       <word id="1"
             form="λοιπὸν"
             lemma="λοιπός"
@@ -49361,7 +49361,7 @@
    <sentence id="50"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.26.3"
-             span="">
+             span="Polybius Book 9: s-243">
       <word id="1"
             form="ἂν"
             lemma="ἐάν"
@@ -49618,7 +49618,7 @@
    <sentence id="51"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.26.4"
-             span="">
+             span="Polybius Book 9: s-244">
       <word id="1"
             form="τοῦτο"
             lemma="οὗτος"
@@ -49758,7 +49758,7 @@
    <sentence id="52"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.26.5"
-             span="">
+             span="Polybius Book 9: s-245">
       <word id="1"
             form="περὶ"
             lemma="περί"
@@ -50232,7 +50232,7 @@
    <sentence id="53"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.26.7"
-             span="">
+             span="Polybius Book 9: s-246">
       <word id="1"
             form="παραπλήσιον"
             lemma="παραπλήσιος"
@@ -50328,7 +50328,7 @@
    <sentence id="54"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.26.7"
-             span="">
+             span="Polybius Book 9: s-247">
       <word id="1"
             form="οἱ"
             lemma="ὁ"
@@ -50445,7 +50445,7 @@
    <sentence id="55"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.26.8"
-             span="">
+             span="Polybius Book 9: s-248">
       <word id="1"
             form="τὸ"
             lemma="ὁ"
@@ -50681,7 +50681,7 @@
    <sentence id="56"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.26.9"
-             span="">
+             span="Polybius Book 9: s-249">
       <word id="1"
             form="γνοίη"
             lemma="γιγνώσκω"
@@ -50770,7 +50770,7 @@
    <sentence id="57"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.26.10"
-             span="">
+             span="Polybius Book 9: s-250">
       <word id="1"
             form="εἰ"
             lemma="εἰ"
@@ -51106,7 +51106,7 @@
    <sentence id="58"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.26.11"
-             span="">
+             span="Polybius Book 9: s-251">
       <word id="1"
             form="περὶ"
             lemma="περί"
@@ -51258,7 +51258,7 @@
    <sentence id="59"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.27.1"
-             span="">
+             span="Polybius Book 9: s-252">
       <word id="1"
             form="ἡ"
             lemma="ὁ"
@@ -51473,7 +51473,7 @@
    <sentence id="60"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.27.2"
-             span="">
+             span="Polybius Book 9: s-253">
       <word id="1"
             form="ἔκτισται"
             lemma="κτίζω"
@@ -51604,7 +51604,7 @@
    <sentence id="61"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.27.3"
-             span="">
+             span="Polybius Book 9: s-254">
       <word id="1"
             form="ὁ"
             lemma="ὁ"
@@ -51686,7 +51686,7 @@
    <sentence id="62"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.27.4"
-             span="">
+             span="Polybius Book 9: s-255">
       <word id="1"
             form="κεῖται"
             lemma="κεῖμαι"
@@ -51863,7 +51863,7 @@
    <sentence id="63"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.27.5"
-             span="">
+             span="Polybius Book 9: s-256">
       <word id="1"
             form="ῥεῖ"
             lemma="ῥέω"
@@ -52066,7 +52066,7 @@
    <sentence id="64"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.27.6"
-             span="">
+             span="Polybius Book 9: s-257">
       <word id="1"
             form="ἡ"
             lemma="ὁ"
@@ -52295,7 +52295,7 @@
    <sentence id="65"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.27.7"
-             span="">
+             span="Polybius Book 9: s-258">
       <word id="1"
             form="ἐπὶ"
             lemma="ἐπί"
@@ -52421,7 +52421,7 @@
    <sentence id="66"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.27.8"
-             span="">
+             span="Polybius Book 9: s-259">
       <word id="1"
             form="τοῦ"
             lemma="ὁ"
@@ -52582,7 +52582,7 @@
    <sentence id="67"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.27.9"
-             span="">
+             span="Polybius Book 9: s-260">
       <word id="1"
             form="κεκόσμηται"
             lemma="κοσμέω"
@@ -52671,7 +52671,7 @@
    <sentence id="68"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.27.9"
-             span="">
+             span="Polybius Book 9: s-261">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -52879,7 +52879,7 @@
    <sentence id="69"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.27.10"
-             span="">
+             span="Polybius Book 9: s-262">
       <word id="1"
             form="Πολύβιος"
             lemma="Πολύβιος"
@@ -53005,7 +53005,7 @@
    <sentence id="70"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.27.10"
-             span="">
+             span="Polybius Book 9: s-263">
       <word id="1"
             form="Ἀγάθυρνα"
             lemma="Ἀγάθυρνα"
@@ -53091,7 +53091,7 @@
    <sentence id="71"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.27.11"
-             span="">
+             span="Polybius Book 9: s-264">
       <word id="1"
             form="ὁ"
             lemma="ὁ"
@@ -53320,7 +53320,7 @@
    <sentence id="72"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.28.1"
-             span="">
+             span="Polybius Book 9: s-265">
       <word id="1"
             form="ὅτι"
             lemma="ὅτι2"
@@ -53500,7 +53500,7 @@
    <sentence id="73"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.28.1"
-             span="">
+             span="Polybius Book 9: s-266">
       <word id="1"
             form="σκοπεῖν"
             lemma="σκοπέω"
@@ -53540,7 +53540,7 @@
    <sentence id="74"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.28.2"
-             span="">
+             span="Polybius Book 9: s-267">
       <word id="1"
             form="ἦν"
             lemma="εἰμί"
@@ -53720,7 +53720,7 @@
    <sentence id="75"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.28.3"
-             span="">
+             span="Polybius Book 9: s-268">
       <word id="1"
             form="ταύτην"
             lemma="οὗτος"
@@ -53900,7 +53900,7 @@
    <sentence id="76"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.28.4"
-             span="">
+             span="Polybius Book 9: s-269">
       <word id="1"
             form="μετʼ"
             lemma="μετά"
@@ -54192,7 +54192,7 @@
    <sentence id="77"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.28.5"
-             span="">
+             span="Polybius Book 9: s-270">
       <word id="1"
             form="ἦν"
             lemma="εἰμί"
@@ -54309,7 +54309,7 @@
    <sentence id="78"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.28.6"
-             span="">
+             span="Polybius Book 9: s-271">
       <word id="1"
             form="τοιγαροῦν"
             lemma="τοιγάρ"
@@ -54475,7 +54475,7 @@
    <sentence id="79"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.28.7"
-             span="">
+             span="Polybius Book 9: s-272">
       <word id="1"
             form="τὸ"
             lemma="ὁ"
@@ -54785,7 +54785,7 @@
    <sentence id="80"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.28.8"
-             span="">
+             span="Polybius Book 9: s-273">
       <word id="1"
             form="διεδέξατο"
             lemma="διαδέχομαι"
@@ -54839,7 +54839,7 @@
    <sentence id="81"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.28.8"
-             span="">
+             span="Polybius Book 9: s-274">
       <word id="1"
             form="οὗτος"
             lemma="οὗτος"
@@ -55012,7 +55012,7 @@
    <sentence id="82"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.29.1"
-             span="">
+             span="Polybius Book 9: s-275">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -55157,7 +55157,7 @@
    <sentence id="83"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.29.2"
-             span="">
+             span="Polybius Book 9: s-276">
       <word id="1"
             form="οὐδεὶς"
             lemma="οὐδείς"
@@ -55575,7 +55575,7 @@
    <sentence id="84"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.29.4"
-             span="">
+             span="Polybius Book 9: s-277">
       <word id="1"
             form="ὧν"
             lemma="ὅς"
@@ -55799,7 +55799,7 @@
    <sentence id="85"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.29.4"
-             span="">
+             span="Polybius Book 9: s-278">
       <word id="1"
             form="φύξιμον"
             lemma="φύξιμος"
@@ -55888,7 +55888,7 @@
    <sentence id="86"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.29.5"
-             span="">
+             span="Polybius Book 9: s-279">
       <word id="1"
             form="τά"
             lemma="ὁ"
@@ -56026,7 +56026,7 @@
    <sentence id="87"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.29.5"
-             span="">
+             span="Polybius Book 9: s-280">
       <word id="1"
             form="διὰ"
             lemma="διά"
@@ -56129,7 +56129,7 @@
    <sentence id="88"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.29.6"
-             span="">
+             span="Polybius Book 9: s-281">
       <word id="1"
             form="ὧν"
             lemma="ὅς"
@@ -56297,7 +56297,7 @@
    <sentence id="89"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.29.7"
-             span="">
+             span="Polybius Book 9: s-282">
       <word id="1"
             form="ἀφέμενος"
             lemma="ἀφίημι"
@@ -56484,7 +56484,7 @@
    <sentence id="90"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.29.8"
-             span="">
+             span="Polybius Book 9: s-283">
       <word id="1"
             form="οὔ"
             lemma="οὐ"
@@ -56650,7 +56650,7 @@
    <sentence id="91"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.29.9"
-             span="">
+             span="Polybius Book 9: s-284">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -56788,7 +56788,7 @@
    <sentence id="92"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.29.10"
-             span="">
+             span="Polybius Book 9: s-285">
       <word id="1"
             form="ἀλλʼ"
             lemma="ἀλλά"
@@ -57164,7 +57164,7 @@
    <sentence id="93"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.29.12"
-             span="">
+             span="Polybius Book 9: s-286">
       <word id="1"
             form="διόπερ"
             lemma="διόπερ"
@@ -57393,7 +57393,7 @@
    <sentence id="94"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.30.1"
-             span="">
+             span="Polybius Book 9: s-287">
       <word id="1"
             form="περί"
             lemma="περί"
@@ -57484,7 +57484,7 @@
    <sentence id="95"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.30.2"
-             span="">
+             span="Polybius Book 9: s-288">
       <word id="1"
             form="τῆς"
             lemma="ὁ"
@@ -57733,7 +57733,7 @@
    <sentence id="96"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.30.3"
-             span="">
+             span="Polybius Book 9: s-289">
       <word id="1"
             form="Αἰτωλοὶ"
             lemma="Αἰτωλοί"
@@ -58039,7 +58039,7 @@
    <sentence id="97"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.30.4"
-             span="">
+             span="Polybius Book 9: s-290">
       <word id="1"
             form="ταῦτα"
             lemma="οὗτος"
@@ -58100,7 +58100,7 @@
    <sentence id="98"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.30.5"
-             span="">
+             span="Polybius Book 9: s-291">
       <word id="1"
             form="περὶ"
             lemma="περί"
@@ -58301,7 +58301,7 @@
    <sentence id="99"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.30.6"
-             span="">
+             span="Polybius Book 9: s-292">
       <word id="1"
             form="Ἀχαιοὺς"
             lemma="Ἀχαιός"
@@ -58653,7 +58653,7 @@
    <sentence id="100"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.30.7"
-             span="">
+             span="Polybius Book 9: s-293">
       <word id="1"
             form="Φίλιππον"
             lemma="Φίλιππος"
@@ -58842,7 +58842,7 @@
    <sentence id="101"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.30.8"
-             span="">
+             span="Polybius Book 9: s-294">
       <word id="1"
             form="λίαν"
             lemma="λίαν"
@@ -58931,7 +58931,7 @@
    <sentence id="102"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.30.9"
-             span="">
+             span="Polybius Book 9: s-295">
       <word id="1"
             form="εἰ"
             lemma="εἰ"
@@ -59097,7 +59097,7 @@
    <sentence id="103"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.31.1"
-             span="">
+             span="Polybius Book 9: s-296">
       <word id="1"
             form="ταῦτα"
             lemma="οὗτος"
@@ -59342,7 +59342,7 @@
    <sentence id="104"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.31.2"
-             span="">
+             span="Polybius Book 9: s-297">
       <word id="1"
             form="εἰ"
             lemma="εἰ"
@@ -59445,7 +59445,7 @@
    <sentence id="105"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.31.3"
-             span="">
+             span="Polybius Book 9: s-298">
       <word id="1"
             form="εἰ"
             lemma="εἰ"
@@ -59709,7 +59709,7 @@
    <sentence id="106"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.31.4"
-             span="">
+             span="Polybius Book 9: s-299">
       <word id="1"
             form="ἐπεὶ"
             lemma="ἐπεί"
@@ -60211,7 +60211,7 @@
    <sentence id="107"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.31.5"
-             span="">
+             span="Polybius Book 9: s-300">
       <word id="1"
             form="τὰ"
             lemma="ὁ"
@@ -60307,7 +60307,7 @@
    <sentence id="108"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.31.6"
-             span="">
+             span="Polybius Book 9: s-301">
       <word id="1"
             form="λοιπὸν"
             lemma="λοιπός"
@@ -60657,7 +60657,7 @@
    <sentence id="109"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.31.7"
-             span="">
+             span="Polybius Book 9: s-302">
       <word id="1"
             form="ὁ"
             lemma="ὁ"
@@ -60760,7 +60760,7 @@
    <sentence id="110"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.32.1"
-             span="">
+             span="Polybius Book 9: s-303">
       <word id="1"
             form="μετὰ"
             lemma="μετά"
@@ -61010,7 +61010,7 @@
    <sentence id="111"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.32.3"
-             span="">
+             span="Polybius Book 9: s-304">
       <word id="1"
             form="Ἡμεῖς"
             lemma="ἐγώ"
@@ -61267,7 +61267,7 @@
    <sentence id="112"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.32.4"
-             span="">
+             span="Polybius Book 9: s-305">
       <word id="1"
             form="ὥσπερ"
             lemma="ὥσπερ"
@@ -61559,7 +61559,7 @@
    <sentence id="113"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.32.5"
-             span="">
+             span="Polybius Book 9: s-306">
       <word id="1"
             form="διόπερ"
             lemma="διόπερ"
@@ -61676,7 +61676,7 @@
    <sentence id="114"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.32.6"
-             span="">
+             span="Polybius Book 9: s-307">
       <word id="1"
             form="Χλαινέας"
             lemma="Χλαινέας"
@@ -61800,7 +61800,7 @@
    <sentence id="115"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.32.7"
-             span="">
+             span="Polybius Book 9: s-308">
       <word id="1"
             form="ἔφη"
             lemma="φημί"
@@ -62101,7 +62101,7 @@
    <sentence id="116"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.32.8"
-             span="">
+             span="Polybius Book 9: s-309">
       <word id="1"
             form="εἰ"
             lemma="εἰ"
@@ -62304,7 +62304,7 @@
    <sentence id="117"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.32.9"
-             span="">
+             span="Polybius Book 9: s-310">
       <word id="1"
             form="ἐγὼ"
             lemma="ἐγώ"
@@ -62596,7 +62596,7 @@
    <sentence id="118"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.32.10"
-             span="">
+             span="Polybius Book 9: s-311">
       <word id="1"
             form="εἰ"
             lemma="εἰ"
@@ -62818,7 +62818,7 @@
    <sentence id="119"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.32.11"
-             span="">
+             span="Polybius Book 9: s-312">
       <word id="1"
             form="παραγινόμεθα"
             lemma="παραγίγνομαι"
@@ -63154,7 +63154,7 @@
    <sentence id="120"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.32.12"
-             span="">
+             span="Polybius Book 9: s-313">
       <word id="1"
             form="εἰ"
             lemma="εἰ"
@@ -63261,7 +63261,7 @@
    <sentence id="121"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.33.1"
-             span="">
+             span="Polybius Book 9: s-314">
       <word id="1"
             form="ἐπεὶ"
             lemma="ἐπεί"
@@ -63455,7 +63455,7 @@
    <sentence id="122"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.33.2"
-             span="">
+             span="Polybius Book 9: s-315">
       <word id="1"
             form="ἔφη"
             lemma="φημί"
@@ -63558,7 +63558,7 @@
    <sentence id="123"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.33.3"
-             span="">
+             span="Polybius Book 9: s-316">
       <word id="1"
             form="ἐγὼ"
             lemma="ἐγώ"
@@ -63675,7 +63675,7 @@
    <sentence id="124"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.33.4"
-             span="">
+             span="Polybius Book 9: s-317">
       <word id="1"
             form="καθʼ"
             lemma="κατά"
@@ -63953,7 +63953,7 @@
    <sentence id="125"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.33.5"
-             span="">
+             span="Polybius Book 9: s-318">
       <word id="1"
             form="ἀλλʼ"
             lemma="ἀλλά"
@@ -64063,7 +64063,7 @@
    <sentence id="126"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.33.6"
-             span="">
+             span="Polybius Book 9: s-319">
       <word id="1"
             form="ἐν"
             lemma="ἐν"
@@ -64320,7 +64320,7 @@
    <sentence id="127"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.33.7"
-             span="">
+             span="Polybius Book 9: s-320">
       <word id="1"
             form="οὐ"
             lemma="οὐ"
@@ -64535,7 +64535,7 @@
    <sentence id="128"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.33.7"
-             span="">
+             span="Polybius Book 9: s-321">
       <word id="1"
             form="οὗ"
             lemma="ὅς"
@@ -64582,7 +64582,7 @@
    <sentence id="129"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.33.8"
-             span="">
+             span="Polybius Book 9: s-322">
       <word id="1"
             form="νὴ"
             lemma="νή"
@@ -64671,7 +64671,7 @@
    <sentence id="130"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.33.9"
-             span="">
+             span="Polybius Book 9: s-323">
       <word id="1"
             form="οὐ"
             lemma="οὐ"
@@ -64865,7 +64865,7 @@
    <sentence id="131"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.33.10"
-             span="">
+             span="Polybius Book 9: s-324">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -64954,7 +64954,7 @@
    <sentence id="132"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.33.10"
-             span="">
+             span="Polybius Book 9: s-325">
       <word id="1"
             form="δυνάμενος"
             lemma="δύναμαι"
@@ -65491,7 +65491,7 @@
    <sentence id="133"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.33.12"
-             span="">
+             span="Polybius Book 9: s-326">
       <word id="1"
             form="ἄξιόν"
             lemma="ἄξιος"
@@ -65561,7 +65561,7 @@
    <sentence id="1"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.34.1"
-             span="">
+             span="Polybius Book 9: s-327">
       <word id="1"
             form="πάλιν"
             lemma="πάλιν"
@@ -66172,7 +66172,7 @@
    <sentence id="2"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.34.4"
-             span="">
+             span="Polybius Book 9: s-328">
       <word id="1"
             form="περὶ"
             lemma="περί"
@@ -66240,7 +66240,7 @@
    <sentence id="3"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.34.4"
-             span="">
+             span="Polybius Book 9: s-329">
       <word id="1"
             form="ἐκεῖνοι"
             lemma="ἐκεῖνος"
@@ -66373,7 +66373,7 @@
    <sentence id="4"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.34.4"
-             span="">
+             span="Polybius Book 9: s-330">
       <word id="1"
             form="περὶ"
             lemma="περί"
@@ -66597,7 +66597,7 @@
    <sentence id="5"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.34.6"
-             span="">
+             span="Polybius Book 9: s-331">
       <word id="1"
             form="ἐπεὶ"
             lemma="ἐπεί"
@@ -66714,7 +66714,7 @@
    <sentence id="6"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.34.7"
-             span="">
+             span="Polybius Book 9: s-332">
       <word id="1"
             form="τίνες"
             lemma="τις"
@@ -66861,7 +66861,7 @@
    <sentence id="7"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.34.8"
-             span="">
+             span="Polybius Book 9: s-333">
       <word id="1"
             form="οὐχ"
             lemma="οὐ"
@@ -66896,7 +66896,7 @@
    <sentence id="8"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.34.8"
-             span="">
+             span="Polybius Book 9: s-334">
       <word id="1"
             form="τίνες"
             lemma="τις"
@@ -66980,7 +66980,7 @@
    <sentence id="9"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.34.8"
-             span="">
+             span="Polybius Book 9: s-335">
       <word id="1"
             form="οἵ"
             lemma="ὅς"
@@ -67071,7 +67071,7 @@
    <sentence id="10"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.34.9"
-             span="">
+             span="Polybius Book 9: s-336">
       <word id="1"
             form="ὧν"
             lemma="ὅς"
@@ -67381,7 +67381,7 @@
    <sentence id="11"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.34.11"
-             span="">
+             span="Polybius Book 9: s-337">
       <word id="1"
             form="τί"
             lemma="τις"
@@ -67437,7 +67437,7 @@
    <sentence id="12"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.34.11"
-             span="">
+             span="Polybius Book 9: s-338">
       <word id="1"
             form="οὐ"
             lemma="οὐ"
@@ -67547,7 +67547,7 @@
    <sentence id="13"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.34.11"
-             span="">
+             span="Polybius Book 9: s-339">
       <word id="1"
             form="ὧν"
             lemma="ὅς"
@@ -67594,7 +67594,7 @@
    <sentence id="14"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.35.1"
-             span="">
+             span="Polybius Book 9: s-340">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -67795,7 +67795,7 @@
    <sentence id="15"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.35.2"
-             span="">
+             span="Polybius Book 9: s-341">
       <word id="1"
             form="ἀλλʼ"
             lemma="ἀλλά"
@@ -68052,7 +68052,7 @@
    <sentence id="16"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.35.3"
-             span="">
+             span="Polybius Book 9: s-342">
       <word id="1"
             form="ὅτι"
             lemma="ὅτι2"
@@ -68274,7 +68274,7 @@
    <sentence id="17"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.35.4"
-             span="">
+             span="Polybius Book 9: s-343">
       <word id="1"
             form="μέγιστον"
             lemma="μέγας"
@@ -68323,7 +68323,7 @@
    <sentence id="18"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.35.4"
-             span="">
+             span="Polybius Book 9: s-344">
       <word id="1"
             form="ἅμα"
             lemma="ἅμα"
@@ -68517,7 +68517,7 @@
    <sentence id="19"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.35.4"
-             span="">
+             span="Polybius Book 9: s-345">
       <word id="1"
             form="ὃ"
             lemma="ὅς"
@@ -68585,7 +68585,7 @@
    <sentence id="20"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.35.5"
-             span="">
+             span="Polybius Book 9: s-346">
       <word id="1"
             form="οὐ"
             lemma="οὐ"
@@ -68681,7 +68681,7 @@
    <sentence id="21"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.35.6"
-             span="">
+             span="Polybius Book 9: s-347">
       <word id="1"
             form="τῶν"
             lemma="ὁ"
@@ -68931,7 +68931,7 @@
    <sentence id="22"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.35.7"
-             span="">
+             span="Polybius Book 9: s-348">
       <word id="1"
             form="ἐχρῆν"
             lemma="χρή"
@@ -68978,7 +68978,7 @@
    <sentence id="23"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.35.7"
-             span="">
+             span="Polybius Book 9: s-349">
       <word id="1"
             form="ὑμεῖς"
             lemma="σύ"
@@ -69249,7 +69249,7 @@
    <sentence id="24"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.36.1"
-             span="">
+             span="Polybius Book 9: s-350">
       <word id="1"
             form="περὶ"
             lemma="περί"
@@ -69457,7 +69457,7 @@
    <sentence id="25"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.36.2"
-             span="">
+             span="Polybius Book 9: s-351">
       <word id="1"
             form="ἔγωγʼ"
             lemma="ἔγω"
@@ -69553,7 +69553,7 @@
    <sentence id="26"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.36.2"
-             span="">
+             span="Polybius Book 9: s-352">
       <word id="1"
             form="δοκεῖ"
             lemma="δοκέω"
@@ -69621,7 +69621,7 @@
    <sentence id="27"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.36.3"
-             span="">
+             span="Polybius Book 9: s-353">
       <word id="1"
             form="γνοίη"
             lemma="γιγνώσκω"
@@ -69675,7 +69675,7 @@
    <sentence id="28"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.36.3"
-             span="">
+             span="Polybius Book 9: s-354">
       <word id="1"
             form="ἐπολέμησε"
             lemma="πολεμέω"
@@ -69757,7 +69757,7 @@
    <sentence id="29"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.36.3"
-             span="">
+             span="Polybius Book 9: s-355">
       <word id="1"
             form="διὰ"
             lemma="διά"
@@ -69846,7 +69846,7 @@
    <sentence id="30"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.36.4"
-             span="">
+             span="Polybius Book 9: s-356">
       <word id="1"
             form="ὤφειλε"
             lemma="ὀφέλλω"
@@ -69893,7 +69893,7 @@
    <sentence id="31"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.36.4"
-             span="">
+             span="Polybius Book 9: s-357">
       <word id="1"
             form="τοσοῦτον"
             lemma="τοσοῦτος"
@@ -70080,7 +70080,7 @@
    <sentence id="32"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.36.5"
-             span="">
+             span="Polybius Book 9: s-358">
       <word id="1"
             form="ἀνθʼ"
             lemma="ἀντί"
@@ -70218,7 +70218,7 @@
    <sentence id="33"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.36.6"
-             span="">
+             span="Polybius Book 9: s-359">
       <word id="1"
             form="τί"
             lemma="τις"
@@ -70265,7 +70265,7 @@
    <sentence id="34"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.36.6"
-             span="">
+             span="Polybius Book 9: s-360">
       <word id="1"
             form="ἐρῶ"
             lemma="ἐρέω"
@@ -70319,7 +70319,7 @@
    <sentence id="35"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.36.6"
-             span="">
+             span="Polybius Book 9: s-361">
       <word id="1"
             form="ὑμεῖς"
             lemma="σύ"
@@ -70352,7 +70352,7 @@
    <sentence id="36"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.36.6"
-             span="">
+             span="Polybius Book 9: s-362">
       <word id="1"
             form="ποιήσω"
             lemma="ποιέω"
@@ -70511,7 +70511,7 @@
    <sentence id="37"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.36.7"
-             span="">
+             span="Polybius Book 9: s-363">
       <word id="1"
             form="τί"
             lemma="τις"
@@ -70551,7 +70551,7 @@
    <sentence id="38"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.36.7"
-             span="">
+             span="Polybius Book 9: s-364">
       <word id="1"
             form="ὅτι"
             lemma="ὅτι2"
@@ -70749,7 +70749,7 @@
    <sentence id="39"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.36.8"
-             span="">
+             span="Polybius Book 9: s-365">
       <word id="1"
             form="νὴ"
             lemma="νή"
@@ -70810,7 +70810,7 @@
    <sentence id="40"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.36.9"
-             span="">
+             span="Polybius Book 9: s-366">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -71004,7 +71004,7 @@
    <sentence id="41"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.36.10"
-             span="">
+             span="Polybius Book 9: s-367">
       <word id="1"
             form="πῶς"
             lemma="πῶς2"
@@ -71212,7 +71212,7 @@
    <sentence id="42"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.36.11"
-             span="">
+             span="Polybius Book 9: s-368">
       <word id="1"
             form="ἢ"
             lemma="ἤ1"
@@ -71303,7 +71303,7 @@
    <sentence id="43"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.36.12"
-             span="">
+             span="Polybius Book 9: s-369">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -71450,7 +71450,7 @@
    <sentence id="44"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.36.12"
-             span="">
+             span="Polybius Book 9: s-370">
       <word id="1"
             form="ὃ"
             lemma="ὅς"
@@ -71504,7 +71504,7 @@
    <sentence id="45"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.37.1"
-             span="">
+             span="Polybius Book 9: s-371">
       <word id="1"
             form="οὐ"
             lemma="οὐ"
@@ -71642,7 +71642,7 @@
    <sentence id="46"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.37.1"
-             span="">
+             span="Polybius Book 9: s-372">
       <word id="1"
             form="ἐπὶ"
             lemma="ἐπί"
@@ -71724,7 +71724,7 @@
    <sentence id="47"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.37.2"
-             span="">
+             span="Polybius Book 9: s-373">
       <word id="1"
             form="τοῦτο"
             lemma="οὗτος"
@@ -71946,7 +71946,7 @@
    <sentence id="48"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.37.2"
-             span="">
+             span="Polybius Book 9: s-374">
       <word id="1"
             form="ταῦτα"
             lemma="οὗτος"
@@ -72002,7 +72002,7 @@
    <sentence id="49"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.37.3"
-             span="">
+             span="Polybius Book 9: s-375">
       <word id="1"
             form="εἰ"
             lemma="εἰ"
@@ -72142,7 +72142,7 @@
    <sentence id="50"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.37.4"
-             span="">
+             span="Polybius Book 9: s-376">
       <word id="1"
             form="ἐρωτῶ"
             lemma="ἐρωτάω"
@@ -72280,7 +72280,7 @@
    <sentence id="51"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.37.4"
-             span="">
+             span="Polybius Book 9: s-377">
       <word id="1"
             form="ἆρʼ"
             lemma="ἆρα"
@@ -72329,7 +72329,7 @@
    <sentence id="52"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.37.5"
-             span="">
+             span="Polybius Book 9: s-378">
       <word id="1"
             form="τίσι"
             lemma="τις"
@@ -72432,7 +72432,7 @@
    <sentence id="53"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.37.6"
-             span="">
+             span="Polybius Book 9: s-379">
       <word id="1"
             form="ἆρʼ"
             lemma="ἆρα"
@@ -72495,7 +72495,7 @@
    <sentence id="54"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.37.6"
-             span="">
+             span="Polybius Book 9: s-380">
       <word id="1"
             form="ὅμοιά"
             lemma="ὅμοιος"
@@ -72612,7 +72612,7 @@
    <sentence id="55"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.37.7"
-             span="">
+             span="Polybius Book 9: s-381">
       <word id="1"
             form="τότε"
             lemma="τότε"
@@ -72750,7 +72750,7 @@
    <sentence id="56"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.37.7"
-             span="">
+             span="Polybius Book 9: s-382">
       <word id="1"
             form="νῦν"
             lemma="νῦν"
@@ -72972,7 +72972,7 @@
    <sentence id="57"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.37.9"
-             span="">
+             span="Polybius Book 9: s-383">
       <word id="1"
             form="ὥσπερ"
             lemma="ὥσπερ"
@@ -73285,7 +73285,7 @@
    <sentence id="58"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.37.10"
-             span="">
+             span="Polybius Book 9: s-384">
       <word id="1"
             form="βουλόμενοι"
             lemma="βούλομαι"
@@ -73563,7 +73563,7 @@
    <sentence id="59"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.38.1"
-             span="">
+             span="Polybius Book 9: s-385">
       <word id="1"
             form="ἅπαντας"
             lemma="ἅπας"
@@ -73673,7 +73673,7 @@
    <sentence id="60"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.38.2"
-             span="">
+             span="Polybius Book 9: s-386">
       <word id="1"
             form="ἐπεὶ"
             lemma="ἐπεί"
@@ -74049,7 +74049,7 @@
    <sentence id="61"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.38.3"
-             span="">
+             span="Polybius Book 9: s-387">
       <word id="1"
             form="τίνος"
             lemma="τις"
@@ -74149,7 +74149,7 @@
    <sentence id="62"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.38.4"
-             span="">
+             span="Polybius Book 9: s-388">
       <word id="1"
             form="ἆρʼ"
             lemma="ἆρα"
@@ -74303,7 +74303,7 @@
    <sentence id="63"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.38.5"
-             span="">
+             span="Polybius Book 9: s-389">
       <word id="1"
             form="ἄξιόν"
             lemma="ἄξιος"
@@ -74578,7 +74578,7 @@
    <sentence id="64"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.38.6"
-             span="">
+             span="Polybius Book 9: s-390">
       <word id="1"
             form="τούτοις"
             lemma="οὗτος"
@@ -74737,7 +74737,7 @@
    <sentence id="65"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.38.7"
-             span="">
+             span="Polybius Book 9: s-391">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -74840,7 +74840,7 @@
    <sentence id="66"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.38.8"
-             span="">
+             span="Polybius Book 9: s-392">
       <word id="1"
             form="οἵ"
             lemma="ὁ"
@@ -75062,7 +75062,7 @@
    <sentence id="67"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.38.9"
-             span="">
+             span="Polybius Book 9: s-393">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -75307,7 +75307,7 @@
    <sentence id="68"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.39.1"
-             span="">
+             span="Polybius Book 9: s-394">
       <word id="1"
             form="ἃ"
             lemma="ὅς"
@@ -75473,7 +75473,7 @@
    <sentence id="69"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.39.2"
-             span="">
+             span="Polybius Book 9: s-395">
       <word id="1"
             form="ἤδη"
             lemma="ἤδη"
@@ -75534,7 +75534,7 @@
    <sentence id="70"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.39.2"
-             span="">
+             span="Polybius Book 9: s-396">
       <word id="1"
             form="κατέσχον"
             lemma="κατέχω"
@@ -75637,7 +75637,7 @@
    <sentence id="71"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.39.3"
-             span="">
+             span="Polybius Book 9: s-397">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -75831,7 +75831,7 @@
    <sentence id="72"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.39.3"
-             span="">
+             span="Polybius Book 9: s-398">
       <word id="1"
             form="τὰ"
             lemma="ὁ"
@@ -75892,7 +75892,7 @@
    <sentence id="73"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.39.4"
-             span="">
+             span="Polybius Book 9: s-399">
       <word id="1"
             form="καλόν"
             lemma="καλός"
@@ -76200,7 +76200,7 @@
    <sentence id="74"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.39.6"
-             span="">
+             span="Polybius Book 9: s-400">
       <word id="1"
             form="καλὸν"
             lemma="καλός"
@@ -76625,7 +76625,7 @@
    <sentence id="75"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.39.7"
-             span="">
+             span="Polybius Book 9: s-401">
       <word id="1"
             form="εἰ"
             lemma="εἰ"
@@ -76812,7 +76812,7 @@
    <sentence id="76"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.40.1"
-             span="">
+             span="Polybius Book 9: s-402">
       <word id="1"
             form="τὸ"
             lemma="ὁ"
@@ -76901,7 +76901,7 @@
    <sentence id="77"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.40.2"
-             span="">
+             span="Polybius Book 9: s-403">
       <word id="1"
             form="προθυμίαν"
             lemma="προθυμία"
@@ -77064,7 +77064,7 @@
    <sentence id="78"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.40.3"
-             span="">
+             span="Polybius Book 9: s-404">
       <word id="1"
             form="εἴπερ"
             lemma="εἴπερ"
@@ -77204,7 +77204,7 @@
    <sentence id="79"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.40.4"
-             span="">
+             span="Polybius Book 9: s-405">
       <word id="1"
             form="οἱ"
             lemma="ὁ"
@@ -77405,7 +77405,7 @@
    <sentence id="80"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.40.5"
-             span="">
+             span="Polybius Book 9: s-406">
       <word id="1"
             form="εἰ"
             lemma="εἰ"
@@ -77573,7 +77573,7 @@
    <sentence id="81"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.40.6"
-             span="">
+             span="Polybius Book 9: s-407">
       <word id="1"
             form="περὶ"
             lemma="περί"
@@ -77725,7 +77725,7 @@
    <sentence id="82"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.41.1"
-             span="">
+             span="Polybius Book 9: s-408">
       <word id="1"
             form="προθέμενος"
             lemma="προτίθημι"
@@ -77954,7 +77954,7 @@
    <sentence id="83"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.41.2"
-             span="">
+             span="Polybius Book 9: s-409">
       <word id="1"
             form="τῆς"
             lemma="ὁ"
@@ -78064,7 +78064,7 @@
    <sentence id="84"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.41.3"
-             span="">
+             span="Polybius Book 9: s-410">
       <word id="1"
             form="τὰ"
             lemma="ὁ"
@@ -78339,7 +78339,7 @@
    <sentence id="85"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.41.4"
-             span="">
+             span="Polybius Book 9: s-411">
       <word id="1"
             form="διὰ"
             lemma="διά"
@@ -78540,7 +78540,7 @@
    <sentence id="86"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.41.5"
-             span="">
+             span="Polybius Book 9: s-412">
       <word id="1"
             form="τὸ"
             lemma="ὁ"
@@ -78664,7 +78664,7 @@
    <sentence id="87"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.41.6"
-             span="">
+             span="Polybius Book 9: s-413">
       <word id="1"
             form="ἐπὶ"
             lemma="ἐπί"
@@ -78781,7 +78781,7 @@
    <sentence id="88"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.41.6"
-             span="">
+             span="Polybius Book 9: s-414">
       <word id="1"
             form="οὗτοι"
             lemma="οὗτος"
@@ -78849,7 +78849,7 @@
    <sentence id="89"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.41.7"
-             span="">
+             span="Polybius Book 9: s-415">
       <word id="1"
             form="ἐκ"
             lemma="ἐκ"
@@ -78952,7 +78952,7 @@
    <sentence id="90"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.41.8"
-             span="">
+             span="Polybius Book 9: s-416">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -79108,7 +79108,7 @@
    <sentence id="91"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.41.9"
-             span="">
+             span="Polybius Book 9: s-417">
       <word id="1"
             form="ἀπὸ"
             lemma="ἀπό"
@@ -79379,7 +79379,7 @@
    <sentence id="92"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.41.10"
-             span="">
+             span="Polybius Book 9: s-418">
       <word id="1"
             form="ἐν"
             lemma="ἐν"
@@ -79559,7 +79559,7 @@
    <sentence id="93"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.41.11"
-             span="">
+             span="Polybius Book 9: s-419">
       <word id="1"
             form="οἱ"
             lemma="ὁ"
@@ -79739,7 +79739,7 @@
    <sentence id="94"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.41.11"
-             span="">
+             span="Polybius Book 9: s-420">
       <word id="1"
             form="διʼ"
             lemma="διά"
@@ -79828,7 +79828,7 @@
    <sentence id="95"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.41.12"
-             span="">
+             span="Polybius Book 9: s-421">
       <word id="1"
             form="οὐ"
             lemma="οὐ"
@@ -79966,7 +79966,7 @@
    <sentence id="96"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.42.1"
-             span="">
+             span="Polybius Book 9: s-422">
       <word id="1"
             form="Πόπλιος"
             lemma="Πόπλιος"
@@ -80541,7 +80541,7 @@
    <sentence id="97"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.42.4"
-             span="">
+             span="Polybius Book 9: s-423">
       <word id="1"
             form="οὐ"
             lemma="οὐ"
@@ -80700,7 +80700,7 @@
    <sentence id="98"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.42.5"
-             span="">
+             span="Polybius Book 9: s-424">
       <word id="1"
             form="ὅτι"
             lemma="ὅτι1"
@@ -80943,7 +80943,7 @@
    <sentence id="99"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.42.6"
-             span="">
+             span="Polybius Book 9: s-425">
       <word id="1"
             form="ὁ"
             lemma="ὁ"
@@ -81158,7 +81158,7 @@
    <sentence id="100"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.42.7"
-             span="">
+             span="Polybius Book 9: s-426">
       <word id="1"
             form="τὸ"
             lemma="ὁ"
@@ -81361,7 +81361,7 @@
    <sentence id="101"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.42.8"
-             span="">
+             span="Polybius Book 9: s-427">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -81429,7 +81429,7 @@
    <sentence id="102"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.42.8"
-             span="">
+             span="Polybius Book 9: s-428">
       <word id="1"
             form="τῇ"
             lemma="ὁ"
@@ -81679,7 +81679,7 @@
    <sentence id="103"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.43.1"
-             span="">
+             span="Polybius Book 9: s-429">
       <word id="1"
             form="ὁ"
             lemma="ὁ"
@@ -81873,7 +81873,7 @@
    <sentence id="104"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.43.2"
-             span="">
+             span="Polybius Book 9: s-430">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -81983,7 +81983,7 @@
    <sentence id="105"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.43.2"
-             span="">
+             span="Polybius Book 9: s-431">
       <word id="1"
             form="ταῖς"
             lemma="ὁ"
@@ -82093,7 +82093,7 @@
    <sentence id="106"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.43.3"
-             span="">
+             span="Polybius Book 9: s-432">
       <word id="1"
             form="διὸ"
             lemma="διό"
@@ -82189,7 +82189,7 @@
    <sentence id="107"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.43.3"
-             span="">
+             span="Polybius Book 9: s-433">
       <word id="1"
             form="τοῖς"
             lemma="ὁ"
@@ -82406,7 +82406,7 @@
    <sentence id="108"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.43.4"
-             span="">
+             span="Polybius Book 9: s-434">
       <word id="1"
             form="οὗτος"
             lemma="οὗτος"
@@ -82581,7 +82581,7 @@
    <sentence id="109"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.43.5"
-             span="">
+             span="Polybius Book 9: s-435">
       <word id="1"
             form="αἴτιον"
             lemma="αἴτιος"
@@ -82905,7 +82905,7 @@
    <sentence id="110"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.43.6"
-             span="">
+             span="Polybius Book 9: s-436">
       <word id="1"
             form="ᾗ"
             lemma="ὅς"
@@ -83164,7 +83164,7 @@
    <sentence id="111"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.44.1"
-             span="">
+             span="Polybius Book 9: s-437">
       <word id="1"
             form="ὅτι"
             lemma="ὅτι1"
@@ -83302,7 +83302,7 @@
    <sentence id="112"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.44.1"
-             span="">
+             span="Polybius Book 9: s-438">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -83598,7 +83598,7 @@
    <sentence id="113"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.45.1"
-             span="">
+             span="Polybius Book 9: s-439">
       <word id="1"
             form="Πολύβιος"
             lemma="Πολύβιος"
@@ -83729,7 +83729,7 @@
    <sentence id="114"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.45.1"
-             span="">
+             span="Polybius Book 9: s-440">
       <word id="1"
             form="Ἀρσινόη"
             lemma="Ἀρσινόη"
@@ -83769,7 +83769,7 @@
    <sentence id="115"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.45.2"
-             span="">
+             span="Polybius Book 9: s-441">
       <word id="1"
             form="..."
             lemma="punc1"
@@ -83906,7 +83906,7 @@
    <sentence id="116"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.45.2"
-             span="">
+             span="Polybius Book 9: s-442">
       <word id="1"
             form="Ξυνία"
             lemma="Ξυνία"
@@ -83946,7 +83946,7 @@
    <sentence id="117"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.45.3"
-             span="">
+             span="Polybius Book 9: s-443">
       <word id="1"
             form="Πολύβιος"
             lemma="Πολύβιος"
@@ -83981,7 +83981,7 @@
    <sentence id="118"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.45.3"
-             span="">
+             span="Polybius Book 9: s-444">
       <word id="1"
             form="Φόρουννα"
             lemma="Φόρουννα"
@@ -84021,7 +84021,7 @@
    <sentence id="119"
              document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
              subdoc="9.45.3"
-             span="">
+             span="Polybius Book 9: s-445">
       <word id="1"
             form="Πολύβιος"
             lemma="Πολύβιος"

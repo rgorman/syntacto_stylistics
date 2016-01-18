@@ -2098,7 +2098,7 @@
       <sentence id="47" document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1" subdoc="10.6.6"
             span="">
             <word id="1" form="περὶ" lemma="περί" postag="r--------" relation="AuxP" head="6"/>
-            <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="" head=""/>
+            <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="5"/>
             <word id="3" form="τῶν" lemma="ὁ" postag="l-p---ng-" relation="SBJ" head="1"/>
             <word id="4" form="ἑξῆς" lemma="ἑξῆς" postag="d-------p" relation="ATR" head="3"/>
             <word id="5" form="ἀνεδέχετο" lemma="ἀναδέχομαι" postag="v3siie---" relation="PRED"

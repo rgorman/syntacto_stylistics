@@ -44868,7 +44868,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="37"
+            head="0"
             cite=""/>
       <word id="42"
             form="ὃ"
@@ -51338,7 +51338,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=""/>
       <word id="15"
             form="μετὰ"
@@ -51366,7 +51366,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=""/>
       <word id="19"
             form="καὶ"

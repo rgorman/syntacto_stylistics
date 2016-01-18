@@ -23830,7 +23830,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=""/>
       <word id="10"
             form="καὶ"
@@ -23844,7 +23844,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=""/>
       <word id="12"
             form="τὸν"
@@ -35222,7 +35222,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="36"
+            head="0"
             cite=""/>
       <word id="36"
             form="τοὺς"
@@ -35236,7 +35236,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="36"
+            head="0"
             cite=""/>
       <word id="38"
             form="παρὰ"
@@ -64796,7 +64796,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=""/>
       <word id="14"
             form="βραδέως"

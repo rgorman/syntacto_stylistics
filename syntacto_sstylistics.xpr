@@ -51,7 +51,7 @@
                                     <String></String>
                                 </field>
                                 <field name="inputXSLURL">
-                                    <String>${pdu}/xsl%20files/find_AuxX_with_dependencies.xsl</String>
+                                    <String>${pdu}/xsl%20files/set_AuxX_head_to_zero.xsl</String>
                                 </field>
                                 <field name="inputXMLURL">
                                     <String>${currentFileURL}</String>

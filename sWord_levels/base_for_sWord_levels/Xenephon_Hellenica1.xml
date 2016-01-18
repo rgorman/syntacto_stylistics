@@ -15483,8 +15483,8 @@
             form="καὶ"
             lemma="καί"
             postag="d--------"
-            relation=""
-            head=""
+            relation="AuxY"
+            head="13"
             cite=" Xenophon Hellenica Book 1 : s-103 w-1"/>
       <word id="2"
             form="τοὺς"
@@ -15497,8 +15497,8 @@
             form="μὲν"
             lemma="μέν"
             postag="d--------"
-            relation=""
-            head=""
+            relation="AuxY"
+            head="13"
             cite=" Xenophon Hellenica Book 1 : s-103 w-3"/>
       <word id="4"
             form="ἄλλους"

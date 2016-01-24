@@ -6,7 +6,7 @@ source("code/corpusFunctions.R")
 # location of files: C:\Users\rgorm\Documents\syntacto_stylistics\sWord_levels\files_with_sWords
 
 
-input.dir <- "../sWord_levels/files_with_sWords"
+input.dir <- "../sWord_levels/files_with_sWords/VG_files"
 files.v <- dir(path=input.dir, pattern=".*xml")
 
 
@@ -98,7 +98,7 @@ rownames(final.m)
 
 
 # reduce data matrix to features with largest means (most common features)
-smaller.m <- final.m[, apply(final.m,2,mean)>=.025]
+smaller.m <- final.m[, apply(final.m,2,mean)>=.0025]
 
 # check size of reduced feature set
 dim(smaller.m)

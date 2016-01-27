@@ -66,7 +66,7 @@ View(test.m)
 sorted.m <- test.m
 
 # save results as .csv file
-write.csv(sorted.m, file="Rresults/StatsRelPos532_Oct18c.csv")
+write.csv(sorted.m, file="Rresults/stats_sWordLevels_Jan26_2016.csv")
 
 # create file with z-scores for sorted.m
 zscore.m <- scale(sorted.m)
@@ -78,10 +78,10 @@ combined.m <- cbind (sorted.m, zscore.m)
 View(combined.m)
 
 # a vector to serve as an index to reorder the columns
-s <- rep(1:531, each=2) + (0:1) * 531
+s <- rep(1:3515, each=2) + (0:1) * 3515
 
 # create container matrix
-y <- matrix("blah", nrow=36, ncol=1)
+y <- matrix("blah", nrow=16, ncol=1)
 
 
 # a loop to bind columns in desired order

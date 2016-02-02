@@ -21,7 +21,7 @@ sWord.freq.table.list <- list()
 for (i in 1:length(files.v))  {
   
   # read xml structure from file to .R object
-  doc.object <- xmlTreeParse(file.path(input.dir, files.v[1]), useInternalNodes=TRUE)
+  doc.object <- xmlTreeParse(file.path(input.dir, files.v[i]), useInternalNodes=TRUE)
   # extract all <word> elements and children into XmlNodeList object
   word.nodes <- getNodeSet(doc.object, "//word")
   
@@ -31,9 +31,8 @@ for (i in 1:length(files.v))  {
   max.length <- length(word.nodes)/divisor
   x <- seq_along(word.nodes)
   chunks.l <- split(word.nodes, ceiling(x/max.length))
-  chunks.l[[1]][1]
-  sWord.nodes[[1]]
-  length(sWord.nodes)
+  
+  
   
   sWord.nodes.l <- list()
   # construct a loop to extract sWord elements
@@ -44,42 +43,67 @@ for (i in 1:length(files.v))  {
     
   }
   
+  # reset increment
+  k <- 1
   
   
   
+  # the following nested loops extract the content from sWord elements
   
-  # extract all <sWord> elements from word,nodes. The result is an XMLNodeList object.
-  # sWord.nodes <- sapply(word.nodes, xmlChildren)
+  # create vector object to hold results
+  combined.content <- NULL
   
+  # set increment counter to 1
+  m <- 1
   
-  # The following loop extracts contents of all <sWord> elements, i.e., extracts the sWords themselve srom the XML.
-  
-  # set incremetal variable for loop
-  j <- 1
-  
-  # create vector object sWord,contents with no content.
-  sWord.contents <- NULL
-  
-  for (j in 1:length(sWord.nodes)) {
+  # loop for number of tokens in chunk (= length of sWord.nodes.l[[1]])
+  for (m in 1:length(sWord.nodes.l[[1]])) {
     
+    # extract sWord nodes for 1 token at a tiime; result is an XML list object with content which
+    # includes sWord xml tags.
     
-    # extract contents of all <sWord> elements. Result is a charcter vector object.
-    sWord.contents <- append(sWord.contents, paste(sapply(sWord.nodes[[j]], xmlValue), collapse = NULL))
+    single.token <- sWord.nodes.l[[1]][m]
     
+    # strip sWord level xml tags from data; result is a xml list object
+    content.nodes <- sapply(single.token[[1]], xmlChildren)
+    
+    # create a loop to convert the content of the xml list object to a character vector
+    # xmlValue extracts the data and append puts them in a vector
+    
+    # create vector for output
+    extracted.content.v <- NULL
+    
+    # set increment counter to 1
+    n <- 1
+    
+    # iterate loop through each successive content.nodes object produced by matrix loop
+    for (n in 1:length(content.nodes)) {
+      
+      # add successively extracted content to vector
+      extracted.content.v <- append(extracted.content.v, xmlValue(content.nodes[[n]]))
+      
+    }
+    
+    # collect output of nested loop in vector of all sWords for each token in chunk
+    combined.content <- append(combined.content, extracted.content.v)
     
   }
   
+ 
+  
+  
+  
   # change sWord.contents vector to lower case
-  sWord.contents <- tolower(sWord.contents)
+  combined.content <- tolower(combined.content)
   
   # create a contingency table of sWord.contents. The table lists nuber of occurences for all sWords.
-  sWord.table <- table(sWord.contents)
+  sWord.table <- table(combined.content)
   
   # normalize sWord.table by dividing by total sWords. Multiply by 100 to produce rate of sWord occurence per 100 sWords.
   sWord.freq.table <- 100*(sWord.table/sum(sWord.table))
   
   # insert sWord.freq.table into list
-  sWord.freq.table.list[[i]] <- sWord.freq.table
+  sWord.freq.table.list[[length(sWord.freq.table.list)+1]] <- sWord.freq.table
   
 }
 

@@ -194,20 +194,7 @@ for (i in 1:length(files.v)) {
 
 
 
-#this function is applied to a list of lists of tables to convert to matrix
-my.apply2 <- function(x){
-  my.list <-mapply(data.frame, 
-                   x, SIMPLIFY=FALSE,
-                   MoreArgs=list(stringsAsFactors=FALSE))
-  my.df <- do.call(rbind, my.list)
-  return(my.df)
-}
-
-sWord.freq.table.list[[1]][1:10]
-freqs.l[[1]][1:10]
-
-freqs.l <-data.frame(sWord.freq.table.list[[1]], ID=seq_along(sWord.freq.table.list[[1]]), 
-                     stringsAsFactors=FALSE )
+# convert to list of matrices
 
 i <- 1
 for (i in 1:length(sWord.freq.table.list)) {
@@ -217,42 +204,117 @@ for (i in 1:length(sWord.freq.table.list)) {
 }
 
 
-names(freqs.l[[1]])
-row.names(freqs.l)
-seq_along(sWord.freq.table.list[[1]])
-View(freqs.l[[2]])
-
-summary(sWord.freq.table.list)
-names(sWord.freq.table.list[[1]])
-freqs.l <- list()
-
-#convert list into matrix object
-#this code requires the user defined function "my.apply"
-freqs.l <- lapply(sWord.freq.table.list, my.apply2)
-
-summary(freqs.l)
+# convert to single matrix
 
 freqs.df <- do.call(rbind, freqs.l)
 #the result is a long form data frame
 
-lengths(sWord.freq.table.list)
-freqs.df[4070:4080,]
 
 View(freqs.df)
 
 dim(freqs.df)
 
-# create .csv file for inspection (very optional!!)
-write.csv(freqs.df, file="sWord_output/inspect1.csv")
 
-#make name labels for the file
-bookids.v <- gsub(".xml.\\d+", "", rownames(freqs.df))
+# we must make ID labels so that sWords are identified by file and chunk of origin. This is necessary before we
+# can make a combined frequency table based on individual chunks
 
 
+# remove .xml suffix  from file names and store result in vector for generation of row labels
+bookids.v <- gsub(".xml", "", files.v)
 
-      
-lengths(sWord.freq.table.list)
-         
-         
-   rm(list = ls())      
+
+# these loops  will create a vector of the proper id tags
+
+# this loop gives us the number of chunks from each file and stores the results in chunk.total
+chunk.total <- NULL
+
+for (i in 1:length(files.v))  {
+  
+  # read xml structure from file to .R object
+  doc.object <- xmlTreeParse(file.path(input.dir, files.v[i]), useInternalNodes=TRUE)
+  # extract all <word> elements and children into XmlNodeList object
+  word.nodes <- getNodeSet(doc.object, "//word")
+  
+  # here we must split files into chunks
+  
+  divisor <- length(word.nodes)/2000
+  max.length <- length(word.nodes)/divisor
+  x <- seq_along(word.nodes)
+  chunks.l <- split(word.nodes, ceiling(x/max.length))
+  
+  chunk.total <- append(chunk.total, length(chunks.l))
+  
+  
+  
+}
+
+
+# this series of nested loops uses chunk.total to produce a vector (ID.holder) containing the correct set of chunk
+#identifier tags
+
+
+i <- 1
+chunk.number <- NULL
+ID.holder <- NULL
+n <- 1
+
+for (i in 1:length(chunk.total)) {
+  
+  chunk.number <- seq_along(1:chunk.total[i])
+  # chunk.number corresponds to the different file names to used in row IDs
+  
+  for (j in 1:length(chunk.number)) {
+    
+    single.name <- paste(bookids.v[i], chunk.number[j], sep = "-", collapse = NULL)
+    ID.holder <- append(ID.holder, rep(single.name, nrow(freqs.l[[n]])))
+    n <-n+1
+    
+  }
+  
+  j <- 1
+  
+}
+
+
+
+
+# back up results by creating new data frame object to work on
+freqs.df2 <- freqs.df
+
+# add newly created labels to new data frame object. 
+freqs.df2$ID <- ID.holder
+
+
+
+#cross tabulate data; check to be sure names are correct
+result.t <- xtabs(Freq ~ ID+combined.content, data=freqs.df2)
+dim(result.t)
+
+
+
+#convert to a data frame
+final.df <- as.data.frame.matrix(result.t)
+
+
+
+#reduce the feature set
+
+# extract the mean of each column
+freq.means.v <- colMeans(final.df[, ])
+
+#collect column means of a given magnitude
+keepers.v <- which(freq.means.v >=.003)
+
+
+#use keepers.v to make a smaller data frame object for analysis
+smaller.df <- final.df[, keepers.v]
+
+
+dim(smaller.df)
+
+
+
+
+
+
          

@@ -84,7 +84,7 @@ for (i in 1:length(files.v)) {
   
   # here we must split files into chunks
   
-  divisor <- length(word.nodes)/2000
+  divisor <- length(word.nodes)/1500
   max.length <- length(word.nodes)/divisor
   x <- seq_along(word.nodes)
   chunks.l <- split(word.nodes, ceiling(x/max.length))
@@ -175,7 +175,9 @@ for (i in 1:length(files.v)) {
 # !! stop here for evaluation
 
 
-
+str(sWord.freq.table.list)
+length(sWord.freq.table.list)
+lengths(sWord.freq.table.list)
 
 
 # convert to list of matrices

@@ -3,11 +3,13 @@
 # script to test svm classification
 
 
-chunk.ratios.m <- read.csv(file="Rresults/matrices/chunk_ratios_94per2000_noShorts.csv", stringsAsFactors = FALSE)
+chunk.ratios.m <- read.csv(file="Rresults/matrices/chunk_ratios_1500.csv", stringsAsFactors = FALSE)
 chunk.ratios.m[,2]
 
+
+# we must have a list naming the author for each chunk; this should be automized
 author.factor <- NULL
-author.factor <- append(author.factor, rep("Xenophon", 4))
+author.factor <- append(author.factor, rep("Thucydides", 16))
 
 
 short.chunks.index <- c(5,21,35,40,46,62,64,78,82,91:94)
@@ -27,7 +29,7 @@ for (i in 1:1000) {
   
   
   #create vector of random integers = 10% of obs in smaller.df
-  testing.index.v <- sample (seq (1, nrow(no.short.smaller.df)), 10, prob = chunk.ratios.m[, 2])
+  testing.index.v <- sample (seq (1, nrow(no.short.smaller.df)), 12, prob = chunk.ratios.m[, 2])
   
   
   #create training and testing data matrices using testing.index.v and its inverse

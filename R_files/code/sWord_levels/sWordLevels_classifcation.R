@@ -29,7 +29,7 @@ for (i in 1:1000) {
   
   
   #create vector of random integers = 10% of obs in smaller.df
-  testing.index.v <- sample (seq (1, nrow(no.short.smaller.df)), 12, prob = chunk.ratios.m[, 2])
+  testing.index.v <- sample (seq (1, nrow(smaller.df)), 12, prob = chunk.ratios.m[, 2])
   
   
   #create training and testing data matrices using testing.index.v and its inverse
@@ -41,7 +41,7 @@ for (i in 1:1000) {
   testing.classes <- as.factor(author.factor[testing.index.v])
   
   
-  model.svm <- svm(training.data, training.classes, kernel = "linear")
+  model.svm <- svm(training.data, training.classes, kernel = "linear", scale = FALSE)
   
   svm.results.l[[i]] <- predict(model.svm, testing.data)
   svm.error.matrix.l[[i]] <- errormatrix(testing.classes, svm.results.l[[i]])
@@ -56,16 +56,21 @@ a <- do.call(rbind, svm.error.matrix.l)
 
 View(a)
 
-sum(a[,7])
+sum(a[,6])
 
 10000-(sum(a[,7])/2)
 
-(10000-(sum(a[,7])/2))/10000
+(12000-(sum(a[,6])/2))/12000
 
 
+length(svm.error.matrix.l)
+svm.error.matrix.l[[1000]]
+recheck <- svm(training.data, training.classes, kernel = "linear", scale = FALSE)
+
+predict(recheck, testing.data)
 
 10000-323
-write.csv(a, file="Rresults/svmError_matrix_2000_noShorts_Feb-6-2016.csv")
+write.csv(a, file="Rresults/svmError_matrix_1500_Feb-6-2016.csv")
 
 
 

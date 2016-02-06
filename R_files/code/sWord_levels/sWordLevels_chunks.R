@@ -1,63 +1,7 @@
-library(XML)
-
-source("code/corpusFunctions.R")
-input.dir <- "../sWord_levels/files_with_sWords/VG_files"
-files.v <- dir(path=input.dir, pattern=".*xml")
 
 
-
-
-
-
-# the following nested loops extract the content from sWord elements
-
-# create vector object to hold results
-combined.content <- NULL
-
-# set increment counter to 1
-m <- 1
-
-# loop for number of tokens in chunk (= length of sWord.nodes.l[[1]])
-for (m in 1:length(sWord.nodes.l[[1]])) {
-  
-  # extract sWord nodes for 1 token at a tiime; result is an XML list object with content which
-  # includes sWord xml tags.
-  
-  single.token <- sWord.nodes.l[[1]][m]
-  
-  # strip sWord level xml tags from data; result is a xml list object
-  content.nodes <- sapply(single.token[[1]], xmlChildren)
-  
-  # create a loop to convert the content of the xml list object to a character vector
-  # xmlValue extracts the data and append puts them in a vector
-  
-  # create vector for output
-  extracted.content.v <- NULL
-  
-  # set increment counter to 1
-  n <- 1
-  
-  # iterate loop through each successive content.nodes object produced by matrix loop
-  for (n in 1:length(content.nodes)) {
-    
-    # add successively extracted content to vector
-    extracted.content.v <- append(extracted.content.v, xmlValue(content.nodes[[n]]))
-    
-  }
-  
-  # collect output of nested loop in vector of all sWords for each token in chunk
-  combined.content <- append(combined.content, extracted.content.v)
-  
-}
-
-y
-extracted.content.v
-content.nodes
-length(content.nodes)
-xmlValue(content.nodes[[n]])
-combined.content[length(combined.content)]
-
-
+# clean workspace
+rm(list = ls())
 
 # !! begin here for test of script for chunks of sWord levels
 
@@ -84,7 +28,7 @@ for (i in 1:length(files.v)) {
   
   # here we must split files into chunks
   
-  divisor <- length(word.nodes)/1500
+  divisor <- length(word.nodes)/1000
   max.length <- length(word.nodes)/divisor
   x <- seq_along(word.nodes)
   chunks.l <- split(word.nodes, ceiling(x/max.length))
@@ -182,7 +126,11 @@ lengths(sWord.freq.table.list)
 
 # convert to list of matrices
 
+
 i <- 1
+
+freqs.l <- list()
+
 for (i in 1:length(sWord.freq.table.list)) {
   
   freqs.l[[i]] <-data.frame(sWord.freq.table.list[[i]], ID=seq_along(sWord.freq.table.list[[i]]), 
@@ -215,6 +163,7 @@ bookids.v <- gsub(".xml", "", files.v)
 # these loops  will create a vector of the proper id tags
 
 # this loop gives us the number of chunks from each file and stores the results in chunk.total
+# note that chunk length must be same as in the above extraction loop
 chunk.total <- NULL
 
 for (i in 1:length(files.v))  {
@@ -226,7 +175,7 @@ for (i in 1:length(files.v))  {
   
   # here we must split files into chunks
   
-  divisor <- length(word.nodes)/2000
+  divisor <- length(word.nodes)/1000
   max.length <- length(word.nodes)/divisor
   x <- seq_along(word.nodes)
   chunks.l <- split(word.nodes, ceiling(x/max.length))
@@ -265,7 +214,7 @@ for (i in 1:length(chunk.total)) {
 }
 
 
-
+ID.holder[2238:2242]
 
 
 # back up results by creating new data frame object to work on
@@ -312,7 +261,7 @@ ordered.df <- smaller.df[, order(colMeans(smaller.df), decreasing=TRUE)]
 View(ordered.df)
 
 #save data frame object to .csv file
-write.csv(ordered.df, file = "Rresults/matrices/sWordLevels_2000tokenChunks_Feb-5-2016.csv")
+write.csv(ordered.df, file = "Rresults/matrices/sWordLevels_1000tokenChunks_Feb-6-2016.csv")
 
 
 # reseve full ordered.df and smaller.df for backup

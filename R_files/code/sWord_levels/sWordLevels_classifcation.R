@@ -3,11 +3,16 @@
 # script to test svm classification
 
 
-chunk.ratios.m <- read.csv(file="Rresults/matrices/chunk_ratios_94per2000.csv", stringsAsFactors = FALSE)
-chunk.ratios.m[1:90,2]
+chunk.ratios.m <- read.csv(file="Rresults/matrices/chunk_ratios_94per2000_noShorts.csv", stringsAsFactors = FALSE)
+chunk.ratios.m[,2]
 
 author.factor <- NULL
 author.factor <- append(author.factor, rep("Xenophon", 4))
+
+
+short.chunks.index <- c(5,21,35,40,46,62,64,78,82,91:94)
+no.short.smaller.df <- smaller.df[-(short.chunks.index),]
+nrow(no.short.smaller.df)
 
 
 svm.results.l <- list()
@@ -22,7 +27,7 @@ for (i in 1:1000) {
   
   
   #create vector of random integers = 10% of obs in smaller.df
-  testing.index.v <- sample (seq (1, 90), 10, prob=chunk.ratios.m[1:90,2])
+  testing.index.v <- sample (seq (1, nrow(no.short.smaller.df)), 10, prob = chunk.ratios.m[, 2])
   
   
   #create training and testing data matrices using testing.index.v and its inverse
@@ -51,8 +56,14 @@ View(a)
 
 sum(a[,7])
 
-10000-413
-write.csv(a, file="Rresults/svmError_matrix_Feb-6-2016.csv")
+10000-(sum(a[,7])/2)
+
+(10000-(sum(a[,7])/2))/10000
+
+
+
+10000-323
+write.csv(a, file="Rresults/svmError_matrix_2000_noShorts_Feb-6-2016.csv")
 
 
 

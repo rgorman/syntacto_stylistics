@@ -28,7 +28,7 @@ for (i in 1:length(files.v)) {
   
   # here we must split files into chunks
   
-  divisor <- length(word.nodes)/1000
+  divisor <- length(word.nodes)/500
   max.length <- length(word.nodes)/divisor
   x <- seq_along(word.nodes)
   chunks.l <- split(word.nodes, ceiling(x/max.length))
@@ -122,7 +122,7 @@ for (i in 1:length(files.v)) {
 str(sWord.freq.table.list)
 length(sWord.freq.table.list)
 lengths(sWord.freq.table.list)
-
+mean(lengths(sWord.freq.table.list))
 
 # convert to list of matrices
 
@@ -175,7 +175,7 @@ for (i in 1:length(files.v))  {
   
   # here we must split files into chunks
   
-  divisor <- length(word.nodes)/1000
+  divisor <- length(word.nodes)/500
   max.length <- length(word.nodes)/divisor
   x <- seq_along(word.nodes)
   chunks.l <- split(word.nodes, ceiling(x/max.length))
@@ -242,7 +242,7 @@ final.df <- as.data.frame.matrix(result.t)
 freq.means.v <- colMeans(final.df[, ])
 
 #collect column means of a given magnitude
-keepers.v <- which(freq.means.v >=.003)
+keepers.v <- which(freq.means.v >=.0028)
 
 
 #use keepers.v to make a smaller data frame object for analysis
@@ -261,7 +261,7 @@ ordered.df <- smaller.df[, order(colMeans(smaller.df), decreasing=TRUE)]
 View(ordered.df)
 
 #save data frame object to .csv file
-write.csv(ordered.df, file = "Rresults/matrices/sWordLevels_1000tokenChunks_Feb-6-2016.csv")
+write.csv(ordered.df, file = "Rresults/matrices/sWordLevels_500tokenChunks_Feb-6-2016.csv")
 
 
 # reseve full ordered.df and smaller.df for backup

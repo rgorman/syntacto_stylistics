@@ -2,19 +2,22 @@
 
 # script to test svm classification
 
+# rename ordered.df as smaller.df to fit in following script
+smaller.df <- ordered.df
 
-chunk.ratios.m <- read.csv(file="Rresults/matrices/chunk_ratios_250.csv", stringsAsFactors = FALSE)
+# remove ordered.df from memory
+rm(ordered.df)
+
+
+
+chunk.ratios.m <- read.csv(file="Rresults/matrices/chunk_ratios_100.csv", stringsAsFactors = FALSE)
 chunk.ratios.m[,2]
 
 
-# we must have a list naming the author for each chunk; this should be automized
+# we must have a list naming the author for each chunk; this should be automated
 author.factor <- NULL
-author.factor <- append(author.factor, rep("Thucydides", 96))
+author.factor <- append(author.factor, rep("Thucydides", 240))
 
-
-short.chunks.index <- c(5,21,35,40,46,62,64,78,82,91:94)
-no.short.smaller.df <- smaller.df[-(short.chunks.index),]
-nrow(no.short.smaller.df)
 
 
 svm.results.l <- list()

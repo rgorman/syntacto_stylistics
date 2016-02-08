@@ -28,7 +28,7 @@ for (i in 1:length(files.v)) {
   
   # here we must split files into chunks
   
-  divisor <- length(word.nodes)/250
+  divisor <- length(word.nodes)/100
   max.length <- length(word.nodes)/divisor
   x <- seq_along(word.nodes)
   chunks.l <- split(word.nodes, ceiling(x/max.length))
@@ -123,6 +123,8 @@ str(sWord.freq.table.list)
 length(sWord.freq.table.list)
 lengths(sWord.freq.table.list)
 mean(lengths(sWord.freq.table.list))
+summary(lengths(sWord.freq.table.list))
+
 
 # convert to list of matrices
 
@@ -166,6 +168,8 @@ bookids.v <- gsub(".xml", "", files.v)
 # note that chunk length must be same as in the above extraction loop
 chunk.total <- NULL
 
+i <- 1
+
 for (i in 1:length(files.v))  {
   
   # read xml structure from file to .R object
@@ -175,7 +179,7 @@ for (i in 1:length(files.v))  {
   
   # here we must split files into chunks
   
-  divisor <- length(word.nodes)/250
+  divisor <- length(word.nodes)/100
   max.length <- length(word.nodes)/divisor
   x <- seq_along(word.nodes)
   chunks.l <- split(word.nodes, ceiling(x/max.length))
@@ -214,7 +218,7 @@ for (i in 1:length(chunk.total)) {
 }
 
 
-ID.holder[794:800]
+ID.holder[384:387]
 
 
 # back up results by creating new data frame object to work on
@@ -222,7 +226,6 @@ freqs.df2 <- freqs.df
 
 # add newly created labels to new data frame object. 
 freqs.df2$ID <- ID.holder
-
 
 
 #cross tabulate data; check to be sure names are correct
@@ -234,7 +237,8 @@ dim(result.t)
 #convert to a data frame
 final.df <- as.data.frame.matrix(result.t)
 
-
+# remove result.t from memory; this is necessary when dealing with a large number of chunks
+rm(result.t)
 
 #reduce the feature set
 
@@ -243,6 +247,7 @@ freq.means.v <- colMeans(final.df[, ])
 
 #collect column means of a given magnitude
 keepers.v <- which(freq.means.v >=.003)
+
 
 
 #use keepers.v to make a smaller data frame object for analysis
@@ -254,17 +259,21 @@ dim(smaller.df)
 
 
 
-
-
 # order columns by column mean, largest to smallest and create object with results
 ordered.df <- smaller.df[, order(colMeans(smaller.df), decreasing=TRUE)]
 View(ordered.df)
 
+# free memory by removing data frame objects no longer necessary
+
+rm(final.df, freqs.df2, smaller.df)
+
+# house cleaning
+rm(chunks.l, freq.means.v, freqs.l, ID.holder, sWord.freq.table.list, sWord.nodes.l, word.nodes)
+
 #save data frame object to .csv file
-write.csv(ordered.df, file = "Rresults/matrices/sWordLevels_250tokenChunks_Feb-6-2016.csv")
+write.csv(ordered.df, file = "Rresults/matrices/sWordLevels_100tokenChunks_Feb-7-2016.csv")
 
 
-# reseve full ordered.df and smaller.df for backup
-ordered.df.backup <- ordered.df
-smaller.df.backup <- smaller.df
+
+
 

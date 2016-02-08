@@ -2,6 +2,10 @@
 
 # script to test svm classification
 
+require(e1071)
+require(gmodels)
+require(klaR)
+
 # rename ordered.df as smaller.df to fit in following script
 smaller.df <- ordered.df
 
@@ -32,7 +36,7 @@ for (i in 1:1000) {
   
   
   #create vector of random integers = 10% of obs in smaller.df
-  testing.index.v <- sample (seq (1, nrow(smaller.df)), 70, prob = chunk.ratios.m[, 2])
+  testing.index.v <- sample (seq (1, nrow(smaller.df)), 170, prob = chunk.ratios.m[, 2])
   
   
   #create training and testing data matrices using testing.index.v and its inverse
@@ -66,7 +70,7 @@ sum(a[,6])/2
 
 10000-(sum(a[,7])/2)
 
-(70000-(sum(a[,6])/2))/70000
+(170000-(sum(a[,6])/2))/170000
 
 
 length(svm.error.matrix.l)
@@ -80,7 +84,7 @@ predict(model.svm, testing.data)
 predict(recheck, testing.data)
 
 10000-323
-write.csv(a, file="Rresults/svmError_matrix_250_Feb-7-2016.csv")
+write.csv(a, file="Rresults/svmError_matrix_100_Feb-7-2016.csv")
 
 retest <- naiveBayes(smaller.df, author.factor)
 predict(retest, testing.data)

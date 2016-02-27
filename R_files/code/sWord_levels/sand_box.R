@@ -313,6 +313,17 @@ smaller.df <- final.df[, keepers.v]
 dim(smaller.df)
 
 
+## try http:// if https:// URLs are not supported
+source("https://bioconductor.org/biocLite.R")
+biocLite()
+
+
+biocLite(c("graph", "RGBL"))
+
+a
+?remove.packages
+
+remove.packages(QuACN)
 
 
 

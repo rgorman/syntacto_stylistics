@@ -325,7 +325,7 @@ a
 
 remove.packages(QuACN)
 
-
+require(igraph)
 
 
          

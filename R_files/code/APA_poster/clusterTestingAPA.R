@@ -8,7 +8,7 @@ source("code/corpusFunctions.R")
 # location of files: C:\Users\rgorm\Documents\syntacto_stylistics\APA_Poster\sWord_files\divided_authors
 
 
-input.dir <- "../APA_Poster/sWord_files/divided_authors"
+input.dir <- "../Presentations/APA_Poster/sWord_files/divided_authors"
 files.v <- dir(path=input.dir, pattern=".*xml")
 
 length(files.v)
@@ -81,6 +81,10 @@ groups <- hclust(dist.smaller.m, method="ward.D2")
 
 # plot the results
 plot(groups, hang=-1, xlab="Perseus Treebank", main="Dendrogram of Ancient Languages Dependency Treebank")
+
+
+
+
 
 # use package dendextend to improve appearance of dendrogram
 dend <- as.dendrogram(groups)

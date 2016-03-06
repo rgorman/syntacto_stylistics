@@ -60,7 +60,7 @@
                                             parent::sentence/word[@id = $head_3]/@id,
                                             parent::sentence/word[@id = $head_2]/@id,
                                             parent::sentence/word[@id = $head_1]/@id,
-                                            ./@id ), ',')"/>                                       
+                                            ./@id ), ' ')"/>                                       
                                         
                                     </xsl:when>
                                     
@@ -80,7 +80,7 @@
                                             parent::sentence/word[@id = $head_3]/@id,
                                             parent::sentence/word[@id = $head_2]/@id,
                                             parent::sentence/word[@id = $head_1]/@id,
-                                            ./@id ), ',')"/>                                       
+                                            ./@id ), ' ')"/>                                       
                                         
                                     </xsl:when>
                                     <xsl:when test="$head_14 = 0">
@@ -98,7 +98,7 @@
                                             parent::sentence/word[@id = $head_3]/@id,
                                             parent::sentence/word[@id = $head_2]/@id,
                                             parent::sentence/word[@id = $head_1]/@id,
-                                            ./@id ), ',')"/>                                       
+                                            ./@id ), ' ')"/>                                       
                                         
                                     </xsl:when>
                                     <xsl:when test="$head_13 = 0">
@@ -115,7 +115,7 @@
                                             parent::sentence/word[@id = $head_3]/@id,
                                             parent::sentence/word[@id = $head_2]/@id,
                                             parent::sentence/word[@id = $head_1]/@id,
-                                            ./@id ), ',')"/>                                       
+                                            ./@id ), ' ')"/>                                       
                                         
                                     </xsl:when>
                                     
@@ -132,7 +132,7 @@
                                             parent::sentence/word[@id = $head_3]/@id,
                                             parent::sentence/word[@id = $head_2]/@id,
                                             parent::sentence/word[@id = $head_1]/@id,
-                                            ./@id ), ',')"/>                                       
+                                            ./@id ), ' ')"/>                                       
                                         
                                     </xsl:when>
                                     <xsl:when test="$head_11 = 0">
@@ -147,7 +147,7 @@
                                             parent::sentence/word[@id = $head_3]/@id,
                                             parent::sentence/word[@id = $head_2]/@id,
                                             parent::sentence/word[@id = $head_1]/@id,
-                                            ./@id ), ',')"/>                                       
+                                            ./@id ), ' ')"/>                                       
                                         
                                     </xsl:when>
                                     
@@ -162,7 +162,7 @@
                                             parent::sentence/word[@id = $head_3]/@id,
                                             parent::sentence/word[@id = $head_2]/@id,
                                             parent::sentence/word[@id = $head_1]/@id,
-                                            ./@id ), ',')"/>                                       
+                                            ./@id ), ' ')"/>                                       
                                         
                                     </xsl:when>
                                     <xsl:when test="$head_9 = 0">
@@ -175,7 +175,7 @@
                                             parent::sentence/word[@id = $head_3]/@id,
                                             parent::sentence/word[@id = $head_2]/@id,
                                             parent::sentence/word[@id = $head_1]/@id,
-                                            ./@id ), ',')"/>                                       
+                                            ./@id ), ' ')"/>                                       
                                         
                                     </xsl:when>
                                     <xsl:when test="$head_8 = 0">
@@ -188,7 +188,7 @@
                                             parent::sentence/word[@id = $head_3]/@id,
                                             parent::sentence/word[@id = $head_2]/@id,
                                             parent::sentence/word[@id = $head_1]/@id,
-                                            ./@id ), ',')"/>                                       
+                                            ./@id ), ' ')"/>                                       
                                         
                                     </xsl:when>
                                     <xsl:when test="$head_7 = 0">
@@ -199,7 +199,7 @@
                                             parent::sentence/word[@id = $head_3]/@id,
                                             parent::sentence/word[@id = $head_2]/@id,
                                             parent::sentence/word[@id = $head_1]/@id,
-                                            ./@id ), ',')"/>                                       
+                                            ./@id ), ' ')"/>                                       
                                         
                                     </xsl:when>
                                     <xsl:when test="$head_6 = 0">
@@ -209,7 +209,7 @@
                                             parent::sentence/word[@id = $head_3]/@id,
                                             parent::sentence/word[@id = $head_2]/@id,
                                             parent::sentence/word[@id = $head_1]/@id,
-                                            ./@id ), ',')"/>                                       
+                                            ./@id ), ' ')"/>                                       
                                         
                                     </xsl:when>
                                     <xsl:when test="$head_5 = 0">
@@ -218,7 +218,7 @@
                                             parent::sentence/word[@id = $head_3]/@id,
                                             parent::sentence/word[@id = $head_2]/@id,
                                             parent::sentence/word[@id = $head_1]/@id,
-                                            ./@id ), ',')"/>                                       
+                                            ./@id ), ' ')"/>                                       
                                         
                                     </xsl:when>
                                     <xsl:when test="$head_4 = 0">
@@ -226,20 +226,20 @@
                                             parent::sentence/word[@id = $head_3]/@id,
                                             parent::sentence/word[@id = $head_2]/@id,
                                             parent::sentence/word[@id = $head_1]/@id,
-                                            ./@id ), ',')"/>                                       
+                                            ./@id ), ' ')"/>                                       
                                         
                                     </xsl:when>
                                     <xsl:when test="$head_3 = 0">
                                         <xsl:value-of select="string-join(( 
                                             parent::sentence/word[@id = $head_2]/@id,
                                             parent::sentence/word[@id = $head_1]/@id,
-                                            ./@id ), ',')"/>                                       
+                                            ./@id ), ' ')"/>                                       
                                         
                                     </xsl:when>
                                     <xsl:when test="$head_2 = 0">
                                         <xsl:value-of select="string-join(( 
                                             parent::sentence/word[@id = $head_1]/@id,
-                                            ./@id ), ',')"/>                                       
+                                            ./@id ), ' ')"/>                                       
                                         
                                     </xsl:when>
                                     <xsl:when test="$head_1 = 0">

@@ -1,5 +1,7 @@
 
 # Script to find non-projective sentences
+# The script requires as input an xml file with geodesics stored as values in child elements 
+# for each <word> elements. 
 require(XML)
 
 # this line reads an XML file into an R object
@@ -10,14 +12,40 @@ doc.object <- xmlTreeParse(file = "../Projectivity/projectivity_test1.xml")
 # this line reads doc.object into an XML Node object which can be accessed through subsetting
 top <- xmlRoot(doc.object)
 
-# for example, this line accesses the second word of the first sentence (there are 3 other elements before sentence 1)
-top[[4]][2]
+# master loop to execute process for each sentence in file.
+# Loop must start with index of first sentence in file
 
 
-# This line extracts the contents or the element <geodesic> from "top[[4]]" and puts them in a list.
-# The list has the same number of elements as words in the target sentence [[4]].
-# The items in each list are character vectors and need to be converted to numbers
-geodesics.list <- xmlApply(top[[4]], xmlValue)
+
+# Sets increment varaible
+z <- 4
+
+for (z in 4:length(top)) {
+  
+  # This line extracts the contents or the element <geodesic> from "top[[z]]" and puts them in a list.
+  # The list has the same number of elements as words in the target sentence [[z]].
+  # The items in each list are character vectors and need to be converted to numbers
+  geodesics.list <- xmlApply(top[[z]], xmlValue)
+  
+  # The following loop takes as imput the list of character vectors and outputs a vector of integers.
+ 
+  # Creates wrapper variable for ouput vector
+  geodesics.v <- NULL
+  # reset increment counter
+  i <- 1
+  
+  for (i in 1:length(geodesics.list)) {
+    a <- geodesics.list[[i]]
+    b <- unlist(strsplit(a, " "))
+    c <- as.numeric(b)
+    geodesics.v <- append(geodesics.v, c)
+    
+  }
+  
+}
+
+
+
 
 
 # The following loop takes as imput the list of character vectors and outputs a vector of integers.

@@ -1,4 +1,5 @@
 # Script to find Dependency Distance for words and sentences.
+# Script also inserts DD into attribute in <sentence> elemenets.
 
 require(XML)
 

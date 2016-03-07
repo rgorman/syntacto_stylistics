@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<sentence id="1" document_id="" subdoc="" span="" status="blop" DepDist="4.07142857142857">
+ <word id="1" form="Iustitia" lemma="justitia" postag="n-s---fn-" relation="SBJ" head="2">
+  <geodesic>2 1</geodesic>
+ </word>
+ <word id="2" form="restat" lemma="resto" postag="v3spia---" relation="PRED" head="0">
+  <geodesic>2</geodesic>
+ </word>
+ <word id="3" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0">
+  <geodesic>3</geodesic>
+ </word>
+ <word id="4" form="ut" lemma="ut" postag="c--------" relation="AuxC" head="2">
+  <geodesic>2 4</geodesic>
+ </word>
+ <word id="5" form="de" lemma="de" postag="r--------" relation="AuxP" head="9">
+  <geodesic>2 4 9 5</geodesic>
+ </word>
+ <word id="6" form="omni" lemma="omnis" postag="a-s---fb-" relation="ATR" head="7">
+  <geodesic>2 4 9 5 7 6</geodesic>
+ </word>
+ <word id="7" form="virtute" lemma="virtus" postag="n-s---fb-" relation="ADV" head="5">
+  <geodesic>2 4 9 5 7</geodesic>
+ </word>
+ <word id="8" form="sit" lemma="sum1" postag="v3spsa---" relation="AuxV" head="9">
+  <geodesic>2 4 9 8</geodesic>
+ </word>
+ <word id="9" form="dictum" lemma="dico2" postag="v-srppnn-" relation="AuxY" head="4">
+  <geodesic>2 4 9</geodesic>
+ </word>
+ <word id="10" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0">
+  <geodesic>10</geodesic>
+ </word>
+</sentence>

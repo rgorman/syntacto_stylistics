@@ -101,10 +101,45 @@ for (z in 4:length(top)) {
   }
   
   
+  # The following loop takes as input a vector containing the projection of a target word
+  # This projection must be ordered in linear sequence.
+  # Such input is provided by subtree.list, the output of a previous set of loops.
+  # The loop input should be copied to variable "d".
+  
+  d <- NULL
+  m <- 1
+  
+  for (m in 1:length(subtree.list)) {
+    d <- subtree.list[[m]]
+    # set increment variable  
+    n <- 1
+    # create wrapper variable
+    f <- NULL
+    
+    # loops runs for 1 iteration less than the length of the vector of the projectoion for the target word.
+    # This subtraction is necessary, since it operates on each pair of adjacent words (= n-1) 
+    for (n in 1:length(d)-1) {
+      
+      # difference between a set pf adjacent numbers is calculated; 
+      # a value > 1 allows the possibility of non-projectivity; result is stored in variable "e"
+      e <- abs(d[n]-d[n+1])
+      # the resultant differences are collected in a single variable "f"
+      f <- append (f, e)
+      
+    }
+    
+    
+    
+    
+  }
+  
  
-  
-  
-  
-  
+ 
 }
 
+
+
+f
+length(top)
+top[13]
+length(subtree.list)

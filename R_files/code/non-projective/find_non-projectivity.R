@@ -258,8 +258,15 @@ for (i in 1:length(d)-1) {
 # These results can be put in a variable and compared to the master vector of words with projections of more than one word.
 seq(from = d[which(f>1)]+1, to= d[which(f>1)+1]-1)
 
-sapply(subtree.list, function(x) length(x))
-
+g <- which(sapply(subtree.list, function(x) length(x))>1)
+for (p in 1:length(f))  {
+  if (f[p] %in% g) {
+    
+    
+  }
+  
+  
+}
 
 
 

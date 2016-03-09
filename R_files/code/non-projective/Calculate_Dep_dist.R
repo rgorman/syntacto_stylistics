@@ -84,10 +84,11 @@ cat(saveXML(b), "\n")
 addAttributes(b, a = 1, b = "xyz", "r:version" = "2.4.1", "omg:len" = 3)
 cat(saveXML(b), "\n")
 
-top[[4]] <- addAttributes(top[[4]], DepDist = mean(abs(d-e)))
+top[[4]] <- addAttributes(top[[4]], DepDist = "poop")
+
 
 xmlAttrs(top[[4]])
 
-top
+top[[4]]
 doc.object
 

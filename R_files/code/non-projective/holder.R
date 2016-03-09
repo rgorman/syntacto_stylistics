@@ -138,6 +138,31 @@ for (z in 4:length(top)) {
 }
 
 
+k <- 13
+
+# the following line gives a sequence of integers representing the words in a gap for a given subtree
+# vector "d" is the word ids in the subtree; vector "f" is the result of calculating the distance 
+# between adjacent pairs in vector "d".
+# These results can be put in a variable and compared to the master vector of words with projections of more than one word.
+g <- seq(from = d[which(f>1)]+1, to= d[which(f>1)+1]-1)
+
+h <- which(sapply(subtree.list, function(x) length(x))>1)
+gap_word <- NULL
+
+for (p in 1:length(g))  {
+  if (g[p] %in% h) {
+    gap_word <- append(gap_word, g[p])
+    
+  }
+  top[k] <- addAttributes(top[k], poop = "poop")
+  
+}
+
+top[[k]] <- addAttributes(top[[k]], poop = 5)
+
+
+class(gap_word)
+
 
 f
 length(top)

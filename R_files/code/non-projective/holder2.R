@@ -12,6 +12,9 @@ doc.object <- xmlTreeParse(file = "../Projectivity/projectivity_test1.xml")
 # this line reads doc.object into an XML Node object which can be accessed through subsetting
 top <- xmlRoot(doc.object)
 
+allGedoesics.list <- list()
+allSubtrees.list <- list()
+allDifferences.list <- list()
 
 
 # Sets increment varaible
@@ -133,50 +136,78 @@ for (z in 4:length(top)) {
     
     # loops runs for 1 iteration less than the length of the vector of the projectoion for the target word.
     # This subtraction is necessary, since it operates on each pair of adjacent words (= n-1) 
+    
     for (n in 1:length(d)-1) {
       
-      # difference between a set pf adjacent numbers is calculated; 
+      # difference between a set of adjacent numbers is calculated; 
       # a value > 1 allows the possibility of non-projectivity; result is stored in variable "e"
       e <- abs(d[n]-d[n+1])
       # the resultant differences are collected in a single variable "f"
       f <- append (f, e)
       difference.list[[m]] <- f
       
-    }
+    }  
+    
+
+ 
+  }
+  allGedoesics.list[[z-3]] <- geodesics.list2
+  allSubtrees.list[[z-3]] <- subtree.list
+  allDifferences.list[[z-3]] <- difference.list
+  
+  
+}
+
+
+########
+
+
+
+token.v <- which (sapply(allSubtrees.list[[3]], function(x) length(x)>1))
+diff.v <- unlist (allDifferences.list[[3]][token.v[1]])
+subTr.v <- unlist(allSubtrees.list[[3]][token.v[1]])
+seq (from = subTr.v[which(diff.v > 1)]+1, to = 10)
+
+seq (from = which(diff.v > 1)+1, to  = 10)
+seq(from = d[which(f>1)]+1, to= d[which(f>1)+1]-1)
+
+which()
+allSubtrees.list[[1]][token.v[1]]
+which(diff.v > 1)
+
+
+##########
+
+allSubtrees.list[[1]][2]
+
+
+
+if (length(d)> 1) {
+  
+  for (n in 1:length(d)-1) {
+    
+    # difference between a set pf adjacent numbers is calculated; 
+    # a value > 1 allows the possibility of non-projectivity; result is stored in variable "e"
+    e <- abs(d[n]-d[n+1])
+    # the resultant differences are collected in a single variable "f"
+    f <- append (f, e)
+    difference.list[[m]] <- f
+    
+  }  
+  
+  
+  q <- 1
+  g <- NULL
+  for (q in 1:length(subtree.list)) {
+    d <- subtree.list[[q]]
+    g <- seq(from = d[which(f>1)]+1, to= d[which(f>1)+1]-1)  
+    h <- which(sapply(subtree.list, function(x) length(x))>1)
     
     
-    g <- NULL
-    for (q in 1:length(subtree.list)) {
-      d <- subtree.list[[2]]
-      
-      if (length(subtree.list[[q]])> 1) {
-        g <- seq(from = d[which(f>1)]+1, to= d[which(f>1)+1]-1)  
-        h <- subtree.list[[q]]
-        gap_word <- NULL
-        
-        for (p in 1:length(g))  {
-          if (g[p] %in% h) {
-            gap_word <- append(gap_word, g[p])
-            
-          }
-          
-          top[[z]] <- addAttributes(top[[z]], gap = gap_word)
-          
-        }
-        
-      }
-      
-      
-      # h <- which(sapply(subtree.list, function(x) length(x))>1)
-      
-      
-      
-      
-      
-      
-    }
     
-    q <- 1
+    # h <- which(sapply(subtree.list, function(x) length(x))>1)
+    
+    
     
     
   }
@@ -186,8 +217,25 @@ for (z in 4:length(top)) {
 }
 
 
-########
 
+
+
+if (length(subtree.list[[q]])> 1) {
+  g <- seq(from = d[which(f>1)]+1, to= d[which(f>1)+1]-1)  
+  h <- subtree.list[[q]]
+  gap_word <- NULL
+  
+  for (p in 1:length(g))  {
+    if (g[p] %in% h) {
+      gap_word <- append(gap_word, g[p])
+      
+    }
+    
+    top[[z]] <- addAttributes(top[[z]], gap = gap_word)
+    
+  }
+  
+}
 
 
 

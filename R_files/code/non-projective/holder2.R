@@ -163,24 +163,41 @@ for (z in 4:length(top)) {
 
 
 
-token.v <- which (sapply(allSubtrees.list[[3]], function(x) length(x)>1))
-diff.v <- unlist (allDifferences.list[[3]][token.v[1]])
-subTr.v <- unlist(allSubtrees.list[[3]][token.v[1]])
-seq (from = subTr.v[which(diff.v > 1)]+1, to = 10)
 
-seq (from = which(diff.v > 1)+1, to  = 10)
-seq(from = d[which(f>1)]+1, to= d[which(f>1)+1]-1)
-
-which()
-allSubtrees.list[[1]][token.v[1]]
-which(diff.v > 1)
 
 
 ##########
 
-allSubtrees.list[[1]][2]
+with.desc.v 
+i <- 2
+a <- NULL
+b <-NULL
 
+if (length(allSubtrees.list[[1]][i]) > 1) {
+  print("poop")
+  
+} else {
+  
+  print("poopy")
+}
 
+print("poop")
+
+for (i in 1:length(allSubtrees.list[[1]][i])) {
+  a <-unlist(allSubtrees.list[[1]][i])
+  
+  
+}
+
+length(allSubtrees.list[[1]][i]) > 1
+allSubtrees.list[[1]][i]
+unique(b)
+
+(length(a) > 1)
+
+##############
+
+allSubtrees.list[[1]][i]
 
 if (length(d)> 1) {
   

@@ -4,10 +4,10 @@
 require(XML)
 
 # this line reads an XML file into an R object
-doc.object <- xmlTreeParse(file = "../Projectivity/DepDist_test.xml")
+doc.object <- xmlTreeParse(file = "../Projectivity/depTest1.xml")
 
 # this line will save file as .xml
-saveXML(top, file = "../Projectivity/DepDist_test.xml", prefix = '<?xml version="1.0" encoding="UTF-8"?>\n')
+saveXML(top, file = "../Projectivity/DepDisttsetResult1.xml", prefix = '<?xml version="1.0" encoding="UTF-8"?>\n')
 
 
 
@@ -52,7 +52,11 @@ for (i in 5:length(top))  {
   
 }
 
-top[[9]]
+
+#########
+
+
+top[[5]]
 
  xmlSApply(top[[5]], function(x) xmlGetAttr(x, "head"))
 b <- as.numeric(xmlSApply(top[[6]], function(x) xmlGetAttr(x, "head")))
@@ -92,3 +96,5 @@ xmlAttrs(top[[4]])
 top[[4]]
 doc.object
 
+# clear all objects from memory
+rm(list = ls())

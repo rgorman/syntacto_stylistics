@@ -163,31 +163,36 @@ for (z in 4:length(top)) {
 
 
 
+for  (i in 1:length(allSubtrees.list[[1]])) {
+  
+  if ( length(unlist(allSubtrees.list[[1]][i])) > 1  ) {
+   with.desc.v <- append(with.desc.v, i)
+   
+    
+  } 
+  
+}
 
+
+allDifferences.list[[10]]
 
 
 ##########
 
-with.desc.v 
-i <- 2
+with.desc.v <-NULL
+i <- 1
 a <- NULL
 b <-NULL
 
-if (length(allSubtrees.list[[1]][i]) > 1) {
-  print("poop")
-  
-} else {
-  
-  print("poopy")
-}
+b <- unlist(allSubtrees.list[[1]][2])
+  length (allSubtrees.list[[1]][2])
+length(b)
 
-print("poop")
 
-for (i in 1:length(allSubtrees.list[[1]][i])) {
-  a <-unlist(allSubtrees.list[[1]][i])
-  
-  
-}
+length(unlist(allSubtrees.list[[1]][i])) > 1
+
+
+
 
 length(allSubtrees.list[[1]][i]) > 1
 allSubtrees.list[[1]][i]

@@ -1,5 +1,5 @@
-# Script to find Dependency Distance for words and sentences.
-# Script also inserts DD into attribute in <sentence> elemenets.
+# script to extract part of speech metrics from treebank xml files.
+
 
 require(XML)
 
@@ -8,12 +8,18 @@ doc.object <- xmlTreeParse(file = "../Projectivity/working/DD_Xen_Cyr1.xml")
 
 
 
-
 # this line reads doc.object into an XML Node object which can be accessed through subsetting
 top <- xmlRoot(doc.object)
 top[[7]]
 
+class(top[[7]][1])
+a <- xmlSApply(top[[7]], function(x) xmlGetAttr(x, "postag"))
+as.vector(a)
+grep("v", a)
+grep("u---", a)
 
+
+xmlGetAttr(top[[7]][1], "postag")
 
 # A loop to extract @head and @id attributes from word elements and use them to compute Dependency Distance.
 # The loop should start with the subset of "top" which represents the first sentence element.
@@ -51,51 +57,11 @@ for (i in i:length(top))  {
 }
 
 
-#########
-
-# this line will save file as .xml
-saveXML(top, file = "../Projectivity/working/Result_DD_Xen_Cyr1.xml", prefix = '<?xml version="1.0" encoding="UTF-8"?>\n')
 
 
-top[[7]]
-
- xmlSApply(top[[5]], function(x) xmlGetAttr(x, "head"))
-b <- as.numeric(xmlSApply(top[[6]], function(x) xmlGetAttr(x, "head")))
-c <- as.numeric(xmlSApply(top[[6]], function(x) xmlGetAttr(x, "id")))
-
-d <- a[-which(a == 0)]
-e <- b[-which(a == 0)]
-
-b
-d
-
-d - e
-abs(d-e)
-
-round(mean(abs(d-e)), 5)
 
 
-top[[4]] <- xmlAttrs(node="poop", value="poop")
-class(top[[4]])
 
-addAttributes(top[[4]], .attrs = "poop")
-
-b = newXMLNode("bob",
-               namespace = c(r = "http://www.r-project.org",
-                             omg = "http://www.omegahat.org"))
-
-cat(saveXML(b), "\n")
-
-addAttributes(b, a = 1, b = "xyz", "r:version" = "2.4.1", "omg:len" = 3)
-cat(saveXML(b), "\n")
-
-top[[4]] <- addAttributes(top[[4]], DepDist = "poop")
-
-
-xmlAttrs(top[[4]])
-
-top[[4]]
-doc.object
-
-# clear all objects from memory
+#############################################
+#remove objects from memory
 rm(list = ls())

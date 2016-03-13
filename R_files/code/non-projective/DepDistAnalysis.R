@@ -60,7 +60,25 @@ require(e1071)
 skewness(time[index])
   
 ##############################
+#######  here we run some test looking for correlations
+
 colnames(time_dataframe)
+
+# create vector objects to store variables for easier processing
+time <- time_dataframe$depPerWord # our independent varaible
+log_tiime <- log(time_dataframe$depPerWord) # log() of time to compensate for skew
+
+# store dependent variable in vector for testing
+depVar <- time_dataframe$DepDist 
+
+# examine rough contours of data
+summary(time)
+summary(log_tiime)
+
+# visualize data
+hist(time)
+hist(log_tiime)
+
 # plot some data to see if any correlations are visible
 plot(time_dataframe$depPerWord, time_dataframe$words)
 lines(lowess(time_dataframe$depPerWord, time_dataframe$words), col="blue") # lowess line (x,y)

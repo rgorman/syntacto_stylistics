@@ -4,7 +4,7 @@
 require(XML)
 
 # this line reads an XML file into an R object
-doc.object <- xmlTreeParse(file = "../Projectivity/working/DD_Xen_Cyr1.xml")
+doc.object <- xmlTreeParse(file = "../Projectivity/working/Result_DD_Combined.xml")
 
 
 
@@ -12,14 +12,8 @@ doc.object <- xmlTreeParse(file = "../Projectivity/working/DD_Xen_Cyr1.xml")
 top <- xmlRoot(doc.object)
 top[[7]]
 
-class(top[[7]][1])
-a <- xmlSApply(top[[7]], function(x) xmlGetAttr(x, "postag"))
-as.vector(a)
-grep("v", a)
-grep("u---", a)
 
 
-xmlGetAttr(top[[7]][1], "postag")
 
 # A loop to extract @head and @id attributes from word elements and use them to compute Dependency Distance.
 # The loop should start with the subset of "top" which represents the first sentence element.
@@ -29,35 +23,42 @@ a <- NULL
 b <- NULL
 c <- NULL
 d <- NULL
+e <- NULL
 # Sets increment variable to first <sentence> element in file.
 i <- 7
 
-for (i in i:length(top))  {
-  
-  # uses xmlSApply() to loop through the <word> elements of each sentence.
-  # xmlSApply() calls the function xmlGetAttr() and outputs a vector of contents of @head attributes.
-  # The output is stored in variable "a". as.numeric() converts output from character vector to numbers
-  a <- as.numeric(xmlSApply(top[[i]], function(x) xmlGetAttr(x, "head")))
-  
-  # The same extraction applied to the @id attribute of each <word> element.
-  # The result is stored in variable "b".
-  b <- as.numeric(xmlSApply(top[[i]], function(x) xmlGetAttr(x, "id")))
-  
-  # These lines use which() to remove @head=0 items from "a" and "b".
-  # The results are stored in variables "c" and "d".
-  c <- a[-which(a == 0)]
-  d <- b[-which(a == 0)]
-  
-  # Uses addAttributes() to add @DepDist attribute and value to each <seentence> element in "top".
-  # Computes mean of absolute value of difference of corresponding @head and @id
-  # from vectors in variables "c" and "d". Result is rounded to 4 decimal places.
-  top[[i]] <- addAttributes(top[[i]], DepDist = round(mean(abs(c-d)),4))
-  
+for (i in i:length(top)) {
+  a <- xmlSApply(top[[i]], function(x) xmlGetAttr(x, "postag"))
+  a <- as.vector(a)
+  # record number of verbs in vector "a"
+  b <- length(grep("v", a))
+  # record number of tokens in sentence less punctuation
+  c <- length(a) - length(grep("u---", a))
+  # ratio of number of verbs to total tokens (less punctuation)
+  d <-append(d, b/c)
+  # number of verbs in sentence
+  e <- append (e, b)
   
 }
 
+# read spread sheet with time information
+time_dataframe <- read.csv(file = "../Projectivity/working/working_Combined.csv")
 
 
+
+View(time_dataframe)
+
+
+# add verb number column to data frame
+time_dataframe$Verbs <- e
+
+# add verb number column to data frame
+time_dataframe$VerbPerToken <- d
+
+
+
+#save data frame to spread sheet
+write.csv(time_dataframe, file = "../Projectivity/working/working_Combined.csv")
 
 
 

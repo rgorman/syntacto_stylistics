@@ -66,58 +66,67 @@ colnames(time_dataframe)
 
 # create vector objects to store variables for easier processing
 time <- time_dataframe$depPerWord # our independent varaible
-log_tiime <- log(time_dataframe$depPerWord) # log() of time to compensate for skew
+log_time <- log(time_dataframe$depPerWord) # log() of time to compensate for skew
 
 # store dependent variable in vector for testing
-depVar <- time_dataframe$DepDist 
+depVar <- time_dataframe$DepDist
+depVar <- time_dataframe$VerbPerToken
 
 # examine rough contours of data
 summary(time)
-summary(log_tiime)
+summary(log_time)
+summary(depVar)
+summary(log(depVar))
+
+
 
 # visualize data
 hist(time)
-hist(log_tiime)
+hist(log_time)
+hist(depVar)
+hist(log(depVar))
+
 
 # plot some data to see if any correlations are visible
-plot(time_dataframe$depPerWord, time_dataframe$words)
-lines(lowess(time_dataframe$depPerWord, time_dataframe$words), col="blue") # lowess line (x,y)
-
-cor(time_dataframe$depPerWord, time_dataframe$words)
-summary(time_dataframe$words)
-
-plot(time_dataframe$depPerWord, time_dataframe$DepDist)
-lines(lowess(time_dataframe$depPerWord, time_dataframe$DepDist), col="blue") # lowess line (x,y)
-
-cor(time_dataframe$depPerWord, time_dataframe$DepDist)
-summary(time_dataframe$DepDist)
+plot(time, depVar)
+lines(lowess(time, depVar), col="blue") # lowess line (x,y)
+cor(time, depVar)
+cor(time, log(depVar))
+cor(log (time), depVar)
 
 
-plot(time[index], test_variable[index])
-lines(lowess(time[index], test_variable[index]), col="blue") # lowess line (x,y)
 
+plot(log_tiime, depVar)
+cor(time, depVar)
 
-# create vectors to simplify testing
-time <- time_dataframe$depPerWord
-test_variable <- time_dataframe$DepDist
+plot(log_time, log(depVar))
+lines(lowess(log_time, log(depVar)), col="blue") # lowess line (x,y)
+cor(log_time, log(depVar))
 
-hist(time)
-hist(test_variable)
-
-hist(test_variable[index])
-hist(time[index])
-# test for correlation
-cor(time[index], test_variable[index])
-
-summary(time)
+###########
+# trim the skew off the independent variable and examine again
+index <- which(time < 4)
 summary(time[index])
-summary(test_variable[index])
+summary(depVar[index])
+summary(log(time[index]))
+summary(log(depVar[index]))
+cor(log (time[index]), log(depVar[index]))
 
-index <- which(time_dataframe$depPerWord < 3.63)
 
-cor(time_dataframe$words, time_dataframe$DepDist)
+plot(time[index], depVar[index],  xlab = "Time per Word", ylab = "Dependency Distance", main = "Syntax Difficulty")
+lines(lowess(time[index], depVar[index]), col = "red")
 
-#######################################
+plot(log(time[index]), log(depVar[index]), xlab = "Time per Word (log)", ylab = "Dep. Dist. (log)", main = "Syntax Difficulty")
+lines(lowess(log(time[index]), log(depVar[index])), col = "red")
+
+##############################
+# extract a subset of sentences with roughly similar DDs to try to see why they differ so greatly in time
+
+
+
+
+
+    #######################################
 # this line will save file as .xml
 saveXML(top, file = "../Projectivity/working/XXXX.xml", prefix = '<?xml version="1.0" encoding="UTF-8"?>\n')
 # save dataframe to csv file

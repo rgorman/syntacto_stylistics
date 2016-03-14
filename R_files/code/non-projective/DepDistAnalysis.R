@@ -62,15 +62,18 @@ skewness(time[index])
 ##############################
 #######  here we run some test looking for correlations
 
+# read in spreadsheet with time data
+time_dataframe <- read.csv(file = "../Projectivity/working/working_Combined.csv")
+
 colnames(time_dataframe)
 
 # create vector objects to store variables for easier processing
-time <- time_dataframe$depPerWord # our independent varaible
+time <- time_dataframe$depPerWord # our dependent varaible
 log_time <- log(time_dataframe$depPerWord) # log() of time to compensate for skew
 
-# store dependent variable in vector for testing
-depVar <- time_dataframe$DepDist
-depVar <- time_dataframe$VerbPerToken
+# store independent variable in vector for testing
+indepVar <- time_dataframe$DepDist
+indepVar <- time_dataframe$VerbPerToken
 
 # examine rough contours of data
 summary(time)
@@ -88,9 +91,9 @@ hist(log(depVar))
 
 
 # plot some data to see if any correlations are visible
-plot(time, depVar)
-lines(lowess(time, depVar), col="blue") # lowess line (x,y)
-cor(time, depVar)
+plot(indepVar, time)
+lines(lowess(indepVar, time), col="blue") # lowess line (x,y)
+cor(indepVar, time)
 cor(time, log(depVar))
 cor(log (time), depVar)
 

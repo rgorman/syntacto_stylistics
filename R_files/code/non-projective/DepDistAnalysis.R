@@ -121,10 +121,17 @@ lines(lowess(log(time[index]), log(depVar[index])), col = "red")
 
 ##############################
 # extract a subset of sentences with roughly similar DDs to try to see why they differ so greatly in time
+# make index variable for lower limit
+lowlim <- which(time_dataframe$DepDist > 2.75)
+# set upper limit and retreive values between; store in variable
+uplim <- which(time_dataframe$DepDist < 3.25)
 
+time_dataframe$DepDist[sweetSpot]
+time_dataframe$DepDist[lowlim]
 
+sweetspot <- which(lowlim %in% uplim)
 
-
+time_dataframe$DepDist[sweetspot]
 
     #######################################
 # this line will save file as .xml

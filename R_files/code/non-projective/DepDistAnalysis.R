@@ -42,7 +42,7 @@ which (is.na(b))
 ###############
 # This section reads in time data on file and looks for correlations
 
-time_dataframe <- read.csv(file = "../Projectivity/working/Times_Combined.csv")
+time_dataframe <- read.csv(file = "../Projectivity/working/working_Combined.csv")
 
 
 
@@ -78,10 +78,31 @@ indepVar <- time_dataframe$VerbPerToken
 # examine rough contours of data
 summary(time)
 summary(log_time)
-summary(depVar)
+summary(indepVar)
 summary(log(depVar))
 
+index <- which(time < 4)
+summary(time[index])
 
+summary(indepVar[index])
+
+plot (log(indepVar[index]), log(time[index])  )
+lines(lowess(x, y), col = "red")
+
+x <- log(indepVar[index])
+y <- log(time[index])
+
+c <- indepVar[index]
+d <- time[index]
+e <- time_dataframe$words[index]
+f <- time_dataframe$VerbPerToken[index]
+plot(c,d)
+
+which(time_dataframe$DepDist==2)
+
+lm(x ~ y)
+model <- lm (y ~ x + e + f)
+summary(model)
 
 # visualize data
 hist(time)

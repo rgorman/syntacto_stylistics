@@ -81,16 +81,19 @@ summary(log_time)
 summary(indepVar)
 summary(log(depVar))
 
-index <- which(time < 4)
+index <- which(time < 5)
 summary(time[index])
 
 summary(indepVar[index])
 
-plot (log(indepVar[index]), log(time[index])  )
-lines(lowess(x, y), col = "red")
+plot (log(indepVar[index]), log(time[index]), main = "DD and Sentence Difficulty", ylab = "Time per Word (log)", 
+      xlab = "Dependency Distance (log)")
+lines(lowess(x, y), col = "red", lwd = 2)
 
 x <- log(indepVar[index])
 y <- log(time[index])
+cor(x,y)
+
 
 c <- indepVar[index]
 d <- time[index]
@@ -101,11 +104,12 @@ plot(c,d)
 which(time_dataframe$DepDist==2)
 
 lm(x ~ y)
-model <- lm (y ~ x + e + f)
+model <- lm (y ~ x )
 summary(model)
 
 # visualize data
-hist(time)
+hist(time, col = "pink",main = "Dependency Time per Word")
+boxplot(time)
 hist(log_time)
 hist(depVar)
 hist(log(depVar))

@@ -10,7 +10,7 @@ doc.object <- xmlTreeParse(file = "../Projectivity/working/Result_DD_Combined.xm
 
 # this line reads doc.object into an XML Node object which can be accessed through subsetting
 top <- xmlRoot(doc.object)
-top[[7]]
+top[[6]]
 
 ###########################
 
@@ -150,16 +150,26 @@ lines(lowess(log(time[index]), log(depVar[index])), col = "red")
 ##############################
 # extract a subset of sentences with roughly similar DDs to try to see why they differ so greatly in time
 # make index variable for lower limit
-lowlim <- which(time_dataframe$DepDist > 2.75)
-# set upper limit and retreive values between; store in variable
-uplim <- which(time_dataframe$DepDist < 3.25)
 
-time_dataframe$DepDist[sweetSpot]
-time_dataframe$DepDist[lowlim]
 
-sweetspot <- which(lowlim %in% uplim)
+ time_dataframe$depPerWord [which(time_dataframe$DepDist == 2)]
+time_dataframe$sent [which(time_dataframe$DepDist == 2)]
+top_index <-  which(time_dataframe$DepDist == 2)
+DD2_top <- top[6 + top_index]
+DD2_top
 
-time_dataframe$DepDist[sweetspot]
+#################
+# short sentences are too volitile and shoud be removed
+
+no_shorties <- which(time_dataframe$words > 15)
+no_outliers <- which(time < 5)
+intersect (no_shorties, no_outliers)
+new_index <- intersect (no_shorties, no_outliers)
+plot(log(indepVar[new_index]), log(time[new_index]))
+lines( lowess(a,b))
+a <- log(indepVar[new_index])
+b <-  log(time[new_index])
+cor(a,b)
 
     #######################################
 # this line will save file as .xml

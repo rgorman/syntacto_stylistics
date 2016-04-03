@@ -18,7 +18,7 @@ top <- xmlRoot(doc.object)
 top[[1]]
 # set variabe for sentence number in "top".
 
-s <- 41
+s <- 46
 
 # extract all @id attrubutes from <word> elements in indexed sentence of "top"
 a <- xmlSApply(top[[s]], function(x) xmlGetAttr(x, "id"))
@@ -46,13 +46,17 @@ index <- which(edge.matrix[, 2] > 0)
 short.edge.matrix <- edge.matrix[index, ]
 
 # Call "archplot()" to create diagram to visualize edge crossing in sentences.
-arcplot(short.edge.matrix, las = 1, sorted = TRUE, lwd.arcs = 5)
+arcplot(short.edge.matrix, las = 1, sorted = TRUE, lwd.arcs = 5, main = paste(title, s) )
 
 
 
 
 
 ########################
+
+title <- "sentence "
+c(title, s)
+paste(title, s)
 
 # read edge matrix in from csv file
 a <- read.csv(file = "../graph_theory/testGraph_1.csv", header = FALSE)

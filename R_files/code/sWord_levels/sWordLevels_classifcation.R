@@ -14,13 +14,13 @@ rm(ordered.df)
 
 
 
-chunk.ratios.m <- read.csv(file="Rresults/matrices/chunk_ratios_100.csv", stringsAsFactors = FALSE)
+chunk.ratios.m <- read.csv(file="Rresults/matrices/chunk_ratios_1000.csv", stringsAsFactors = FALSE)
 chunk.ratios.m[,2]
 
 
 # we must have a list naming the author for each chunk; this should be automated
 author.factor <- NULL
-author.factor <- append(author.factor, rep("Thucydides", 240))
+author.factor <- append(author.factor, rep("Thucydides", 24))
 
 
 
@@ -31,12 +31,12 @@ testing.classes.l <- list()
 i <- 1
 
 
-for (i in 1:1000) {
+for (i in 1:100) {
   
   
   
   #create vector of random integers = 10% of obs in smaller.df
-  testing.index.v <- sample (seq (1, nrow(smaller.df)), 170, prob = chunk.ratios.m[, 2])
+  testing.index.v <- sample (seq (1, nrow(smaller.df)), 17, prob = chunk.ratios.m[, 2])
   
   
   #create training and testing data matrices using testing.index.v and its inverse
@@ -68,7 +68,7 @@ sum(a[,6])
 
 sum(a[,6])/2
 
-10000-(sum(a[,7])/2)
+10000-(sum(a[,6])/2)
 
 (170000-(sum(a[,6])/2))/170000
 

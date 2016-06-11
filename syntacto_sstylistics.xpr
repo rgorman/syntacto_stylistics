@@ -10,11 +10,11 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>sWord_levels/base_for_sWord_levels/</String>
+                                    <String>sWord_levels/files_with_sWords/VG_files/</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>Athenaeus_Book12</String>
+                                        <String>geodesic</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -33,7 +33,7 @@
                                     <null/>
                                 </field>
                                 <field name="name">
-                                    <String>Athenaeus_Book12</String>
+                                    <String>geodesic</String>
                                 </field>
                                 <field name="baseURL">
                                     <String></String>
@@ -51,7 +51,7 @@
                                     <String></String>
                                 </field>
                                 <field name="inputXSLURL">
-                                    <String>${pdu}/xsl%20files/sWord_levels/rel_pos_by_levels.xsl</String>
+                                    <String>${pdu}/xsl%20files/sWord_levels/rel_pos_geodesicOnly.xsl</String>
                                 </field>
                                 <field name="inputXMLURL">
                                     <String>${currentFileURL}</String>
@@ -72,10 +72,10 @@
                                     <Boolean>false</Boolean>
                                 </field>
                                 <field name="outputFile">
-                                    <File>${pd}/sWord_levels/files_with_sWords/VG_files/${cfne}</File>
+                                    <File>${pd}/sWord_levels/files_with_sWords/geodesicOnly/${cfne}</File>
                                 </field>
                                 <field name="outputResource">
-                                    <String>${pd}/sWord_levels/files_with_sWords/VG_files/${cfne}</String>
+                                    <String>${pd}/sWord_levels/files_with_sWords/geodesicOnly/${cfne}</String>
                                 </field>
                                 <field name="openOtherLocationInBrowser">
                                     <Boolean>false</Boolean>

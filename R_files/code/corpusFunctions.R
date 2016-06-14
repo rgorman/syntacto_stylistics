@@ -157,7 +157,7 @@ getSwordChunkMaster <- function(doc.object, chunk.size=250) {
 
 # function to make list of relative frequency tables of chunks of ngrams:
 getWordChunkMaster <- function(doc.object, chunk.size=250) {
-  swords <-getNodeSet(doc.object, "//word", )
+  swords <-getNodeSet(doc.object, "//word/*[last()]", )
   sword.content <- paste(sapply(swords, xmlValue), collapse=NULL)
   
   

@@ -28,7 +28,7 @@ for (i in 1:length(files.v)) {
   
   # here we must split files into chunks
   
-  divisor <- length(word.nodes)/100
+  divisor <- length(word.nodes)/1000
   max.length <- length(word.nodes)/divisor
   x <- seq_along(word.nodes)
   chunks.l <- split(word.nodes, ceiling(x/max.length))
@@ -179,7 +179,7 @@ for (i in 1:length(files.v))  {
   
   # here we must split files into chunks
   
-  divisor <- length(word.nodes)/100
+  divisor <- length(word.nodes)/1000
   max.length <- length(word.nodes)/divisor
   x <- seq_along(word.nodes)
   chunks.l <- split(word.nodes, ceiling(x/max.length))
@@ -200,6 +200,8 @@ chunk.number <- NULL
 ID.holder <- NULL
 n <- 1
 
+# note that this code does not work correctly !! 
+
 for (i in 1:length(chunk.total)) {
   
   chunk.number <- seq_along(1:chunk.total[i])
@@ -218,18 +220,16 @@ for (i in 1:length(chunk.total)) {
 }
 
 
-ID.holder[384:387]
+ID.holder[100000]
 
 
-# back up results by creating new data frame object to work on
-freqs.df2 <- freqs.df
 
 # add newly created labels to new data frame object. 
-freqs.df2$ID <- ID.holder
+freqs.df$ID <- ID.holder
 
 
 #cross tabulate data; check to be sure names are correct
-result.t <- xtabs(Freq ~ ID+combined.content, data=freqs.df2)
+result.t <- xtabs(Freq ~ ID+combined.content, data=freqs.df)
 dim(result.t)
 
 
@@ -246,7 +246,7 @@ rm(result.t)
 freq.means.v <- colMeans(final.df[, ])
 
 #collect column means of a given magnitude
-keepers.v <- which(freq.means.v >=.003)
+keepers.v <- which(freq.means.v >=.009)
 
 
 

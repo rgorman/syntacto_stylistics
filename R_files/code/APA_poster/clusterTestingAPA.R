@@ -72,22 +72,31 @@ View(smaller.m)
 
 #create distance object as input to hclust algorithm. Possible methods are "euclidian", "maximum", "manhattan", "canberra", "binary" or "minkowski". Default is "euclidian".
 dist.smaller.m <- dist(smaller.m)
+dist.smaller.m2 <- dist(scale(smaller.m), upper = FALSE, diag = TRUE)
+
+dist.smaller.m2
+
+View(dist.smaller.m)
+write.csv(as.matrix(dist.smaller.m2), file="Rresults/RevisedDistance2.csv")
+as.matrix(dist.smaller.m2)
+print(dist.smaller.m2)
 
 
 # run hclust and get result in object (available methods are "ward.D", "ward.D2", "single", "complete" "average", "mcquitty", "median", or "centroid")
-groups <- hclust(dist.smaller.m, method="ward.D2")
+groups1 <- hclust(dist.smaller.m, method="ward.D2")
+groups2 <- hclust(dist.smaller.m2, method="ward.D2")
 
 
 
 # plot the results
-plot(groups, hang=-1, xlab="Perseus Treebank", main="Dendrogram of Ancient Languages Dependency Treebank")
-
+plot(groups1, hang=-1, xlab="Perseus Treebank", main="Dendrogram of Ancient Languages Dependency Treebank")
+plot(groups2, hang=-1, xlab="Perseus Treebank", main="Dendrogram of Ancient Languages Dependency Treebank")
 
 
 
 
 # use package dendextend to improve appearance of dendrogram
-dend <- as.dendrogram(groups)
+dend <- as.dendrogram(groups2)
 
 dend2 <- color_branches(dend, k=3)
 dend2 <- color_labels(dend2, k=3)
@@ -103,12 +112,13 @@ rect.dendrogram(dend2, k=3)
 
 labels_colors(dend2)[2] <- rainbow(12)[3]
 
-labels_colors(dend2)
+labels_colors(dend2)[10] <- "indianred1"
 
 order.dendrogram(dend2)
 
 orders <- order.dendrogram(dend2)
 orders[27:33]
+orders
 
 labels_colors(dend2)[1] <- "red" # Hdt
 labels_colors(dend2)[2] <- "indianred1" # Diodorus
@@ -117,14 +127,33 @@ labels_colors(dend2)[4] <- "darksalmon" # Thuc.
 labels_colors(dend2)[5] <- "darkred" # Athen.
 labels_colors(dend2)[6] <- "darkorange" # Lysias
 labels_colors(dend2)[c(8,9)] <- "deeppink" # Polybius
-labels_colors(dend2)[c(10, 11, 12, 13, 14, 15)] <- "forestgreen" # Iliad
+labels_colors(dend2)[c( 11, 12, 13, 14, 15)] <- "forestgreen" # Iliad
 labels_colors(dend2)[c(16, 17, 18, 19, 20, 21)] <- "darkgoldenrod" # Odyssey
 labels_colors(dend2)[c(22, 23, 24, 25, 26)] <- "cornflowerblue" # Sophocles
 labels_colors(dend2)[c(27, 28, 29, 30, 31, 32, 33)] <- "blue" # Aeschylus
 labels_colors(dend2)[c(34, 35, 36)] <- "blueviolet" # Hesiod
 
+
+# colors for scaled dendrogram
+
+labels_colors(dend2)[1] <- "red" # Diodorus
+labels_colors(dend2)[c(2, 3)] <- "indianred1" # Plb
+labels_colors(dend2)[4] <- "hotpink1" # # Lysias
+labels_colors(dend2)[5] <- "darksalmon" # Thuc.
+labels_colors(dend2)[6] <- "darkred" # Athen.
+labels_colors(dend2)[7] <- "darkorange" # Hdt
+labels_colors(dend2)[c(8,9)] <- "deeppink" # Plutarch
+labels_colors(dend2)[c( 11, 12, 13, 14, 15)] <- "forestgreen" # Sophocles
+labels_colors(dend2)[c(10, 16, 17, 18, 19, 20, 21)] <- "darkgoldenrod" # Aeschylus
+labels_colors(dend2)[c(22, 23, 24, 25, 26, 27)] <- "cornflowerblue" # Iliad
+labels_colors(dend2)[c(28, 29, 30, 31, 32, 33)] <- "blue" # Odyssey
+labels_colors(dend2)[c(34, 35, 36)] <- "blueviolet" # Hesiod
+
+
 plot(dend2, main="Dendrogram of Ancient Languages Dependency Treebank")
 dend3 <- hang.dendrogram(dend2, hang_height = 0.1)
+
+labels_colors(dend2)
 
 labels_cex(dend3) <- 1
 get_leaves_branches_attr(dend3, "height")

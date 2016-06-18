@@ -38,7 +38,7 @@ for (i in 1:100) {
   testing.classes <- as.factor(author.v[testing.index])
   training.classes <- as.factor(author.v[-testing.index])
   
-  svm.model <- svm(training.data, training.classes, kernel = "linear", scale = TRUE)
+  svm.model <- svm(training.data, training.classes, kernel = "linear", scale = TRUE, cost = 1)
   svm.results.l[[i]] <- predict(svm.model, testing.data)
   
   
@@ -53,5 +53,6 @@ View(a)
 sum(a[, 6])
 (1800- (sum(a[, 6])/2))/1800
 
-write.csv(a, file="Rresults/svmError_matrix__sWordGeodesics_TrueScale_1091Obs__June-14-2016.csv")
+write.csv(a, file="Rresults/svmError_matrix__sWordLevels_FalseScale_1006Obs_NoStubs_June-14-2016.csv")
+
 

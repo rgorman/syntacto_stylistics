@@ -200,7 +200,6 @@ chunk.number <- NULL
 ID.holder <- NULL
 n <- 1
 
-# note that this code does not work correctly !! 
 
 for (i in 1:length(chunk.total)) {
   

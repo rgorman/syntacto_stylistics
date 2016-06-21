@@ -43901,7 +43901,7 @@
             form="δέ"
             lemma="δέ"
             postag="d--------"
-            relation=""
+            relation="AuxY"
             head="4"
             cite=" Polybius Book 9: s-218 w-2"/>
       <word id="3"
@@ -72860,7 +72860,7 @@
             form="μὲν"
             lemma="μέν"
             postag="d--------"
-            relation=""
+            relation="AuxY"
             head="22"
             cite=" Polybius Book 9: s-382 w-16"/>
       <word id="17"

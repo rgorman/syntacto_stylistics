@@ -8,7 +8,7 @@ rm(list = ls())
 library(XML)
 
 source("code/corpusFunctions.R")
-input.dir <- "../sWord_levels/files_with_sWords/VG_files"
+input.dir <- "../sWord_levels/files_with_sWords/VG_files_combinedRelPos_and_Rel"
 files.v <- dir(path=input.dir, pattern=".*xml")
 
 
@@ -28,7 +28,7 @@ for (i in 1:length(files.v)) {
   
   # here we must split files into chunks
   
-  divisor <- length(word.nodes)/1000
+  divisor <- length(word.nodes)/100
   max.length <- length(word.nodes)/divisor
   x <- seq_along(word.nodes)
   chunks.l <- split(word.nodes, ceiling(x/max.length))
@@ -179,7 +179,7 @@ for (i in 1:length(files.v))  {
   
   # here we must split files into chunks
   
-  divisor <- length(word.nodes)/1000
+  divisor <- length(word.nodes)/100
   max.length <- length(word.nodes)/divisor
   x <- seq_along(word.nodes)
   chunks.l <- split(word.nodes, ceiling(x/max.length))
@@ -245,7 +245,7 @@ rm(result.t)
 freq.means.v <- colMeans(final.df[, ])
 
 #collect column means of a given magnitude
-keepers.v <- which(freq.means.v >=.009)
+keepers.v <- which(freq.means.v >=.00044)
 
 
 
@@ -255,7 +255,7 @@ smaller.df <- final.df[, keepers.v]
 
 dim(smaller.df)
 
-
+rm(freqs.df)
 
 
 # order columns by column mean, largest to smallest and create object with results

@@ -10,31 +10,18 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>sWord_levels/preprocessing/June-21-2016/Lysias_Oration13.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>RefsToWords</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
                                     <String>sWord_levels/preprocessing/June-21-2016/Output/Polybius_Book21.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
                                         <String>Drop_auxX</String>
                                         <String>StdReferenceToSentence</String>
+                                        <String>refsToWords</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
                                     <list>
+                                        <String>XSL</String>
                                         <String>XSL</String>
                                         <String>XSL</String>
                                     </list>
@@ -48,10 +35,12 @@
                                     <list>
                                         <String>Drop_auxX</String>
                                         <String>StdReferenceToSentence</String>
+                                        <String>refsToWords</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
                                     <list>
+                                        <String>XSL</String>
                                         <String>XSL</String>
                                         <String>XSL</String>
                                     </list>
@@ -65,41 +54,13 @@
                                     <list>
                                         <String>Drop_auxX</String>
                                         <String>StdReferenceToSentence</String>
+                                        <String>refsToWords</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
                                     <list>
                                         <String>XSL</String>
                                         <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>sWord_levels/preprocessing/June-21-2016/Polybius_Book21.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>RefsToWords</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>sWord_levels/preprocessing/June-21-2016/Lysias_Oration19.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>RefsToWords</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
                                         <String>XSL</String>
                                     </list>
                                 </field>
@@ -286,7 +247,7 @@
                                     <null/>
                                 </field>
                                 <field name="name">
-                                    <String>RefsToWords</String>
+                                    <String>refsToWords</String>
                                 </field>
                                 <field name="baseURL">
                                     <String></String>
@@ -304,7 +265,7 @@
                                     <String></String>
                                 </field>
                                 <field name="inputXSLURL">
-                                    <String>${pdu}/xsl%20files/add_reference_to_words.xsl</String>
+                                    <String>${pdu}/xsl%20files/alt_RefsToWords.xsl</String>
                                 </field>
                                 <field name="inputXMLURL">
                                     <String>${currentFileURL}</String>

@@ -14,15 +14,11 @@
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>Drop_auxX</String>
-                                        <String>StdReferenceToSentence</String>
                                         <String>refsToWords</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
                                     <list>
-                                        <String>XSL</String>
-                                        <String>XSL</String>
                                         <String>XSL</String>
                                     </list>
                                 </field>
@@ -33,15 +29,11 @@
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>Drop_auxX</String>
-                                        <String>StdReferenceToSentence</String>
                                         <String>refsToWords</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
                                     <list>
-                                        <String>XSL</String>
-                                        <String>XSL</String>
                                         <String>XSL</String>
                                     </list>
                                 </field>

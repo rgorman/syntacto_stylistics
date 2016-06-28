@@ -568,7 +568,7 @@
                   cite=" Plutarch Alcibiades: s-13 w-7"/>
             <word id="8" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Plutarch Alcibiades: s-13 w-8"/>
-            <word id="9" insertion_id="0008e" artificial="elliptic" form="[0]" lemma="" postag=""
+            <word id="9" insertion_id="0008e" artificial="elliptic" form="[0]" lemma="" postag="e"
                   relation="PRED" head="0" cite="Plutarch Alcibiades: s-13 w-9"/>
       </sentence>
       <sentence id="14" document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:1.4" subdoc=""
@@ -837,13 +837,13 @@
                   cite=" Plutarch Alcibiades: s-18 w-26"/>
             <word id="27" form="." lemma="punc1" postag="u--------" relation="AuxX" head="0"
                   cite=" Plutarch Alcibiades: s-18 w-27"/>
-            <word id="28" insertion_id="0027e" artificial="elliptic" form="[0]" lemma="" postag=""
+            <word id="28" insertion_id="0027e" artificial="elliptic" form="[0]" lemma="" postag="e"
                   relation="ADV" head="14" cite="Plutarch Alcibiades: s-18 w-28"/>
-            <word id="29" insertion_id="0027f" artificial="elliptic" form="[1]" lemma="" postag=""
+            <word id="29" insertion_id="0027f" artificial="elliptic" form="[1]" lemma="" postag="e"
                   relation="OBJ_CO" head="23" cite="Plutarch Alcibiades: s-18 w-29"/>
-            <word id="30" insertion_id="0027g" artificial="elliptic" form="[2]" lemma="" postag=""
+            <word id="30" insertion_id="0027g" artificial="elliptic" form="[2]" lemma="" postag="e"
                   relation="OBJ_CO" head="23" cite="Plutarch Alcibiades: s-18 w-30"/>
-            <word id="31" insertion_id="0027h" artificial="elliptic" form="[3]" lemma="" postag=""
+            <word id="31" insertion_id="0027h" artificial="elliptic" form="[3]" lemma="" postag="e"
                   relation="ADV" head="24" cite="Plutarch Alcibiades: s-18 w-31"/>
       </sentence>
       <sentence id="19" document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:2.2" subdoc=""
@@ -1168,7 +1168,7 @@
                   head="29" cite=" Plutarch Alcibiades: s-24 w-31"/>
             <word id="32" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Plutarch Alcibiades: s-24 w-32"/>
-            <word id="33" insertion_id="0032e" artificial="elliptic" form="[0]" lemma="" postag=""
+            <word id="33" insertion_id="0032e" artificial="elliptic" form="[0]" lemma="" postag="e"
                   relation="PRED" head="0" cite="Plutarch Alcibiades: s-24 w-33"/>
       </sentence>
       <sentence id="25" document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:2.5" subdoc=""
@@ -1225,7 +1225,7 @@
                   head="16" cite=" Plutarch Alcibiades: s-25 w-25"/>
             <word id="26" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Plutarch Alcibiades: s-25 w-26"/>
-            <word id="27" insertion_id="0026e" artificial="elliptic" form="[0]" lemma="" postag=""
+            <word id="27" insertion_id="0026e" artificial="elliptic" form="[0]" lemma="" postag="e"
                   relation="PRED" head="0" cite="Plutarch Alcibiades: s-25 w-27"/>
       </sentence>
       <sentence id="26" document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:2.5" subdoc=""
@@ -1553,7 +1553,7 @@
                   cite=" Plutarch Alcibiades: s-34 w-23"/>
             <word id="24" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Plutarch Alcibiades: s-34 w-24"/>
-            <word id="25" insertion_id="0024e" artificial="elliptic" form="[0]" lemma="" postag=""
+            <word id="25" insertion_id="0024e" artificial="elliptic" form="[0]" lemma="" postag="e"
                   relation="PRED" head="0" cite="Plutarch Alcibiades: s-34 w-25"/>
       </sentence>
       <sentence id="35" document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:3.1" subdoc=""
@@ -1584,7 +1584,7 @@
                   cite=" Plutarch Alcibiades: s-35 w-12"/>
             <word id="13" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Plutarch Alcibiades: s-35 w-13"/>
-            <word id="14" insertion_id="0013e" artificial="elliptic" form="[0]" lemma="" postag=""
+            <word id="14" insertion_id="0013e" artificial="elliptic" form="[0]" lemma="" postag="e"
                   relation="PRED" head="0" cite="Plutarch Alcibiades: s-35 w-14"/>
       </sentence>
       <sentence id="36" document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:3.1" subdoc=""
@@ -1793,7 +1793,7 @@
                   head="79" cite=" Plutarch Alcibiades: s-37 w-80"/>
             <word id="81" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Plutarch Alcibiades: s-37 w-81"/>
-            <word id="82" insertion_id="0081e" artificial="elliptic" form="[0]" lemma="" postag=""
+            <word id="82" insertion_id="0081e" artificial="elliptic" form="[0]" lemma="" postag="e"
                   relation="ADV" head="71" cite="Plutarch Alcibiades: s-37 w-82"/>
       </sentence>
       <sentence id="38" document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:4.2" subdoc=""
@@ -2010,7 +2010,7 @@
                   cite=" Plutarch Alcibiades: s-40 w-42"/>
             <word id="43" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Plutarch Alcibiades: s-40 w-43"/>
-            <word id="44" insertion_id="0043e" artificial="elliptic" form="[0]" lemma="" postag=""
+            <word id="44" insertion_id="0043e" artificial="elliptic" form="[0]" lemma="" postag="e"
                   relation="ADV" head="40" cite="Plutarch Alcibiades: s-40 w-44"/>
       </sentence>
       <sentence id="41" document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:4.3" subdoc=""
@@ -2182,7 +2182,7 @@
                   head="62" cite=" Plutarch Alcibiades: s-42 w-64"/>
             <word id="65" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Plutarch Alcibiades: s-42 w-65"/>
-            <word id="66" insertion_id="0065e" artificial="elliptic" form="[0]" lemma="" postag=""
+            <word id="66" insertion_id="0065e" artificial="elliptic" form="[0]" lemma="" postag="e"
                   relation="ADV" head="61" cite="Plutarch Alcibiades: s-42 w-66"/>
       </sentence>
       <sentence id="43" document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:4.4" subdoc=""
@@ -2395,7 +2395,7 @@
                   relation="ADV_CO" head="26" cite=" Plutarch Alcibiades: s-45 w-27"/>
             <word id="28" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Plutarch Alcibiades: s-45 w-28"/>
-            <word id="29" insertion_id="0028e" artificial="elliptic" form="[0]" lemma="" postag=""
+            <word id="29" insertion_id="0028e" artificial="elliptic" form="[0]" lemma="" postag="e"
                   relation="OBJ" head="24" cite="Plutarch Alcibiades: s-45 w-29"/>
       </sentence>
       <sentence id="46" document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:4.5" subdoc=""
@@ -4015,7 +4015,7 @@
                   cite=" Plutarch Alcibiades: s-79 w-46"/>
             <word id="47" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Plutarch Alcibiades: s-79 w-47"/>
-            <word id="48" insertion_id="0047e" artificial="elliptic" form="[0]" lemma="" postag=""
+            <word id="48" insertion_id="0047e" artificial="elliptic" form="[0]" lemma="" postag="e"
                   relation="ADV" head="12" cite="Plutarch Alcibiades: s-79 w-48"/>
       </sentence>
       <sentence id="80" document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:8.2" subdoc=""
@@ -4138,7 +4138,7 @@
                   cite=" Plutarch Alcibiades: s-82 w-16"/>
             <word id="17" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Plutarch Alcibiades: s-82 w-17"/>
-            <word id="18" insertion_id="0017e" artificial="elliptic" form="[0]" lemma="" postag=""
+            <word id="18" insertion_id="0017e" artificial="elliptic" form="[0]" lemma="" postag="e"
                   relation="PRED" head="0" cite="Plutarch Alcibiades: s-82 w-18"/>
       </sentence>
       <sentence id="83" document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:8.2" subdoc=""
@@ -4739,7 +4739,7 @@
                   cite=" Plutarch Alcibiades: s-94 w-18"/>
             <word id="19" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Plutarch Alcibiades: s-94 w-19"/>
-            <word id="20" insertion_id="0019e" artificial="elliptic" form="[0]" lemma="" postag=""
+            <word id="20" insertion_id="0019e" artificial="elliptic" form="[0]" lemma="" postag="e"
                   relation="PRED" head="0" cite="Plutarch Alcibiades: s-94 w-20"/>
       </sentence>
       <sentence id="95" document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:10.1" subdoc=""
@@ -4792,7 +4792,7 @@
                   head="22" cite=" Plutarch Alcibiades: s-95 w-23"/>
             <word id="24" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Plutarch Alcibiades: s-95 w-24"/>
-            <word id="25" insertion_id="0024e" artificial="elliptic" form="[0]" lemma="" postag=""
+            <word id="25" insertion_id="0024e" artificial="elliptic" form="[0]" lemma="" postag="e"
                   relation="PRED" head="0" cite="Plutarch Alcibiades: s-95 w-25"/>
       </sentence>
       <sentence id="96" document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:10.1" subdoc=""
@@ -4809,7 +4809,7 @@
                   cite=" Plutarch Alcibiades: s-96 w-5"/>
             <word id="6" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Plutarch Alcibiades: s-96 w-6"/>
-            <word id="7" insertion_id="0006e" artificial="elliptic" form="[0]" lemma="" postag=""
+            <word id="7" insertion_id="0006e" artificial="elliptic" form="[0]" lemma="" postag="e"
                   relation="PRED" head="0" cite="Plutarch Alcibiades: s-96 w-7"/>
       </sentence>
       <sentence id="97" document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:10.2" subdoc=""
@@ -4898,7 +4898,7 @@
                   cite=" Plutarch Alcibiades: s-97 w-41"/>
             <word id="42" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Plutarch Alcibiades: s-97 w-42"/>
-            <word id="43" insertion_id="0042e" artificial="elliptic" form="[0]" lemma="" postag=""
+            <word id="43" insertion_id="0042e" artificial="elliptic" form="[0]" lemma="" postag="e"
                   relation="ADV" head="33" cite="Plutarch Alcibiades: s-97 w-43"/>
             <word id="44" insertion_id="0042f" artificial="elliptic" form="ἀπό" lemma="ἀπό"
                   postag="r--------" relation="AuxP" head="43" cite="Plutarch Alcibiades: s-97 w-44"
@@ -5345,7 +5345,7 @@
                   cite=" Plutarch Alcibiades: s-106 w-28"/>
             <word id="29" insertion_id="0028e" artificial="elliptic" form="ἐστιν" lemma="εἰμί"
                   postag="v3spia---" relation="PRED" head="0" cite="Plutarch Alcibiades: s-106 w-29"/>
-            <word id="30" insertion_id="0028f" artificial="elliptic" form="[0]" lemma="" postag=""
+            <word id="30" insertion_id="0028f" artificial="elliptic" form="[0]" lemma="" postag="e"
                   relation="ADV" head="23" cite="Plutarch Alcibiades: s-106 w-30"/>
       </sentence>
       <sentence id="107" document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:12.1" subdoc=""
@@ -5437,7 +5437,7 @@
                   cite=" Plutarch Alcibiades: s-108 w-30"/>
             <word id="31" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Plutarch Alcibiades: s-108 w-31"/>
-            <word id="32" insertion_id="0031e" artificial="elliptic" form="[0]" lemma="" postag=""
+            <word id="32" insertion_id="0031e" artificial="elliptic" form="[0]" lemma="" postag="e"
                   relation="PRED_CO" head="22" cite="Plutarch Alcibiades: s-108 w-32"/>
       </sentence>
       <sentence id="109" document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:12.1" subdoc=""
@@ -5970,7 +5970,7 @@
                   cite=" Plutarch Alcibiades: s-117 w-38"/>
             <word id="39" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Plutarch Alcibiades: s-117 w-39"/>
-            <word id="40" insertion_id="0039e" artificial="elliptic" form="[0]" lemma="" postag=""
+            <word id="40" insertion_id="0039e" artificial="elliptic" form="[0]" lemma="" postag="e"
                   relation="ADV" head="32" cite="Plutarch Alcibiades: s-117 w-40"/>
       </sentence>
       <sentence id="118" document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:13.2" subdoc=""
@@ -6033,7 +6033,7 @@
                   head="17" cite=" Plutarch Alcibiades: s-118 w-28"/>
             <word id="29" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Plutarch Alcibiades: s-118 w-29"/>
-            <word id="30" insertion_id="0029e" artificial="elliptic" form="[0]" lemma="" postag=""
+            <word id="30" insertion_id="0029e" artificial="elliptic" form="[0]" lemma="" postag="e"
                   relation="ADV" head="10" cite="Plutarch Alcibiades: s-118 w-30"/>
       </sentence>
       <sentence id="119" document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:13.3" subdoc=""
@@ -6183,7 +6183,7 @@
                   cite=" Plutarch Alcibiades: s-120 w-29"/>
             <word id="30" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Plutarch Alcibiades: s-120 w-30"/>
-            <word id="31" insertion_id="0030e" artificial="elliptic" form="[0]" lemma="" postag=""
+            <word id="31" insertion_id="0030e" artificial="elliptic" form="[0]" lemma="" postag="e"
                   relation="ADV" head="27" cite="Plutarch Alcibiades: s-120 w-31"/>
       </sentence>
       <sentence id="121" document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:13.4" subdoc=""
@@ -6398,7 +6398,7 @@
             <word id="7" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Plutarch Alcibiades: s-124 w-7"/>
       </sentence>
-      
+
       <sentence id="126" document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:14.1" subdoc=""
             span="Plutarch Alcibiades: s-126">
             <word id="1" form="τὸν" lemma="ὁ" postag="l-s---ma-" relation="ATR" head="3"
@@ -6957,7 +6957,7 @@
                   head="22" cite=" Plutarch Alcibiades: s-132 w-31"/>
             <word id="32" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Plutarch Alcibiades: s-132 w-32"/>
-            <word id="33" insertion_id="0032e" artificial="elliptic" form="[0]" lemma="" postag=""
+            <word id="33" insertion_id="0032e" artificial="elliptic" form="[0]" lemma="" postag="e"
                   relation="ADV" head="9" cite="Plutarch Alcibiades: s-132 w-33"/>
       </sentence>
       <sentence id="133" document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:14.6" subdoc=""
@@ -7182,7 +7182,7 @@
             <word id="29" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Plutarch Alcibiades: s-138 w-29"/>
       </sentence>
-     
+
       <sentence id="140" document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:14.8" subdoc=""
             span="Plutarch Alcibiades: s-140">
             <word id="1" form="ταῦτα" lemma="οὗτος" postag="p-p---na-" relation="OBJ" head="3"
@@ -7434,7 +7434,7 @@
                   cite=" Plutarch Alcibiades: s-143 w-59"/>
             <word id="60" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Plutarch Alcibiades: s-143 w-60"/>
-            <word id="61" insertion_id="0060e" artificial="elliptic" form="[0]" lemma="" postag=""
+            <word id="61" insertion_id="0060e" artificial="elliptic" form="[0]" lemma="" postag="e"
                   relation="ADV" head="11" cite="Plutarch Alcibiades: s-143 w-61"/>
       </sentence>
       <sentence id="144" document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:15.1" subdoc=""
@@ -7804,7 +7804,7 @@
                   cite=" Plutarch Alcibiades: s-149 w-23"/>
             <word id="24" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Plutarch Alcibiades: s-149 w-24"/>
-            <word id="25" insertion_id="0024e" artificial="elliptic" form="[0]" lemma="" postag=""
+            <word id="25" insertion_id="0024e" artificial="elliptic" form="[0]" lemma="" postag="e"
                   relation="ADV" head="18" cite="Plutarch Alcibiades: s-149 w-25"/>
       </sentence>
       <sentence id="150" document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:15.3" subdoc=""
@@ -8223,9 +8223,9 @@
                   cite=" Plutarch Alcibiades: s-154 w-108"/>
             <word id="109" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Plutarch Alcibiades: s-154 w-109"/>
-            <word id="110" insertion_id="0109e" artificial="elliptic" form="[0]" lemma="" postag=""
+            <word id="110" insertion_id="0109e" artificial="elliptic" form="[0]" lemma="" postag="e"
                   relation="ADV" head="89" cite="Plutarch Alcibiades: s-154 w-110"/>
-            <word id="111" insertion_id="0109f" artificial="elliptic" form="[1]" lemma="" postag=""
+            <word id="111" insertion_id="0109f" artificial="elliptic" form="[1]" lemma="" postag="e"
                   relation="PRED" head="0" cite="Plutarch Alcibiades: s-154 w-111"/>
       </sentence>
       <sentence id="155" document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:16.2" subdoc=""
@@ -8264,9 +8264,9 @@
                   cite=" Plutarch Alcibiades: s-155 w-16"/>
             <word id="17" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Plutarch Alcibiades: s-155 w-17"/>
-            <word id="18" insertion_id="0017e" artificial="elliptic" form="[0]" lemma="" postag=""
+            <word id="18" insertion_id="0017e" artificial="elliptic" form="[0]" lemma="" postag="e"
                   relation="PRED_CO" head="12" cite="Plutarch Alcibiades: s-155 w-18"/>
-            <word id="19" insertion_id="0017f" artificial="elliptic" form="[1]" lemma="" postag=""
+            <word id="19" insertion_id="0017f" artificial="elliptic" form="[1]" lemma="" postag="e"
                   relation="PRED_CO" head="12" cite="Plutarch Alcibiades: s-155 w-19"/>
       </sentence>
       <sentence id="156" document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:16.2" subdoc=""
@@ -8287,7 +8287,7 @@
                   cite=" Plutarch Alcibiades: s-156 w-7"/>
             <word id="8" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Plutarch Alcibiades: s-156 w-8"/>
-            <word id="9" insertion_id="0008e" artificial="elliptic" form="[0]" lemma="" postag=""
+            <word id="9" insertion_id="0008e" artificial="elliptic" form="[0]" lemma="" postag="e"
                   relation="PRED" head="0" cite="Plutarch Alcibiades: s-156 w-9"/>
       </sentence>
       <sentence id="157" document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:16.2" subdoc=""
@@ -8310,7 +8310,7 @@
                   head="10" cite=" Plutarch Alcibiades: s-157 w-8"/>
             <word id="9" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Plutarch Alcibiades: s-157 w-9"/>
-            <word id="10" insertion_id="0009e" artificial="elliptic" form="[0]" lemma="" postag=""
+            <word id="10" insertion_id="0009e" artificial="elliptic" form="[0]" lemma="" postag="e"
                   relation="PRED" head="0" cite="Plutarch Alcibiades: s-157 w-10"/>
       </sentence>
       <sentence id="158" document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:16.3" subdoc=""
@@ -8477,7 +8477,7 @@
                   cite=" Plutarch Alcibiades: s-160 w-8"/>
             <word id="9" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Plutarch Alcibiades: s-160 w-9"/>
-            <word id="10" insertion_id="0009e" artificial="elliptic" form="[0]" lemma="" postag=""
+            <word id="10" insertion_id="0009e" artificial="elliptic" form="[0]" lemma="" postag="e"
                   relation="PRED" head="0" cite="Plutarch Alcibiades: s-160 w-10"/>
       </sentence>
       <sentence id="161" document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:16.4" subdoc=""
@@ -8624,7 +8624,7 @@
                   head="9" cite=" Plutarch Alcibiades: s-164 w-10"/>
             <word id="11" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Plutarch Alcibiades: s-164 w-11"/>
-            <word id="12" insertion_id="0011e" artificial="elliptic" form="[0]" lemma="" postag=""
+            <word id="12" insertion_id="0011e" artificial="elliptic" form="[0]" lemma="" postag="e"
                   relation="ATR" head="5" cite="Plutarch Alcibiades: s-164 w-12"/>
       </sentence>
       <sentence id="165" document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:16.5" subdoc=""
@@ -8746,7 +8746,7 @@
                   cite=" Plutarch Alcibiades: s-166 w-39"/>
             <word id="40" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Plutarch Alcibiades: s-166 w-40"/>
-            <word id="41" insertion_id="0040e" artificial="elliptic" form="[0]" lemma="" postag=""
+            <word id="41" insertion_id="0040e" artificial="elliptic" form="[0]" lemma="" postag="e"
                   relation="ADV" head="1" cite="Plutarch Alcibiades: s-166 w-41"/>
       </sentence>
       <sentence id="167" document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:16.6" subdoc=""
@@ -9028,7 +9028,7 @@
                   head="12" cite=" Plutarch Alcibiades: s-172 w-20"/>
             <word id="21" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Plutarch Alcibiades: s-172 w-21"/>
-            <word id="22" insertion_id="0021e" artificial="elliptic" form="[0]" lemma="" postag=""
+            <word id="22" insertion_id="0021e" artificial="elliptic" form="[0]" lemma="" postag="e"
                   relation="ADV" head="16" cite="Plutarch Alcibiades: s-172 w-22"/>
             <word id="23" insertion_id="0021f" artificial="elliptic" form="εἶναι" lemma="εἰμί"
                   postag="v--pna---" relation="OBJ_CO" head="12"
@@ -9330,11 +9330,11 @@
                   cite=" Plutarch Alcibiades: s-175 w-61"/>
             <word id="62" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Plutarch Alcibiades: s-175 w-62"/>
-            <word id="63" insertion_id="0062e" artificial="elliptic" form="[0]" lemma="" postag=""
+            <word id="63" insertion_id="0062e" artificial="elliptic" form="[0]" lemma="" postag="e"
                   relation="ADV_CO" head="36" cite="Plutarch Alcibiades: s-175 w-63"/>
-            <word id="64" insertion_id="0062f" artificial="elliptic" form="[1]" lemma="" postag=""
+            <word id="64" insertion_id="0062f" artificial="elliptic" form="[1]" lemma="" postag="e"
                   relation="ADV_CO" head="43" cite="Plutarch Alcibiades: s-175 w-64"/>
-            <word id="65" insertion_id="0062g" artificial="elliptic" form="[2]" lemma="" postag=""
+            <word id="65" insertion_id="0062g" artificial="elliptic" form="[2]" lemma="" postag="e"
                   relation="PRED_CO" head="34" cite="Plutarch Alcibiades: s-175 w-65"/>
       </sentence>
       <sentence id="176" document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:17.5" subdoc=""
@@ -10651,7 +10651,7 @@
             <word id="23" insertion_id="0022e" artificial="elliptic" form="προσήκειν"
                   lemma="προσήκω" postag="v--pna---" relation="OBJ_CO" head="10"
                   cite="Plutarch Alcibiades: s-197 w-23"/>
-            <word id="24" insertion_id="0022f" artificial="elliptic" form="[0]" lemma="" postag=""
+            <word id="24" insertion_id="0022f" artificial="elliptic" form="[0]" lemma="" postag="e"
                   relation="PRED" head="0" cite="Plutarch Alcibiades: s-197 w-24"/>
       </sentence>
       <sentence id="21" document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:20.1" subdoc=""
@@ -10784,7 +10784,7 @@
             <word id="14" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Plutarch Alcibiades: s-199 w-14"/>
       </sentence>
-      
+
       <sentence id="24" document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:20.3" subdoc=""
             span="Plutarch Alcibiades: s-201">
             <word id="1" form="πρῶτον" lemma="πρῶτος" postag="a-s---na-" relation="ADV" head="16"
@@ -11194,7 +11194,7 @@
                   cite=" Plutarch Alcibiades: s-210 w-29"/>
             <word id="30" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Plutarch Alcibiades: s-210 w-30"/>
-            <word id="31" insertion_id="0030e" artificial="elliptic" form="[0]" lemma="" postag=""
+            <word id="31" insertion_id="0030e" artificial="elliptic" form="[0]" lemma="" postag="e"
                   relation="OBJ" head="14" cite="Plutarch Alcibiades: s-210 w-31"/>
       </sentence>
       <sentence id="34" document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:20.5" subdoc=""
@@ -11593,7 +11593,7 @@
                   head="24" cite=" Plutarch Alcibiades: s-218 w-20"/>
             <word id="21" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Plutarch Alcibiades: s-218 w-21"/>
-            <word id="22" insertion_id="0021e" artificial="elliptic" form="[0]" lemma="" postag=""
+            <word id="22" insertion_id="0021e" artificial="elliptic" form="[0]" lemma="" postag="e"
                   relation="PRED" head="0" cite="Plutarch Alcibiades: s-218 w-22"/>
             <word id="23" insertion_id="0021f" artificial="elliptic" form="εἶναι" lemma="εἰμί"
                   postag="v--pna---" relation="OBJ_CO" head="18"
@@ -11666,7 +11666,7 @@
                   cite=" Plutarch Alcibiades: s-219 w-30"/>
             <word id="31" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Plutarch Alcibiades: s-219 w-31"/>
-            <word id="32" insertion_id="0031e" artificial="elliptic" form="[0]" lemma="" postag=""
+            <word id="32" insertion_id="0031e" artificial="elliptic" form="[0]" lemma="" postag="e"
                   relation="PRED" head="0" cite="Plutarch Alcibiades: s-219 w-32"/>
             <word id="33" insertion_id="0031f" artificial="elliptic" form="εἶναι" lemma="εἰμί"
                   postag="v--pna---" relation="OBJ_CO" head="13"
@@ -12187,7 +12187,7 @@
                   cite=" Plutarch Alcibiades: s-230 w-22"/>
             <word id="23" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Plutarch Alcibiades: s-230 w-23"/>
-            <word id="24" insertion_id="0023e" artificial="elliptic" form="[0]" lemma="" postag=""
+            <word id="24" insertion_id="0023e" artificial="elliptic" form="[0]" lemma="" postag="e"
                   relation="OBJ" head="20" cite="Plutarch Alcibiades: s-230 w-24"/>
       </sentence>
       <sentence id="54" document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:22.2" subdoc=""
@@ -12234,7 +12234,7 @@
                   cite=" Plutarch Alcibiades: s-231 w-20"/>
             <word id="21" form="." lemma="punc1" postag="u--------" relation="AuxX" head="0"
                   cite=" Plutarch Alcibiades: s-231 w-21"/>
-            <word id="22" insertion_id="0021e" artificial="elliptic" form="[0]" lemma="" postag=""
+            <word id="22" insertion_id="0021e" artificial="elliptic" form="[0]" lemma="" postag="e"
                   relation="PRED" head="0" cite="Plutarch Alcibiades: s-231 w-22"/>
       </sentence>
       <sentence id="55" document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:22.2" subdoc=""
@@ -12751,7 +12751,7 @@
                   head="8" cite=" Plutarch Alcibiades: s-238 w-10"/>
             <word id="11" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Plutarch Alcibiades: s-238 w-11"/>
-            <word id="12" insertion_id="0011e" artificial="elliptic" form="[0]" lemma="" postag=""
+            <word id="12" insertion_id="0011e" artificial="elliptic" form="[0]" lemma="" postag="e"
                   relation="PRED" head="0" cite="Plutarch Alcibiades: s-238 w-12"/>
       </sentence>
       <sentence id="62" document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:23.2" subdoc=""
@@ -12792,7 +12792,7 @@
                   cite=" Plutarch Alcibiades: s-239 w-17"/>
             <word id="18" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Plutarch Alcibiades: s-239 w-18"/>
-            <word id="19" insertion_id="0018e" artificial="elliptic" form="[0]" lemma="" postag=""
+            <word id="19" insertion_id="0018e" artificial="elliptic" form="[0]" lemma="" postag="e"
                   relation="PRED" head="0" cite="Plutarch Alcibiades: s-239 w-19"/>
       </sentence>
       <sentence id="63" document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:23.3" subdoc=""
@@ -13007,7 +13007,7 @@
                   cite=" Plutarch Alcibiades: s-242 w-15"/>
             <word id="16" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Plutarch Alcibiades: s-242 w-16"/>
-            <word id="17" insertion_id="0016e" artificial="elliptic" form="[0]" lemma="" postag=""
+            <word id="17" insertion_id="0016e" artificial="elliptic" form="[0]" lemma="" postag="e"
                   relation="APOS" head="8" cite="Plutarch Alcibiades: s-242 w-17"/>
       </sentence>
       <sentence id="66" document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:23.4" subdoc=""
@@ -13628,7 +13628,7 @@
             <word id="20" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Plutarch Alcibiades: s-254 w-20"/>
       </sentence>
-     
+
       <sentence id="79" document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:24.1" subdoc=""
             span="Plutarch Alcibiades: s-256">
             <word id="1" form="ἐκπλεύσας" lemma="ἐκπλέω" postag="v-sapamn-" relation="ADV" head="5"
@@ -14239,7 +14239,7 @@
                   cite=" Plutarch Alcibiades: s-267 w-49"/>
             <word id="50" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Plutarch Alcibiades: s-267 w-50"/>
-            <word id="51" insertion_id="0050e" artificial="elliptic" form="[0]" lemma="" postag=""
+            <word id="51" insertion_id="0050e" artificial="elliptic" form="[0]" lemma="" postag="e"
                   relation="ATR" head="5" cite="Plutarch Alcibiades: s-267 w-51"/>
       </sentence>
       <sentence id="91" document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:25.2" subdoc=""
@@ -14585,7 +14585,7 @@
                   cite=" Plutarch Alcibiades: s-271 w-53"/>
             <word id="54" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Plutarch Alcibiades: s-271 w-54"/>
-            <word id="55" insertion_id="0054e" artificial="elliptic" form="[0]" lemma="" postag=""
+            <word id="55" insertion_id="0054e" artificial="elliptic" form="[0]" lemma="" postag="e"
                   relation="ADV_CO" head="31" cite="Plutarch Alcibiades: s-271 w-55"/>
       </sentence>
       <sentence id="95" document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:25.5" subdoc=""
@@ -14693,7 +14693,7 @@
                   head="0" cite=" Plutarch Alcibiades: s-273 w-40"/>
             <word id="41" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Plutarch Alcibiades: s-273 w-41"/>
-            <word id="42" insertion_id="0041e" artificial="elliptic" form="[0]" lemma="" postag=""
+            <word id="42" insertion_id="0041e" artificial="elliptic" form="[0]" lemma="" postag="e"
                   relation="ADV" head="21" cite="Plutarch Alcibiades: s-273 w-42"/>
             <word id="43" insertion_id="0041f" artificial="elliptic" form="τι" lemma="τις"
                   postag="p-s---na-" relation="OBJ" head="42" cite="Plutarch Alcibiades: s-273 w-43"
@@ -16864,7 +16864,7 @@
                   head="46" cite=" Plutarch Alcibiades: s-311 w-48"/>
             <word id="49" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Plutarch Alcibiades: s-311 w-49"/>
-            <word id="50" insertion_id="0049e" artificial="elliptic" form="[0]" lemma="" postag=""
+            <word id="50" insertion_id="0049e" artificial="elliptic" form="[0]" lemma="" postag="e"
                   relation="ADV" head="32" cite="Plutarch Alcibiades: s-311 w-50"/>
       </sentence>
       <sentence id="135" document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:28.2" subdoc=""
@@ -16885,7 +16885,7 @@
                   cite=" Plutarch Alcibiades: s-312 w-7"/>
             <word id="8" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Plutarch Alcibiades: s-312 w-8"/>
-            <word id="9" insertion_id="0008e" artificial="elliptic" form="[0]" lemma="" postag=""
+            <word id="9" insertion_id="0008e" artificial="elliptic" form="[0]" lemma="" postag="e"
                   relation="PRED" head="0" cite="Plutarch Alcibiades: s-312 w-9"/>
       </sentence>
       <sentence id="136" document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:28.2" subdoc=""
@@ -18624,7 +18624,7 @@
                   cite=" Plutarch Alcibiades: s-347 w-22"/>
             <word id="23" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Plutarch Alcibiades: s-347 w-23"/>
-            <word id="24" insertion_id="0023e" artificial="elliptic" form="[0]" lemma="" postag=""
+            <word id="24" insertion_id="0023e" artificial="elliptic" form="[0]" lemma="" postag="e"
                   relation="ADV" head="19" cite="Plutarch Alcibiades: s-347 w-24"/>
       </sentence>
       <sentence id="171" document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:31.2" subdoc=""
@@ -20730,7 +20730,7 @@
                   head="30" cite=" Plutarch Alcibiades: s-377 w-34"/>
             <word id="35" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Plutarch Alcibiades: s-377 w-35"/>
-            <word id="36" insertion_id="0035e" artificial="elliptic" form="[0]" lemma="" postag=""
+            <word id="36" insertion_id="0035e" artificial="elliptic" form="[0]" lemma="" postag="e"
                   relation="PRED" head="0" cite="Plutarch Alcibiades: s-377 w-36"/>
       </sentence>
       <sentence id="201" document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:34.5" subdoc=""
@@ -21012,7 +21012,7 @@
                   head="75" cite=" Plutarch Alcibiades: s-379 w-77"/>
             <word id="78" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Plutarch Alcibiades: s-379 w-78"/>
-            <word id="79" insertion_id="0078e" artificial="elliptic" form="[0]" lemma="" postag=""
+            <word id="79" insertion_id="0078e" artificial="elliptic" form="[0]" lemma="" postag="e"
                   relation="OBJ" head="51" cite="Plutarch Alcibiades: s-379 w-79"/>
       </sentence>
       <sentence id="203" document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:35.1" subdoc=""
@@ -21198,7 +21198,7 @@
                   head="1" cite=" Plutarch Alcibiades: s-383 w-14"/>
             <word id="15" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Plutarch Alcibiades: s-383 w-15"/>
-            <word id="16" insertion_id="0015e" artificial="elliptic" form="[0]" lemma="" postag=""
+            <word id="16" insertion_id="0015e" artificial="elliptic" form="[0]" lemma="" postag="e"
                   relation="ADV" head="4" cite="Plutarch Alcibiades: s-383 w-16"/>
       </sentence>
       <sentence id="207" document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:35.2" subdoc=""
@@ -21272,7 +21272,7 @@
                   head="7" cite=" Plutarch Alcibiades: s-385 w-5"/>
             <word id="6" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Plutarch Alcibiades: s-385 w-6"/>
-            <word id="7" insertion_id="0006e" artificial="elliptic" form="[0]" lemma="" postag=""
+            <word id="7" insertion_id="0006e" artificial="elliptic" form="[0]" lemma="" postag="e"
                   relation="PRED" head="0" cite="Plutarch Alcibiades: s-385 w-7"/>
       </sentence>
       <sentence id="209" document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:35.2" subdoc=""
@@ -21618,7 +21618,7 @@
                   relation="ADV_CO" head="30" cite=" Plutarch Alcibiades: s-391 w-45"/>
             <word id="46" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Plutarch Alcibiades: s-391 w-46"/>
-            <word id="47" insertion_id="0046e" artificial="elliptic" form="[0]" lemma="" postag=""
+            <word id="47" insertion_id="0046e" artificial="elliptic" form="[0]" lemma="" postag="e"
                   relation="ATR" head="3" cite="Plutarch Alcibiades: s-391 w-47"/>
       </sentence>
       <sentence id="215" document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:35.6" subdoc=""
@@ -22391,7 +22391,7 @@
                   head="17" cite=" Plutarch Alcibiades: s-402 w-15"/>
             <word id="16" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Plutarch Alcibiades: s-402 w-16"/>
-            <word id="17" insertion_id="0016e" artificial="elliptic" form="[0]" lemma="" postag=""
+            <word id="17" insertion_id="0016e" artificial="elliptic" form="[0]" lemma="" postag="e"
                   relation="ADV" head="6" cite="Plutarch Alcibiades: s-402 w-17"/>
       </sentence>
       <sentence id="226" document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:37.1" subdoc=""
@@ -22884,12 +22884,12 @@
                   head="19" cite=" Plutarch Alcibiades: s-411 w-22"/>
             <word id="23" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Plutarch Alcibiades: s-411 w-23"/>
-            <word id="24" insertion_id="0023e" artificial="elliptic" form="[0]" lemma="" postag=""
+            <word id="24" insertion_id="0023e" artificial="elliptic" form="[0]" lemma="" postag="e"
                   relation="ADV" head="7" cite="Plutarch Alcibiades: s-411 w-24"/>
             <word id="25" insertion_id="0023f" artificial="elliptic" form="ὑπουργήσειν"
                   lemma="ὑπουργέω" postag="v--fna---" relation="OBJ_CO" head="18"
                   cite="Plutarch Alcibiades: s-411 w-25"/>
-            <word id="26" insertion_id="0023g" artificial="elliptic" form="[1]" lemma="" postag=""
+            <word id="26" insertion_id="0023g" artificial="elliptic" form="[1]" lemma="" postag="e"
                   relation="PRED" head="0" cite="Plutarch Alcibiades: s-411 w-26"/>
       </sentence>
       <sentence id="235" document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:37.4" subdoc=""

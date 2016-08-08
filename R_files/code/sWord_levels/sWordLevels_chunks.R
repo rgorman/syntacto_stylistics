@@ -12,7 +12,7 @@ input.dir <- "../sWord_levels/VG_files_POS_and_REL_and_relpos"
 files.v <- dir(path=input.dir, pattern=".*xml")
 
 
-i <- 1
+i <- 12
 
 # create list object with no content. Vectors extracted from XML files will be stored here.
 sWord.freq.table.list <- list()

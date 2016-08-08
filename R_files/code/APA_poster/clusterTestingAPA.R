@@ -70,14 +70,23 @@ dim(smaller.m)
 
 View(smaller.m)
 
+
+# order columns by column mean, largest to smallest and create object with results
+ordered.m <- smaller.m[, order(colMeans(smaller.m), decreasing=TRUE)]
+View(ordered.m)
+
 #create distance object as input to hclust algorithm. Possible methods are "euclidian", "maximum", "manhattan", "canberra", "binary" or "minkowski". Default is "euclidian".
 dist.smaller.m <- dist(smaller.m)
 dist.smaller.m2 <- dist(scale(smaller.m), upper = FALSE, diag = TRUE)
 
+reference.m <- ordered.m[, 1:150]
+write.csv(as.matrix(reference.m), file="Rresults/Reference.csv")
+
 dist.smaller.m2
 
 View(dist.smaller.m)
-write.csv(as.matrix(dist.smaller.m2), file="Rresults/RevisedDistance2.csv")
+write.csv(as.matrix(dist.smaller.m2), file="Rresults/RevisedDistance3.csv")
+write.csv(as.matrix(dist.smaller.m), file="Rresults/RevisedDistance4.csv")
 as.matrix(dist.smaller.m2)
 print(dist.smaller.m2)
 
@@ -96,7 +105,7 @@ plot(groups2, hang=-1, xlab="Perseus Treebank", main="Dendrogram of Ancient Lang
 
 
 # use package dendextend to improve appearance of dendrogram
-dend <- as.dendrogram(groups2)
+dend2 <- as.dendrogram(groups2)
 
 dend2 <- color_branches(dend, k=3)
 dend2 <- color_labels(dend2, k=3)
@@ -150,7 +159,9 @@ labels_colors(dend2)[c(28, 29, 30, 31, 32, 33)] <- "blue" # Odyssey
 labels_colors(dend2)[c(34, 35, 36)] <- "blueviolet" # Hesiod
 
 
-plot(dend2, main="Dendrogram of Ancient Languages Dependency Treebank")
+par(dend2)
+
+plot(dend2, cex = 0.3, main="Dendrogram of Ancient Languages Dependency Treebank", sub = "this is the story of a man")
 dend3 <- hang.dendrogram(dend2, hang_height = 0.1)
 
 labels_colors(dend2)

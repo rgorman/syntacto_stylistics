@@ -29,7 +29,7 @@ for (i in 1:length(files.v)) {
   
   # here we must split files into chunks
   
-  divisor <- length(word.nodes)/30
+  divisor <- length(word.nodes)/25
   max.length <- length(word.nodes)/divisor
   x <- seq_along(word.nodes)
   chunks.l <- split(word.nodes, ceiling(x/max.length))
@@ -79,7 +79,7 @@ for (i in 1:length(files.v)) {
         
         # add successively extracted content to vector
         extracted.content.v <- append(extracted.content.v, xmlValue(content.nodes[[n]]))
-        
+        extracted.content.v <- tolower(extracted.content.v)
         
       }
       
@@ -181,7 +181,7 @@ for (i in 1:length(files.v))  {
   
   # here we must split files into chunks
   
-  divisor <- length(word.nodes)/30
+  divisor <- length(word.nodes)/25
   max.length <- length(word.nodes)/divisor
   x <- seq_along(word.nodes)
   chunks.l <- split(word.nodes, ceiling(x/max.length))
@@ -261,7 +261,7 @@ rm(freqs.df)
 
 
 # save spreadsheet of row names to be used for sampling probabilities.
-write.csv(row.names(smaller.df), file = "Rresults/matrices/sWordLevels_Sample_40tokens_rowNames.csv")
+write.csv(row.names(smaller.df), file = "Rresults/matrices/sWordLevels_Sample_25tokens_rowNames.csv")
 
 # order columns by column mean, largest to smallest and create object with results
 ordered.df <- smaller.df[, order(colMeans(smaller.df), decreasing=TRUE)]

@@ -14,7 +14,7 @@ rm(ordered.df)
 
 
 
-chunk.ratios.m <- read.csv(file="Rresults/matrices/sWordLevels_Sample_50tokens_rowNames.csv", stringsAsFactors = FALSE, header = TRUE)
+chunk.ratios.m <- read.csv(file="Rresults/matrices/sWordLevels_Sample_25tokens_rowNames.csv", stringsAsFactors = FALSE, header = TRUE)
 chunk.ratios.m[,2]
 View(chunk.ratios.m)
 
@@ -25,6 +25,7 @@ View(chunk.ratios.m)
 
 # read in author.v for list of levels
 author.factor <- chunk.ratios.m[, 1]
+unique(author.factor)
 
 svm.results.l <- list()
 svm.error.matrix.l <- list()
@@ -38,7 +39,7 @@ for (i in 1:100) {
   
   
   #create vector of random integers = 10% of obs in smaller.df
-  testing.index.v <- sample (seq (1, nrow(smaller.df)), 133, prob = chunk.ratios.m[, 2])
+  testing.index.v <- sample (seq (1, nrow(smaller.df)), 260, prob = chunk.ratios.m[, 2])
   
   
   #create training and testing data matrices using testing.index.v and its inverse
@@ -72,7 +73,7 @@ sum(a[,7])/2
 
 10000-(sum(a[,6])/2)
 
-(13300-(sum(a[,7])/2))/13300
+(26000-(sum(a[,7])/2))/26000
 
 
 length(svm.error.matrix.l)

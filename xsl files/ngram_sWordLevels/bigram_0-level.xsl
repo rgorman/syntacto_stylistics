@@ -21,10 +21,31 @@
               <sentence>
                   <xsl:copy-of select="@*"/>
                   <xsl:for-each select="word">
-                      
+                      <xsl:variable name="word_count" select="count(../word)"/>
+                      <xsl:variable name="self_id" select="./@id"/>
                      <word>
                          <xsl:copy-of select="@*"/>
                       <xsl:copy-of select="child::node()"></xsl:copy-of>
+                         <xsl:choose>
+                             <xsl:when test="./@id=$word_count"></xsl:when>
+                             <xsl:otherwise>
+                                 <xsl:choose>
+                                     <xsl:when test="$self_id=1">
+                                         <bigram-rel-pos-sWordLevel-0>start=<xsl:value-of select="./rel-pos-sWord-0"/></bigram-rel-pos-sWordLevel-0>
+                                         <bigram-rel-pos-sWordLevel-0><xsl:value-of select="./rel-pos-sWord-0"/>=<xsl:value-of select="../word[$self_id+1]/rel-pos-sWord-0"/></bigram-rel-pos-sWordLevel-0>
+                                     </xsl:when>
+                                     <xsl:otherwise>
+                                         <bigram-rel-pos-sWordLevel-0>
+                                             <xsl:value-of select="./rel-pos-sWord-0"/>=<xsl:value-of select="../word[$self_id+1]/rel-pos-sWord-0"/>    
+                                         </bigram-rel-pos-sWordLevel-0> 
+                                     </xsl:otherwise>
+                                 </xsl:choose>
+                                    
+                                 
+                             </xsl:otherwise>
+                             
+                         </xsl:choose>
+                         
                      </word>
                       
                       

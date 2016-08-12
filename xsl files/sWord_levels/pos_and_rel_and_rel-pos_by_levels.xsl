@@ -2014,7 +2014,7 @@
                                     </xsl:choose>
                                     <xsl:choose>
                                         <xsl:when test="$head_18 = 0">
-                                            <rel-pos-sWord-18>#-<xsl:value-of
+                                            <rel-sWord-18>#-<xsl:value-of
                                                   select="
                                                        string-join((
                                                         parent::sentence/word[@id = $head_17]/@relation,
@@ -2037,7 +2037,7 @@
                                                         ./@relation
                                                         ), '-')"
                                                 />
-                                            </rel-pos-sWord-18>
+                                            </rel-sWord-18>
                                         </xsl:when>
                                         <xsl:when test="$head_18 > 0">
                                             <rel-sWord-18>
@@ -2070,7 +2070,7 @@
                                     </xsl:choose>
                                     <xsl:choose>
                                         <xsl:when test="$head_19 = 0">
-                                            <rel-pos-sWord-19>#-<xsl:value-of
+                                            <rel-sWord-19>#-<xsl:value-of
                                                   select="
                                                         string-join((
                                                         parent::sentence/word[@id = $head_18]/@relation,
@@ -2094,10 +2094,10 @@
                                                         ./@relation
                                                         ), '-')"
                                                 />
-                                            </rel-pos-sWord-19>
+                                            </rel-sWord-19>
                                         </xsl:when>
                                         <xsl:when test="$head_19 > 0">
-                                            <rel-pos-sWord-19>
+                                            <rel-sWord-19>
                                                 <xsl:value-of
                                                   select="
                                                         string-join((
@@ -2123,7 +2123,7 @@
                                                         ./@relation
                                                         ), '-')"
                                                 />
-                                            </rel-pos-sWord-19>
+                                            </rel-sWord-19>
                                         </xsl:when>
                                     </xsl:choose>
                                     <xsl:choose>
@@ -2230,16 +2230,14 @@
                                     </pos-sWord-1>
                                     <xsl:choose>
                                         <xsl:when test="$head_2 = 0">
-                                            <rel-pos-sWord-2>#-<xsl:value-of
+                                            <pos-sWord-2>#-<xsl:value-of
                                                   select="
-                                                        normalize-space(string-join((
-                                                        parent::sentence/word[@id = $head_1]/@relation,
+                                                        string-join((
                                                         substring(parent::sentence/word[@id = $head_1]/@postag, 1, 1),
-                                                        ./@relation,
                                                         substring(./@postag, 1, 1)
-                                                        ), '-'))"
+                                                        ), '-')"
                                                 />
-                                            </rel-pos-sWord-2>
+                                            </pos-sWord-2>
                                         </xsl:when>
                                         <xsl:when test="$head_2 > 0">
                                             <pos-sWord-2>

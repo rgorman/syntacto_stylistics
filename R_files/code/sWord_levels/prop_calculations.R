@@ -31,6 +31,22 @@ per_author / 138
 per_author / 558
 per_author / 160
 
+per_author / 202
+per_author / 260
+per_author / 127
+per_author / 173
+per_author / 699
+per_author / 200
+
+
+per_author / 323
+per_author / 416
+per_author / 204
+per_author / 276
+per_author / 1114
+per_author / 319
+
+
 
 180+94+133+77+74
 

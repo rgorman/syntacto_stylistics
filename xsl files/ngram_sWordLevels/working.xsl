@@ -30,24 +30,59 @@
                              <xsl:when test="./@id=$word_count"></xsl:when>
                              <xsl:otherwise>
                                  <xsl:choose>
-                                     <xsl:when test="$self_id=1">
-                                         <bigram-rel-pos-sWordLevel-0>start=<xsl:value-of select="./rel-pos-sWord-0"/></bigram-rel-pos-sWordLevel-0>
-                                         <bigram-rel-pos-sWordLevel-0><xsl:value-of select="./rel-pos-sWord-0"/>=<xsl:value-of select="../word[$self_id+1]/rel-pos-sWord-0"/></bigram-rel-pos-sWordLevel-0>
-                                         
-                                         <bigram-rel-pos-sWordLevel-1><xsl:value-of select="./rel-pos-sWord-1"/>=start</bigram-rel-pos-sWordLevel-1>
-                                         <bigram-rel-pos-sWordLevel-1><xsl:value-of select="./rel-pos-sWord-1"/>=<xsl:value-of select="../word[$self_id+1]/rel-pos-sWord-1"/></bigram-rel-pos-sWordLevel-1>
-                                        
-                                         
-                                         
+                                     <xsl:when test="exists(./rel-pos-sWord-2) and exists(../word[$self_id+1]/rel-pos-sWord-2)">
+                                         <xsl:choose>
+                                             <xsl:when test="$self_id=1">
+                                                 <bigram-rel-pos-sWordLevel-0>start=<xsl:value-of select="./rel-pos-sWord-0"/></bigram-rel-pos-sWordLevel-0>
+                                                 <bigram-rel-pos-sWordLevel-0><xsl:value-of select="./rel-pos-sWord-0"/>=<xsl:value-of select="../word[$self_id+1]/rel-pos-sWord-0"/></bigram-rel-pos-sWordLevel-0>
+                                                 
+                                                 <bigram-rel-pos-sWordLevel-1><xsl:value-of select="./rel-pos-sWord-1"/>=start</bigram-rel-pos-sWordLevel-1>
+                                                 <bigram-rel-pos-sWordLevel-1><xsl:value-of select="./rel-pos-sWord-1"/>=<xsl:value-of select="../word[$self_id+1]/rel-pos-sWord-1"/></bigram-rel-pos-sWordLevel-1>
+                                                 
+                                                 <bigram-rel-pos-sWordLevel-2><xsl:value-of select="./rel-pos-sWord-2"/>=start</bigram-rel-pos-sWordLevel-2>
+                                                 <bigram-rel-pos-sWordLevel-2><xsl:value-of select="./rel-pos-sWord-2"/>=<xsl:value-of select="../word[$self_id+1]/rel-pos-sWord-2"/></bigram-rel-pos-sWordLevel-2>
+                                                 
+                                                 
+                                                 
+                                             </xsl:when>
+                                             <xsl:otherwise>
+                                                 <bigram-rel-pos-sWordLevel-0><xsl:value-of select="./rel-pos-sWord-0"/>=<xsl:value-of select="../word[$self_id+1]/rel-pos-sWord-0"/></bigram-rel-pos-sWordLevel-0>
+                                                 <bigram-rel-pos-sWordLevel-1><xsl:value-of select="./rel-pos-sWord-1"/>=<xsl:value-of select="../word[$self_id+1]/rel-pos-sWord-1"/></bigram-rel-pos-sWordLevel-1>
+                                                 <bigram-rel-pos-sWordLevel-2><xsl:value-of select="./rel-pos-sWord-2"/>=<xsl:value-of select="../word[$self_id+1]/rel-pos-sWord-2"/></bigram-rel-pos-sWordLevel-2>
+                                                 <snot>snot</snot>
+                                                 
+                                             </xsl:otherwise>
+                                         </xsl:choose>
                                          
                                          
                                      </xsl:when>
                                      <xsl:otherwise>
-                                         <poop><xsl:value-of select="./rel-pos-sWord-2"/> </poop>
+                                         <xsl:choose>
+                                             <xsl:when test="$self_id=1">
+                                                 <bigram-rel-pos-sWordLevel-0>start=<xsl:value-of select="./rel-pos-sWord-0"/></bigram-rel-pos-sWordLevel-0>
+                                                 <bigram-rel-pos-sWordLevel-0><xsl:value-of select="./rel-pos-sWord-0"/>=<xsl:value-of select="../word[$self_id+1]/rel-pos-sWord-0"/></bigram-rel-pos-sWordLevel-0>
+                                                 
+                                                 <bigram-rel-pos-sWordLevel-1><xsl:value-of select="./rel-pos-sWord-1"/>=start</bigram-rel-pos-sWordLevel-1>
+                                                 <bigram-rel-pos-sWordLevel-1><xsl:value-of select="./rel-pos-sWord-1"/>=<xsl:value-of select="../word[$self_id+1]/rel-pos-sWord-1"/></bigram-rel-pos-sWordLevel-1>
+                                                 
+                                                 
+                                                 
+                                                 
+                                                 
+                                             </xsl:when>
+                                             <xsl:otherwise>
+                                                 <bigram-rel-pos-sWordLevel-0><xsl:value-of select="./rel-pos-sWord-0"/>=<xsl:value-of select="../word[$self_id+1]/rel-pos-sWord-0"/></bigram-rel-pos-sWordLevel-0>
+                                                 <bigram-rel-pos-sWordLevel-1><xsl:value-of select="./rel-pos-sWord-1"/>=<xsl:value-of select="../word[$self_id+1]/rel-pos-sWord-1"/></bigram-rel-pos-sWordLevel-1>
+                                                 
+                                                 <poop>poop</poop>
+                                                 
+                                             </xsl:otherwise>
+                                         </xsl:choose>
                                          
                                      </xsl:otherwise>
                                  </xsl:choose>
-                                    
+                                 
+                                                                    
                                  
                              </xsl:otherwise>
                              

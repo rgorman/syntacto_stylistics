@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sWord_document>
+   
     <sentence id="1"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
              subdoc="1.1.1"
@@ -19,7 +20,7 @@
          <rel-sWord-2>#-PRED-AuxP</rel-sWord-2>
          <pos-sWord-0>r</pos-sWord-0>
          <pos-sWord-1>v-r</pos-sWord-1>
-         <rel-pos-sWord-2>#-PRED-v-AuxP-r</rel-pos-sWord-2>
+         <pos-sWord-2>#-v-r</pos-sWord-2>
       </word>
       <word id="2"
             form="δὲ"
@@ -36,7 +37,7 @@
          <rel-sWord-2>#-PRED-AuxY</rel-sWord-2>
          <pos-sWord-0>d</pos-sWord-0>
          <pos-sWord-1>v-d</pos-sWord-1>
-         <rel-pos-sWord-2>#-PRED-v-AuxY-d</rel-pos-sWord-2>
+         <pos-sWord-2>#-v-d</pos-sWord-2>
       </word>
       <word id="3"
             form="ταῦτα"
@@ -142,7 +143,7 @@
          <rel-sWord-2>#-PRED-ADV</rel-sWord-2>
          <pos-sWord-0>n</pos-sWord-0>
          <pos-sWord-1>v-n</pos-sWord-1>
-         <rel-pos-sWord-2>#-PRED-v-ADV-n</rel-pos-sWord-2>
+         <pos-sWord-2>#-v-n</pos-sWord-2>
       </word>
       <word id="8"
             form="ἦλθεν"
@@ -173,7 +174,7 @@
          <rel-sWord-2>#-PRED-AuxP</rel-sWord-2>
          <pos-sWord-0>r</pos-sWord-0>
          <pos-sWord-1>v-r</pos-sWord-1>
-         <rel-pos-sWord-2>#-PRED-v-AuxP-r</rel-pos-sWord-2>
+         <pos-sWord-2>#-v-r</pos-sWord-2>
       </word>
       <word id="10"
             form="Ἀθηνῶν"
@@ -210,7 +211,7 @@
          <rel-sWord-2>#-PRED-SBJ</rel-sWord-2>
          <pos-sWord-0>n</pos-sWord-0>
          <pos-sWord-1>v-n</pos-sWord-1>
-         <rel-pos-sWord-2>#-PRED-v-SBJ-n</rel-pos-sWord-2>
+         <pos-sWord-2>#-v-n</pos-sWord-2>
       </word>
       <word id="12"
             form="ἔχων"
@@ -227,7 +228,7 @@
          <rel-sWord-2>#-PRED-ADV</rel-sWord-2>
          <pos-sWord-0>v</pos-sWord-0>
          <pos-sWord-1>v-v</pos-sWord-1>
-         <rel-pos-sWord-2>#-PRED-v-ADV-v</rel-pos-sWord-2>
+         <pos-sWord-2>#-v-v</pos-sWord-2>
       </word>
       <word id="13"
             form="ναῦς"
@@ -306,7 +307,7 @@
          <rel-sWord-2>#-COORD-AuxY</rel-sWord-2>
          <pos-sWord-0>d</pos-sWord-0>
          <pos-sWord-1>c-d</pos-sWord-1>
-         <rel-pos-sWord-2>#-COORD-c-AuxY-d</rel-pos-sWord-2>
+         <pos-sWord-2>#-c-d</pos-sWord-2>
       </word>
       <word id="2"
             form="εὐθὺς"
@@ -343,7 +344,7 @@
          <rel-sWord-2>#-COORD-PRED_CO</rel-sWord-2>
          <pos-sWord-0>v</pos-sWord-0>
          <pos-sWord-1>c-v</pos-sWord-1>
-         <rel-pos-sWord-2>#-COORD-c-PRED_CO-v</rel-pos-sWord-2>
+         <pos-sWord-2>#-c-v</pos-sWord-2>
       </word>
       <word id="4"
             form="αὖθις"
@@ -446,7 +447,7 @@
          <rel-sWord-2>#-COORD-PRED_CO</rel-sWord-2>
          <pos-sWord-0>v</pos-sWord-0>
          <pos-sWord-1>c-v</pos-sWord-1>
-         <rel-pos-sWord-2>#-COORD-c-PRED_CO-v</rel-pos-sWord-2>
+         <pos-sWord-2>#-c-v</pos-sWord-2>
       </word>
       <word id="10"
             form="δὲ"
@@ -559,7 +560,7 @@
          <rel-sWord-2>#-PRED-AuxP</rel-sWord-2>
          <pos-sWord-0>r</pos-sWord-0>
          <pos-sWord-1>v-r</pos-sWord-1>
-         <rel-pos-sWord-2>#-PRED-v-AuxP-r</rel-pos-sWord-2>
+         <pos-sWord-2>#-v-r</pos-sWord-2>
       </word>
       <word id="2"
             form="ὀλίγον"
@@ -596,7 +597,7 @@
          <rel-sWord-2>#-PRED-AuxY</rel-sWord-2>
          <pos-sWord-0>d</pos-sWord-0>
          <pos-sWord-1>v-d</pos-sWord-1>
-         <rel-pos-sWord-2>#-PRED-v-AuxY-d</rel-pos-sWord-2>
+         <pos-sWord-2>#-v-d</pos-sWord-2>
       </word>
       <word id="4"
             form="τούτων"
@@ -636,7 +637,7 @@
          <rel-sWord-2>#-PRED-SBJ</rel-sWord-2>
          <pos-sWord-0>n</pos-sWord-0>
          <pos-sWord-1>v-n</pos-sWord-1>
-         <rel-pos-sWord-2>#-PRED-v-SBJ-n</rel-pos-sWord-2>
+         <pos-sWord-2>#-v-n</pos-sWord-2>
       </word>
       <word id="6"
             form="ὁ"
@@ -693,7 +694,7 @@
          <rel-sWord-2>#-PRED-AuxP</rel-sWord-2>
          <pos-sWord-0>r</pos-sWord-0>
          <pos-sWord-1>v-r</pos-sWord-1>
-         <rel-pos-sWord-2>#-PRED-v-AuxP-r</rel-pos-sWord-2>
+         <pos-sWord-2>#-v-r</pos-sWord-2>
       </word>
       <word id="9"
             form="Ῥόδου"
@@ -730,7 +731,7 @@
          <rel-sWord-2>#-PRED-AuxP</rel-sWord-2>
          <pos-sWord-0>r</pos-sWord-0>
          <pos-sWord-1>v-r</pos-sWord-1>
-         <rel-pos-sWord-2>#-PRED-v-AuxP-r</rel-pos-sWord-2>
+         <pos-sWord-2>#-v-r</pos-sWord-2>
       </word>
       <word id="11"
             form="Ἑλλήσποντον"
@@ -781,7 +782,7 @@
          <rel-sWord-2>#-PRED-ADV</rel-sWord-2>
          <pos-sWord-0>v</pos-sWord-0>
          <pos-sWord-1>v-v</pos-sWord-1>
-         <rel-pos-sWord-2>#-PRED-v-ADV-v</rel-pos-sWord-2>
+         <pos-sWord-2>#-v-v</pos-sWord-2>
       </word>
       <word id="14"
             form="χειμῶνος"
@@ -884,7 +885,7 @@
          <rel-sWord-2>#-PRED-ADV</rel-sWord-2>
          <pos-sWord-0>n</pos-sWord-0>
          <pos-sWord-1>v-n</pos-sWord-1>
-         <rel-pos-sWord-2>#-PRED-v-ADV-n</rel-pos-sWord-2>
+         <pos-sWord-2>#-v-n</pos-sWord-2>
       </word>
       <word id="19"
             form="ἅμα"
@@ -901,7 +902,7 @@
          <rel-sWord-2>#-PRED-AuxP</rel-sWord-2>
          <pos-sWord-0>r</pos-sWord-0>
          <pos-sWord-1>v-r</pos-sWord-1>
-         <rel-pos-sWord-2>#-PRED-v-AuxP-r</rel-pos-sWord-2>
+         <pos-sWord-2>#-v-r</pos-sWord-2>
       </word>
       <word id="20"
             form="ἡμέρᾳ"

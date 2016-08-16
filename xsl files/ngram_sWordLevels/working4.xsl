@@ -23,8 +23,7 @@
                   <xsl:for-each select="word">
                       <xsl:variable name="word_count" select="count(../word)"/>
                       <xsl:variable name="self_id" select="./@id"/>
-                      <xsl:variable name="next_id" select="./@id + 1"/>
-                     <word>
+                <word>
                          <xsl:copy-of select="@*"/>
                       <xsl:copy-of select="child::node()"></xsl:copy-of>
                          <xsl:choose>
@@ -53,6 +52,28 @@
                                          <bigram-pos-sWordLevel-2>start=<xsl:value-of select="./pos-sWord-2"/></bigram-pos-sWordLevel-2>
                                          <bigram-pos-sWordLevel-2><xsl:value-of select="./pos-sWord-2"/>=<xsl:value-of select="./following-sibling::word[1]/pos-sWord-2"/></bigram-pos-sWordLevel-2>
                                          
+                                         <trigram-rel-pos-sWordLevel-0>start=<xsl:value-of select="./rel-pos-sWord-0"/>=<xsl:value-of select="./following-sibling::word[1]/rel-pos-sWord-0"/></trigram-rel-pos-sWordLevel-0>
+                                         <trigram-rel-pos-sWordLevel-0><xsl:value-of select="./rel-pos-sWord-0"/>=<xsl:value-of select="./following-sibling::word[1]/rel-pos-sWord-0"/>=<xsl:value-of select="./following-sibling::word[2]/rel-pos-sWord-0"/></trigram-rel-pos-sWordLevel-0>
+                                         <trigram-rel-pos-sWordLevel-1>start=<xsl:value-of select="./rel-pos-sWord-1"/>=<xsl:value-of select="./following-sibling::word[1]/rel-pos-sWord-1"/></trigram-rel-pos-sWordLevel-1>
+                                         <trigram-rel-pos-sWordLevel-1><xsl:value-of select="./rel-pos-sWord-1"/>=<xsl:value-of select="./following-sibling::word[1]/rel-pos-sWord-1"/>=<xsl:value-of select="./following-sibling::word[2]/rel-pos-sWord-1"/></trigram-rel-pos-sWordLevel-1>
+                                         <trigram-rel-pos-sWordLevel-2>start=<xsl:value-of select="./rel-pos-sWord-2"/>=<xsl:value-of select="./following-sibling::word[1]/rel-pos-sWord-2"/></trigram-rel-pos-sWordLevel-2>
+                                         <trigram-rel-pos-sWordLevel-2><xsl:value-of select="./rel-pos-sWord-2"/>=<xsl:value-of select="./following-sibling::word[1]/rel-pos-sWord-2"/>=<xsl:value-of select="./following-sibling::word[2]/rel-pos-sWord-2"/></trigram-rel-pos-sWordLevel-2>
+                                         
+                                         <trigram-rel-sWordLevel-0>start=<xsl:value-of select="./rel-sWord-0"/>=<xsl:value-of select="./following-sibling::word[1]/rel-sWord-0"/></trigram-rel-sWordLevel-0>
+                                         <trigram-rel-sWordLevel-0><xsl:value-of select="./rel-sWord-0"/>=<xsl:value-of select="./following-sibling::word[1]/rel-sWord-0"/>=<xsl:value-of select="./following-sibling::word[2]/rel-sWord-0"/></trigram-rel-sWordLevel-0>
+                                         <trigram-rel-sWordLevel-1>start=<xsl:value-of select="./rel-sWord-1"/>=<xsl:value-of select="./following-sibling::word[1]/rel-sWord-1"/></trigram-rel-sWordLevel-1>
+                                         <trigram-rel-sWordLevel-1><xsl:value-of select="./rel-sWord-1"/>=<xsl:value-of select="./following-sibling::word[1]/rel-sWord-1"/>=<xsl:value-of select="./following-sibling::word[2]/rel-sWord-1"/></trigram-rel-sWordLevel-1>
+                                         <trigram-rel-sWordLevel-2>start=<xsl:value-of select="./rel-sWord-2"/>=<xsl:value-of select="./following-sibling::word[1]/rel-sWord-2"/></trigram-rel-sWordLevel-2>
+                                         <trigram-rel-sWordLevel-2><xsl:value-of select="./rel-sWord-2"/>=<xsl:value-of select="./following-sibling::word[1]/rel-sWord-2"/>=<xsl:value-of select="./following-sibling::word[2]/rel-sWord-2"/></trigram-rel-sWordLevel-2>
+                                         
+                                         <trigram-pos-sWordLevel-0>start=<xsl:value-of select="./pos-sWord-0"/>=<xsl:value-of select="./following-sibling::word[1]/pos-sWord-0"/></trigram-pos-sWordLevel-0>
+                                         <trigram-pos-sWordLevel-0><xsl:value-of select="./pos-sWord-0"/>=<xsl:value-of select="./following-sibling::word[1]/pos-sWord-0"/>=<xsl:value-of select="./following-sibling::word[2]/pos-sWord-0"/></trigram-pos-sWordLevel-0>
+                                         <trigram-pos-sWordLevel-1>start=<xsl:value-of select="./pos-sWord-1"/>=<xsl:value-of select="./following-sibling::word[1]/pos-sWord-1"/></trigram-pos-sWordLevel-1>
+                                         <trigram-pos-sWordLevel-1><xsl:value-of select="./pos-sWord-1"/>=<xsl:value-of select="./following-sibling::word[1]/pos-sWord-1"/>=<xsl:value-of select="./following-sibling::word[2]/pos-sWord-1"/></trigram-pos-sWordLevel-1>
+                                         <trigram-pos-sWordLevel-2>start=<xsl:value-of select="./pos-sWord-2"/>=<xsl:value-of select="./following-sibling::word[1]/pos-sWord-2"/></trigram-pos-sWordLevel-2>
+                                         <trigram-pos-sWordLevel-2><xsl:value-of select="./pos-sWord-2"/>=<xsl:value-of select="./following-sibling::word[1]/pos-sWord-2"/>=<xsl:value-of select="./following-sibling::word[2]/pos-sWord-2"/></trigram-pos-sWordLevel-2>
+                                         
+                                         
                                      </xsl:when>
                                      <xsl:otherwise>
                                         
@@ -64,11 +85,21 @@
                                          <bigram-rel-sWordLevel-1><xsl:value-of select="./rel-sWord-1"/>=<xsl:value-of select="./following-sibling::word[1]/rel-sWord-1"/></bigram-rel-sWordLevel-1>
                                          <bigram-rel-sWordLevel-2><xsl:value-of select="./rel-sWord-2"/>=<xsl:value-of select="./following-sibling::word[1]/rel-sWord-2"/></bigram-rel-sWordLevel-2>
                                          
-                                         
                                          <bigram-pos-sWordLevel-0><xsl:value-of select="./pos-sWord-0"/>=<xsl:value-of select="./following-sibling::word[1]/pos-sWord-0"/></bigram-pos-sWordLevel-0>
                                          <bigram-pos-sWordLevel-1><xsl:value-of select="./pos-sWord-1"/>=<xsl:value-of select="./following-sibling::word[1]/pos-sWord-1"/></bigram-pos-sWordLevel-1>
                                          <bigram-pos-sWordLevel-2><xsl:value-of select="./pos-sWord-2"/>=<xsl:value-of select="./following-sibling::word[1]/pos-sWord-2"/></bigram-pos-sWordLevel-2>
+                                        
+                                         <trigram-rel-pos-sWordLevel-0><xsl:value-of select="./rel-pos-sWord-0"/>=<xsl:value-of select="./following-sibling::word[1]/rel-pos-sWord-0"/>=<xsl:value-of select="./following-sibling::word[2]/rel-pos-sWord-0"/></trigram-rel-pos-sWordLevel-0>
+                                         <trigram-rel-pos-sWordLevel-1><xsl:value-of select="./rel-pos-sWord-1"/>=<xsl:value-of select="./following-sibling::word[1]/rel-pos-sWord-1"/>=<xsl:value-of select="./following-sibling::word[2]/rel-pos-sWord-1"/></trigram-rel-pos-sWordLevel-1>
+                                         <trigram-rel-pos-sWordLevel-2><xsl:value-of select="./rel-pos-sWord-2"/>=<xsl:value-of select="./following-sibling::word[1]/rel-pos-sWord-2"/>=<xsl:value-of select="./following-sibling::word[2]/rel-pos-sWord-2"/></trigram-rel-pos-sWordLevel-2>
                                          
+                                         <trigram-rel-sWordLevel-0><xsl:value-of select="./rel-sWord-0"/>=<xsl:value-of select="./following-sibling::word[1]/rel-sWord-0"/>=<xsl:value-of select="./following-sibling::word[2]/rel-sWord-0"/></trigram-rel-sWordLevel-0>
+                                         <trigram-rel-sWordLevel-1><xsl:value-of select="./rel-sWord-1"/>=<xsl:value-of select="./following-sibling::word[1]/rel-sWord-1"/>=<xsl:value-of select="./following-sibling::word[2]/rel-sWord-1"/></trigram-rel-sWordLevel-1>
+                                         <trigram-rel-sWordLevel-2><xsl:value-of select="./rel-sWord-2"/>=<xsl:value-of select="./following-sibling::word[1]/rel-sWord-2"/>=<xsl:value-of select="./following-sibling::word[2]/rel-sWord-2"/></trigram-rel-sWordLevel-2>
+                                         
+                                         <trigram-pos-sWordLevel-0><xsl:value-of select="./pos-sWord-0"/>=<xsl:value-of select="./following-sibling::word[1]/pos-sWord-0"/>=<xsl:value-of select="./following-sibling::word[2]/pos-sWord-0"/></trigram-pos-sWordLevel-0>
+                                         <trigram-pos-sWordLevel-1><xsl:value-of select="./pos-sWord-1"/>=<xsl:value-of select="./following-sibling::word[1]/pos-sWord-1"/>=<xsl:value-of select="./following-sibling::word[2]/pos-sWord-1"/></trigram-pos-sWordLevel-1>
+                                         <trigram-pos-sWordLevel-2><xsl:value-of select="./pos-sWord-2"/>=<xsl:value-of select="./following-sibling::word[1]/pos-sWord-2"/>=<xsl:value-of select="./following-sibling::word[2]/pos-sWord-2"/></trigram-pos-sWordLevel-2>
                                          
                                      </xsl:otherwise>
                                  </xsl:choose>

@@ -8,7 +8,7 @@ rm(list = ls())
 library(XML)
 
 source("code/corpusFunctions.R")
-input.dir <- "../sWord_levels/VG_files_POS_and_REL_and_relpos"
+input.dir <- "../sWord_levels/ngram_files"
 files.v <- dir(path=input.dir, pattern=".*xml")
 
 
@@ -29,7 +29,7 @@ for (i in 1:length(files.v)) {
   
   # here we must split files into chunks
   
-  divisor <- length(word.nodes)/25
+  divisor <- length(word.nodes)/50
   max.length <- length(word.nodes)/divisor
   x <- seq_along(word.nodes)
   chunks.l <- split(word.nodes, ceiling(x/max.length))
@@ -123,6 +123,7 @@ for (i in 1:length(files.v)) {
 str(sWord.freq.table.list)
 length(sWord.freq.table.list)
 lengths(sWord.freq.table.list)
+sum(lengths(sWord.freq.table.list))
 mean(lengths(sWord.freq.table.list))
 summary(lengths(sWord.freq.table.list))
 
@@ -181,7 +182,7 @@ for (i in 1:length(files.v))  {
   
   # here we must split files into chunks
   
-  divisor <- length(word.nodes)/25
+  divisor <- length(word.nodes)/50
   max.length <- length(word.nodes)/divisor
   x <- seq_along(word.nodes)
   chunks.l <- split(word.nodes, ceiling(x/max.length))
@@ -261,7 +262,7 @@ rm(freqs.df)
 
 
 # save spreadsheet of row names to be used for sampling probabilities.
-write.csv(row.names(smaller.df), file = "Rresults/matrices/sWordLevels_Sample_25tokens_rowNames.csv")
+write.csv(row.names(smaller.df), file = "Rresults/matrices/sWordLevels_Sample_50-2-tokens_rowNames.csv")
 
 # order columns by column mean, largest to smallest and create object with results
 ordered.df <- smaller.df[, order(colMeans(smaller.df), decreasing=TRUE)]

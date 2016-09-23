@@ -8,7 +8,7 @@ source("code/corpusFunctions.R")
 # location of files: C:\Users\rgorm\Documents\syntacto_stylistics\APA_Poster\sWord_files\divided_authors
 
 
-input.dir <- "../Presentations/APA_Poster/sWord_files/divided_authors"
+input.dir <- "../sWord_levels/ngram_files"
 files.v <- dir(path=input.dir, pattern=".*xml")
 
 length(files.v)

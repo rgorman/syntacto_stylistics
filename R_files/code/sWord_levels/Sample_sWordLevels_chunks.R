@@ -248,13 +248,13 @@ rm(result.t)
 freq.means.v <- colMeans(final.df[, ])
 
 #collect column means of a given magnitude
-keepers.v <- which(freq.means.v >=.0044)
+keepers.v <- which(freq.means.v >=.000173)
 
 row.names(smaller.df)
 
 #use keepers.v to make a smaller data frame object for analysis
 smaller.df <- final.df[, keepers.v]
-smaller.df <- ordered.df[, 1:2022]
+smaller.df <- ordered.df[, 1:12000]
 
 dim(smaller.df)
 

@@ -10,7 +10,7 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>base_files/Perseus_and_VG/processing/Xenophon_Hell1.xml</String>
+                                    <String>base_files/Perseus_and_VG/processing/Xenophon_Cyr1.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -25,7 +25,7 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>base_files/Perseus_and_VG/processing/Xenophon_Cyr1.xml</String>
+                                    <String>base_files/Perseus_and_VG/processing/Xenophon_Hell1.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -66,7 +66,7 @@
                                     <String></String>
                                 </field>
                                 <field name="inputXSLURL">
-                                    <String>${pdu}/xsl%20files/revised_add_std_references_to_sentence.xsl</String>
+                                    <String>${pdu}/xsl%20files/revised_add_reference_to_words.xsl</String>
                                 </field>
                                 <field name="inputXMLURL">
                                     <String>${currentFileURL}</String>

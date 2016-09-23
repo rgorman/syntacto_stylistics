@@ -5988,33 +5988,8 @@
             <word id="10" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   reference="Polybius Book 2: s-104 w-10"/>
       </sentence>
-      <sentence id="105" document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1" subdoc="2.10.9"
-            span="Polybius Book 2: s-105">
-            <word id="1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="8"
-                  reference="Polybius Book 2: s-105 w-1"/>
-            <word id="2" form="κατάραντες" lemma="καταίρω" postag="v-papamn-" relation="ADV"
-                  head="8" reference="Polybius Book 2: s-105 w-2"/>
-            <word id="3" form="εἰς" lemma="εἰς" postag="r--------" relation="AuxP" head="2"
-                  reference="Polybius Book 2: s-105 w-3"/>
-            <word id="4" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" head="5"
-                  reference="Polybius Book 2: s-105 w-4"/>
-            <word id="5" form="Ἐπίδαμνον" lemma="Ἐπίδαμνος" postag="n-s---fa-" relation="OBJ"
-                  head="3" reference="Polybius Book 2: s-105 w-5"/>
-            <word id="6" form="ταύτην" lemma="οὗτος" postag="a-s---fa_" relation="ATR" head="5"
-                  reference="Polybius Book 2: s-105 w-6"/>
-            <word id="7" form="πάλιν" lemma="πάλιν" postag="d--------" relation="ADV" head="2"
-                  reference="Polybius Book 2: s-105 w-7"/>
-            <word id="8" form="ἐπεβάλοντο" lemma="ἐπιβάλλω" postag="v3paim---" relation="PRED"
-                  head="0" reference="Polybius Book 2: s-105 w-8"/>
-            <word id="9" form="πολιορκεῖν" lemma="πολιορκέω" postag="v--pna---" relation="" head=""
-                  reference="Polybius Book 2: s-105 w-9"/>
-            <word id="10" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" head="11"
-                  reference="Polybius Book 2: s-105 w-10"/>
-            <word id="11" form="πόλιν" lemma="πόλις" postag="n-s---fa-" relation="OBJ" head="8"
-                  reference="Polybius Book 2: s-105 w-11"/>
-            <word id="12" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
-                  reference="Polybius Book 2: s-105 w-12"/>
-      </sentence>
+     
+     
       <sentence id="106" document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1" subdoc="2.11.1"
             span="Polybius Book 2: s-106">
             <word id="1" form="κατὰ" lemma="κατά" postag="r--------" relation="AuxP" head="22"

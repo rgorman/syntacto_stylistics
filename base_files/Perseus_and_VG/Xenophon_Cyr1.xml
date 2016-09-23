@@ -2937,47 +2937,8 @@
             <word id="7" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   reference="Xenophon Cyropaedia Book 1: s-55 w-7"/>
       </sentence>
-      <sentence id="56" document_id="urn:cts:greekLit:tlg0032.tlg007.perseus-grc1" subdoc="1.2.8"
-            span="Xenophon Cyropaedia Book 1: s-56">
-            <word id="1" form="μέγα" lemma="μέγας" postag="a-s---nn-" relation="" head=""
-                  reference="Xenophon Cyropaedia Book 1: s-56 w-1"/>
-            <word id="2" form="δὲ" lemma="δὲ" postag="c--------" relation="" head=""
-                  reference="Xenophon Cyropaedia Book 1: s-56 w-2"/>
-            <word id="3" form="συμβάλλεται" lemma="συμβάλλω" postag="v3spie---" relation="" head=""
-                  reference="Xenophon Cyropaedia Book 1: s-56 w-3"/>
-            <word id="4" form="εἰς" lemma="εἰς" postag="r--------" relation="" head=""
-                  reference="Xenophon Cyropaedia Book 1: s-56 w-4"/>
-            <word id="5" form="τὸ" lemma="ὁ" postag="l-s---nn-" relation="" head=""
-                  reference="Xenophon Cyropaedia Book 1: s-56 w-5"/>
-            <word id="6" form="μανθάνειν" lemma="μανθάνω" postag="v--pna---" relation="" head=""
-                  reference="Xenophon Cyropaedia Book 1: s-56 w-6"/>
-            <word id="7" form="σωφρονεῖν" lemma="σωφρονέω" postag="v--pna---" relation="" head=""
-                  reference="Xenophon Cyropaedia Book 1: s-56 w-7"/>
-            <word id="8" form="αὐτοὺς" lemma="αὐτός" postag="p-p---ma-" relation="" head=""
-                  reference="Xenophon Cyropaedia Book 1: s-56 w-8"/>
-            <word id="9" form="ὅτι" lemma="ὅστις" postag="p-s---nn-" relation="" head=""
-                  reference="Xenophon Cyropaedia Book 1: s-56 w-9"/>
-            <word id="10" form="καὶ" lemma="καί" postag="d-------_" relation="" head=""
-                  reference="Xenophon Cyropaedia Book 1: s-56 w-10"/>
-            <word id="11" form="τοὺς" lemma="ὁ" postag="l-p---ma-" relation="" head=""
-                  reference="Xenophon Cyropaedia Book 1: s-56 w-11"/>
-            <word id="12" form="πρεσβυτέρους" lemma="πρέσβυς" postag="a-p---ma-" relation="" head=""
-                  reference="Xenophon Cyropaedia Book 1: s-56 w-12"/>
-            <word id="13" form="ὁρῶσιν" lemma="ὁράω" postag="v-pppamd-" relation="" head=""
-                  reference="Xenophon Cyropaedia Book 1: s-56 w-13"/>
-            <word id="14" form="ἀνὰ" lemma="ἀνά" postag="r--------" relation="" head=""
-                  reference="Xenophon Cyropaedia Book 1: s-56 w-14"/>
-            <word id="15" form="πᾶσαν" lemma="πᾶς" postag="a-s---fa-" relation="" head=""
-                  reference="Xenophon Cyropaedia Book 1: s-56 w-15"/>
-            <word id="16" form="ἡμέραν" lemma="ἥμερος" postag="a-s---fa-" relation="" head=""
-                  reference="Xenophon Cyropaedia Book 1: s-56 w-16"/>
-            <word id="17" form="σωφρόνως" lemma="σώφρων" postag="a--------" relation="" head=""
-                  reference="Xenophon Cyropaedia Book 1: s-56 w-17"/>
-            <word id="18" form="διάγοντας" lemma="διάγω" postag="v-pppama-" relation="" head=""
-                  reference="Xenophon Cyropaedia Book 1: s-56 w-18"/>
-            <word id="19" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
-                  reference="Xenophon Cyropaedia Book 1: s-56 w-19"/>
-      </sentence>
+     
+     
       <sentence id="57" document_id="urn:cts:greekLit:tlg0032.tlg007.perseus-grc1" subdoc="1.2.8"
             span="Xenophon Cyropaedia Book 1: s-57">
             <word id="1" form="διδάσκουσι" lemma="διδάσκω" postag="v3ppia---" relation="PRED"
@@ -12232,41 +12193,8 @@
             <word id="19" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   reference="Xenophon Cyropaedia Book 1: s-165 w-19"/>
       </sentence>
-      <sentence id="166" document_id="urn:cts:greekLit:tlg0032.tlg007.perseus-grc1" subdoc="1.4.10"
-            span="Xenophon Cyropaedia Book 1: s-166">
-            <word id="1" form="καὶ" lemma="καί" postag="d--------" relation="" head=""
-                  reference="Xenophon Cyropaedia Book 1: s-166 w-1"/>
-            <word id="2" form="τὰ" lemma="ὁ" postag="l-p---na-" relation="ATR" head="3"
-                  reference="Xenophon Cyropaedia Book 1: s-166 w-2"/>
-            <word id="3" form="ἀκόντια" lemma="ἀκόντιον" postag="n-p---na-" relation="OBJ" head="4"
-                  reference="Xenophon Cyropaedia Book 1: s-166 w-3"/>
-            <word id="4" form="ἐπεδείκνυ" lemma="ἐπιδείκνυμι" postag="v3siia---" relation="PRED_CO"
-                  head="9" reference="Xenophon Cyropaedia Book 1: s-166 w-4"/>
-            <word id="5" form="μὲν" lemma="μέν" postag="d--------" relation="" head=""
-                  reference="Xenophon Cyropaedia Book 1: s-166 w-5"/>
-            <word id="6" form="οὔ" lemma="οὐ" postag="d--------" relation="AuxZ" head="4"
-                  reference="Xenophon Cyropaedia Book 1: s-166 w-6"/>
-            <word id="7" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"
-                  reference="Xenophon Cyropaedia Book 1: s-166 w-7"/>
-            <word id="8" form="κατέθηκε" lemma="κατατίθημι" postag="v3saia---" relation="PRED_CO"
-                  head="9" reference="Xenophon Cyropaedia Book 1: s-166 w-8"/>
-            <word id="9" form="δὲ" lemma="δέ" postag="c--------" relation="COORD" head="0"
-                  reference="Xenophon Cyropaedia Book 1: s-166 w-9"/>
-            <word id="10" form="ᾑματωμένα" lemma="αἱματόω" postag="v-prpena-" relation="OBJ"
-                  head="8" reference="Xenophon Cyropaedia Book 1: s-166 w-10"/>
-            <word id="11" form="ὅπου" lemma="ὅπου" postag="d--------" relation="ADV" head="15"
-                  reference="Xenophon Cyropaedia Book 1: s-166 w-11"/>
-            <word id="12" form="ᾤετο" lemma="οἴομαι" postag="v3siie---" relation="ADV" head="8"
-                  reference="Xenophon Cyropaedia Book 1: s-166 w-12"/>
-            <word id="13" form="τὸν" lemma="ὁ" postag="l-s---ma-" relation="ATR" head="14"
-                  reference="Xenophon Cyropaedia Book 1: s-166 w-13"/>
-            <word id="14" form="πάππον" lemma="πάππος" postag="n-s---ma-" relation="SBJ" head="15"
-                  reference="Xenophon Cyropaedia Book 1: s-166 w-14"/>
-            <word id="15" form="ὄψεσθαι" lemma="ὁράω" postag="v--fnm---" relation="OBJ" head="12"
-                  reference="Xenophon Cyropaedia Book 1: s-166 w-15"/>
-            <word id="16" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
-                  reference="Xenophon Cyropaedia Book 1: s-166 w-16"/>
-      </sentence>
+      
+      
       <sentence id="167" document_id="urn:cts:greekLit:tlg0032.tlg007.perseus-grc1" subdoc="1.4.10"
             span="Xenophon Cyropaedia Book 1: s-167">
             <word id="1" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" head="3"

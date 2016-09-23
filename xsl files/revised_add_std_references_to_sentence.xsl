@@ -18,7 +18,7 @@
         <sentence>
             <xsl:copy-of select="@*"/>
             <xsl:attribute name="span">
-                <xsl:value-of select="$reference"/>
+                <xsl:value-of select="$reference"/>: s-<xsl:value-of select="./@id"/>
             </xsl:attribute>
             
             <xsl:for-each select="word">

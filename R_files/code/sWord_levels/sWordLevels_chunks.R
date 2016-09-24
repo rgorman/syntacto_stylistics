@@ -8,11 +8,11 @@ rm(list = ls())
 library(XML)
 
 source("code/corpusFunctions.R")
-input.dir <- "./working_input"
+input.dir <- "./test"
 files.v <- dir(path=input.dir, pattern=".*xml")
 
 
-i <- 9
+i <- 1
 
 # create list object with no content. Vectors extracted from XML files will be stored here.
 sWord.freq.table.list <- list()

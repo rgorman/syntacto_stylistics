@@ -1093,7 +1093,7 @@
                   cite=" Lysias Orat. 1: s-20 w-23"/>
             <word id="24" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Lysias Orat. 1: s-20 w-24"/>
-            <word id="25" form="[0]" insertion_id="" artificial="elliptic" lemma="" postag=""
+            <word id="25" form="[0]" insertion_id="" artificial="elliptic" lemma="" postag="e"
                   relation="PRED_CO" head="21" cite="Lysias Orat. 1: s-20 w-25"/>
       </sentence>
       <sentence id="21"
@@ -1151,7 +1151,7 @@
                   cite=" Lysias Orat. 1: s-21 w-25"/>
             <word id="26" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Lysias Orat. 1: s-21 w-26"/>
-            <word id="27" form="[0]" insertion_id="" artificial="elliptic" lemma="" postag=""
+            <word id="27" form="[0]" insertion_id="" artificial="elliptic" lemma="" postag="e"
                   relation="ADV" head="14" cite="Lysias Orat. 1: s-21 w-27"/>
       </sentence>
       <sentence id="22"
@@ -2149,7 +2149,7 @@
                   cite=" Lysias Orat. 1: s-44 w-62"/>
             <word id="63" form="ὅτι" insertion_id="0062f" artificial="elliptic" lemma="ὅτι2"
                   postag="c--------" relation="AuxC" head="57" cite="Lysias Orat. 1: s-44 w-63"/>
-            <word id="64" form="[0]" insertion_id="0062e" artificial="elliptic" lemma="" postag=""
+            <word id="64" form="[0]" insertion_id="0062e" artificial="elliptic" lemma="" postag="e"
                   relation="APOS" head="39" cite="Lysias Orat. 1: s-44 w-64"/>
       </sentence>
       <sentence id="45"
@@ -2397,7 +2397,7 @@
                   cite=" Lysias Orat. 1: s-50 w-3"/>
             <word id="4" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Lysias Orat. 1: s-50 w-4"/>
-            <word id="5" form="[0]" insertion_id="0004e" artificial="elliptic" lemma="" postag=""
+            <word id="5" form="[0]" insertion_id="0004e" artificial="elliptic" lemma="" postag="e"
                   relation="PRED" head="0" cite="Lysias Orat. 1: s-50 w-5"/>
       </sentence>
       <sentence id="51"
@@ -2675,7 +2675,7 @@
                   head="5" cite=" Lysias Orat. 1: s-55 w-12"/>
             <word id="13" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Lysias Orat. 1: s-55 w-13"/>
-            <word id="14" form="[0]" insertion_id="0013e" artificial="elliptic" lemma="" postag=""
+            <word id="14" form="[0]" insertion_id="0013e" artificial="elliptic" lemma="" postag="e"
                   relation="ADV" head="1" cite="Lysias Orat. 1: s-55 w-14"/>
       </sentence>
       <sentence id="56"
@@ -3388,7 +3388,7 @@
                   cite=" Lysias Orat. 1: s-73 w-48"/>
             <word id="49" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Lysias Orat. 1: s-73 w-49"/>
-            <word id="50" form="[0]" insertion_id="0049e" artificial="elliptic" lemma="" postag=""
+            <word id="50" form="[0]" insertion_id="0049e" artificial="elliptic" lemma="" postag="e"
                   relation="OBJ_CO" head="10" cite="Lysias Orat. 1: s-73 w-50"/>
       </sentence>
       <sentence id="74"
@@ -3460,7 +3460,7 @@
                   cite=" Lysias Orat. 1: s-74 w-32"/>
             <word id="33" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Lysias Orat. 1: s-74 w-33"/>
-            <word id="34" form="[0]" insertion_id="0033e" artificial="elliptic" lemma="" postag=""
+            <word id="34" form="[0]" insertion_id="0033e" artificial="elliptic" lemma="" postag="e"
                   relation="OBJ" head="12" cite="Lysias Orat. 1: s-74 w-34"/>
       </sentence>
       <sentence id="75"
@@ -3554,9 +3554,9 @@
                   cite=" Lysias Orat. 1: s-75 w-43"/>
             <word id="44" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Lysias Orat. 1: s-75 w-44"/>
-            <word id="45" form="[0]" insertion_id="0044e" artificial="elliptic" lemma="" postag=""
+            <word id="45" form="[0]" insertion_id="0044e" artificial="elliptic" lemma="" postag="e"
                   relation="PRED" head="0" cite="Lysias Orat. 1: s-75 w-45"/>
-            <word id="46" form="[1]" insertion_id="0044f" artificial="elliptic" lemma="" postag=""
+            <word id="46" form="[1]" insertion_id="0044f" artificial="elliptic" lemma="" postag="e"
                   relation="AuxC" head="45" cite="Lysias Orat. 1: s-75 w-46"/>
       </sentence>
       <sentence id="76"
@@ -4212,11 +4212,11 @@
                   cite=" Lysias Orat. 1: s-92 w-13"/>
             <word id="14" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Lysias Orat. 1: s-92 w-14"/>
-            <word id="15" form="[0]" insertion_id="0014f" artificial="elliptic" lemma="" postag=""
+            <word id="15" form="[0]" insertion_id="0014f" artificial="elliptic" lemma="" postag="e"
                   relation="PRED" head="0" cite="Lysias Orat. 1: s-92 w-15"/>
-            <word id="16" form="[1]" insertion_id="0014e" artificial="elliptic" lemma="" postag=""
+            <word id="16" form="[1]" insertion_id="0014e" artificial="elliptic" lemma="" postag="e"
                   relation="ADV_AP" head="1" cite="Lysias Orat. 1: s-92 w-16"/>
-            <word id="17" form="[2]" insertion_id="0014g" artificial="elliptic" lemma="" postag=""
+            <word id="17" form="[2]" insertion_id="0014g" artificial="elliptic" lemma="" postag="e"
                   relation="APOS" head="15" cite="Lysias Orat. 1: s-92 w-17"/>
       </sentence>
       <sentence id="93"
@@ -4254,7 +4254,7 @@
                   cite=" Lysias Orat. 1: s-93 w-15"/>
             <word id="16" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Lysias Orat. 1: s-93 w-16"/>
-            <word id="17" form="[0]" insertion_id="0016e" artificial="elliptic" lemma="" postag=""
+            <word id="17" form="[0]" insertion_id="0016e" artificial="elliptic" lemma="" postag="e"
                   relation="ADV" head="13" cite="Lysias Orat. 1: s-93 w-17"/>
       </sentence>
       <sentence id="94"
@@ -4392,7 +4392,7 @@
                   head="63" cite=" Lysias Orat. 1: s-94 w-65"/>
             <word id="66" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Lysias Orat. 1: s-94 w-66"/>
-            <word id="67" form="[0]" insertion_id="0066e" artificial="elliptic" lemma="" postag=""
+            <word id="67" form="[0]" insertion_id="0066e" artificial="elliptic" lemma="" postag="e"
                   relation="ADV" head="40" cite="Lysias Orat. 1: s-94 w-67"/>
       </sentence>
       <sentence id="95"
@@ -4708,7 +4708,7 @@
                   cite=" Lysias Orat. 1: s-101 w-43"/>
             <word id="44" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Lysias Orat. 1: s-101 w-44"/>
-            <word id="45" form="[0]" insertion_id="0044e" artificial="elliptic" lemma="" postag=""
+            <word id="45" form="[0]" insertion_id="0044e" artificial="elliptic" lemma="" postag="e"
                   relation="ADV" head="1" cite="Lysias Orat. 1: s-101 w-45"/>
       </sentence>
       <sentence id="102"
@@ -5140,7 +5140,7 @@
                   head="18" cite=" Lysias Orat. 1: s-113 w-22"/>
             <word id="23" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Lysias Orat. 1: s-113 w-23"/>
-            <word id="24" form="[0]" insertion_id="0023e" artificial="elliptic" lemma="" postag=""
+            <word id="24" form="[0]" insertion_id="0023e" artificial="elliptic" lemma="" postag="e"
                   relation="PRED" head="0" cite="Lysias Orat. 1: s-113 w-24"/>
       </sentence>
       <sentence id="114"
@@ -5511,7 +5511,7 @@
                   head="0" cite=" Lysias Orat. 1: s-119 w-15"/>
             <word id="16" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Lysias Orat. 1: s-119 w-16"/>
-            <word id="17" form="[0]" insertion_id="0016e" artificial="elliptic" lemma="" postag=""
+            <word id="17" form="[0]" insertion_id="0016e" artificial="elliptic" lemma="" postag="e"
                   relation="ADV" head="12" cite="Lysias Orat. 1: s-119 w-17"/>
       </sentence>
       <sentence id="120"
@@ -5789,7 +5789,7 @@
                   cite=" Lysias Orat. 1: s-127 w-26"/>
             <word id="27" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Lysias Orat. 1: s-127 w-27"/>
-            <word id="28" form="[0]" insertion_id="0027e" artificial="elliptic" lemma="" postag=""
+            <word id="28" form="[0]" insertion_id="0027e" artificial="elliptic" lemma="" postag="e"
                   relation="ADV" head="22" cite="Lysias Orat. 1: s-127 w-28"/>
       </sentence>
       <sentence id="128"
@@ -6069,9 +6069,9 @@
                   head="29" cite=" Lysias Orat. 1: s-132 w-36"/>
             <word id="37" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Lysias Orat. 1: s-132 w-37"/>
-            <word id="38" form="[0]" insertion_id="0037f" artificial="elliptic" lemma="" postag=""
+            <word id="38" form="[0]" insertion_id="0037f" artificial="elliptic" lemma="" postag="e"
                   relation="ADV" head="1" cite="Lysias Orat. 1: s-132 w-38"/>
-            <word id="39" form="[1]" insertion_id="0037e" artificial="elliptic" lemma="" postag=""
+            <word id="39" form="[1]" insertion_id="0037e" artificial="elliptic" lemma="" postag="e"
                   relation="PRED" head="0" cite="Lysias Orat. 1: s-132 w-39"/>
       </sentence>
       <sentence id="133"
@@ -6169,7 +6169,7 @@
                   cite=" Lysias Orat. 1: s-133 w-45"/>
             <word id="46" form="ἐστιν" insertion_id="0045e" artificial="elliptic" lemma="εἰμί"
                   postag="v3spia---" relation="PRED" head="0" cite="Lysias Orat. 1: s-133 w-46"/>
-            <word id="47" form="[0]" insertion_id="0045f" artificial="elliptic" lemma="" postag=""
+            <word id="47" form="[0]" insertion_id="0045f" artificial="elliptic" lemma="" postag="e"
                   relation="ADV" head="36" cite="Lysias Orat. 1: s-133 w-47"/>
       </sentence>
       <sentence id="134"
@@ -6376,7 +6376,7 @@
                   cite=" Lysias Orat. 12: s-3 w-12"/>
             <word id="13" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Lysias Orat. 12: s-3 w-13"/>
-            <word id="14" form="[0]" insertion_id="0013e" artificial="elliptic" lemma="" postag=""
+            <word id="14" form="[0]" insertion_id="0013e" artificial="elliptic" lemma="" postag="e"
                   relation="ADV" head="7" cite="Lysias Orat. 12: s-3 w-14"/>
       </sentence>
       <sentence id="4" document_id="urn:cts:greekLit:tlg0540.tlg012.perseus-grc1" subdoc="2"
@@ -6939,7 +6939,7 @@
                   relation="ATR_CO" head="10" cite=" Lysias Orat. 12: s-12 w-12"/>
             <word id="13" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Lysias Orat. 12: s-12 w-13"/>
-            <word id="14" form="[0]" insertion_id="0013e" artificial="elliptic" lemma="" postag=""
+            <word id="14" form="[0]" insertion_id="0013e" artificial="elliptic" lemma="" postag="e"
                   relation="PRED" head="0" cite="Lysias Orat. 12: s-12 w-14"/>
       </sentence>
       <sentence id="13" document_id="urn:cts:greekLit:tlg0540.tlg012.perseus-grc1" subdoc="7"
@@ -6968,7 +6968,7 @@
                   cite=" Lysias Orat. 12: s-13 w-11"/>
             <word id="12" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Lysias Orat. 12: s-13 w-12"/>
-            <word id="13" form="[0]" insertion_id="0012e" artificial="elliptic" lemma="" postag=""
+            <word id="13" form="[0]" insertion_id="0012e" artificial="elliptic" lemma="" postag="e"
                   relation="PRED" head="0" cite="Lysias Orat. 12: s-13 w-13"/>
       </sentence>
       <sentence id="14" document_id="urn:cts:greekLit:tlg0540.tlg012.perseus-grc1" subdoc="7"
@@ -8345,137 +8345,7 @@
                   postag="v3saia---" relation="PRED_CO" head="24" cite="Lysias Orat. 12: s-49 w-36"
             />
       </sentence>
-      <sentence id="50" document_id="urn:cts:greekLit:tlg0540.tlg012.perseus-grc1" subdoc="19"
-            span="Lysias Orat. 12: s-50">
-            <word id="1" form="καὶ" lemma="καί" postag="d--------" relation="" head="56"
-                  cite=" Lysias Orat. 12: s-50 w-1"/>
-            <word id="2" form="ἔχοντες" lemma="ἔχω" postag="v-pppamn-" relation="" head="17"
-                  cite=" Lysias Orat. 12: s-50 w-2"/>
-            <word id="3" form="μὲν" lemma="μέν" postag="d--------" relation="" head="17"
-                  cite=" Lysias Orat. 12: s-50 w-3"/>
-            <word id="4" form="ἑπτακοσίας" lemma="ἑπτακόσιοι" postag="a-p---fa-" relation=""
-                  head="5" cite=" Lysias Orat. 12: s-50 w-4"/>
-            <word id="5" form="ἀσπίδας" lemma="ἀσπίς" postag="n-p---fa-" relation="" head="2"
-                  cite=" Lysias Orat. 12: s-50 w-5"/>
-            <word id="6" form="τῶν" lemma="ὁ" postag="l-p---mg-" relation="" head="5"
-                  cite=" Lysias Orat. 12: s-50 w-6"/>
-            <word id="7" form="ἡμετέρων" lemma="ἡμέτερος" postag="a-p---mg-" relation="" head="5"
-                  cite=" Lysias Orat. 12: s-50 w-7"/>
-            <word id="8" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"
-                  cite=" Lysias Orat. 12: s-50 w-8"/>
-            <word id="9" form="ἔχοντες" lemma="ἔχω" postag="v-pppamn-" relation="" head="17"
-                  cite=" Lysias Orat. 12: s-50 w-9"/>
-            <word id="10" form="δὲ" lemma="δέ" postag="d--------" relation="" head="17"
-                  cite=" Lysias Orat. 12: s-50 w-10"/>
-            <word id="11" form="ἀργύριον" lemma="ἀργύριον" postag="n-s---na-" relation="" head="12"
-                  cite=" Lysias Orat. 12: s-50 w-11"/>
-            <word id="12" form="καὶ" lemma="καί" postag="c--------" relation="" head="9"
-                  cite=" Lysias Orat. 12: s-50 w-12"/>
-            <word id="13" form="χρυσίον" lemma="χρυσίον" postag="n-s---na-" relation="" head="12"
-                  cite=" Lysias Orat. 12: s-50 w-13"/>
-            <word id="14" form="τοσοῦτον" lemma="τοσοῦτος" postag="a-s---na_" relation="" head="12"
-                  cite=" Lysias Orat. 12: s-50 w-14"/>
-            <word id="15" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"
-                  cite=" Lysias Orat. 12: s-50 w-15"/>
-            <word id="16" form="χαλκὸν" lemma="χαλκός" postag="n-s---ma-" relation="" head="30"
-                  cite=" Lysias Orat. 12: s-50 w-16"/>
-            <word id="17" form="δὲ" lemma="δέ" postag="c--------" relation="" head="56"
-                  cite=" Lysias Orat. 12: s-50 w-17"/>
-            <word id="18" form="καὶ" lemma="καί" postag="d--------" relation="" head="30"
-                  cite=" Lysias Orat. 12: s-50 w-18"/>
-            <word id="19" form="κόσμον" lemma="κόσμος" postag="n-s---ma-" relation="" head="30"
-                  cite=" Lysias Orat. 12: s-50 w-19"/>
-            <word id="20" form="καὶ" lemma="καί" postag="d--------" relation="" head="30"
-                  cite=" Lysias Orat. 12: s-50 w-20"/>
-            <word id="21" form="ἔπιπλα" lemma="ἔπιπλα" postag="n-p---na-" relation="" head="30"
-                  cite=" Lysias Orat. 12: s-50 w-21"/>
-            <word id="22" form="καὶ" lemma="καί" postag="d--------" relation="" head="30"
-                  cite=" Lysias Orat. 12: s-50 w-22"/>
-            <word id="23" form="ἱμάτια" lemma="ἱμάτιον" postag="n-p---na-" relation="" head="30"
-                  cite=" Lysias Orat. 12: s-50 w-23"/>
-            <word id="24" form="γυναικεῖα" lemma="γυναικεῖος" postag="a-p---na-" relation=""
-                  head="23" cite=" Lysias Orat. 12: s-50 w-24"/>
-            <word id="25" form="ὅσα" lemma="ὅσος" postag="a-p---na-" relation="" head="28"
-                  cite=" Lysias Orat. 12: s-50 w-25"/>
-            <word id="26" form="οὐδεπώποτε" lemma="οὐδεπώποτε" postag="d--------" relation=""
-                  head="28" cite=" Lysias Orat. 12: s-50 w-26"/>
-            <word id="27" form="ᾤοντο" lemma="οἴομαι" postag="v3piie---" relation="" head="23"
-                  cite=" Lysias Orat. 12: s-50 w-27"/>
-            <word id="28" form="κτήσεσθαι" lemma="κτάομαι" postag="v--fnm---" relation="" head="27"
-                  cite=" Lysias Orat. 12: s-50 w-28"/>
-            <word id="29" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"
-                  cite=" Lysias Orat. 12: s-50 w-29"/>
-            <word id="30" form="καὶ" lemma="καί" postag="c--------" relation="" head="64"
-                  cite=" Lysias Orat. 12: s-50 w-30"/>
-            <word id="31" form="ἀνδράποδα" lemma="ἀνδράποδον" postag="n-p---na-" relation=""
-                  head="30" cite=" Lysias Orat. 12: s-50 w-31"/>
-            <word id="32" form="εἴκοσι" lemma="εἴκοσι" postag="a-_---___" relation="" head="33"
-                  cite=" Lysias Orat. 12: s-50 w-32"/>
-            <word id="33" form="καὶ" lemma="καί" postag="c--------" relation="" head="31"
-                  cite=" Lysias Orat. 12: s-50 w-33"/>
-            <word id="34" form="ἑκατόν" lemma="ἑκατόν" postag="a-_---___" relation="" head="33"
-                  cite=" Lysias Orat. 12: s-50 w-34"/>
-            <word id="35" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"
-                  cite=" Lysias Orat. 12: s-50 w-35"/>
-            <word id="36" form="ὧν" lemma="ὅς" postag="p-p---ng-" relation="" head="39"
-                  cite=" Lysias Orat. 12: s-50 w-36"/>
-            <word id="37" form="τὰ" lemma="ὁ" postag="l-p---na-" relation="" head="39"
-                  cite=" Lysias Orat. 12: s-50 w-37"/>
-            <word id="38" form="μὲν" lemma="μέν" postag="d--------" relation="" head="43"
-                  cite=" Lysias Orat. 12: s-50 w-38"/>
-            <word id="39" form="βέλτιστα" lemma="βέλτιστος" postag="a-p---na-" relation="" head="40"
-                  cite=" Lysias Orat. 12: s-50 w-39"/>
-            <word id="40" form="ἔλαβον" lemma="λαμβάνω" postag="v3paia---" relation="" head="43"
-                  cite=" Lysias Orat. 12: s-50 w-40"/>
-            <word id="41" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"
-                  cite=" Lysias Orat. 12: s-50 w-41"/>
-            <word id="42" form="τὰ" lemma="ὁ" postag="l-p---na-" relation="" head="44"
-                  cite=" Lysias Orat. 12: s-50 w-42"/>
-            <word id="43" form="δὲ" lemma="δέ" postag="c--------" relation="" head="31"
-                  cite=" Lysias Orat. 12: s-50 w-43"/>
-            <word id="44" form="λοιπὰ" lemma="λοιπός" postag="a-p---na-" relation="" head="48"
-                  cite=" Lysias Orat. 12: s-50 w-44"/>
-            <word id="45" form="εἰς" lemma="εἰς" postag="r--------" relation="" head="48"
-                  cite=" Lysias Orat. 12: s-50 w-45"/>
-            <word id="46" form="τὸ" lemma="ὁ" postag="l-s---na-" relation="" head="47"
-                  cite=" Lysias Orat. 12: s-50 w-46"/>
-            <word id="47" form="δημόσιον" lemma="δημόσιος" postag="a-s---na-" relation="" head="45"
-                  cite=" Lysias Orat. 12: s-50 w-47"/>
-            <word id="48" form="ἀπέδοσαν" lemma="ἀποδίδωμι" postag="v3paia---" relation="" head="43"
-                  cite=" Lysias Orat. 12: s-50 w-48"/>
-            <word id="49" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"
-                  cite=" Lysias Orat. 12: s-50 w-49"/>
-            <word id="50" form="εἰς" lemma="εἰς" postag="r--------" relation="" head="55"
-                  cite=" Lysias Orat. 12: s-50 w-50"/>
-            <word id="51" form="τοσαύτην" lemma="τοσοῦτος" postag="a-s---fa_" relation="" head="52"
-                  cite=" Lysias Orat. 12: s-50 w-51"/>
-            <word id="52" form="ἀπληστίαν" lemma="ἀπληστία" postag="n-s---fa-" relation="" head="53"
-                  cite=" Lysias Orat. 12: s-50 w-52"/>
-            <word id="53" form="καὶ" lemma="καί" postag="c--------" relation="" head="50"
-                  cite=" Lysias Orat. 12: s-50 w-53"/>
-            <word id="54" form="αἰσχροκέρδειαν" lemma="αἰσχροκέρδεια" postag="n-s---fa-" relation=""
-                  head="53" cite=" Lysias Orat. 12: s-50 w-54"/>
-            <word id="55" form="ἀφίκοντο" lemma="ἀφικνέομαι" postag="v3paim---" relation=""
-                  head="56" cite=" Lysias Orat. 12: s-50 w-55"/>
-            <word id="56" form="καὶ" lemma="καί" postag="c--------" relation="" head="0"
-                  cite=" Lysias Orat. 12: s-50 w-56"/>
-            <word id="57" form="τοῦ" lemma="ὁ" postag="l-s---mg-" relation="" head="58"
-                  cite=" Lysias Orat. 12: s-50 w-57"/>
-            <word id="58" form="τρόπου" lemma="τρόπος" postag="n-s---mg-" relation="" head="61"
-                  cite=" Lysias Orat. 12: s-50 w-58"/>
-            <word id="59" form="τοῦ" lemma="ὁ" postag="l-s---mg-" relation="" head="58"
-                  cite=" Lysias Orat. 12: s-50 w-59"/>
-            <word id="60" form="αὑτῶν" lemma="ἑαυτοῦ" postag="p-p---mg-" relation="" head="58"
-                  cite=" Lysias Orat. 12: s-50 w-60"/>
-            <word id="61" form="ἀπόδειξιν" lemma="ἀπόδειξις" postag="n-s---fa-" relation=""
-                  head="62" cite=" Lysias Orat. 12: s-50 w-61"/>
-            <word id="62" form="ἐποιήσαντο" lemma="ποιέω" postag="v3paim---" relation="" head="56"
-                  cite=" Lysias Orat. 12: s-50 w-62"/>
-            <word id="63" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0"
-                  cite=" Lysias Orat. 12: s-50 w-63"/>
-            <word id="64" form="ἔχοντες" insertion_id="0063e" artificial="elliptic" lemma="ἔχω"
-                  postag="v-pppamn-" relation="" head="17" cite="Lysias Orat. 12: s-50 w-64"/>
-      </sentence>
+      
       <sentence id="51" document_id="urn:cts:greekLit:tlg0540.tlg012.perseus-grc1" subdoc="19"
             span="Lysias Orat. 12: s-51">
             <word id="1" form="τῆς" lemma="ὁ" postag="l-s---fg-" relation="ATR" head="4"
@@ -8682,7 +8552,7 @@
                   head="55" cite=" Lysias Orat. 12: s-53 w-60"/>
             <word id="61" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Lysias Orat. 12: s-53 w-61"/>
-            <word id="62" form="[0]" insertion_id="0061e" artificial="elliptic" lemma="" postag=""
+            <word id="62" form="[0]" insertion_id="0061e" artificial="elliptic" lemma="" postag="e"
                   relation="ADV" head="10" cite="Lysias Orat. 12: s-53 w-62"/>
       </sentence>
       <sentence id="54" document_id="urn:cts:greekLit:tlg0540.tlg012.perseus-grc1" subdoc="20"
@@ -9201,7 +9071,7 @@
                   head="1" cite=" Lysias Orat. 12: s-71 w-3"/>
             <word id="4" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Lysias Orat. 12: s-71 w-4"/>
-            <word id="5" form="[0]" insertion_id="0004e" artificial="elliptic" lemma="" postag=""
+            <word id="5" form="[0]" insertion_id="0004e" artificial="elliptic" lemma="" postag="e"
                   relation="PRED" head="0" cite="Lysias Orat. 12: s-71 w-5"/>
       </sentence>
       <sentence id="72" document_id="urn:cts:greekLit:tlg0540.tlg012.perseus-grc1" subdoc="25"
@@ -9214,7 +9084,7 @@
                   head="1" cite=" Lysias Orat. 12: s-72 w-3"/>
             <word id="4" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Lysias Orat. 12: s-72 w-4"/>
-            <word id="5" form="[0]" insertion_id="0004e" artificial="elliptic" lemma="" postag=""
+            <word id="5" form="[0]" insertion_id="0004e" artificial="elliptic" lemma="" postag="e"
                   relation="PRED" head="0" cite="Lysias Orat. 12: s-72 w-5"/>
       </sentence>
       <sentence id="73" document_id="urn:cts:greekLit:tlg0540.tlg012.perseus-grc1" subdoc="25"
@@ -9233,7 +9103,7 @@
                   cite=" Lysias Orat. 12: s-73 w-6"/>
             <word id="7" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Lysias Orat. 12: s-73 w-7"/>
-            <word id="8" form="[0]" insertion_id="0007e" artificial="elliptic" lemma="" postag=""
+            <word id="8" form="[0]" insertion_id="0007e" artificial="elliptic" lemma="" postag="e"
                   relation="PRED" head="0" cite="Lysias Orat. 12: s-73 w-8"/>
       </sentence>
       <sentence id="74" document_id="urn:cts:greekLit:tlg0540.tlg012.perseus-grc1" subdoc="25"
@@ -9242,7 +9112,7 @@
                   cite=" Lysias Orat. 12: s-74 w-1"/>
             <word id="2" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Lysias Orat. 12: s-74 w-2"/>
-            <word id="3" form="[0]" insertion_id="0002e" artificial="elliptic" lemma="" postag=""
+            <word id="3" form="[0]" insertion_id="0002e" artificial="elliptic" lemma="" postag="e"
                   relation="PRED" head="0" cite="Lysias Orat. 12: s-74 w-3"/>
       </sentence>
       <sentence id="75" document_id="urn:cts:greekLit:tlg0540.tlg012.perseus-grc1" subdoc="26"
@@ -9460,7 +9330,7 @@
                   cite=" Lysias Orat. 12: s-78 w-19"/>
             <word id="20" form="ἐστιν" insertion_id="0019e" artificial="elliptic" lemma="εἰμί"
                   postag="v3spia---" relation="PRED" head="0" cite="Lysias Orat. 12: s-78 w-20"/>
-            <word id="21" form="[0]" insertion_id="0019f" artificial="elliptic" lemma="" postag=""
+            <word id="21" form="[0]" insertion_id="0019f" artificial="elliptic" lemma="" postag="e"
                   relation="APOS" head="20" cite="Lysias Orat. 12: s-78 w-21"/>
       </sentence>
       <sentence id="79" document_id="urn:cts:greekLit:tlg0540.tlg012.perseus-grc1" subdoc="27"
@@ -9520,7 +9390,7 @@
                   relation="PNOM_CO" head="12" cite=" Lysias Orat. 12: s-80 w-14"/>
             <word id="15" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Lysias Orat. 12: s-80 w-15"/>
-            <word id="16" form="[0]" insertion_id="0015e" artificial="elliptic" lemma="" postag=""
+            <word id="16" form="[0]" insertion_id="0015e" artificial="elliptic" lemma="" postag="e"
                   relation="ADV" head="7" cite="Lysias Orat. 12: s-80 w-16"/>
       </sentence>
       <sentence id="81" document_id="urn:cts:greekLit:tlg0540.tlg012.perseus-grc1" subdoc="27"
@@ -9555,7 +9425,7 @@
                   head="13" cite=" Lysias Orat. 12: s-81 w-14"/>
             <word id="15" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Lysias Orat. 12: s-81 w-15"/>
-            <word id="16" form="[0]" insertion_id="0015e" artificial="elliptic" lemma="" postag=""
+            <word id="16" form="[0]" insertion_id="0015e" artificial="elliptic" lemma="" postag="e"
                   relation="ADV" head="8" cite="Lysias Orat. 12: s-81 w-16"/>
       </sentence>
       <sentence id="82" document_id="urn:cts:greekLit:tlg0540.tlg012.perseus-grc1" subdoc="28"
@@ -10303,7 +10173,7 @@
                   cite=" Lysias Orat. 12: s-97 w-15"/>
             <word id="16" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Lysias Orat. 12: s-97 w-16"/>
-            <word id="17" form="[0]" insertion_id="0016e" artificial="elliptic" lemma="" postag=""
+            <word id="17" form="[0]" insertion_id="0016e" artificial="elliptic" lemma="" postag="e"
                   relation="PRED" head="0" cite="Lysias Orat. 12: s-97 w-17"/>
       </sentence>
       <sentence id="98" document_id="urn:cts:greekLit:tlg0540.tlg012.perseus-grc1" subdoc="34"
@@ -10755,7 +10625,7 @@
                   head="72" cite=" Lysias Orat. 12: s-105 w-82"/>
             <word id="83" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Lysias Orat. 12: s-105 w-83"/>
-            <word id="84" form="[0]" insertion_id="0083e" artificial="elliptic" lemma="" postag=""
+            <word id="84" form="[0]" insertion_id="0083e" artificial="elliptic" lemma="" postag="e"
                   relation="PRED" head="0" cite="Lysias Orat. 12: s-105 w-84"/>
       </sentence>
       <sentence id="106" document_id="urn:cts:greekLit:tlg0540.tlg012.perseus-grc1" subdoc="37"
@@ -12280,7 +12150,7 @@
                   cite=" Lysias Orat. 12: s-139 w-23"/>
             <word id="24" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Lysias Orat. 12: s-139 w-24"/>
-            <word id="25" form="[0]" insertion_id="0024e" artificial="elliptic" lemma="" postag=""
+            <word id="25" form="[0]" insertion_id="0024e" artificial="elliptic" lemma="" postag="e"
                   relation="ADV" head="1" cite="Lysias Orat. 12: s-139 w-25"/>
       </sentence>
       <sentence id="140" document_id="urn:cts:greekLit:tlg0540.tlg012.perseus-grc1" subdoc="50"
@@ -12479,7 +12349,7 @@
                   cite=" Lysias Orat. 12: s-142 w-23"/>
             <word id="24" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Lysias Orat. 12: s-142 w-24"/>
-            <word id="25" form="[0]" insertion_id="0024e" artificial="elliptic" lemma="" postag=""
+            <word id="25" form="[0]" insertion_id="0024e" artificial="elliptic" lemma="" postag="e"
                   relation="ADV" head="14" cite="Lysias Orat. 12: s-142 w-25"/>
       </sentence>
       <sentence id="143" document_id="urn:cts:greekLit:tlg0540.tlg012.perseus-grc1" subdoc="52"
@@ -12830,7 +12700,7 @@
                   cite=" Lysias Orat. 12: s-147 w-48"/>
             <word id="49" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Lysias Orat. 12: s-147 w-49"/>
-            <word id="50" form="[0]" insertion_id="0049e" artificial="elliptic" lemma="" postag=""
+            <word id="50" form="[0]" insertion_id="0049e" artificial="elliptic" lemma="" postag="e"
                   relation="ADV" head="44" cite="Lysias Orat. 12: s-147 w-50"/>
       </sentence>
       <sentence id="148" document_id="urn:cts:greekLit:tlg0540.tlg012.perseus-grc1" subdoc="56"
@@ -13005,11 +12875,11 @@
                   cite=" Lysias Orat. 12: s-150 w-24"/>
             <word id="25" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Lysias Orat. 12: s-150 w-25"/>
-            <word id="26" form="[0]" insertion_id="0025e" artificial="elliptic" lemma="" postag=""
+            <word id="26" form="[0]" insertion_id="0025e" artificial="elliptic" lemma="" postag="e"
                   relation="SBJ_AP_CO" head="18" cite="Lysias Orat. 12: s-150 w-26"/>
-            <word id="27" form="[1]" insertion_id="0025f" artificial="elliptic" lemma="" postag=""
+            <word id="27" form="[1]" insertion_id="0025f" artificial="elliptic" lemma="" postag="e"
                   relation="ADV" head="17" cite="Lysias Orat. 12: s-150 w-27"/>
-            <word id="28" form="[2]" insertion_id="0025g" artificial="elliptic" lemma="" postag=""
+            <word id="28" form="[2]" insertion_id="0025g" artificial="elliptic" lemma="" postag="e"
                   relation="SBJ_AP_CO" head="18" cite="Lysias Orat. 12: s-150 w-28"/>
       </sentence>
       <sentence id="151" document_id="urn:cts:greekLit:tlg0540.tlg012.perseus-grc1" subdoc="57"
@@ -13388,7 +13258,7 @@
                   head="46" cite=" Lysias Orat. 12: s-154 w-50"/>
             <word id="51" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Lysias Orat. 12: s-154 w-51"/>
-            <word id="52" form="[0]" insertion_id="0051e" artificial="elliptic" lemma="" postag=""
+            <word id="52" form="[0]" insertion_id="0051e" artificial="elliptic" lemma="" postag="e"
                   relation="ADV" head="31" cite="Lysias Orat. 12: s-154 w-52"/>
       </sentence>
       <sentence id="155" document_id="urn:cts:greekLit:tlg0540.tlg012.perseus-grc1" subdoc="61"
@@ -13432,7 +13302,7 @@
                   cite=" Lysias Orat. 12: s-156 w-2"/>
             <word id="3" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Lysias Orat. 12: s-156 w-3"/>
-            <word id="4" form="[0]" insertion_id="0003e" artificial="elliptic" lemma="" postag=""
+            <word id="4" form="[0]" insertion_id="0003e" artificial="elliptic" lemma="" postag="e"
                   relation="PRED" head="0" cite="Lysias Orat. 12: s-156 w-4"/>
       </sentence>
       <sentence id="157" document_id="urn:cts:greekLit:tlg0540.tlg012.perseus-grc1" subdoc="61"
@@ -13471,7 +13341,7 @@
                   cite=" Lysias Orat. 12: s-157 w-16"/>
             <word id="17" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Lysias Orat. 12: s-157 w-17"/>
-            <word id="18" form="[0]" insertion_id="0017e" artificial="elliptic" lemma="" postag=""
+            <word id="18" form="[0]" insertion_id="0017e" artificial="elliptic" lemma="" postag="e"
                   relation="PRED_CO" head="8" cite="Lysias Orat. 12: s-157 w-18"/>
       </sentence>
       <sentence id="158" document_id="urn:cts:greekLit:tlg0540.tlg012.perseus-grc1" subdoc="61"
@@ -14511,7 +14381,7 @@
                   cite=" Lysias Orat. 12: s-177 w-81"/>
             <word id="82" form="οὐδεὶς" insertion_id="0081e" artificial="elliptic" lemma="οὐδείς"
                   postag="p-s---mn-" relation="SBJ" head="35" cite="Lysias Orat. 12: s-177 w-82"/>
-            <word id="83" form="[0]" insertion_id="0081f" artificial="elliptic" lemma="" postag=""
+            <word id="83" form="[0]" insertion_id="0081f" artificial="elliptic" lemma="" postag="e"
                   relation="OBJ" head="5" cite="Lysias Orat. 12: s-177 w-83"/>
       </sentence>
       <sentence id="178" document_id="urn:cts:greekLit:tlg0540.tlg012.perseus-grc1" subdoc="71"
@@ -14949,7 +14819,7 @@
             span="Lysias Orat. 12: s-185">
             <word id="1" form="τῶν" lemma="ὁ" postag="l-p---mg-" relation="ATR" head="18"
                   cite=" Lysias Orat. 12: s-185 w-1"/>
-            <word id="2" form="δʼ" lemma="δέ" postag="d--------" relation="" head="26"
+            <word id="2" form="δʼ" lemma="δέ" postag="d--------" relation="AuxY" head="26"
                   cite=" Lysias Orat. 12: s-185 w-2"/>
             <word id="3" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" head="1"
                   cite=" Lysias Orat. 12: s-185 w-3"/>
@@ -14983,7 +14853,7 @@
                   cite=" Lysias Orat. 12: s-185 w-17"/>
             <word id="18" form="οἱ" lemma="ὁ" postag="l-p---mn-" relation="SBJ" head="23"
                   cite=" Lysias Orat. 12: s-185 w-18"/>
-            <word id="19" form="μὲν" lemma="μέν" postag="d--------" relation="" head="26"
+            <word id="19" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" head="26"
                   cite=" Lysias Orat. 12: s-185 w-19"/>
             <word id="20" form="αὐτοῦ" lemma="αὐτοῦ" postag="d--------" relation="ADV" head="21"
                   cite=" Lysias Orat. 12: s-185 w-20"/>
@@ -16395,7 +16265,7 @@
                   head="20" cite=" Lysias Orat. 12: s-210 w-26"/>
             <word id="27" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Lysias Orat. 12: s-210 w-27"/>
-            <word id="28" form="[0]" insertion_id="0027e" artificial="elliptic" lemma="" postag=""
+            <word id="28" form="[0]" insertion_id="0027e" artificial="elliptic" lemma="" postag="e"
                   relation="ADV" head="12" cite="Lysias Orat. 12: s-210 w-28"/>
             <word id="29" form="εἶναι" insertion_id="0027f" artificial="elliptic" lemma="εἰμί"
                   postag="v--pna---" relation="OBJ" head="26" cite="Lysias Orat. 12: s-210 w-29"/>
@@ -16910,27 +16780,7 @@
             <word id="12" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Lysias Orat. 12: s-222 w-12"/>
       </sentence>
-      <sentence id="223" document_id="urn:cts:greekLit:tlg0540.tlg012.perseus-grc1" subdoc="91"
-            span="Lysias Orat. 12: s-223">
-            <word id="1" form="ὥστε" lemma="ὥστε" postag="d--------" relation="" head="2"
-                  cite=" Lysias Orat. 12: s-223 w-1"/>
-            <word id="2" form="συμβουλεύω" lemma="συμβουλεύω" postag="v1spia---" relation=""
-                  head="0" cite=" Lysias Orat. 12: s-223 w-2"/>
-            <word id="3" form="μὴ" lemma="μή" postag="d--------" relation="" head="8"
-                  cite=" Lysias Orat. 12: s-223 w-3"/>
-            <word id="4" form="τούτων" lemma="οὗτος" postag="p-p---mg-" relation="" head="5"
-                  cite=" Lysias Orat. 12: s-223 w-4"/>
-            <word id="5" form="ἀποψηφισαμένους" lemma="ἀποψηφίζομαι" postag="v-papema-" relation=""
-                  head="8" cite=" Lysias Orat. 12: s-223 w-5"/>
-            <word id="6" form="ὑμῶν" lemma="σύ" postag="p-p---mg-" relation="" head="8"
-                  cite=" Lysias Orat. 12: s-223 w-6"/>
-            <word id="7" form="αὐτῶν" lemma="αὐτός" postag="a-p---mg_" relation="" head="6"
-                  cite=" Lysias Orat. 12: s-223 w-7"/>
-            <word id="8" form="καταψηφίσασθαι" lemma="καταψηφίζομαι" postag="v--ane---" relation=""
-                  head="2" cite=" Lysias Orat. 12: s-223 w-8"/>
-            <word id="9" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
-                  cite=" Lysias Orat. 12: s-223 w-9"/>
-      </sentence>
+      
       <sentence id="224" document_id="urn:cts:greekLit:tlg0540.tlg012.perseus-grc1" subdoc="91"
             span="Lysias Orat. 12: s-224">
             <word id="1" form="μηδʼ" lemma="μηδέ" postag="d-------_" relation="AuxZ" head="2"
@@ -17881,7 +17731,7 @@
                   head="25" cite=" Lysias Orat. 12: s-236 w-40"/>
             <word id="41" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Lysias Orat. 12: s-236 w-41"/>
-            <word id="42" form="[0]" insertion_id="0041e" artificial="elliptic" lemma="" postag=""
+            <word id="42" form="[0]" insertion_id="0041e" artificial="elliptic" lemma="" postag="e"
                   relation="ATR" head="15" cite="Lysias Orat. 12: s-236 w-42"/>
       </sentence>
       <sentence id="237" document_id="urn:cts:greekLit:tlg0540.tlg012.perseus-grc1" subdoc="98"
@@ -26640,33 +26490,7 @@
                   postag="v3spia---" form="ἐστιν" head="0"
                   reference="Lysias Oration 13: s-177 w-13"/>
       </sentence>
-      <sentence id="178" document_id="urn:cts:greekLit:tlg0540.tlg013.perseus-grc1" subdoc="72"
-            span="Lysias Oration 13: s-178">
-            <word id="1" form="οὐδαμοῦ" lemma="οὐδαμοῦ" postag="d--------" relation="PNOM" head="3"
-                  reference="Lysias Oration 13: s-178 w-1"/>
-            <word id="2" form="γάρ" lemma="γάρ" postag="d--------" relation="AuxY" head="3"
-                  reference="Lysias Oration 13: s-178 w-2"/>
-            <word id="3" form="ἐστιν" lemma="εἰμί" postag="v3spia---" relation="PRED" head="0"
-                  reference="Lysias Oration 13: s-178 w-3"/>
-            <word id="4" form="Ἀγόρατον" lemma="Ἀγόρατος" postag="n-s---ma-" relation="" head="6"
-                  reference="Lysias Oration 13: s-178 w-4"/>
-            <word id="5" form="Ἀθηναῖον" lemma="Ἀθηναῖος" postag="a-s---ma-" relation="PNOM"
-                  head="6" reference="Lysias Oration 13: s-178 w-5"/>
-            <word id="6" form="εἶναι" lemma="εἰμί" postag="v--pna---" relation="SBJ" head="3"
-                  reference="Lysias Oration 13: s-178 w-6"/>
-            <word id="7" form="ὥσπερ" lemma="ὥσπερ" postag="c--------" relation="AuxC" head="3"
-                  reference="Lysias Oration 13: s-178 w-7"/>
-            <word id="8" form="Θρασύβουλον" lemma="Θρασύβουλος" postag="n-s---ma-" relation="OBJ_CO"
-                  head="9" reference="Lysias Oration 13: s-178 w-8"/>
-            <word id="9" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="12"
-                  reference="Lysias Oration 13: s-178 w-9"/>
-            <word id="10" form="Ἀπολλόδωρον" lemma="Ἀπολλόδωρος" postag="n-s---ma-"
-                  relation="OBJ_CO" head="9" reference="Lysias Oration 13: s-178 w-10"/>
-            <word id="11" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
-                  reference="Lysias Oration 13: s-178 w-11"/>
-            <word id="12" insertion_id="0011e" artificial="elliptic" relation="ADV" form="[0]"
-                  head="7" reference="Lysias Oration 13: s-178 w-12"/>
-      </sentence>
+      
       <sentence id="179" document_id="urn:cts:greekLit:tlg0540.tlg013.perseus-grc1" subdoc="72"
             span="Lysias Oration 13: s-179">
             <word id="1" form="καίτοι" lemma="καίτοι" postag="d--------" relation="AuxY" head="6"
@@ -31278,7 +31102,7 @@
                   cite=" Lysias Orat. 14: s-21 w-44"/>
             <word id="45" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Lysias Orat. 14: s-21 w-45"/>
-            <word id="46" form="[0]" insertion_id="" artificial="elliptic" lemma="" postag=""
+            <word id="46" form="[0]" insertion_id="" artificial="elliptic" lemma="" postag="e"
                   relation="PRED" head="0" cite="Lysias Orat. 14: s-21 w-46"/>
             <word id="47" form="ἁλῶναι" insertion_id="0045e" artificial="elliptic"
                   lemma="ἁλίσκομαι" postag="v--ana---" relation="OBJ_CO" head="34"
@@ -31530,7 +31354,7 @@
                   head="56" cite=" Lysias Orat. 14: s-26 w-58"/>
             <word id="59" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Lysias Orat. 14: s-26 w-59"/>
-            <word id="60" form="[0]" insertion_id="0059e" artificial="elliptic" lemma="" postag=""
+            <word id="60" form="[0]" insertion_id="0059e" artificial="elliptic" lemma="" postag="e"
                   relation="ADV" head="51" cite="Lysias Orat. 14: s-26 w-60"/>
       </sentence>
       <sentence id="27"
@@ -31780,7 +31604,7 @@
                   head="22" cite=" Lysias Orat. 14: s-30 w-24"/>
             <word id="25" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Lysias Orat. 14: s-30 w-25"/>
-            <word id="26" form="[0]" insertion_id="0025e" artificial="elliptic" lemma="" postag=""
+            <word id="26" form="[0]" insertion_id="0025e" artificial="elliptic" lemma="" postag="e"
                   relation="OBJ" head="4" cite="Lysias Orat. 14: s-30 w-26"/>
       </sentence>
       <sentence id="31"
@@ -34277,9 +34101,9 @@
                   head="102" cite=" Lysias Orat. 14: s-69 w-103"/>
             <word id="104" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Lysias Orat. 14: s-69 w-104"/>
-            <word id="105" form="[0]" insertion_id="0104e" artificial="elliptic" lemma="" postag=""
+            <word id="105" form="[0]" insertion_id="0104e" artificial="elliptic" lemma="" postag="e"
                   relation="ADV" head="47" cite="Lysias Orat. 14: s-69 w-105"/>
-            <word id="106" form="[1]" insertion_id="0104f" artificial="elliptic" lemma="" postag=""
+            <word id="106" form="[1]" insertion_id="0104f" artificial="elliptic" lemma="" postag="e"
                   relation="OBJ_CO" head="61" cite="Lysias Orat. 14: s-69 w-106"/>
             <word id="107" form="ἐστρατεύσατο" insertion_id="0104g" artificial="elliptic"
                   lemma="στρατεύω" postag="v3saim---" relation="ADV" head="98"
@@ -34646,7 +34470,7 @@
                   cite=" Lysias Orat. 14: s-75 w-53"/>
             <word id="54" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Lysias Orat. 14: s-75 w-54"/>
-            <word id="55" form="[0]" insertion_id="0054e" artificial="elliptic" lemma="" postag=""
+            <word id="55" form="[0]" insertion_id="0054e" artificial="elliptic" lemma="" postag="e"
                   relation="PRED" head="0" cite="Lysias Orat. 14: s-75 w-55"/>
       </sentence>
       <sentence id="76"
@@ -35204,7 +35028,7 @@
                   head="13" cite=" Lysias Orat. 14: s-84 w-27"/>
             <word id="28" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Lysias Orat. 14: s-84 w-28"/>
-            <word id="29" form="[0]" insertion_id="0028e" artificial="elliptic" lemma="" postag=""
+            <word id="29" form="[0]" insertion_id="0028e" artificial="elliptic" lemma="" postag="e"
                   relation="ADV" head="22" cite="Lysias Orat. 14: s-84 w-29"/>
       </sentence>
       <sentence id="85"
@@ -35642,7 +35466,7 @@
                   head="13" cite=" Lysias Orat. 14: s-89 w-15"/>
             <word id="16" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Lysias Orat. 14: s-89 w-16"/>
-            <word id="17" form="[0]" insertion_id="0016e" artificial="elliptic" lemma="" postag=""
+            <word id="17" form="[0]" insertion_id="0016e" artificial="elliptic" lemma="" postag="e"
                   relation="PRED" head="0" cite="Lysias Orat. 14: s-89 w-17"/>
       </sentence>
       <sentence id="90"
@@ -36663,7 +36487,7 @@
                   cite=" Lysias Orat. 15: s-2 w-53"/>
             <word id="54" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Lysias Orat. 15: s-2 w-54"/>
-            <word id="55" form="[0]" insertion_id="0054e" artificial="elliptic" lemma="" postag=""
+            <word id="55" form="[0]" insertion_id="0054e" artificial="elliptic" lemma="" postag="e"
                   relation="ADV" head="51" cite="Lysias Orat. 15: s-2 w-55"/>
       </sentence>
       <sentence id="3"
@@ -37791,7 +37615,7 @@
                   relation="OBJ" head="14" cite=" Lysias Orat. 15: s-17 w-18"/>
             <word id="19" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite=" Lysias Orat. 15: s-17 w-19"/>
-            <word id="20" form="[0]" insertion_id="0019e" artificial="elliptic" lemma="" postag=""
+            <word id="20" form="[0]" insertion_id="0019e" artificial="elliptic" lemma="" postag="e"
                   relation="ATR" head="5" cite="Lysias Orat. 15: s-17 w-20"/>
       </sentence>
 
@@ -39965,59 +39789,7 @@
             <word id="37" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   reference="Lysias Oration 19: s-41 w-37"/>
       </sentence>
-      <sentence id="42" document_id="urn:cts:greekLit:tlg0540.tlg019.perseus-grc1" subdoc="20"
-            span="Lysias Oration 19: s-42">
-            <word id="1" form="ἦσαν" lemma="εἰμί" postag="v3piia---" relation="PRED" head="0"
-                  reference="Lysias Oration 19: s-42 w-1"/>
-            <word id="2" form="δ᾽" lemma="δέ" postag="d--------" relation="AuxY" head="1"
-                  reference="Lysias Oration 19: s-42 w-2"/>
-            <word id="3" form="ἐλπίδες" lemma="ἐλπίς" postag="n-p---fn-" relation="PNOM" head="1"
-                  reference="Lysias Oration 19: s-42 w-3"/>
-            <word id="4" form="τοῦ" lemma="ὁ" postag="l-s---mg-" relation="" head="5"
-                  reference="Lysias Oration 19: s-42 w-4"/>
-            <word id="5" form="πλοῦ" lemma="πλόος" postag="n-s---mg-" relation="" head="3"
-                  reference="Lysias Oration 19: s-42 w-5"/>
-            <word id="6" form="πεῖσαι" lemma="πείθω" postag="v--ana---" relation="SBJ" head="1"
-                  reference="Lysias Oration 19: s-42 w-6"/>
-            <word id="7" form="Διονύσιον" lemma="Διονύσιος" postag="n-s---ma-" relation="OBJ"
-                  head="6" reference="Lysias Oration 19: s-42 w-7"/>
-            <word id="8" form="κηδεστὴν" lemma="κηδεστής" postag="n-s---ma-" relation="PNOM_CO"
-                  head="18" reference="Lysias Oration 19: s-42 w-8"/>
-            <word id="9" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" head="18"
-                  reference="Lysias Oration 19: s-42 w-9"/>
-            <word id="10" form="γενέσθαι" lemma="γίγνομαι" postag="v--anm---" relation="OBJ"
-                  head="6" reference="Lysias Oration 19: s-42 w-10"/>
-            <word id="11" form="Εὐαγόρᾳ" lemma="Εὐαγόρας" postag="n-s---md-" relation="ATR" head="8"
-                  reference="Lysias Oration 19: s-42 w-11"/>
-            <word id="12" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"
-                  reference="Lysias Oration 19: s-42 w-12"/>
-            <word id="13" form="πολέμιον" lemma="πολέμιος" postag="a-s---ma-" relation="PNOM_CO"
-                  head="18" reference="Lysias Oration 19: s-42 w-13"/>
-            <word id="14" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="18"
-                  reference="Lysias Oration 19: s-42 w-14"/>
-            <word id="15" form="Λακεδαιμονίοις" lemma="Λακεδαιμόνιος" postag="n-p---md-"
-                  relation="ATR" head="13" reference="Lysias Oration 19: s-42 w-15"/>
-            <word id="16" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"
-                  reference="Lysias Oration 19: s-42 w-16"/>
-            <word id="17" form="φίλον" lemma="φίλος" postag="n-s---ma-" relation="PNOM_CO" head="19"
-                  reference="Lysias Oration 19: s-42 w-17"/>
-            <word id="18" form="δὲ" lemma="δέ" postag="c--------" relation="COORD" head="10"
-                  reference="Lysias Oration 19: s-42 w-18"/>
-            <word id="19" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="18"
-                  reference="Lysias Oration 19: s-42 w-19"/>
-            <word id="20" form="σύμμαχον" lemma="σύμμαχος" postag="n-s---ma-" relation="PNOM_CO"
-                  head="19" reference="Lysias Oration 19: s-42 w-20"/>
-            <word id="21" form="τῇ" lemma="ὁ" postag="l-s---fd-" relation="ATR" head="22"
-                  reference="Lysias Oration 19: s-42 w-21"/>
-            <word id="22" form="πόλει" lemma="πόλις" postag="n-s---fd-" relation="ATR" head="19"
-                  reference="Lysias Oration 19: s-42 w-22"/>
-            <word id="23" form="τῇ" lemma="ὁ" postag="l-s---fd-" relation="ATR" head="22"
-                  reference="Lysias Oration 19: s-42 w-23"/>
-            <word id="24" form="ὑμετέρᾳ" lemma="ὑμέτερος" postag="a-s---fd-" relation="ATR"
-                  head="22" reference="Lysias Oration 19: s-42 w-24"/>
-            <word id="25" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
-                  reference="Lysias Oration 19: s-42 w-25"/>
-      </sentence>
+      
       <sentence id="43" document_id="urn:cts:greekLit:tlg0540.tlg019.perseus-grc1" subdoc="20"
             span="Lysias Oration 19: s-43">
             <word id="1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="14"
@@ -45875,7 +45647,7 @@
             <word id="42" form="." lemma="punc1" postag="u--------"
                   relation="AuxK" head="0" cite=" Lysias Orat. 23: s-5 w-42"/>
             <word id="43" form="[0]" insertion_id="0042e" artificial="elliptic"
-                  lemma="" postag="" relation="OBJ" head="4"
+                  lemma="" postag="e" relation="OBJ" head="4"
                   cite="Lysias Orat. 23: s-5 w-43"/>
       </sentence>
       <sentence id="6"
@@ -46302,7 +46074,7 @@
             <word id="12" form="." lemma="punc1" postag="u--------"
                   relation="AuxK" head="0" cite=" Lysias Orat. 23: s-14 w-12"/>
             <word id="13" form="[0]" insertion_id="0012e" artificial="elliptic"
-                  lemma="" postag="" relation="PRED" head="0"
+                  lemma="" postag="e" relation="PRED" head="0"
                   cite="Lysias Orat. 23: s-14 w-13"/>
       </sentence>
       <sentence id="15"
@@ -46511,7 +46283,7 @@
             <word id="32" form="." lemma="punc1" postag="u--------"
                   relation="AuxK" head="0" cite=" Lysias Orat. 23: s-17 w-32"/>
             <word id="33" form="[0]" insertion_id="0032e" artificial="elliptic"
-                  lemma="" postag="" relation="OBJ_AP_CO" head="22"
+                  lemma="" postag="e" relation="OBJ_AP_CO" head="22"
                   cite="Lysias Orat. 23: s-17 w-33"/>
       </sentence>
       <sentence id="18"
@@ -47480,7 +47252,7 @@
             <word id="18" form="." lemma="punc1" postag="u--------"
                   relation="AuxK" head="0" cite=" Lysias Orat. 23: s-41 w-18"/>
             <word id="19" form="[0]" insertion_id="0018e" artificial="elliptic"
-                  lemma="" postag="" relation="ADV" head="12"
+                  lemma="" postag="e" relation="ADV" head="12"
                   cite="Lysias Orat. 23: s-41 w-19"/>
       </sentence>
       <sentence id="42"

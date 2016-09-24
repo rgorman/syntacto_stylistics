@@ -8,11 +8,11 @@ rm(list = ls())
 library(XML)
 
 source("code/corpusFunctions.R")
-input.dir <- "../sWord_levels/VG_files_POS_and_REL_and_relpos"
+input.dir <- "./working_input"
 files.v <- dir(path=input.dir, pattern=".*xml")
 
 
-i <- 12
+i <- 9
 
 # create list object with no content. Vectors extracted from XML files will be stored here.
 sWord.freq.table.list <- list()
@@ -124,6 +124,7 @@ length(sWord.freq.table.list)
 lengths(sWord.freq.table.list)
 mean(lengths(sWord.freq.table.list))
 summary(lengths(sWord.freq.table.list))
+sWord.freq.table.list[[10]][1]
 
 
 # convert to list of matrices

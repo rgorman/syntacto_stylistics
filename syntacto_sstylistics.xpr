@@ -10,7 +10,22 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>base_files/Perseus_and_VG/Xenophon_Cyr1.xml</String>
+                                    <String>base_files/Perseus_and_VG/Lysias_SelectOrations.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>Aeschylus_Agamemnon</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>xsl%20files/sWord_levels/rel_and_rel-pos_by_levels.xsl</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -40,7 +55,7 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>xsl%20files/sWord_levels/rel_and_rel-pos_by_levels.xsl</String>
+                                    <String>base_files/Perseus_and_VG/Xenophon_Cyr1.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>

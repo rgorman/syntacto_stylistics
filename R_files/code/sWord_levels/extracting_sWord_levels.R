@@ -3,10 +3,10 @@ library(XML)
 source("code/corpusFunctions.R")
 
 
-# location of files: C:\Users\rgorm\Documents\syntacto_stylistics\sWord_levels\files_with_sWords
+# location of files: C:\Users\rgorm\Documents\syntacto_stylistics\R_files\working_input
 
 
-input.dir <- "../sWord_levels/files_with_sWords/VG_files"
+input.dir <- "./working_input"
 files.v <- dir(path=input.dir, pattern=".*xml")
 
 

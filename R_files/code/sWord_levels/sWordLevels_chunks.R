@@ -8,7 +8,7 @@ rm(list = ls())
 library(XML)
 
 source("code/corpusFunctions.R")
-input.dir <- "./test"
+input.dir <- "./working_input"
 files.v <- dir(path=input.dir, pattern=".*xml")
 
 
@@ -28,7 +28,7 @@ for (i in 1:length(files.v)) {
   
   # here we must split files into chunks
   
-  divisor <- length(word.nodes)/1000
+  divisor <- length(word.nodes)/500
   max.length <- length(word.nodes)/divisor
   x <- seq_along(word.nodes)
   chunks.l <- split(word.nodes, ceiling(x/max.length))
@@ -122,6 +122,8 @@ for (i in 1:length(files.v)) {
 str(sWord.freq.table.list)
 length(sWord.freq.table.list)
 lengths(sWord.freq.table.list)
+sum(lengths(sWord.freq.table.list))
+
 mean(lengths(sWord.freq.table.list))
 summary(lengths(sWord.freq.table.list))
 sWord.freq.table.list[[10]][1]
@@ -180,7 +182,7 @@ for (i in 1:length(files.v))  {
   
   # here we must split files into chunks
   
-  divisor <- length(word.nodes)/1000
+  divisor <- length(word.nodes)/500
   max.length <- length(word.nodes)/divisor
   x <- seq_along(word.nodes)
   chunks.l <- split(word.nodes, ceiling(x/max.length))
@@ -246,7 +248,7 @@ rm(result.t)
 freq.means.v <- colMeans(final.df[, ])
 
 #collect column means of a given magnitude
-keepers.v <- which(freq.means.v >=.00044)
+keepers.v <- which(freq.means.v >=.0044)
 
 
 
@@ -271,9 +273,9 @@ rm(final.df, freqs.df2, smaller.df)
 rm(chunks.l, freq.means.v, freqs.l, ID.holder, sWord.freq.table.list, sWord.nodes.l, word.nodes)
 
 #save data frame object to .csv file
-write.csv(ordered.df, file = "Rresults/matrices/sWordLevels_100tokenChunks_Feb-7-2016.csv")
+write.csv(ordered.df, file = "Results_Sept-2016/AllGreekFiles_500tokens_Sept-25.csv")
 
-
-
+scaled.df <- scale(ordered.df)
+View(scaled.df)
 
 

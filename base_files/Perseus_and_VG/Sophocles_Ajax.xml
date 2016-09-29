@@ -344,7 +344,7 @@
             insertion_id="0031e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="25"
             cite="Sophocles Ajax: s-2 w-32"/>
@@ -435,7 +435,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="4"
             cite="Sophocles Ajax: s-3 w-12"/>
@@ -907,7 +907,7 @@
             insertion_id="0027e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="21"
             cite="Sophocles Ajax: s-6 w-28"/>
@@ -1586,7 +1586,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="1"
             cite="Sophocles Ajax: s-14 w-17"/>
@@ -1740,7 +1740,7 @@
             insertion_id="0020e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="18"
             cite="Sophocles Ajax: s-15 w-21"/>
@@ -1749,7 +1749,7 @@
             insertion_id="0020f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="14"
             cite="Sophocles Ajax: s-15 w-22"/>
@@ -2133,7 +2133,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-20 w-9"/>
@@ -2250,7 +2250,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-22 w-7"/>
@@ -2367,7 +2367,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-24 w-8"/>
@@ -2559,7 +2559,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-27 w-8"/>
@@ -2676,7 +2676,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="0"
             cite="Sophocles Ajax: s-29 w-8"/>
@@ -3165,7 +3165,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ_CO"
             head="10"
             cite="Sophocles Ajax: s-34 w-17"/>
@@ -3520,7 +3520,7 @@
             insertion_id="0035e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="22"
             cite="Sophocles Ajax: s-36 w-36"/>
@@ -4010,7 +4010,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="4"
             cite="Sophocles Ajax: s-44 w-6"/>
@@ -4148,7 +4148,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="5"
             cite="Sophocles Ajax: s-46 w-10"/>
@@ -4298,7 +4298,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="5"
             cite="Sophocles Ajax: s-49 w-9"/>
@@ -4307,7 +4307,7 @@
             insertion_id="0008f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="5"
             cite="Sophocles Ajax: s-49 w-10"/>
@@ -4370,7 +4370,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-50 w-8"/>
@@ -4691,7 +4691,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-55 w-10"/>
@@ -5404,7 +5404,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="0"
             cite="Sophocles Ajax: s-67 w-8"/>
@@ -5521,7 +5521,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-69 w-8"/>
@@ -5755,7 +5755,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="10"
             cite="Sophocles Ajax: s-72 w-16"/>
@@ -5851,7 +5851,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="4"
             cite="Sophocles Ajax: s-74 w-8"/>
@@ -5879,7 +5879,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-75 w-3"/>
@@ -5935,7 +5935,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="5"
             cite="Sophocles Ajax: s-76 w-7"/>
@@ -6141,7 +6141,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-79 w-10"/>
@@ -6211,7 +6211,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-80 w-9"/>
@@ -6220,7 +6220,7 @@
             insertion_id="0008f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="1"
             cite="Sophocles Ajax: s-80 w-10"/>
@@ -6330,7 +6330,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="AuxC"
             head="8"
             cite="Sophocles Ajax: s-82 w-7"/>
@@ -6339,7 +6339,7 @@
             insertion_id="0006f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-82 w-8"/>
@@ -6538,7 +6538,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="7"
             cite="Sophocles Ajax: s-85 w-9"/>
@@ -6685,7 +6685,7 @@
             insertion_id="0019e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="21"
             cite="Sophocles Ajax: s-86 w-20"/>
@@ -6694,7 +6694,7 @@
             insertion_id="0019f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="5"
             cite="Sophocles Ajax: s-86 w-21"/>
@@ -6818,7 +6818,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="SBJ"
             head="10"
             cite="Sophocles Ajax: s-88 w-12"/>
@@ -6895,7 +6895,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="1"
             cite="Sophocles Ajax: s-89 w-10"/>
@@ -6904,7 +6904,7 @@
             insertion_id="0009f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ_CO"
             head="10"
             cite="Sophocles Ajax: s-89 w-11"/>
@@ -7222,7 +7222,7 @@
             insertion_id="0023e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="20"
             cite="Sophocles Ajax: s-92 w-24"/>
@@ -7610,7 +7610,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="0"
             cite="Sophocles Ajax: s-95 w-10"/>
@@ -7977,7 +7977,7 @@
             insertion_id="0023e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="18"
             cite="Sophocles Ajax: s-98 w-24"/>
@@ -8845,7 +8845,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="7"
             cite="Sophocles Ajax: s-106 w-13"/>
@@ -8922,7 +8922,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-107 w-10"/>
@@ -9041,7 +9041,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="0"
             cite="Sophocles Ajax: s-108 w-16"/>
@@ -9153,7 +9153,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="10"
             cite="Sophocles Ajax: s-109 w-15"/>
@@ -10128,7 +10128,7 @@
             insertion_id="0029e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="SBJ_CO"
             head="9"
             cite="Sophocles Ajax: s-116 w-30"/>
@@ -10254,7 +10254,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-117 w-17"/>
@@ -10551,7 +10551,7 @@
             insertion_id="0019e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="SBJ"
             head="11"
             cite="Sophocles Ajax: s-120 w-20"/>
@@ -10834,7 +10834,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="12"
             cite="Sophocles Ajax: s-123 w-17"/>
@@ -10890,7 +10890,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-124 w-7"/>
@@ -11485,7 +11485,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-132 w-3"/>
@@ -11943,7 +11943,7 @@
             insertion_id="0039e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="38"
             cite="Sophocles Ajax: s-135 w-40"/>
@@ -12090,7 +12090,7 @@
             insertion_id="0019e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-136 w-20"/>
@@ -12275,7 +12275,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-139 w-3"/>
@@ -12408,7 +12408,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="9"
             cite="Sophocles Ajax: s-140 w-18"/>
@@ -12649,7 +12649,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="10"
             cite="Sophocles Ajax: s-143 w-9"/>
@@ -12658,7 +12658,7 @@
             insertion_id="0008f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-143 w-10"/>
@@ -12915,7 +12915,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-145 w-11"/>
@@ -13383,7 +13383,7 @@
             insertion_id="0022e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="13"
             cite="Sophocles Ajax: s-150 w-23"/>
@@ -13392,7 +13392,7 @@
             insertion_id="0022f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="16"
             cite="Sophocles Ajax: s-150 w-24"/>
@@ -13401,7 +13401,7 @@
             insertion_id="0022g"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="20"
             cite="Sophocles Ajax: s-150 w-25"/>
@@ -13663,7 +13663,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-153 w-13"/>
@@ -13672,7 +13672,7 @@
             insertion_id="0012f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="9"
             cite="Sophocles Ajax: s-153 w-14"/>
@@ -14382,7 +14382,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="3"
             cite="Sophocles Ajax: s-163 w-12"/>
@@ -14857,7 +14857,7 @@
             insertion_id="0022e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="14"
             cite="Sophocles Ajax: s-168 w-23"/>
@@ -14866,7 +14866,7 @@
             insertion_id="0022f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="21"
             cite="Sophocles Ajax: s-168 w-24"/>
@@ -15970,7 +15970,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="5"
             cite="Sophocles Ajax: s-177 w-10"/>
@@ -16239,7 +16239,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="0"
             cite="Sophocles Ajax: s-180 w-8"/>
@@ -16569,7 +16569,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-184 w-5"/>
@@ -16632,7 +16632,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-185 w-8"/>
@@ -16742,7 +16742,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-187 w-5"/>
@@ -16873,7 +16873,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-189 w-5"/>
@@ -16908,7 +16908,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-190 w-4"/>
@@ -17056,7 +17056,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-194 w-4"/>
@@ -17117,7 +17117,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-196 w-4"/>
@@ -18359,7 +18359,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-213 w-4"/>
@@ -18434,7 +18434,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-215 w-4"/>
@@ -18663,7 +18663,7 @@
             insertion_id="0022e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-217 w-23"/>
@@ -19042,7 +19042,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="0"
             cite="Sophocles Ajax: s-221 w-9"/>
@@ -19145,7 +19145,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-223 w-5"/>
@@ -19791,7 +19791,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-230 w-16"/>
@@ -20238,7 +20238,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="13"
             cite="Sophocles Ajax: s-235 w-17"/>
@@ -20467,7 +20467,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-237 w-10"/>
@@ -20886,7 +20886,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-242 w-3"/>
@@ -22189,7 +22189,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="4"
             cite="Sophocles Ajax: s-253 w-11"/>
@@ -22650,7 +22650,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="5"
             cite="Sophocles Ajax: s-258 w-9"/>
@@ -22968,7 +22968,7 @@
             insertion_id="0019e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="8"
             cite="Sophocles Ajax: s-261 w-20"/>
@@ -23202,7 +23202,7 @@
             insertion_id="0018e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="8"
             cite="Sophocles Ajax: s-264 w-19"/>
@@ -23211,7 +23211,7 @@
             insertion_id="0018f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="10"
             cite="Sophocles Ajax: s-264 w-20"/>
@@ -23316,7 +23316,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-265 w-14"/>
@@ -23421,7 +23421,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="6"
             cite="Sophocles Ajax: s-266 w-14"/>
@@ -23744,7 +23744,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="18"
             cite="Sophocles Ajax: s-270 w-17"/>
@@ -23753,7 +23753,7 @@
             insertion_id="0016f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="19"
             cite="Sophocles Ajax: s-270 w-18"/>
@@ -23762,7 +23762,7 @@
             insertion_id="0016g"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="AuxC"
             head="20"
             cite="Sophocles Ajax: s-270 w-19"/>
@@ -23771,7 +23771,7 @@
             insertion_id="0016h"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="12"
             cite="Sophocles Ajax: s-270 w-20"/>
@@ -24517,7 +24517,7 @@
             insertion_id="0044e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="42"
             cite="Sophocles Ajax: s-276 w-45"/>
@@ -25048,7 +25048,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="7"
             cite="Sophocles Ajax: s-281 w-16"/>
@@ -25258,7 +25258,7 @@
             insertion_id="0028e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="12"
             cite="Sophocles Ajax: s-282 w-29"/>
@@ -25503,7 +25503,7 @@
             insertion_id="0033e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="32"
             cite="Sophocles Ajax: s-283 w-34"/>
@@ -25826,7 +25826,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-287 w-4"/>
@@ -26271,7 +26271,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="3"
             cite="Sophocles Ajax: s-293 w-13"/>
@@ -26688,7 +26688,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-299 w-6"/>
@@ -26798,7 +26798,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-301 w-9"/>
@@ -27126,7 +27126,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="7"
             cite="Sophocles Ajax: s-306 w-9"/>
@@ -27726,7 +27726,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="8"
             cite="Sophocles Ajax: s-315 w-13"/>
@@ -28147,7 +28147,7 @@
             insertion_id="0023e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-319 w-24"/>
@@ -28156,7 +28156,7 @@
             insertion_id="0023f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="12"
             cite="Sophocles Ajax: s-319 w-25"/>
@@ -29540,7 +29540,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-328 w-6"/>
@@ -29650,7 +29650,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-330 w-11"/>
@@ -29915,7 +29915,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-335 w-4"/>
@@ -30869,7 +30869,7 @@
             insertion_id="0031e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-349 w-32"/>
@@ -31561,7 +31561,7 @@
             insertion_id="0045e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="23"
             cite="Sophocles Ajax: s-354 w-46"/>
@@ -31570,7 +31570,7 @@
             insertion_id="0045f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="41"
             cite="Sophocles Ajax: s-354 w-47"/>
@@ -31766,7 +31766,7 @@
             insertion_id="0026e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-355 w-27"/>
@@ -31775,7 +31775,7 @@
             insertion_id="0026f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ATR_CO"
             head="17"
             cite="Sophocles Ajax: s-355 w-28"/>
@@ -31784,7 +31784,7 @@
             insertion_id="0026g"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ATR_CO"
             head="23"
             cite="Sophocles Ajax: s-355 w-29"/>
@@ -32034,7 +32034,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="5"
             cite="Sophocles Ajax: s-357 w-13"/>
@@ -32146,7 +32146,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="7"
             cite="Sophocles Ajax: s-358 w-15"/>
@@ -32293,7 +32293,7 @@
             insertion_id="0019e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="13"
             cite="Sophocles Ajax: s-359 w-20"/>
@@ -32983,7 +32983,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="15"
             cite="Sophocles Ajax: s-365 w-14"/>
@@ -32992,7 +32992,7 @@
             insertion_id="0013f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ATR"
             head="6"
             cite="Sophocles Ajax: s-365 w-15"/>
@@ -33170,7 +33170,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-368 w-4"/>
@@ -33634,7 +33634,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-375 w-3"/>
@@ -35241,7 +35241,7 @@
             insertion_id="0035e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-388 w-36"/>
@@ -35250,7 +35250,7 @@
             insertion_id="0035f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV_CO"
             head="27"
             cite="Sophocles Ajax: s-388 w-37"/>
@@ -35893,7 +35893,7 @@
             insertion_id="0038e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="12"
             cite="Sophocles Ajax: s-393 w-39"/>
@@ -35902,7 +35902,7 @@
             insertion_id="0038f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="25"
             cite="Sophocles Ajax: s-393 w-40"/>
@@ -35911,7 +35911,7 @@
             insertion_id="0038g"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="12"
             cite="Sophocles Ajax: s-393 w-41"/>
@@ -36337,7 +36337,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="4"
             cite="Sophocles Ajax: s-398 w-14"/>
@@ -36346,7 +36346,7 @@
             insertion_id="0013f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="4"
             cite="Sophocles Ajax: s-398 w-15"/>
@@ -36381,7 +36381,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-399 w-4"/>
@@ -36903,7 +36903,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-405 w-3"/>
@@ -37333,7 +37333,7 @@
             insertion_id="0045e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="0"
             cite="Sophocles Ajax: s-408 w-46"/>
@@ -37618,7 +37618,7 @@
             insertion_id="0024e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="5"
             cite="Sophocles Ajax: s-410 w-25"/>
@@ -37906,7 +37906,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="5"
             cite="Sophocles Ajax: s-414 w-7"/>
@@ -38819,7 +38819,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="10"
             cite="Sophocles Ajax: s-424 w-14"/>
@@ -38931,7 +38931,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="8"
             cite="Sophocles Ajax: s-425 w-15"/>
@@ -39425,7 +39425,7 @@
             insertion_id="0018e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="8"
             cite="Sophocles Ajax: s-431 w-19"/>
@@ -39509,7 +39509,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-432 w-11"/>
@@ -39600,7 +39600,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="SBJ"
             head="9"
             cite="Sophocles Ajax: s-433 w-12"/>
@@ -39839,7 +39839,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-437 w-9"/>
@@ -39965,7 +39965,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-438 w-17"/>
@@ -40217,7 +40217,7 @@
             insertion_id="0034e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="27"
             cite="Sophocles Ajax: s-439 w-35"/>
@@ -40226,7 +40226,7 @@
             insertion_id="0034f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="29"
             cite="Sophocles Ajax: s-439 w-36"/>
@@ -40568,7 +40568,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="4"
             cite="Sophocles Ajax: s-444 w-16"/>
@@ -40638,7 +40638,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="3"
             cite="Sophocles Ajax: s-445 w-9"/>
@@ -40818,7 +40818,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="13"
             cite="Sophocles Ajax: s-447 w-16"/>
@@ -40916,7 +40916,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-448 w-13"/>
@@ -40925,7 +40925,7 @@
             insertion_id="0012f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="1"
             cite="Sophocles Ajax: s-448 w-14"/>
@@ -42136,7 +42136,7 @@
             insertion_id="0050e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="20"
             cite="Sophocles Ajax: s-456 w-51"/>
@@ -42732,7 +42732,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="8"
             cite="Sophocles Ajax: s-460 w-16"/>
@@ -43022,7 +43022,7 @@
             insertion_id="0022e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="15"
             cite="Sophocles Ajax: s-463 w-23"/>
@@ -43309,7 +43309,7 @@
             insertion_id="0039e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="8"
             cite="Sophocles Ajax: s-464 w-40"/>
@@ -43602,7 +43602,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-469 w-3"/>
@@ -43698,7 +43698,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-471 w-7"/>
@@ -43740,7 +43740,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-472 w-5"/>
@@ -43878,7 +43878,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-474 w-10"/>
@@ -44357,7 +44357,7 @@
             insertion_id="0020e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-477 w-21"/>
@@ -44399,7 +44399,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-478 w-5"/>
@@ -44481,7 +44481,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-480 w-4"/>
@@ -44579,7 +44579,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="5"
             cite="Sophocles Ajax: s-481 w-13"/>
@@ -44797,7 +44797,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-485 w-5"/>
@@ -44963,7 +44963,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-487 w-8"/>
@@ -45073,7 +45073,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="SBJ"
             head="8"
             cite="Sophocles Ajax: s-489 w-7"/>
@@ -45082,7 +45082,7 @@
             insertion_id="0006f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="AuxC"
             head="0"
             cite="Sophocles Ajax: s-489 w-8"/>
@@ -45091,7 +45091,7 @@
             insertion_id="0006g"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-489 w-9"/>
@@ -45669,7 +45669,7 @@
             insertion_id="0032e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ATR"
             head="10"
             cite="Sophocles Ajax: s-495 w-33"/>
@@ -45784,7 +45784,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-498 w-4"/>
@@ -46020,7 +46020,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-500 w-18"/>
@@ -46310,7 +46310,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="5"
             cite="Sophocles Ajax: s-503 w-12"/>
@@ -46319,7 +46319,7 @@
             insertion_id="0011f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="SBJ"
             head="12"
             cite="Sophocles Ajax: s-503 w-13"/>
@@ -46368,7 +46368,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-504 w-6"/>
@@ -46410,7 +46410,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-505 w-5"/>
@@ -46520,7 +46520,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-507 w-5"/>
@@ -46714,7 +46714,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="8"
             cite="Sophocles Ajax: s-509 w-12"/>
@@ -47171,7 +47171,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="8"
             cite="Sophocles Ajax: s-516 w-13"/>
@@ -47367,7 +47367,7 @@
             insertion_id="0026e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="21"
             cite="Sophocles Ajax: s-517 w-27"/>
@@ -47376,7 +47376,7 @@
             insertion_id="0026f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="27"
             cite="Sophocles Ajax: s-517 w-28"/>
@@ -47453,7 +47453,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="0"
             cite="Sophocles Ajax: s-518 w-10"/>
@@ -48158,7 +48158,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-527 w-5"/>
@@ -48507,7 +48507,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-532 w-8"/>
@@ -48584,7 +48584,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-533 w-10"/>
@@ -48593,7 +48593,7 @@
             insertion_id="0009f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_PA"
             head="10"
             cite="Sophocles Ajax: s-533 w-11"/>
@@ -48628,7 +48628,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-534 w-4"/>
@@ -48670,7 +48670,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-535 w-5"/>
@@ -48719,7 +48719,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-536 w-6"/>
@@ -48754,7 +48754,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-537 w-4"/>
@@ -48859,7 +48859,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="6"
             cite="Sophocles Ajax: s-538 w-14"/>
@@ -48901,7 +48901,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-539 w-5"/>
@@ -49034,7 +49034,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="16"
             cite="Sophocles Ajax: s-540 w-18"/>
@@ -49476,7 +49476,7 @@
             insertion_id="0027e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-544 w-28"/>
@@ -49574,7 +49574,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="8"
             cite="Sophocles Ajax: s-545 w-13"/>
@@ -49686,7 +49686,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="8"
             cite="Sophocles Ajax: s-546 w-15"/>
@@ -49810,7 +49810,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-548 w-3"/>
@@ -50114,7 +50114,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-551 w-18"/>
@@ -50308,7 +50308,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-553 w-5"/>
@@ -50385,7 +50385,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-554 w-10"/>
@@ -50916,7 +50916,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-559 w-6"/>
@@ -51014,7 +51014,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-560 w-13"/>
@@ -51253,7 +51253,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-564 w-14"/>
@@ -51742,7 +51742,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-569 w-13"/>
@@ -51751,7 +51751,7 @@
             insertion_id="0012f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="13"
             cite="Sophocles Ajax: s-569 w-14"/>
@@ -51987,7 +51987,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="0"
             cite="Sophocles Ajax: s-571 w-17"/>
@@ -51996,7 +51996,7 @@
             insertion_id="0016f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="17"
             cite="Sophocles Ajax: s-571 w-18"/>
@@ -52122,7 +52122,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="9"
             cite="Sophocles Ajax: s-572 w-17"/>
@@ -52248,7 +52248,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="14"
             cite="Sophocles Ajax: s-573 w-17"/>
@@ -52379,7 +52379,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-575 w-9"/>
@@ -52461,7 +52461,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-577 w-8"/>
@@ -52702,7 +52702,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-580 w-10"/>
@@ -52882,7 +52882,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-582 w-17"/>
@@ -52891,7 +52891,7 @@
             insertion_id="0016f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="12"
             cite="Sophocles Ajax: s-582 w-18"/>
@@ -53445,7 +53445,7 @@
             insertion_id="0023e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="11"
             cite="Sophocles Ajax: s-586 w-24"/>
@@ -54205,7 +54205,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="13"
             cite="Sophocles Ajax: s-592 w-18"/>
@@ -54469,7 +54469,7 @@
             insertion_id="0022e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="7"
             cite="Sophocles Ajax: s-594 w-23"/>
@@ -55644,7 +55644,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="12"
             cite="Sophocles Ajax: s-606 w-17"/>
@@ -55653,7 +55653,7 @@
             insertion_id="0016f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ATR"
             head="19"
             cite="Sophocles Ajax: s-606 w-18"/>
@@ -55662,7 +55662,7 @@
             insertion_id="0016g"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="SBJ"
             head="17"
             cite="Sophocles Ajax: s-606 w-19"/>
@@ -56022,7 +56022,7 @@
             insertion_id="0023e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV_CO"
             head="8"
             cite="Sophocles Ajax: s-609 w-24"/>
@@ -56218,7 +56218,7 @@
             insertion_id="0026e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="7"
             cite="Sophocles Ajax: s-610 w-27"/>
@@ -56227,7 +56227,7 @@
             insertion_id="0026f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-610 w-28"/>
@@ -56850,7 +56850,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="1"
             cite="Sophocles Ajax: s-618 w-8"/>
@@ -57042,7 +57042,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-621 w-8"/>
@@ -57070,7 +57070,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-622 w-3"/>
@@ -57391,7 +57391,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-627 w-9"/>
@@ -57447,7 +57447,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-628 w-7"/>
@@ -57489,7 +57489,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-629 w-5"/>
@@ -57930,7 +57930,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-637 w-10"/>
@@ -58316,7 +58316,7 @@
             insertion_id="0036e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="19"
             cite="Sophocles Ajax: s-641 w-37"/>
@@ -58484,7 +58484,7 @@
             insertion_id="0022e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="18"
             cite="Sophocles Ajax: s-642 w-23"/>
@@ -58992,7 +58992,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="15"
             cite="Sophocles Ajax: s-648 w-18"/>
@@ -59142,7 +59142,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-651 w-14"/>
@@ -59151,7 +59151,7 @@
             insertion_id="0013f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="SBJ"
             head="9"
             cite="Sophocles Ajax: s-651 w-15"/>
@@ -59261,7 +59261,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-653 w-11"/>
@@ -59621,7 +59621,7 @@
             insertion_id="0020e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="8"
             cite="Sophocles Ajax: s-656 w-21"/>
@@ -60722,7 +60722,7 @@
             insertion_id="0020e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="15"
             cite="Sophocles Ajax: s-663 w-21"/>
@@ -60771,7 +60771,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="7"
             cite="Sophocles Ajax: s-664 w-6"/>
@@ -60780,7 +60780,7 @@
             insertion_id="0005f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-664 w-7"/>
@@ -61646,7 +61646,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="11"
             cite="Sophocles Ajax: s-673 w-13"/>
@@ -62188,7 +62188,7 @@
             insertion_id="0053e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="30"
             cite="Sophocles Ajax: s-676 w-54"/>
@@ -62258,7 +62258,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-677 w-9"/>
@@ -62382,7 +62382,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-679 w-10"/>
@@ -62391,7 +62391,7 @@
             insertion_id="0009f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="4"
             cite="Sophocles Ajax: s-679 w-11"/>
@@ -63139,7 +63139,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="11"
             cite="Sophocles Ajax: s-684 w-18"/>
@@ -63457,7 +63457,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV_CO"
             head="6"
             cite="Sophocles Ajax: s-687 w-14"/>
@@ -63466,7 +63466,7 @@
             insertion_id="0013f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="0"
             cite="Sophocles Ajax: s-687 w-15"/>
@@ -63902,7 +63902,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-694 w-3"/>
@@ -64605,7 +64605,7 @@
             insertion_id="0051e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="6"
             cite="Sophocles Ajax: s-697 w-52"/>
@@ -64778,7 +64778,7 @@
             insertion_id="0018e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="9"
             cite="Sophocles Ajax: s-699 w-19"/>
@@ -65077,7 +65077,7 @@
             insertion_id="0033e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="3"
             cite="Sophocles Ajax: s-701 w-34"/>
@@ -65231,7 +65231,7 @@
             insertion_id="0020e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="8"
             cite="Sophocles Ajax: s-702 w-21"/>
@@ -65521,7 +65521,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-705 w-16"/>
@@ -65668,7 +65668,7 @@
             insertion_id="0019e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="4"
             cite="Sophocles Ajax: s-706 w-20"/>
@@ -65911,7 +65911,7 @@
             insertion_id="0026e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="2"
             cite="Sophocles Ajax: s-708 w-27"/>
@@ -66465,7 +66465,7 @@
             insertion_id="0021e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-712 w-22"/>
@@ -66474,7 +66474,7 @@
             insertion_id="0021f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="1"
             cite="Sophocles Ajax: s-712 w-23"/>
@@ -66483,7 +66483,7 @@
             insertion_id="0021g"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="9"
             cite="Sophocles Ajax: s-712 w-24"/>
@@ -66492,7 +66492,7 @@
             insertion_id="0021h"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV_CO"
             head="15"
             cite="Sophocles Ajax: s-712 w-25"/>
@@ -66714,7 +66714,7 @@
             insertion_id="0018e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="13"
             cite="Sophocles Ajax: s-714 w-19"/>
@@ -67091,7 +67091,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="4"
             cite="Sophocles Ajax: s-719 w-3"/>
@@ -67100,7 +67100,7 @@
             insertion_id="0002f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-719 w-4"/>
@@ -67538,7 +67538,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="9"
             cite="Sophocles Ajax: s-725 w-13"/>
@@ -68207,7 +68207,7 @@
             insertion_id="0043e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="30"
             cite="Sophocles Ajax: s-731 w-44"/>
@@ -68497,7 +68497,7 @@
             insertion_id="0018e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-734 w-19"/>
@@ -68593,7 +68593,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-736 w-3"/>
@@ -68853,7 +68853,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-740 w-8"/>
@@ -68923,7 +68923,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-741 w-9"/>
@@ -69369,7 +69369,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-750 w-7"/>
@@ -69439,7 +69439,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-751 w-9"/>
@@ -69448,7 +69448,7 @@
             insertion_id="0008f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="9"
             cite="Sophocles Ajax: s-751 w-10"/>
@@ -69673,7 +69673,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="9"
             cite="Sophocles Ajax: s-755 w-8"/>
@@ -69682,7 +69682,7 @@
             insertion_id="0007f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-755 w-9"/>
@@ -69771,7 +69771,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-757 w-3"/>
@@ -69963,7 +69963,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="6"
             cite="Sophocles Ajax: s-760 w-11"/>
@@ -70295,7 +70295,7 @@
             insertion_id="0027e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="22"
             cite="Sophocles Ajax: s-763 w-28"/>
@@ -71464,7 +71464,7 @@
             insertion_id="0023e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="6"
             cite="Sophocles Ajax: s-771 w-24"/>
@@ -71874,7 +71874,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-777 w-3"/>
@@ -72571,7 +72571,7 @@
             insertion_id="0032e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="13"
             cite="Sophocles Ajax: s-783 w-33"/>
@@ -72580,7 +72580,7 @@
             insertion_id="0032f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV_CO"
             head="33"
             cite="Sophocles Ajax: s-783 w-34"/>
@@ -72739,7 +72739,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Ajax: s-785 w-13"/>

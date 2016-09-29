@@ -260,7 +260,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-2 w-14"/>
@@ -351,7 +351,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-3 w-12"/>
@@ -428,7 +428,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-4 w-10"/>
@@ -715,7 +715,7 @@
             insertion_id="0039e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="12"
             cite="Sophocles Electra: s-5 w-40"/>
@@ -848,7 +848,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-6 w-18"/>
@@ -981,7 +981,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-7 w-18"/>
@@ -1161,7 +1161,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-9 w-14"/>
@@ -1170,7 +1170,7 @@
             insertion_id="0013f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ATR_CO"
             head="10"
             cite="Sophocles Electra: s-9 w-15"/>
@@ -1974,7 +1974,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-14 w-13"/>
@@ -2493,7 +2493,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ATV"
             head="1"
             cite="Sophocles Electra: s-18 w-8"/>
@@ -3124,7 +3124,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="7"
             cite="Sophocles Electra: s-22 w-15"/>
@@ -3201,7 +3201,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="3"
             cite="Sophocles Electra: s-23 w-10"/>
@@ -3470,7 +3470,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="11"
             cite="Sophocles Electra: s-26 w-15"/>
@@ -3816,7 +3816,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="9"
             cite="Sophocles Electra: s-29 w-15"/>
@@ -4076,7 +4076,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-33 w-12"/>
@@ -4125,7 +4125,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-34 w-6"/>
@@ -4317,7 +4317,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="1"
             cite="Sophocles Electra: s-37 w-7"/>
@@ -4345,7 +4345,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-38 w-3"/>
@@ -4464,7 +4464,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="3"
             cite="Sophocles Electra: s-39 w-16"/>
@@ -4562,7 +4562,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="8"
             cite="Sophocles Electra: s-40 w-13"/>
@@ -5204,7 +5204,7 @@
             insertion_id="0061e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="34"
             cite="Sophocles Electra: s-42 w-62"/>
@@ -5477,7 +5477,7 @@
             insertion_id="0037e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="25"
             cite="Sophocles Electra: s-43 w-38"/>
@@ -5806,7 +5806,7 @@
             insertion_id="0045e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ATR_CO"
             head="24"
             cite="Sophocles Electra: s-44 w-46"/>
@@ -6173,7 +6173,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="7"
             cite="Sophocles Electra: s-47 w-13"/>
@@ -6924,7 +6924,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-54 w-9"/>
@@ -7613,7 +7613,7 @@
             insertion_id="0057e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV_CO"
             head="34"
             cite="Sophocles Electra: s-57 w-58"/>
@@ -8142,7 +8142,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-63 w-12"/>
@@ -8280,7 +8280,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-65 w-6"/>
@@ -8434,7 +8434,7 @@
             insertion_id="0020e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="13"
             cite="Sophocles Electra: s-66 w-21"/>
@@ -8443,7 +8443,7 @@
             insertion_id="0020f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="13"
             cite="Sophocles Electra: s-66 w-22"/>
@@ -8784,7 +8784,7 @@
             insertion_id="0031e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="13"
             cite="Sophocles Electra: s-68 w-32"/>
@@ -8924,7 +8924,7 @@
             insertion_id="0018e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="7"
             cite="Sophocles Electra: s-69 w-19"/>
@@ -8933,7 +8933,7 @@
             insertion_id="0018f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="7"
             cite="Sophocles Electra: s-69 w-20"/>
@@ -9115,7 +9115,7 @@
             insertion_id="0024e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="5"
             cite="Sophocles Electra: s-70 w-25"/>
@@ -9199,7 +9199,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-71 w-11"/>
@@ -9854,7 +9854,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-77 w-9"/>
@@ -10184,7 +10184,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="13"
             cite="Sophocles Electra: s-81 w-18"/>
@@ -10474,7 +10474,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="8"
             cite="Sophocles Electra: s-84 w-18"/>
@@ -10598,7 +10598,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-86 w-10"/>
@@ -11541,7 +11541,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="SBJ"
             head="12"
             cite="Sophocles Electra: s-95 w-16"/>
@@ -11646,7 +11646,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="10"
             cite="Sophocles Electra: s-96 w-14"/>
@@ -11931,7 +11931,7 @@
             insertion_id="0025e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="11"
             cite="Sophocles Electra: s-98 w-26"/>
@@ -12330,7 +12330,7 @@
             insertion_id="0055e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="49"
             cite="Sophocles Electra: s-99 w-56"/>
@@ -12435,7 +12435,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-100 w-14"/>
@@ -13111,7 +13111,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-106 w-8"/>
@@ -13317,7 +13317,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-109 w-8"/>
@@ -13420,7 +13420,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-111 w-7"/>
@@ -14335,7 +14335,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-120 w-4"/>
@@ -14473,7 +14473,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="AtvV"
             head="4"
             cite="Sophocles Electra: s-122 w-6"/>
@@ -14672,7 +14672,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-125 w-5"/>
@@ -15392,7 +15392,7 @@
             insertion_id="0026e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-137 w-27"/>
@@ -15691,7 +15691,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="4"
             cite="Sophocles Electra: s-139 w-14"/>
@@ -15796,7 +15796,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-140 w-14"/>
@@ -16121,7 +16121,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-143 w-16"/>
@@ -16357,7 +16357,7 @@
             insertion_id="0018e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-145 w-19"/>
@@ -16462,7 +16462,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="8"
             cite="Sophocles Electra: s-146 w-14"/>
@@ -17068,7 +17068,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-152 w-10"/>
@@ -17318,7 +17318,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="11"
             cite="Sophocles Electra: s-154 w-18"/>
@@ -17774,7 +17774,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="10"
             cite="Sophocles Electra: s-158 w-18"/>
@@ -18029,7 +18029,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-161 w-8"/>
@@ -18190,7 +18190,7 @@
             insertion_id="0021e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-162 w-22"/>
@@ -18199,7 +18199,7 @@
             insertion_id="0021f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="22"
             cite="Sophocles Electra: s-162 w-23"/>
@@ -19011,7 +19011,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-170 w-7"/>
@@ -19100,7 +19100,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-172 w-3"/>
@@ -19156,7 +19156,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-173 w-7"/>
@@ -19362,7 +19362,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-176 w-10"/>
@@ -19411,7 +19411,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-177 w-6"/>
@@ -19514,7 +19514,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-179 w-8"/>
@@ -19638,7 +19638,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-181 w-8"/>
@@ -19863,7 +19863,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-185 w-6"/>
@@ -20013,7 +20013,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-188 w-10"/>
@@ -20292,7 +20292,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-193 w-4"/>
@@ -20595,7 +20595,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-200 w-6"/>
@@ -20637,7 +20637,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-201 w-5"/>
@@ -20726,7 +20726,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-203 w-6"/>
@@ -20829,7 +20829,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-205 w-9"/>
@@ -21328,7 +21328,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="6"
             cite="Sophocles Electra: s-212 w-17"/>
@@ -21440,7 +21440,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-213 w-15"/>
@@ -21566,7 +21566,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-214 w-17"/>
@@ -22193,7 +22193,7 @@
             insertion_id="0018e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="14"
             cite="Sophocles Electra: s-220 w-19"/>
@@ -22202,7 +22202,7 @@
             insertion_id="0018f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="14"
             cite="Sophocles Electra: s-220 w-20"/>
@@ -22805,7 +22805,7 @@
             insertion_id="0030e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="20"
             cite="Sophocles Electra: s-224 w-31"/>
@@ -23177,7 +23177,7 @@
             insertion_id="0031e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="33"
             cite="Sophocles Electra: s-228 w-32"/>
@@ -23186,7 +23186,7 @@
             insertion_id="0031f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="0"
             cite="Sophocles Electra: s-228 w-33"/>
@@ -23548,7 +23548,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="1"
             cite="Sophocles Electra: s-230 w-15"/>
@@ -24222,7 +24222,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-237 w-16"/>
@@ -24706,7 +24706,7 @@
             insertion_id="0026e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="13"
             cite="Sophocles Electra: s-241 w-27"/>
@@ -24886,7 +24886,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="4"
             cite="Sophocles Electra: s-243 w-12"/>
@@ -25880,7 +25880,7 @@
             insertion_id="0021e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ_CO"
             head="10"
             cite="Sophocles Electra: s-251 w-22"/>
@@ -26116,7 +26116,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="3"
             cite="Sophocles Electra: s-253 w-15"/>
@@ -26151,7 +26151,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-254 w-4"/>
@@ -26371,7 +26371,7 @@
             insertion_id="0019e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="6"
             cite="Sophocles Electra: s-257 w-20"/>
@@ -26609,7 +26609,7 @@
             insertion_id="0032e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-258 w-33"/>
@@ -26740,7 +26740,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="3"
             cite="Sophocles Electra: s-260 w-5"/>
@@ -27217,7 +27217,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="16"
             cite="Sophocles Electra: s-264 w-15"/>
@@ -27226,7 +27226,7 @@
             insertion_id="0014f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="8"
             cite="Sophocles Electra: s-264 w-16"/>
@@ -27352,7 +27352,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ATR"
             head="18"
             cite="Sophocles Electra: s-265 w-17"/>
@@ -27361,7 +27361,7 @@
             insertion_id="0016f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="SBJ"
             head="15"
             cite="Sophocles Electra: s-265 w-18"/>
@@ -27431,7 +27431,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-266 w-9"/>
@@ -28328,7 +28328,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV_CO"
             head="10"
             cite="Sophocles Electra: s-277 w-16"/>
@@ -28686,7 +28686,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-281 w-7"/>
@@ -29163,7 +29163,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="10"
             cite="Sophocles Electra: s-285 w-14"/>
@@ -29172,7 +29172,7 @@
             insertion_id="0013f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="SBJ"
             head="14"
             cite="Sophocles Electra: s-285 w-15"/>
@@ -29291,7 +29291,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="9"
             cite="Sophocles Electra: s-286 w-16"/>
@@ -29499,7 +29499,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-288 w-4"/>
@@ -30257,7 +30257,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-295 w-9"/>
@@ -30334,7 +30334,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-296 w-10"/>
@@ -30675,7 +30675,7 @@
             insertion_id="0028e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="5"
             cite="Sophocles Electra: s-298 w-29"/>
@@ -31089,7 +31089,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="10"
             cite="Sophocles Electra: s-302 w-18"/>
@@ -32829,7 +32829,7 @@
             insertion_id="0021e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="1"
             cite="Sophocles Electra: s-322 w-22"/>
@@ -33156,7 +33156,7 @@
             insertion_id="0033e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="9"
             cite="Sophocles Electra: s-324 w-34"/>
@@ -33467,7 +33467,7 @@
             insertion_id="0032e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="24"
             cite="Sophocles Electra: s-327 w-33"/>
@@ -33803,7 +33803,7 @@
             insertion_id="0046e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="15"
             cite="Sophocles Electra: s-328 w-47"/>
@@ -34182,7 +34182,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="8"
             cite="Sophocles Electra: s-332 w-15"/>
@@ -34405,7 +34405,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-337 w-4"/>
@@ -34752,7 +34752,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-343 w-9"/>
@@ -34808,7 +34808,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-344 w-7"/>
@@ -35724,7 +35724,7 @@
             insertion_id="0033e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ATR"
             head="19"
             cite="Sophocles Electra: s-356 w-34"/>
@@ -36166,7 +36166,7 @@
             insertion_id="0027e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV_CO"
             head="16"
             cite="Sophocles Electra: s-360 w-28"/>
@@ -36215,7 +36215,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-361 w-6"/>
@@ -36561,7 +36561,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="8"
             cite="Sophocles Electra: s-364 w-15"/>
@@ -36570,7 +36570,7 @@
             insertion_id="0014f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="8"
             cite="Sophocles Electra: s-364 w-16"/>
@@ -36661,7 +36661,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-365 w-12"/>
@@ -36717,7 +36717,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-366 w-7"/>
@@ -36759,7 +36759,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-367 w-5"/>
@@ -36829,7 +36829,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-368 w-9"/>
@@ -36885,7 +36885,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-369 w-7"/>
@@ -36948,7 +36948,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-370 w-8"/>
@@ -37985,7 +37985,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="11"
             cite="Sophocles Electra: s-381 w-18"/>
@@ -38111,7 +38111,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="2"
             cite="Sophocles Electra: s-382 w-17"/>
@@ -38445,7 +38445,7 @@
             insertion_id="0030e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV_CO"
             head="23"
             cite="Sophocles Electra: s-384 w-31"/>
@@ -38714,7 +38714,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="2"
             cite="Sophocles Electra: s-387 w-10"/>
@@ -39572,7 +39572,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-393 w-4"/>
@@ -39808,7 +39808,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="6"
             cite="Sophocles Electra: s-395 w-18"/>
@@ -40204,7 +40204,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-401 w-5"/>
@@ -40720,7 +40720,7 @@
             insertion_id="0023e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="14"
             cite="Sophocles Electra: s-403 w-24"/>
@@ -40825,7 +40825,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-404 w-14"/>
@@ -41040,7 +41040,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-406 w-4"/>
@@ -41401,7 +41401,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="0"
             cite="Sophocles Electra: s-412 w-7"/>
@@ -41584,7 +41584,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="3"
             cite="Sophocles Electra: s-416 w-9"/>
@@ -41804,7 +41804,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-419 w-3"/>
@@ -41909,7 +41909,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-420 w-14"/>
@@ -42171,7 +42171,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="7"
             cite="Sophocles Electra: s-423 w-17"/>
@@ -42213,7 +42213,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-424 w-5"/>
@@ -42255,7 +42255,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-425 w-5"/>
@@ -42484,7 +42484,7 @@
             insertion_id="0022e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="18"
             cite="Sophocles Electra: s-427 w-23"/>
@@ -42718,7 +42718,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="6"
             cite="Sophocles Electra: s-430 w-14"/>
@@ -43111,7 +43111,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-434 w-14"/>
@@ -43120,7 +43120,7 @@
             insertion_id="0013f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-434 w-15"/>
@@ -43176,7 +43176,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-435 w-7"/>
@@ -43295,7 +43295,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="5"
             cite="Sophocles Electra: s-436 w-16"/>
@@ -43304,7 +43304,7 @@
             insertion_id="0015f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="5"
             cite="Sophocles Electra: s-436 w-17"/>
@@ -43490,7 +43490,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-442 w-3"/>
@@ -43710,7 +43710,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-445 w-5"/>
@@ -43804,7 +43804,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-448 w-3"/>
@@ -43839,7 +43839,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-449 w-4"/>
@@ -43867,7 +43867,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-450 w-3"/>
@@ -43914,7 +43914,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-452 w-3"/>
@@ -44118,7 +44118,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-456 w-9"/>
@@ -44263,7 +44263,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-458 w-15"/>
@@ -44359,7 +44359,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="7"
             cite="Sophocles Electra: s-460 w-9"/>
@@ -44448,7 +44448,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-462 w-8"/>
@@ -44607,7 +44607,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-464 w-16"/>
@@ -44649,7 +44649,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-465 w-5"/>
@@ -44691,7 +44691,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-466 w-5"/>
@@ -44740,7 +44740,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-467 w-6"/>
@@ -44768,7 +44768,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-468 w-3"/>
@@ -45058,7 +45058,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="1"
             cite="Sophocles Electra: s-471 w-12"/>
@@ -45411,7 +45411,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="15"
             cite="Sophocles Electra: s-474 w-17"/>
@@ -45544,7 +45544,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="12"
             cite="Sophocles Electra: s-475 w-18"/>
@@ -45579,7 +45579,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-476 w-4"/>
@@ -45841,7 +45841,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-479 w-9"/>
@@ -46124,7 +46124,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="6"
             cite="Sophocles Electra: s-482 w-13"/>
@@ -47156,7 +47156,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="10"
             cite="Sophocles Electra: s-492 w-14"/>
@@ -47191,7 +47191,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-493 w-4"/>
@@ -47927,7 +47927,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="2"
             cite="Sophocles Electra: s-504 w-11"/>
@@ -48166,7 +48166,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-508 w-4"/>
@@ -48269,7 +48269,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-510 w-8"/>
@@ -48433,7 +48433,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-513 w-10"/>
@@ -49216,7 +49216,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ATR"
             head="1"
             cite="Sophocles Electra: s-525 w-8"/>
@@ -49279,7 +49279,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-526 w-8"/>
@@ -49356,7 +49356,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="2"
             cite="Sophocles Electra: s-527 w-10"/>
@@ -49492,7 +49492,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="5"
             cite="Sophocles Electra: s-530 w-7"/>
@@ -50018,7 +50018,7 @@
             insertion_id="0024e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="22"
             cite="Sophocles Electra: s-534 w-25"/>
@@ -50961,7 +50961,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="11"
             cite="Sophocles Electra: s-543 w-15"/>
@@ -51405,7 +51405,7 @@
             insertion_id="0023e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="9"
             cite="Sophocles Electra: s-546 w-24"/>
@@ -51767,7 +51767,7 @@
             insertion_id="0032e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="24"
             cite="Sophocles Electra: s-548 w-33"/>
@@ -52141,7 +52141,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="0"
             cite="Sophocles Electra: s-551 w-14"/>
@@ -52389,7 +52389,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="10"
             cite="Sophocles Electra: s-554 w-16"/>
@@ -52796,7 +52796,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="6"
             cite="Sophocles Electra: s-558 w-18"/>
@@ -52805,7 +52805,7 @@
             insertion_id="0017f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="6"
             cite="Sophocles Electra: s-558 w-19"/>
@@ -52931,7 +52931,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="4"
             cite="Sophocles Electra: s-559 w-17"/>
@@ -53120,7 +53120,7 @@
             insertion_id="0025e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="4"
             cite="Sophocles Electra: s-560 w-26"/>
@@ -53392,7 +53392,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-565 w-10"/>
@@ -53474,7 +53474,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-567 w-3"/>
@@ -53673,7 +53673,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="7"
             cite="Sophocles Electra: s-570 w-12"/>
@@ -53837,7 +53837,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-573 w-8"/>
@@ -54104,7 +54104,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-577 w-9"/>
@@ -54496,7 +54496,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="10"
             cite="Sophocles Electra: s-585 w-9"/>
@@ -54505,7 +54505,7 @@
             insertion_id="0008f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-585 w-10"/>
@@ -54697,7 +54697,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-588 w-7"/>
@@ -54786,7 +54786,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-590 w-4"/>
@@ -55168,7 +55168,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="6"
             cite="Sophocles Electra: s-596 w-10"/>
@@ -55475,7 +55475,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="10"
             cite="Sophocles Electra: s-601 w-16"/>
@@ -55484,7 +55484,7 @@
             insertion_id="0015f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="16"
             cite="Sophocles Electra: s-601 w-17"/>
@@ -55676,7 +55676,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-604 w-9"/>
@@ -56139,7 +56139,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-608 w-15"/>
@@ -56445,7 +56445,7 @@
             insertion_id="0023e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-610 w-24"/>
@@ -56690,7 +56690,7 @@
             insertion_id="0033e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="13"
             cite="Sophocles Electra: s-611 w-34"/>
@@ -57305,7 +57305,7 @@
             insertion_id="0023e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-616 w-24"/>
@@ -57525,7 +57525,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="4"
             cite="Sophocles Electra: s-619 w-7"/>
@@ -57595,7 +57595,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="5"
             cite="Sophocles Electra: s-620 w-9"/>
@@ -57768,7 +57768,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-622 w-10"/>
@@ -57976,7 +57976,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-624 w-14"/>
@@ -58753,7 +58753,7 @@
             insertion_id="0032e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="20"
             cite="Sophocles Electra: s-632 w-33"/>
@@ -59445,7 +59445,7 @@
             insertion_id="0031e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="7"
             cite="Sophocles Electra: s-637 w-32"/>
@@ -59809,7 +59809,7 @@
             insertion_id="0050e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="10"
             cite="Sophocles Electra: s-638 w-51"/>
@@ -59942,7 +59942,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-639 w-18"/>
@@ -60166,7 +60166,7 @@
             insertion_id="0030e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PNOM"
             head="32"
             cite="Sophocles Electra: s-640 w-31"/>
@@ -60175,7 +60175,7 @@
             insertion_id="0030f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="10"
             cite="Sophocles Electra: s-640 w-32"/>
@@ -60320,7 +60320,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="5"
             cite="Sophocles Electra: s-642 w-8"/>
@@ -60779,7 +60779,7 @@
             insertion_id="0025e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="5"
             cite="Sophocles Electra: s-648 w-26"/>
@@ -60814,7 +60814,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-649 w-4"/>
@@ -60856,7 +60856,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-650 w-5"/>
@@ -60891,7 +60891,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-651 w-4"/>
@@ -61237,7 +61237,7 @@
             insertion_id="0024e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="10"
             cite="Sophocles Electra: s-654 w-25"/>
@@ -61548,7 +61548,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="10"
             cite="Sophocles Electra: s-657 w-13"/>
@@ -61597,7 +61597,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-658 w-6"/>
@@ -61686,7 +61686,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-660 w-4"/>
@@ -61956,7 +61956,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-666 w-9"/>
@@ -62080,7 +62080,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-668 w-7"/>
@@ -62225,7 +62225,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-670 w-7"/>
@@ -62234,7 +62234,7 @@
             insertion_id="0006f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="5"
             cite="Sophocles Electra: s-670 w-8"/>
@@ -62318,7 +62318,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="4"
             cite="Sophocles Electra: s-671 w-11"/>
@@ -62388,7 +62388,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-672 w-9"/>
@@ -62547,7 +62547,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-674 w-10"/>
@@ -62657,7 +62657,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-676 w-7"/>
@@ -62842,7 +62842,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-679 w-6"/>
@@ -62877,7 +62877,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-680 w-4"/>
@@ -62952,7 +62952,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-682 w-4"/>
@@ -63149,7 +63149,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-686 w-4"/>
@@ -63205,7 +63205,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-687 w-7"/>
@@ -63275,7 +63275,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-688 w-9"/>
@@ -63378,7 +63378,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-690 w-4"/>
@@ -64243,7 +64243,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-703 w-14"/>
@@ -64520,7 +64520,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-709 w-5"/>
@@ -64569,7 +64569,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-710 w-6"/>
@@ -64632,7 +64632,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-711 w-8"/>
@@ -64709,7 +64709,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-712 w-10"/>
@@ -64946,7 +64946,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-717 w-6"/>
@@ -65035,7 +65035,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-719 w-6"/>
@@ -65084,7 +65084,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-720 w-6"/>
@@ -65201,7 +65201,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-722 w-5"/>
@@ -65243,7 +65243,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="2"
             cite="Sophocles Electra: s-723 w-5"/>
@@ -65405,7 +65405,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-727 w-7"/>
@@ -65953,7 +65953,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-734 w-9"/>
@@ -66503,7 +66503,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-740 w-12"/>
@@ -66754,7 +66754,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-745 w-4"/>
@@ -66995,7 +66995,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-748 w-9"/>
@@ -67442,7 +67442,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-753 w-18"/>
@@ -67658,7 +67658,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-758 w-5"/>
@@ -67854,7 +67854,7 @@
             insertion_id="0026e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="20"
             cite="Sophocles Electra: s-759 w-27"/>
@@ -68242,7 +68242,7 @@
             insertion_id="0032e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="13"
             cite="Sophocles Electra: s-762 w-33"/>
@@ -68567,7 +68567,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-765 w-15"/>
@@ -68644,7 +68644,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="2"
             cite="Sophocles Electra: s-766 w-10"/>
@@ -68838,7 +68838,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ATR"
             head="6"
             cite="Sophocles Electra: s-768 w-15"/>
@@ -68999,7 +68999,7 @@
             insertion_id="0021e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-769 w-22"/>
@@ -69144,7 +69144,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_PA"
             head="2"
             cite="Sophocles Electra: s-771 w-10"/>
@@ -69249,7 +69249,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-772 w-14"/>
@@ -69258,7 +69258,7 @@
             insertion_id="0013f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ_CO"
             head="10"
             cite="Sophocles Electra: s-772 w-15"/>
@@ -69356,7 +69356,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="4"
             cite="Sophocles Electra: s-773 w-13"/>
@@ -69777,7 +69777,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-777 w-18"/>
@@ -69882,7 +69882,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="10"
             cite="Sophocles Electra: s-778 w-14"/>
@@ -69952,7 +69952,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-779 w-9"/>
@@ -70700,7 +70700,7 @@
             insertion_id="0024e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="21"
             cite="Sophocles Electra: s-784 w-25"/>
@@ -70978,7 +70978,7 @@
             insertion_id="0030e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV_CO"
             head="28"
             cite="Sophocles Electra: s-786 w-31"/>
@@ -71060,7 +71060,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-788 w-3"/>
@@ -71318,7 +71318,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-793 w-5"/>
@@ -71470,7 +71470,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-795 w-16"/>
@@ -71726,7 +71726,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-801 w-3"/>
@@ -71829,7 +71829,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-803 w-10"/>
@@ -71955,7 +71955,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-804 w-17"/>
@@ -72229,7 +72229,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="9"
             cite="Sophocles Electra: s-808 w-14"/>
@@ -72655,7 +72655,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="3"
             cite="Sophocles Electra: s-813 w-14"/>
@@ -72931,7 +72931,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="7"
             cite="Sophocles Electra: s-816 w-12"/>
@@ -73008,7 +73008,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="4"
             cite="Sophocles Electra: s-817 w-10"/>
@@ -73017,7 +73017,7 @@
             insertion_id="0009f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="4"
             cite="Sophocles Electra: s-817 w-11"/>
@@ -73517,7 +73517,7 @@
             insertion_id="0022e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="8"
             cite="Sophocles Electra: s-820 w-23"/>
@@ -74357,7 +74357,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-828 w-4"/>
@@ -74610,7 +74610,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-832 w-10"/>
@@ -74638,7 +74638,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-833 w-3"/>
@@ -74722,7 +74722,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-834 w-11"/>
@@ -75358,7 +75358,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-846 w-5"/>
@@ -75414,7 +75414,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-847 w-7"/>
@@ -75815,7 +75815,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-854 w-11"/>
@@ -76038,7 +76038,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-859 w-7"/>
@@ -76260,7 +76260,7 @@
             insertion_id="0024e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="8"
             cite="Sophocles Electra: s-861 w-25"/>
@@ -76347,7 +76347,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="2"
             cite="Sophocles Electra: s-864 w-6"/>
@@ -76719,7 +76719,7 @@
             insertion_id="0020e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="2"
             cite="Sophocles Electra: s-868 w-21"/>
@@ -76845,7 +76845,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="6"
             cite="Sophocles Electra: s-869 w-17"/>
@@ -76943,7 +76943,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-870 w-13"/>
@@ -77004,7 +77004,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-872 w-5"/>
@@ -77187,7 +77187,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-876 w-3"/>
@@ -77358,7 +77358,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="3"
             cite="Sophocles Electra: s-879 w-10"/>
@@ -77482,7 +77482,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="4"
             cite="Sophocles Electra: s-881 w-9"/>
@@ -77884,7 +77884,7 @@
             insertion_id="0037e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="2"
             cite="Sophocles Electra: s-884 w-38"/>
@@ -78418,7 +78418,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-891 w-16"/>
@@ -78467,7 +78467,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="0"
             cite="Sophocles Electra: s-892 w-6"/>
@@ -78565,7 +78565,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="4"
             cite="Sophocles Electra: s-893 w-13"/>
@@ -78607,7 +78607,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-894 w-5"/>
@@ -79887,7 +79887,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="4"
             cite="Sophocles Electra: s-913 w-15"/>
@@ -80135,7 +80135,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-916 w-16"/>
@@ -80177,7 +80177,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-917 w-5"/>
@@ -80433,7 +80433,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-923 w-5"/>
@@ -80482,7 +80482,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-924 w-6"/>
@@ -80545,7 +80545,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Electra: s-925 w-8"/>
@@ -80608,7 +80608,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="1"
             cite="Sophocles Electra: s-926 w-8"/>

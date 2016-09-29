@@ -725,7 +725,7 @@
             insertion_id="0030e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="20"
             cite="Aeschylus Persians: s-4 w-31"/>
@@ -734,7 +734,7 @@
             insertion_id="0030f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="20"
             cite="Aeschylus Persians: s-4 w-32"/>
@@ -1166,7 +1166,7 @@
             insertion_id="0020e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="17"
             cite="Aeschylus Persians: s-6 w-21"/>
@@ -1458,7 +1458,7 @@
             insertion_id="0030e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-8 w-31"/>
@@ -3045,7 +3045,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-17 w-15"/>
@@ -3122,7 +3122,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-18 w-10"/>
@@ -3599,7 +3599,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-22 w-11"/>
@@ -4057,7 +4057,7 @@
             insertion_id="0024e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ_AP"
             head="9"
             cite="Aeschylus Persians: s-25 w-25"/>
@@ -4246,7 +4246,7 @@
             insertion_id="0025e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="8"
             cite="Aeschylus Persians: s-26 w-26"/>
@@ -4440,7 +4440,7 @@
             insertion_id="0018e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="16"
             cite="Aeschylus Persians: s-28 w-19"/>
@@ -4767,7 +4767,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="7"
             cite="Aeschylus Persians: s-30 w-13"/>
@@ -4966,7 +4966,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-33 w-10"/>
@@ -5761,7 +5761,7 @@
             insertion_id="0024e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="19"
             cite="Aeschylus Persians: s-39 w-25"/>
@@ -5852,7 +5852,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="8"
             cite="Aeschylus Persians: s-40 w-12"/>
@@ -6561,7 +6561,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="7"
             cite="Aeschylus Persians: s-47 w-12"/>
@@ -6867,7 +6867,7 @@
             insertion_id="0037e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ATR"
             head="13"
             cite="Aeschylus Persians: s-49 w-38"/>
@@ -6979,7 +6979,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="12"
             cite="Aeschylus Persians: s-50 w-15"/>
@@ -6988,7 +6988,7 @@
             insertion_id="0014f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="15"
             cite="Aeschylus Persians: s-50 w-16"/>
@@ -7865,7 +7865,7 @@
             insertion_id="0025e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ATR"
             head="17"
             cite="Aeschylus Persians: s-57 w-26"/>
@@ -8153,7 +8153,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-61 w-11"/>
@@ -8230,7 +8230,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-62 w-10"/>
@@ -8447,7 +8447,7 @@
             insertion_id="0029e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="24"
             cite="Aeschylus Persians: s-63 w-30"/>
@@ -9701,7 +9701,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-74 w-8"/>
@@ -9968,7 +9968,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-78 w-11"/>
@@ -10024,7 +10024,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-79 w-7"/>
@@ -10066,7 +10066,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-80 w-5"/>
@@ -10230,7 +10230,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-83 w-3"/>
@@ -10286,7 +10286,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-84 w-7"/>
@@ -10349,7 +10349,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="2"
             cite="Aeschylus Persians: s-85 w-8"/>
@@ -10548,7 +10548,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="1"
             cite="Aeschylus Persians: s-88 w-10"/>
@@ -11086,7 +11086,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-93 w-9"/>
@@ -11163,7 +11163,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-94 w-10"/>
@@ -11273,7 +11273,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-96 w-8"/>
@@ -11411,7 +11411,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-98 w-8"/>
@@ -12235,7 +12235,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-107 w-5"/>
@@ -12298,7 +12298,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="9"
             cite="Aeschylus Persians: s-108 w-8"/>
@@ -12307,7 +12307,7 @@
             insertion_id="0007f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-108 w-9"/>
@@ -12417,7 +12417,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-110 w-6"/>
@@ -12712,7 +12712,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-114 w-10"/>
@@ -13201,7 +13201,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="9"
             cite="Aeschylus Persians: s-119 w-12"/>
@@ -13367,7 +13367,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="9"
             cite="Aeschylus Persians: s-121 w-11"/>
@@ -14199,7 +14199,7 @@
             insertion_id="0040e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="17"
             cite="Aeschylus Persians: s-126 w-41"/>
@@ -15637,7 +15637,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="9"
             cite="Aeschylus Persians: s-143 w-17"/>
@@ -16417,7 +16417,7 @@
             insertion_id="0057e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ_AP_CO"
             head="52"
             cite="Aeschylus Persians: s-146 w-58"/>
@@ -18209,7 +18209,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-161 w-6"/>
@@ -19226,7 +19226,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="5"
             cite="Aeschylus Persians: s-168 w-18"/>
@@ -20176,7 +20176,7 @@
             insertion_id="0025e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="SBJ_CO"
             head="14"
             cite="Aeschylus Persians: s-177 w-26"/>
@@ -20253,7 +20253,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-178 w-10"/>
@@ -21397,7 +21397,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="12"
             cite="Aeschylus Persians: s-188 w-17"/>
@@ -22286,7 +22286,7 @@
             insertion_id="0043e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="20"
             cite="Aeschylus Persians: s-196 w-44"/>
@@ -23536,7 +23536,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-209 w-11"/>
@@ -23803,7 +23803,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-213 w-8"/>
@@ -24287,7 +24287,7 @@
             insertion_id="0030e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="15"
             cite="Aeschylus Persians: s-217 w-31"/>
@@ -24731,7 +24731,7 @@
             insertion_id="0022e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ_CO"
             head="17"
             cite="Aeschylus Persians: s-220 w-23"/>
@@ -26584,7 +26584,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-236 w-9"/>
@@ -26991,7 +26991,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-240 w-15"/>
@@ -27610,7 +27610,7 @@
             insertion_id="0058e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="49"
             cite="Aeschylus Persians: s-243 w-59"/>
@@ -28739,7 +28739,7 @@
             insertion_id="0020e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="6"
             cite="Aeschylus Persians: s-250 w-21"/>
@@ -28870,7 +28870,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-252 w-8"/>
@@ -29034,7 +29034,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-255 w-3"/>
@@ -29242,7 +29242,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-257 w-3"/>
@@ -29760,7 +29760,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-265 w-4"/>
@@ -29907,7 +29907,7 @@
             insertion_id="0019e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-266 w-20"/>
@@ -30492,7 +30492,7 @@
             insertion_id="0018e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="SBJ"
             head="9"
             cite="Aeschylus Persians: s-272 w-19"/>
@@ -31456,7 +31456,7 @@
             insertion_id="0022e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="SBJ"
             head="24"
             cite="Aeschylus Persians: s-281 w-23"/>
@@ -31465,7 +31465,7 @@
             insertion_id="0022f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="8"
             cite="Aeschylus Persians: s-281 w-24"/>
@@ -31879,7 +31879,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-285 w-4"/>
@@ -31968,7 +31968,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-287 w-3"/>
@@ -32165,7 +32165,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-291 w-9"/>
@@ -32261,7 +32261,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-293 w-3"/>
@@ -32751,7 +32751,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-301 w-9"/>
@@ -33011,7 +33011,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-305 w-11"/>
@@ -33074,7 +33074,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="0"
             cite="Aeschylus Persians: s-306 w-8"/>
@@ -33165,7 +33165,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="8"
             cite="Aeschylus Persians: s-307 w-12"/>
@@ -33310,7 +33310,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="5"
             cite="Aeschylus Persians: s-309 w-10"/>
@@ -33373,7 +33373,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-310 w-8"/>
@@ -33436,7 +33436,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-311 w-8"/>
@@ -33513,7 +33513,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-312 w-10"/>
@@ -33541,7 +33541,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-313 w-3"/>
@@ -34152,7 +34152,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="8"
             cite="Aeschylus Persians: s-320 w-15"/>
@@ -35509,7 +35509,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ_CO"
             head="4"
             cite="Aeschylus Persians: s-332 w-14"/>
@@ -35921,7 +35921,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-337 w-9"/>
@@ -36424,7 +36424,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="6"
             cite="Aeschylus Persians: s-342 w-12"/>
@@ -36632,7 +36632,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-344 w-17"/>
@@ -36817,7 +36817,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-347 w-7"/>
@@ -37222,7 +37222,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-352 w-18"/>
@@ -37772,7 +37772,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="6"
             cite="Aeschylus Persians: s-358 w-13"/>
@@ -37919,7 +37919,7 @@
             insertion_id="0019e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="10"
             cite="Aeschylus Persians: s-359 w-20"/>
@@ -38747,7 +38747,7 @@
             insertion_id="0020e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ATR"
             head="14"
             cite="Aeschylus Persians: s-366 w-21"/>
@@ -40396,7 +40396,7 @@
             insertion_id="0028e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="SBJ_CO"
             head="25"
             cite="Aeschylus Persians: s-379 w-29"/>
@@ -40648,7 +40648,7 @@
             insertion_id="0034e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-380 w-35"/>
@@ -40907,7 +40907,7 @@
             insertion_id="0035e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ATR"
             head="26"
             cite="Aeschylus Persians: s-381 w-36"/>
@@ -41670,7 +41670,7 @@
             insertion_id="0020e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-389 w-21"/>
@@ -41939,7 +41939,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-392 w-6"/>
@@ -42393,7 +42393,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-397 w-9"/>
@@ -42980,7 +42980,7 @@
             insertion_id="0035e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-402 w-36"/>
@@ -43326,7 +43326,7 @@
             insertion_id="0028e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-405 w-29"/>
@@ -43761,7 +43761,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-409 w-6"/>
@@ -44297,7 +44297,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="SBJ"
             head="1"
             cite="Aeschylus Persians: s-415 w-7"/>
@@ -44400,7 +44400,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="3"
             cite="Aeschylus Persians: s-417 w-7"/>
@@ -44559,7 +44559,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ATR"
             head="5"
             cite="Aeschylus Persians: s-419 w-7"/>
@@ -44613,7 +44613,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-421 w-4"/>
@@ -44662,7 +44662,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-422 w-6"/>
@@ -44718,7 +44718,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-423 w-7"/>
@@ -44774,7 +44774,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-424 w-7"/>
@@ -44816,7 +44816,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-425 w-5"/>
@@ -44919,7 +44919,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-427 w-5"/>
@@ -45088,7 +45088,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-431 w-5"/>
@@ -45163,7 +45163,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-433 w-4"/>
@@ -45219,7 +45219,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-434 w-7"/>
@@ -45294,7 +45294,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-436 w-6"/>
@@ -45322,7 +45322,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-437 w-3"/>
@@ -45552,7 +45552,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-442 w-8"/>
@@ -45650,7 +45650,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="10"
             cite="Aeschylus Persians: s-443 w-13"/>
@@ -45760,7 +45760,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-445 w-5"/>
@@ -45889,7 +45889,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-448 w-7"/>
@@ -45978,7 +45978,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-450 w-6"/>
@@ -46046,7 +46046,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-452 w-3"/>
@@ -46095,7 +46095,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-453 w-6"/>
@@ -46370,7 +46370,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-460 w-3"/>
@@ -46527,7 +46527,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-463 w-4"/>
@@ -46630,7 +46630,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-465 w-6"/>
@@ -46785,7 +46785,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-469 w-4"/>
@@ -46888,7 +46888,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-471 w-6"/>
@@ -47022,7 +47022,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-475 w-4"/>
@@ -47125,7 +47125,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-477 w-8"/>
@@ -47188,7 +47188,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-478 w-8"/>
@@ -47272,7 +47272,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Persians: s-479 w-11"/>

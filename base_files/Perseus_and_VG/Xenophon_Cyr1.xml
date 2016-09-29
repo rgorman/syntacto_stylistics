@@ -1999,11 +1999,11 @@
                   head="14" cite="Xenophon Cyropaedia Book 1: s-32 w-1"/>
             <word id="2" form="τὰ" lemma="ὁ" postag="l-p---nn-" relation="ATR" head="4"
                   cite="Xenophon Cyropaedia Book 1: s-32 w-2"/>
-            <word id="3" form="μὲν" lemma="μέν" postag="d--------" relation="" head="8"
+            <word id="3" form="μὲν" lemma="μέν" postag="d--------" relation="MISSING" head="8"
                   cite="Xenophon Cyropaedia Book 1: s-32 w-3"/>
             <word id="4" form="ὤνια" lemma="ὤνιος" postag="a-p---nn-" relation="SBJ_CO" head="8"
                   cite="Xenophon Cyropaedia Book 1: s-32 w-4"/>
-            <word id="5" form="καὶ" lemma="καί" postag="d--------" relation="" head="8"
+            <word id="5" form="καὶ" lemma="καί" postag="d--------" relation="MISSING" head="8"
                   cite="Xenophon Cyropaedia Book 1: s-32 w-5"/>
             <word id="6" form="οἱ" lemma="ὁ" postag="l-p---mn-" relation="ATR" head="7"
                   cite="Xenophon Cyropaedia Book 1: s-32 w-6"/>
@@ -2309,23 +2309,23 @@
       </sentence>
       <sentence id="38" document_id="urn:cts:greekLit:tlg0032.tlg007.perseus-grc1" subdoc="1.2.5"
             span="Xenophon Cyropaedia Book 1: s-38">
-            <word id="1" form="ἄρχοντες" lemma="ἄρχω" postag="v-pppamn-" relation="" head="8"
+            <word id="1" form="ἄρχοντες" lemma="ἄρχω" postag="v-pppamn-" relation="MISSING" head="8"
                   cite="Xenophon Cyropaedia Book 1: s-38 w-1"/>
-            <word id="2" form="δʼ" lemma="δέ" postag="d-------_" relation="" head="8"
+            <word id="2" form="δʼ" lemma="δέ" postag="d-------_" relation="MISSING" head="8"
                   cite="Xenophon Cyropaedia Book 1: s-38 w-2"/>
-            <word id="3" form="ἐφʼ" lemma="ἐπί" postag="r--------" relation="" head="8"
+            <word id="3" form="ἐφʼ" lemma="ἐπί" postag="r--------" relation="MISSING" head="8"
                   cite="Xenophon Cyropaedia Book 1: s-38 w-3"/>
-            <word id="4" form="ἑκάστῳ" lemma="ἕκαστος" postag="a-s---nd-" relation="" head="3"
+            <word id="4" form="ἑκάστῳ" lemma="ἕκαστος" postag="a-s---nd-" relation="MISSING" head="3"
                   cite="Xenophon Cyropaedia Book 1: s-38 w-4"/>
-            <word id="5" form="τούτων" lemma="οὗτος" postag="a-p---ng_" relation="" head="7"
+            <word id="5" form="τούτων" lemma="οὗτος" postag="a-p---ng_" relation="MISSING" head="7"
                   cite="Xenophon Cyropaedia Book 1: s-38 w-5"/>
-            <word id="6" form="τῶν" lemma="ὁ" postag="l-p---ng-" relation="" head="7"
+            <word id="6" form="τῶν" lemma="ὁ" postag="l-p---ng-" relation="MISSING" head="7"
                   cite="Xenophon Cyropaedia Book 1: s-38 w-6"/>
-            <word id="7" form="μερῶν" lemma="μέρος" postag="n-p---ng-" relation="" head="4"
+            <word id="7" form="μερῶν" lemma="μέρος" postag="n-p---ng-" relation="MISSING" head="4"
                   cite="Xenophon Cyropaedia Book 1: s-38 w-7"/>
-            <word id="8" form="εἰσι" lemma="εἰμί" postag="v3ppia---" relation="" head="0"
+            <word id="8" form="εἰσι" lemma="εἰμί" postag="v3ppia---" relation="MISSING" head="0"
                   cite="Xenophon Cyropaedia Book 1: s-38 w-8"/>
-            <word id="9" form="δώδεκα" lemma="δώδεκα" postag="a-_---___" relation="" head="1"
+            <word id="9" form="δώδεκα" lemma="δώδεκα" postag="a-_---___" relation="MISSING" head="1"
                   cite="Xenophon Cyropaedia Book 1: s-38 w-9"/>
             <word id="10" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite="Xenophon Cyropaedia Book 1: s-38 w-10"/>
@@ -2607,7 +2607,7 @@
                   cite="Xenophon Cyropaedia Book 1: s-46 w-6"/>
             <word id="7" form="ὥσπερ" lemma="ὥσπερ" postag="c--------" relation="AuxC" head="2"
                   cite="Xenophon Cyropaedia Book 1: s-46 w-7"/>
-            <word id="8" form="παρʼ" lemma="" postag="" relation="AuxP" head="14"
+            <word id="8" form="παρʼ" lemma="" postag="e--------" relation="AuxP" head="14"
                   cite="Xenophon Cyropaedia Book 1: s-46 w-8"/>
             <word id="9" form="ἡμῖν" lemma="ἐγώ" postag="p1p---md-" relation="ADV" head="8"
                   cite="Xenophon Cyropaedia Book 1: s-46 w-9"/>
@@ -3247,7 +3247,7 @@
                   cite="Xenophon Cyropaedia Book 1: s-65 w-1"/>
             <word id="2" form="ἔτη" lemma="ἔτος" postag="n-p---na-" relation="ADV" head="9"
                   cite="Xenophon Cyropaedia Book 1: s-65 w-2"/>
-            <word id="3" form="ἀφʼ" lemma="" postag="" relation="AuxP" head="8"
+            <word id="3" form="ἀφʼ" lemma="" postag="e--------" relation="AuxP" head="8"
                   cite="Xenophon Cyropaedia Book 1: s-65 w-3"/>
             <word id="4" form="οὗ" lemma="ὅς" postag="p-s---ng-" relation="ADV" head="3"
                   cite="Xenophon Cyropaedia Book 1: s-65 w-4"/>
@@ -7490,7 +7490,7 @@
                   head="13" cite="Xenophon Cyropaedia Book 1: s-48 w-7"/>
             <word id="8" form="πρὸς" lemma="πρός" postag="r--------" relation="AuxP" head="7"
                   cite="Xenophon Cyropaedia Book 1: s-48 w-8"/>
-            <word id="9" form="τὸν" lemma="ὁ" postag="l-s---ma-" relation="" head="10"
+            <word id="9" form="τὸν" lemma="ὁ" postag="l-s---ma-" relation="MISSING" head="10"
                   cite="Xenophon Cyropaedia Book 1: s-48 w-9"/>
             <word id="10" form="πάππον" lemma="πάππος" postag="n-s---ma-" relation="ADV" head="8"
                   cite="Xenophon Cyropaedia Book 1: s-48 w-10"/>
@@ -14865,7 +14865,7 @@
                   cite="Xenophon Cyropaedia Book 1: s-237 w-2"/>
             <word id="3" form="οὔπω" lemma="οὔπω" postag="d--------" relation="ADV" head="6"
                   cite="Xenophon Cyropaedia Book 1: s-237 w-3"/>
-            <word id="4" form="ἡ" lemma="ὁ" postag="l-s---fn-" relation="" head="5"
+            <word id="4" form="ἡ" lemma="ὁ" postag="l-s---fn-" relation="MISSING" head="5"
                   cite="Xenophon Cyropaedia Book 1: s-237 w-4"/>
             <word id="5" form="ἰσχὺς" lemma="ἰσχύς" postag="n-s---fn-" relation="SBJ" head="6"
                   cite="Xenophon Cyropaedia Book 1: s-237 w-5"/>

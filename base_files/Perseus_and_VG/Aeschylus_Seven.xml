@@ -230,7 +230,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-2 w-10"/>
@@ -774,7 +774,7 @@
             insertion_id="0042e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="26"
             cite="Aeschylus Seven: s-4 w-43"/>
@@ -858,7 +858,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-5 w-11"/>
@@ -1370,7 +1370,7 @@
             insertion_id="0024e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-9 w-25"/>
@@ -1468,7 +1468,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="5"
             cite="Aeschylus Seven: s-10 w-13"/>
@@ -2656,7 +2656,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="SBJ"
             head="14"
             cite="Aeschylus Seven: s-19 w-13"/>
@@ -2665,7 +2665,7 @@
             insertion_id="0012f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="9"
             cite="Aeschylus Seven: s-19 w-14"/>
@@ -3168,7 +3168,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="3"
             cite="Aeschylus Seven: s-24 w-15"/>
@@ -3278,7 +3278,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ATR"
             head="3"
             cite="Aeschylus Seven: s-26 w-8"/>
@@ -4829,7 +4829,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="5"
             cite="Aeschylus Seven: s-46 w-14"/>
@@ -4904,7 +4904,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-48 w-6"/>
@@ -6218,7 +6218,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="8"
             cite="Aeschylus Seven: s-64 w-14"/>
@@ -6656,7 +6656,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-70 w-5"/>
@@ -6782,7 +6782,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-71 w-17"/>
@@ -7238,7 +7238,7 @@
             insertion_id="0022e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="11"
             cite="Aeschylus Seven: s-75 w-23"/>
@@ -7544,7 +7544,7 @@
             insertion_id="0032e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="2"
             cite="Aeschylus Seven: s-77 w-33"/>
@@ -7759,7 +7759,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="9"
             cite="Aeschylus Seven: s-79 w-16"/>
@@ -7768,7 +7768,7 @@
             insertion_id="0015f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="9"
             cite="Aeschylus Seven: s-79 w-17"/>
@@ -8238,7 +8238,7 @@
             insertion_id="0031e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="SBJ_AP_CO"
             head="12"
             cite="Aeschylus Seven: s-83 w-32"/>
@@ -8652,7 +8652,7 @@
             insertion_id="0029e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="23"
             cite="Aeschylus Seven: s-87 w-30"/>
@@ -8687,7 +8687,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-88 w-4"/>
@@ -8986,7 +8986,7 @@
             insertion_id="0021e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="15"
             cite="Aeschylus Seven: s-90 w-22"/>
@@ -9260,7 +9260,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-94 w-11"/>
@@ -9649,7 +9649,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-100 w-7"/>
@@ -9932,7 +9932,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-103 w-11"/>
@@ -11245,7 +11245,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="10"
             cite="Aeschylus Seven: s-123 w-9"/>
@@ -11254,7 +11254,7 @@
             insertion_id="0008f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-123 w-10"/>
@@ -11263,7 +11263,7 @@
             insertion_id="0008g"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ATR"
             head="3"
             cite="Aeschylus Seven: s-123 w-11"/>
@@ -12368,7 +12368,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="6"
             cite="Aeschylus Seven: s-135 w-9"/>
@@ -12487,7 +12487,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="14"
             cite="Aeschylus Seven: s-136 w-16"/>
@@ -14012,7 +14012,7 @@
             insertion_id="0040e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-148 w-41"/>
@@ -14211,7 +14211,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-151 w-12"/>
@@ -14239,7 +14239,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-152 w-3"/>
@@ -14698,7 +14698,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="8"
             cite="Aeschylus Seven: s-158 w-12"/>
@@ -14707,7 +14707,7 @@
             insertion_id="0011f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="8"
             cite="Aeschylus Seven: s-158 w-13"/>
@@ -14878,7 +14878,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-161 w-6"/>
@@ -15187,7 +15187,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-165 w-6"/>
@@ -15311,7 +15311,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-167 w-6"/>
@@ -15451,7 +15451,7 @@
             insertion_id="0018e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="SBJ"
             head="20"
             cite="Aeschylus Seven: s-168 w-19"/>
@@ -15460,7 +15460,7 @@
             insertion_id="0018f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="6"
             cite="Aeschylus Seven: s-168 w-20"/>
@@ -15745,7 +15745,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="15"
             cite="Aeschylus Seven: s-170 w-14"/>
@@ -15754,7 +15754,7 @@
             insertion_id="0013f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-170 w-15"/>
@@ -16201,7 +16201,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="9"
             cite="Aeschylus Seven: s-175 w-13"/>
@@ -16844,7 +16844,7 @@
             insertion_id="0025e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="16"
             cite="Aeschylus Seven: s-180 w-26"/>
@@ -16947,7 +16947,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-182 w-9"/>
@@ -17279,7 +17279,7 @@
             insertion_id="0020e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="12"
             cite="Aeschylus Seven: s-185 w-21"/>
@@ -17737,7 +17737,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="7"
             cite="Aeschylus Seven: s-188 w-11"/>
@@ -18502,7 +18502,7 @@
             insertion_id="0033e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="25"
             cite="Aeschylus Seven: s-195 w-34"/>
@@ -20660,7 +20660,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="8"
             cite="Aeschylus Seven: s-216 w-11"/>
@@ -21188,7 +21188,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="12"
             cite="Aeschylus Seven: s-219 w-15"/>
@@ -21939,7 +21939,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="12"
             cite="Aeschylus Seven: s-226 w-16"/>
@@ -21995,7 +21995,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-227 w-7"/>
@@ -22210,7 +22210,7 @@
             insertion_id="0021e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ATR"
             head="4"
             cite="Aeschylus Seven: s-229 w-22"/>
@@ -22219,7 +22219,7 @@
             insertion_id="0021f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="18"
             cite="Aeschylus Seven: s-229 w-23"/>
@@ -22595,7 +22595,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="9"
             cite="Aeschylus Seven: s-231 w-15"/>
@@ -22850,7 +22850,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-234 w-6"/>
@@ -22983,7 +22983,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="8"
             cite="Aeschylus Seven: s-235 w-18"/>
@@ -22992,7 +22992,7 @@
             insertion_id="0017f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="11"
             cite="Aeschylus Seven: s-235 w-19"/>
@@ -23153,7 +23153,7 @@
             insertion_id="0021e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="9"
             cite="Aeschylus Seven: s-236 w-22"/>
@@ -24561,7 +24561,7 @@
             insertion_id="0020e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="8"
             cite="Aeschylus Seven: s-247 w-21"/>
@@ -25073,7 +25073,7 @@
             insertion_id="0024e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="19"
             cite="Aeschylus Seven: s-251 w-25"/>
@@ -25782,7 +25782,7 @@
             insertion_id="0025e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-258 w-26"/>
@@ -26191,7 +26191,7 @@
             insertion_id="0027e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-261 w-28"/>
@@ -26835,7 +26835,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="5"
             cite="Aeschylus Seven: s-269 w-9"/>
@@ -26884,7 +26884,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-270 w-6"/>
@@ -26968,7 +26968,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-271 w-11"/>
@@ -27080,7 +27080,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="10"
             cite="Aeschylus Seven: s-272 w-15"/>
@@ -27678,7 +27678,7 @@
             insertion_id="0036e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="14"
             cite="Aeschylus Seven: s-275 w-37"/>
@@ -27902,7 +27902,7 @@
             insertion_id="0030e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV_CO"
             head="10"
             cite="Aeschylus Seven: s-276 w-31"/>
@@ -28828,7 +28828,7 @@
             insertion_id="0028e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-283 w-29"/>
@@ -29598,7 +29598,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ExD_AP"
             head="8"
             cite="Aeschylus Seven: s-291 w-15"/>
@@ -29607,7 +29607,7 @@
             insertion_id="0014f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-291 w-16"/>
@@ -29677,7 +29677,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-292 w-9"/>
@@ -29976,7 +29976,7 @@
             insertion_id="0025e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="6"
             cite="Aeschylus Seven: s-294 w-26"/>
@@ -30116,7 +30116,7 @@
             insertion_id="0018e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="8"
             cite="Aeschylus Seven: s-295 w-19"/>
@@ -30633,7 +30633,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-300 w-6"/>
@@ -30731,7 +30731,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="7"
             cite="Aeschylus Seven: s-301 w-13"/>
@@ -30740,7 +30740,7 @@
             insertion_id="0012f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="7"
             cite="Aeschylus Seven: s-301 w-14"/>
@@ -31002,7 +31002,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-304 w-10"/>
@@ -31044,7 +31044,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-305 w-5"/>
@@ -31156,7 +31156,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="7"
             cite="Aeschylus Seven: s-306 w-15"/>
@@ -31280,7 +31280,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-308 w-7"/>
@@ -31343,7 +31343,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="5"
             cite="Aeschylus Seven: s-309 w-8"/>
@@ -32301,7 +32301,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-321 w-6"/>
@@ -32582,7 +32582,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-325 w-12"/>
@@ -32699,7 +32699,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="1"
             cite="Aeschylus Seven: s-327 w-7"/>
@@ -32748,7 +32748,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="3"
             cite="Aeschylus Seven: s-328 w-6"/>
@@ -33523,7 +33523,7 @@
             insertion_id="0030e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ATR"
             head="17"
             cite="Aeschylus Seven: s-337 w-31"/>
@@ -33787,7 +33787,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-339 w-11"/>
@@ -34028,7 +34028,7 @@
             insertion_id="0019e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-342 w-20"/>
@@ -34037,7 +34037,7 @@
             insertion_id="0019f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="2"
             cite="Aeschylus Seven: s-342 w-21"/>
@@ -34233,7 +34233,7 @@
             insertion_id="0026e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="AuxC"
             head="28"
             cite="Aeschylus Seven: s-343 w-27"/>
@@ -34242,7 +34242,7 @@
             insertion_id="0026f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-343 w-28"/>
@@ -34345,7 +34345,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="3"
             cite="Aeschylus Seven: s-345 w-8"/>
@@ -34485,7 +34485,7 @@
             insertion_id="0018e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="6"
             cite="Aeschylus Seven: s-346 w-19"/>
@@ -34691,7 +34691,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-349 w-8"/>
@@ -36052,7 +36052,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-366 w-7"/>
@@ -36256,7 +36256,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-370 w-14"/>
@@ -36333,7 +36333,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-371 w-10"/>
@@ -36783,7 +36783,7 @@
             insertion_id="0019e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="0"
             cite="Aeschylus Seven: s-378 w-20"/>
@@ -37155,7 +37155,7 @@
             insertion_id="0022e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="0"
             cite="Aeschylus Seven: s-382 w-23"/>
@@ -37567,7 +37567,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="6"
             cite="Aeschylus Seven: s-387 w-9"/>
@@ -37731,7 +37731,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-390 w-6"/>
@@ -37963,7 +37963,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="3"
             cite="Aeschylus Seven: s-394 w-8"/>
@@ -37972,7 +37972,7 @@
             insertion_id="0007f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="3"
             cite="Aeschylus Seven: s-394 w-9"/>
@@ -38091,7 +38091,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="8"
             cite="Aeschylus Seven: s-395 w-16"/>
@@ -38100,7 +38100,7 @@
             insertion_id="0015f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="8"
             cite="Aeschylus Seven: s-395 w-17"/>
@@ -38210,7 +38210,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-397 w-11"/>
@@ -38600,7 +38600,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="3"
             cite="Aeschylus Seven: s-399 w-16"/>
@@ -38822,7 +38822,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-401 w-18"/>
@@ -39004,7 +39004,7 @@
             insertion_id="0024e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="14"
             cite="Aeschylus Seven: s-402 w-25"/>
@@ -39151,7 +39151,7 @@
             insertion_id="0019e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-403 w-20"/>
@@ -39235,7 +39235,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-404 w-11"/>
@@ -39567,7 +39567,7 @@
             insertion_id="0019e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-407 w-20"/>
@@ -39576,7 +39576,7 @@
             insertion_id="0019f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-407 w-21"/>
@@ -39943,7 +39943,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ATR_CO"
             head="9"
             cite="Aeschylus Seven: s-410 w-18"/>
@@ -40102,7 +40102,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="8"
             cite="Aeschylus Seven: s-412 w-12"/>
@@ -40111,7 +40111,7 @@
             insertion_id="0011f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="8"
             cite="Aeschylus Seven: s-412 w-13"/>
@@ -40244,7 +40244,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="14"
             cite="Aeschylus Seven: s-413 w-18"/>
@@ -40286,7 +40286,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-414 w-5"/>
@@ -40744,7 +40744,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-417 w-12"/>
@@ -41015,7 +41015,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-419 w-17"/>
@@ -41235,7 +41235,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-422 w-13"/>
@@ -41244,7 +41244,7 @@
             insertion_id="0012f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="AP"
             head="13"
             cite="Aeschylus Seven: s-422 w-14"/>
@@ -41349,7 +41349,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-423 w-14"/>
@@ -41358,7 +41358,7 @@
             insertion_id="0013f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="14"
             cite="Aeschylus Seven: s-423 w-15"/>
@@ -41536,7 +41536,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-426 w-7"/>
@@ -41939,7 +41939,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-432 w-3"/>
@@ -42052,7 +42052,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-436 w-3"/>
@@ -42080,7 +42080,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-437 w-3"/>
@@ -42202,7 +42202,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-440 w-6"/>
@@ -42258,7 +42258,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-441 w-7"/>
@@ -42422,7 +42422,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-444 w-13"/>
@@ -42431,7 +42431,7 @@
             insertion_id="0012f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-444 w-14"/>
@@ -42473,7 +42473,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-445 w-5"/>
@@ -42632,7 +42632,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-447 w-3"/>
@@ -42660,7 +42660,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-448 w-3"/>
@@ -42909,7 +42909,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-454 w-4"/>
@@ -42944,7 +42944,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-455 w-4"/>
@@ -42986,7 +42986,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-456 w-5"/>
@@ -43035,7 +43035,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-457 w-6"/>
@@ -43334,7 +43334,7 @@
             insertion_id="0022e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="8"
             cite="Aeschylus Seven: s-459 w-23"/>
@@ -43369,7 +43369,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-460 w-4"/>
@@ -43411,7 +43411,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-461 w-5"/>
@@ -43535,7 +43535,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-463 w-6"/>
@@ -43591,7 +43591,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-464 w-7"/>
@@ -43654,7 +43654,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-465 w-8"/>
@@ -43696,7 +43696,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-466 w-5"/>
@@ -43745,7 +43745,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-467 w-6"/>
@@ -43869,7 +43869,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-469 w-8"/>
@@ -43932,7 +43932,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-470 w-8"/>
@@ -44271,7 +44271,7 @@
             insertion_id="0021e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="15"
             cite="Aeschylus Seven: s-473 w-22"/>
@@ -44542,7 +44542,7 @@
             insertion_id="0029e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-475 w-30"/>
@@ -45281,7 +45281,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-481 w-15"/>
@@ -45895,7 +45895,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-490 w-8"/>
@@ -46160,7 +46160,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-495 w-10"/>
@@ -46789,7 +46789,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="0"
             cite="Aeschylus Seven: s-507 w-7"/>
@@ -47227,7 +47227,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="8"
             cite="Aeschylus Seven: s-513 w-16"/>
@@ -47332,7 +47332,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Seven: s-514 w-14"/>

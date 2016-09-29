@@ -1009,7 +1009,7 @@
             insertion_id="0087e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="81"
             cite="Hesiod Theogony: s-4 w-88"/>
@@ -1802,7 +1802,7 @@
             insertion_id="0019e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="11"
             cite="Hesiod Theogony: s-11 w-20"/>
@@ -1893,7 +1893,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Theogony: s-12 w-12"/>
@@ -3518,7 +3518,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Theogony: s-23 w-10"/>
@@ -4105,7 +4105,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="14"
             cite="Hesiod Theogony: s-28 w-18"/>
@@ -5057,7 +5057,7 @@
             insertion_id="0018e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Theogony: s-36 w-19"/>
@@ -5176,7 +5176,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="7"
             cite="Hesiod Theogony: s-37 w-16"/>
@@ -5232,7 +5232,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Theogony: s-38 w-7"/>
@@ -5386,7 +5386,7 @@
             insertion_id="0020e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="17"
             cite="Hesiod Theogony: s-39 w-21"/>
@@ -5463,7 +5463,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Theogony: s-40 w-10"/>
@@ -5804,7 +5804,7 @@
             insertion_id="0039e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="20"
             cite="Hesiod Theogony: s-42 w-40"/>
@@ -7047,7 +7047,7 @@
             insertion_id="0057e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="33"
             cite="Hesiod Theogony: s-48 w-58"/>
@@ -7056,7 +7056,7 @@
             insertion_id="0057f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="33"
             cite="Hesiod Theogony: s-48 w-59"/>
@@ -7065,7 +7065,7 @@
             insertion_id="0057g"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="33"
             cite="Hesiod Theogony: s-48 w-60"/>
@@ -7074,7 +7074,7 @@
             insertion_id="0057h"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ATR_CO"
             head="45"
             cite="Hesiod Theogony: s-48 w-61"/>
@@ -8943,7 +8943,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Theogony: s-63 w-9"/>
@@ -9083,7 +9083,7 @@
             insertion_id="0018e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="13"
             cite="Hesiod Theogony: s-64 w-19"/>
@@ -11703,7 +11703,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Theogony: s-92 w-8"/>
@@ -11780,7 +11780,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Theogony: s-93 w-10"/>
@@ -11843,7 +11843,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Theogony: s-94 w-8"/>
@@ -12301,7 +12301,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="6"
             cite="Hesiod Theogony: s-97 w-16"/>
@@ -12420,7 +12420,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="10"
             cite="Hesiod Theogony: s-98 w-16"/>
@@ -14000,7 +14000,7 @@
             insertion_id="0022e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV_CO"
             head="16"
             cite="Hesiod Theogony: s-107 w-23"/>
@@ -14161,7 +14161,7 @@
             insertion_id="0021e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Theogony: s-108 w-22"/>
@@ -15438,7 +15438,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="6"
             cite="Hesiod Theogony: s-111 w-9"/>
@@ -16043,7 +16043,7 @@
             insertion_id="0055e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="43"
             cite="Hesiod Theogony: s-114 w-56"/>
@@ -16155,7 +16155,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="7"
             cite="Hesiod Theogony: s-115 w-15"/>
@@ -16515,7 +16515,7 @@
             insertion_id="0020e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="13"
             cite="Hesiod Theogony: s-118 w-21"/>
@@ -16798,7 +16798,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="6"
             cite="Hesiod Theogony: s-121 w-12"/>
@@ -17838,7 +17838,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="5"
             cite="Hesiod Theogony: s-127 w-17"/>
@@ -17955,7 +17955,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="5"
             cite="Hesiod Theogony: s-129 w-8"/>
@@ -18261,7 +18261,7 @@
             insertion_id="0019e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="11"
             cite="Hesiod Theogony: s-131 w-20"/>
@@ -18394,7 +18394,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="6"
             cite="Hesiod Theogony: s-132 w-18"/>
@@ -18403,7 +18403,7 @@
             insertion_id="0017f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="14"
             cite="Hesiod Theogony: s-132 w-19"/>
@@ -18819,7 +18819,7 @@
             insertion_id="0033e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="SBJ"
             head="35"
             cite="Hesiod Theogony: s-135 w-34"/>
@@ -18828,7 +18828,7 @@
             insertion_id="0033f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="25"
             cite="Hesiod Theogony: s-135 w-35"/>
@@ -18837,7 +18837,7 @@
             insertion_id="0033g"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="25"
             cite="Hesiod Theogony: s-135 w-36"/>
@@ -18846,7 +18846,7 @@
             insertion_id="0033h"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="25"
             cite="Hesiod Theogony: s-135 w-37"/>
@@ -18855,7 +18855,7 @@
             insertion_id="0033i"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="25"
             cite="Hesiod Theogony: s-135 w-38"/>
@@ -18864,7 +18864,7 @@
             insertion_id="0033j"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="25"
             cite="Hesiod Theogony: s-135 w-39"/>
@@ -18873,7 +18873,7 @@
             insertion_id="0033k"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="25"
             cite="Hesiod Theogony: s-135 w-40"/>
@@ -19151,7 +19151,7 @@
             insertion_id="0028e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="12"
             cite="Hesiod Theogony: s-137 w-29"/>
@@ -19160,7 +19160,7 @@
             insertion_id="0028f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="23"
             cite="Hesiod Theogony: s-137 w-30"/>
@@ -19478,7 +19478,7 @@
             insertion_id="0021e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ_AP"
             head="23"
             cite="Hesiod Theogony: s-140 w-22"/>
@@ -19487,7 +19487,7 @@
             insertion_id="0021f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="7"
             cite="Hesiod Theogony: s-140 w-23"/>
@@ -21281,7 +21281,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Theogony: s-147 w-17"/>
@@ -21407,7 +21407,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="10"
             cite="Hesiod Theogony: s-148 w-17"/>
@@ -22066,7 +22066,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="9"
             cite="Hesiod Theogony: s-152 w-17"/>
@@ -22178,7 +22178,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="3"
             cite="Hesiod Theogony: s-153 w-15"/>
@@ -22451,7 +22451,7 @@
             insertion_id="0037e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="6"
             cite="Hesiod Theogony: s-154 w-38"/>
@@ -22460,7 +22460,7 @@
             insertion_id="0037f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ATR_CO"
             head="31"
             cite="Hesiod Theogony: s-154 w-39"/>
@@ -22469,7 +22469,7 @@
             insertion_id="0037g"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ATR_CO"
             head="31"
             cite="Hesiod Theogony: s-154 w-40"/>
@@ -22959,7 +22959,7 @@
             insertion_id="0068e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="3"
             cite="Hesiod Theogony: s-155 w-69"/>
@@ -22968,7 +22968,7 @@
             insertion_id="0068f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ATR"
             head="37"
             cite="Hesiod Theogony: s-155 w-70"/>
@@ -22977,7 +22977,7 @@
             insertion_id="0068g"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="SBJ"
             head="63"
             cite="Hesiod Theogony: s-155 w-71"/>
@@ -23295,7 +23295,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="11"
             cite="Hesiod Theogony: s-158 w-18"/>
@@ -24862,7 +24862,7 @@
             insertion_id="0039e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="15"
             cite="Hesiod Theogony: s-170 w-40"/>
@@ -25030,7 +25030,7 @@
             insertion_id="0022e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="4"
             cite="Hesiod Theogony: s-171 w-23"/>
@@ -25039,7 +25039,7 @@
             insertion_id="0022f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="12"
             cite="Hesiod Theogony: s-171 w-24"/>
@@ -25116,7 +25116,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="3"
             cite="Hesiod Theogony: s-172 w-10"/>
@@ -25256,7 +25256,7 @@
             insertion_id="0018e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="17"
             cite="Hesiod Theogony: s-173 w-19"/>
@@ -25733,7 +25733,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Theogony: s-177 w-10"/>
@@ -26032,7 +26032,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Theogony: s-179 w-10"/>
@@ -26221,7 +26221,7 @@
             insertion_id="0025e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="2"
             cite="Hesiod Theogony: s-180 w-26"/>
@@ -26511,7 +26511,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="7"
             cite="Hesiod Theogony: s-183 w-11"/>
@@ -26520,7 +26520,7 @@
             insertion_id="0010f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="7"
             cite="Hesiod Theogony: s-183 w-12"/>
@@ -28860,7 +28860,7 @@
             insertion_id="0035e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ATR_CO"
             head="31"
             cite="Hesiod Theogony: s-197 w-36"/>
@@ -29433,7 +29433,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="1"
             cite="Hesiod Theogony: s-202 w-14"/>
@@ -29749,7 +29749,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="6"
             cite="Hesiod Theogony: s-206 w-13"/>
@@ -29819,7 +29819,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="6"
             cite="Hesiod Theogony: s-207 w-9"/>
@@ -30488,7 +30488,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="1"
             cite="Hesiod Theogony: s-213 w-13"/>
@@ -30974,7 +30974,7 @@
             insertion_id="0039e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="8"
             cite="Hesiod Theogony: s-216 w-40"/>
@@ -30983,7 +30983,7 @@
             insertion_id="0039f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="33"
             cite="Hesiod Theogony: s-216 w-41"/>
@@ -32024,7 +32024,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="16"
             cite="Hesiod Theogony: s-225 w-18"/>
@@ -33047,7 +33047,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="7"
             cite="Hesiod Theogony: s-236 w-12"/>
@@ -33096,7 +33096,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="0"
             cite="Hesiod Theogony: s-237 w-6"/>
@@ -33496,7 +33496,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="3"
             cite="Hesiod Theogony: s-241 w-11"/>
@@ -34078,7 +34078,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Theogony: s-245 w-10"/>
@@ -34564,7 +34564,7 @@
             insertion_id="0033e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ATV_CO"
             head="31"
             cite="Hesiod Theogony: s-248 w-34"/>
@@ -35700,7 +35700,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="8"
             cite="Hesiod Theogony: s-255 w-11"/>
@@ -35875,7 +35875,7 @@
             insertion_id="0023e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="9"
             cite="Hesiod Theogony: s-256 w-24"/>
@@ -36901,7 +36901,7 @@
             insertion_id="0045e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="30"
             cite="Hesiod Theogony: s-262 w-46"/>
@@ -36910,7 +36910,7 @@
             insertion_id="0045f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="30"
             cite="Hesiod Theogony: s-262 w-47"/>
@@ -37146,7 +37146,7 @@
             insertion_id="0018e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="14"
             cite="Hesiod Theogony: s-264 w-19"/>
@@ -37618,7 +37618,7 @@
             insertion_id="0020e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="19"
             cite="Hesiod Theogony: s-267 w-21"/>
@@ -38315,7 +38315,7 @@
             insertion_id="0023e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ_CO"
             head="18"
             cite="Hesiod Theogony: s-273 w-24"/>
@@ -38811,7 +38811,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="7"
             cite="Hesiod Theogony: s-278 w-11"/>
@@ -40951,7 +40951,7 @@
             insertion_id="0020e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="10"
             cite="Hesiod Theogony: s-294 w-21"/>
@@ -41982,7 +41982,7 @@
             insertion_id="0062e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="8"
             cite="Hesiod Theogony: s-301 w-63"/>
@@ -42059,7 +42059,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Theogony: s-302 w-10"/>
@@ -42068,7 +42068,7 @@
             insertion_id="0009f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="SBJ"
             head="10"
             cite="Hesiod Theogony: s-302 w-11"/>
@@ -42194,7 +42194,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="15"
             cite="Hesiod Theogony: s-303 w-17"/>
@@ -42334,7 +42334,7 @@
             insertion_id="0018e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="17"
             cite="Hesiod Theogony: s-304 w-19"/>
@@ -43293,7 +43293,7 @@
             insertion_id="0058e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="17"
             cite="Hesiod Theogony: s-312 w-59"/>
@@ -43363,7 +43363,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Theogony: s-313 w-9"/>
@@ -44087,7 +44087,7 @@
             insertion_id="0060e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="53"
             cite="Hesiod Theogony: s-316 w-61"/>
@@ -44096,7 +44096,7 @@
             insertion_id="0060f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="53"
             cite="Hesiod Theogony: s-316 w-62"/>
@@ -44159,7 +44159,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Theogony: s-317 w-8"/>
@@ -44395,7 +44395,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="13"
             cite="Hesiod Theogony: s-319 w-17"/>
@@ -44612,7 +44612,7 @@
             insertion_id="0029e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="23"
             cite="Hesiod Theogony: s-320 w-30"/>
@@ -44621,7 +44621,7 @@
             insertion_id="0029f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="23"
             cite="Hesiod Theogony: s-320 w-31"/>
@@ -44731,7 +44731,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Theogony: s-322 w-7"/>
@@ -44927,7 +44927,7 @@
             insertion_id="0026e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="10"
             cite="Hesiod Theogony: s-323 w-27"/>
@@ -45198,7 +45198,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="0"
             cite="Hesiod Theogony: s-325 w-8"/>
@@ -45570,7 +45570,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="9"
             cite="Hesiod Theogony: s-329 w-15"/>
@@ -45857,7 +45857,7 @@
             insertion_id="0039e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="24"
             cite="Hesiod Theogony: s-330 w-40"/>
@@ -46210,7 +46210,7 @@
             insertion_id="0026e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="22"
             cite="Hesiod Theogony: s-333 w-27"/>
@@ -46820,7 +46820,7 @@
             insertion_id="0021e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="AuxY"
             head="23"
             cite="Hesiod Theogony: s-337 w-22"/>
@@ -46829,7 +46829,7 @@
             insertion_id="0021f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="15"
             cite="Hesiod Theogony: s-337 w-23"/>
@@ -46934,7 +46934,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="3"
             cite="Hesiod Theogony: s-338 w-14"/>
@@ -47268,7 +47268,7 @@
             insertion_id="0028e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="17"
             cite="Hesiod Theogony: s-340 w-29"/>
@@ -47394,7 +47394,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Theogony: s-341 w-17"/>
@@ -47899,7 +47899,7 @@
             insertion_id="0021e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="10"
             cite="Hesiod Theogony: s-345 w-22"/>
@@ -48025,7 +48025,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="11"
             cite="Hesiod Theogony: s-346 w-17"/>
@@ -48719,7 +48719,7 @@
             insertion_id="0048e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="44"
             cite="Hesiod Theogony: s-350 w-49"/>
@@ -48728,7 +48728,7 @@
             insertion_id="0048f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="SBJ"
             head="49"
             cite="Hesiod Theogony: s-350 w-50"/>
@@ -48737,7 +48737,7 @@
             insertion_id="0048g"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="44"
             cite="Hesiod Theogony: s-350 w-51"/>
@@ -48746,7 +48746,7 @@
             insertion_id="0048h"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="SBJ"
             head="51"
             cite="Hesiod Theogony: s-350 w-52"/>
@@ -50451,7 +50451,7 @@
             insertion_id="0027e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="9"
             cite="Hesiod Theogony: s-363 w-28"/>
@@ -50898,7 +50898,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Theogony: s-368 w-12"/>
@@ -50961,7 +50961,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="5"
             cite="Hesiod Theogony: s-369 w-8"/>
@@ -51775,7 +51775,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="7"
             cite="Hesiod Theogony: s-376 w-16"/>
@@ -51971,7 +51971,7 @@
             insertion_id="0026e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="9"
             cite="Hesiod Theogony: s-377 w-27"/>
@@ -52254,7 +52254,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Theogony: s-380 w-14"/>
@@ -52263,7 +52263,7 @@
             insertion_id="0013f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="14"
             cite="Hesiod Theogony: s-380 w-15"/>
@@ -52382,7 +52382,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="10"
             cite="Hesiod Theogony: s-381 w-16"/>
@@ -52884,7 +52884,7 @@
             insertion_id="0050e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ATR_CO"
             head="25"
             cite="Hesiod Theogony: s-383 w-51"/>
@@ -54140,7 +54140,7 @@
             insertion_id="0043e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="23"
             cite="Hesiod Theogony: s-393 w-44"/>
@@ -54369,7 +54369,7 @@
             insertion_id="0022e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="7"
             cite="Hesiod Theogony: s-395 w-23"/>
@@ -55164,7 +55164,7 @@
             insertion_id="0042e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="38"
             cite="Hesiod Theogony: s-401 w-43"/>
@@ -56820,7 +56820,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="10"
             cite="Hesiod Theogony: s-414 w-16"/>
@@ -56829,7 +56829,7 @@
             insertion_id="0015f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="10"
             cite="Hesiod Theogony: s-414 w-17"/>
@@ -58498,7 +58498,7 @@
             insertion_id="0028e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="14"
             cite="Hesiod Theogony: s-424 w-29"/>
@@ -58729,7 +58729,7 @@
             insertion_id="0031e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="1"
             cite="Hesiod Theogony: s-425 w-32"/>
@@ -59049,7 +59049,7 @@
             insertion_id="0021e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="13"
             cite="Hesiod Theogony: s-427 w-22"/>
@@ -59058,7 +59058,7 @@
             insertion_id="0021f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="18"
             cite="Hesiod Theogony: s-427 w-23"/>
@@ -59147,7 +59147,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Theogony: s-429 w-5"/>
@@ -59364,7 +59364,7 @@
             insertion_id="0029e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="SBJ"
             head="31"
             cite="Hesiod Theogony: s-430 w-30"/>
@@ -59373,7 +59373,7 @@
             insertion_id="0029f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Theogony: s-430 w-31"/>
@@ -59382,7 +59382,7 @@
             insertion_id="0029g"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="9"
             cite="Hesiod Theogony: s-430 w-32"/>
@@ -59391,7 +59391,7 @@
             insertion_id="0029h"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="25"
             cite="Hesiod Theogony: s-430 w-33"/>
@@ -59669,7 +59669,7 @@
             insertion_id="0020e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="5"
             cite="Hesiod Theogony: s-432 w-21"/>
@@ -59938,7 +59938,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="7"
             cite="Hesiod Theogony: s-435 w-14"/>

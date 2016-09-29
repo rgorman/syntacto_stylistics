@@ -26768,7 +26768,7 @@
                   cite="Lysias Orat. 13: s-178 w-2"/>
             <word id="3" form="ἐστιν" lemma="εἰμί" postag="v3spia---" relation="PRED" head="0"
                   cite="Lysias Orat. 13: s-178 w-3"/>
-            <word id="4" form="Ἀγόρατον" lemma="Ἀγόρατος" postag="n-s---ma-" relation="" head="6"
+            <word id="4" form="Ἀγόρατον" lemma="Ἀγόρατος" postag="n-s---ma-" relation="MISSING" head="6"
                   cite="Lysias Orat. 13: s-178 w-4"/>
             <word id="5" form="Ἀθηναῖον" lemma="Ἀθηναῖος" postag="a-s---ma-" relation="PNOM"
                   head="6" cite="Lysias Orat. 13: s-178 w-5"/>
@@ -40286,9 +40286,9 @@
                   cite="Lysias Orat. 19: s-42 w-2"/>
             <word id="3" form="ἐλπίδες" lemma="ἐλπίς" postag="n-p---fn-" relation="PNOM" head="1"
                   cite="Lysias Orat. 19: s-42 w-3"/>
-            <word id="4" form="τοῦ" lemma="ὁ" postag="l-s---mg-" relation="" head="5"
+            <word id="4" form="τοῦ" lemma="ὁ" postag="l-s---mg-" relation="MISSING" head="5"
                   cite="Lysias Orat. 19: s-42 w-4"/>
-            <word id="5" form="πλοῦ" lemma="πλόος" postag="n-s---mg-" relation="" head="3"
+            <word id="5" form="πλοῦ" lemma="πλόος" postag="n-s---mg-" relation="MISSING" head="3"
                   cite="Lysias Orat. 19: s-42 w-5"/>
             <word id="6" form="πεῖσαι" lemma="πείθω" postag="v--ana---" relation="SBJ" head="1"
                   cite="Lysias Orat. 19: s-42 w-6"/>

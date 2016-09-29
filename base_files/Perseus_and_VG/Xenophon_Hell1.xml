@@ -928,35 +928,35 @@
       </sentence>
       <sentence id="23" document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1" subdoc="1.1.13"
             span="Xenophon Hellenica Book 1: s-23">
-            <word id="1" form="Ἀλκιβιάδης" lemma="Ἀλκιβιάδης" postag="n-s---mn-" relation=""
+            <word id="1" form="Ἀλκιβιάδης" lemma="Ἀλκιβιάδης" postag="n-s---mn-" relation="MISSING"
                   head="13" cite="Xenophon Hellenica Book 1: s-23 w-1"/>
-            <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="" head="13"
+            <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="MISSING" head="13"
                   cite="Xenophon Hellenica Book 1: s-23 w-2"/>
-            <word id="3" form="εἰπὼν" lemma="εἶπον" postag="v-sapamn-" relation="" head="13"
+            <word id="3" form="εἰπὼν" lemma="εἶπον" postag="v-sapamn-" relation="MISSING" head="13"
                   cite="Xenophon Hellenica Book 1: s-23 w-3"/>
-            <word id="4" form="καὶ" lemma="καί" postag="d--------" relation="" head="5"
+            <word id="4" form="καὶ" lemma="καί" postag="d--------" relation="MISSING" head="5"
                   cite="Xenophon Hellenica Book 1: s-23 w-4"/>
-            <word id="5" form="τούτοις" lemma="οὗτος" postag="p-p---md-" relation="" head="3"
+            <word id="5" form="τούτοις" lemma="οὗτος" postag="p-p---md-" relation="MISSING" head="3"
                   cite="Xenophon Hellenica Book 1: s-23 w-5"/>
-            <word id="6" form="διώκειν" lemma="διώκω" postag="v--pna---" relation="" head="3"
+            <word id="6" form="διώκειν" lemma="διώκω" postag="v--pna---" relation="MISSING" head="3"
                   cite="Xenophon Hellenica Book 1: s-23 w-6"/>
-            <word id="7" form="αὐτὸν" lemma="αὐτός" postag="p-s---ma-" relation="" head="6"
+            <word id="7" form="αὐτὸν" lemma="αὐτός" postag="p-s---ma-" relation="MISSING" head="6"
                   cite="Xenophon Hellenica Book 1: s-23 w-7"/>
-            <word id="8" form="ἐξελομένοις" lemma="ἐξαιρέω" postag="v-papmmd-" relation="" head="6"
+            <word id="8" form="ἐξελομένοις" lemma="ἐξαιρέω" postag="v-papmmd-" relation="MISSING" head="6"
                   cite="Xenophon Hellenica Book 1: s-23 w-8"/>
-            <word id="9" form="τὰ" lemma="ὁ" postag="l-p---na-" relation="" head="11"
+            <word id="9" form="τὰ" lemma="ὁ" postag="l-p---na-" relation="MISSING" head="11"
                   cite="Xenophon Hellenica Book 1: s-23 w-9"/>
-            <word id="10" form="μεγάλα" lemma="μέγας" postag="a-p---na-" relation="" head="11"
+            <word id="10" form="μεγάλα" lemma="μέγας" postag="a-p---na-" relation="MISSING" head="11"
                   cite="Xenophon Hellenica Book 1: s-23 w-10"/>
-            <word id="11" form="ἱστία" lemma="ἱστίον" postag="n-p---na-" relation="" head="8"
+            <word id="11" form="ἱστία" lemma="ἱστίον" postag="n-p---na-" relation="MISSING" head="8"
                   cite="Xenophon Hellenica Book 1: s-23 w-11"/>
-            <word id="12" form="αὐτὸς" lemma="αὐτός" postag="a-s---mn_" relation="" head="1"
+            <word id="12" form="αὐτὸς" lemma="αὐτός" postag="a-s---mn_" relation="MISSING" head="1"
                   cite="Xenophon Hellenica Book 1: s-23 w-12"/>
-            <word id="13" form="ἔπλευσεν" lemma="πλέω" postag="v3saia---" relation="" head="0"
+            <word id="13" form="ἔπλευσεν" lemma="πλέω" postag="v3saia---" relation="MISSING" head="0"
                   cite="Xenophon Hellenica Book 1: s-23 w-13"/>
-            <word id="14" form="εἰς" lemma="εἰς" postag="r--------" relation="" head="13"
+            <word id="14" form="εἰς" lemma="εἰς" postag="r--------" relation="MISSING" head="13"
                   cite="Xenophon Hellenica Book 1: s-23 w-14"/>
-            <word id="15" form="Πάριον" lemma="Πάριον" postag="n-s---na-" relation="" head="14"
+            <word id="15" form="Πάριον" lemma="Πάριον" postag="n-s---na-" relation="MISSING" head="14"
                   cite="Xenophon Hellenica Book 1: s-23 w-15"/>
             <word id="16" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite="Xenophon Hellenica Book 1: s-23 w-16"/>
@@ -6854,7 +6854,7 @@
                   cite="Xenophon Hellenica Book 1: s-148 w-7"/>
             <word id="8" form="οὐδὲν" lemma="οὐδείς" postag="p-s---na-" relation="OBJ" head="9"
                   cite="Xenophon Hellenica Book 1: s-148 w-8"/>
-            <word id="9" form="ἔχοντες" lemma="ἔχω" postag="v-pppamn-" relation="" head="14"
+            <word id="9" form="ἔχοντες" lemma="ἔχω" postag="v-pppamn-" relation="MISSING" head="14"
                   cite="Xenophon Hellenica Book 1: s-148 w-9"/>
             <word id="10" form="ὅ" lemma="ὅς" postag="p-s---na-" relation="OBJ" head="12"
                   cite="Xenophon Hellenica Book 1: s-148 w-10"/>

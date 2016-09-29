@@ -279,7 +279,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-3 w-15"/>
@@ -328,7 +328,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-4 w-6"/>
@@ -731,7 +731,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="8"
             cite="Aeschylus Ch: s-10 w-12"/>
@@ -773,7 +773,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-11 w-5"/>
@@ -871,7 +871,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="5"
             cite="Aeschylus Ch: s-12 w-13"/>
@@ -1093,7 +1093,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="9"
             cite="Aeschylus Ch: s-14 w-15"/>
@@ -1238,7 +1238,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="1"
             cite="Aeschylus Ch: s-16 w-9"/>
@@ -1940,7 +1940,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-23 w-8"/>
@@ -2010,7 +2010,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-24 w-9"/>
@@ -2333,7 +2333,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-28 w-14"/>
@@ -2852,7 +2852,7 @@
             insertion_id="0022e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="9"
             cite="Aeschylus Ch: s-32 w-23"/>
@@ -2929,7 +2929,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-33 w-10"/>
@@ -3104,7 +3104,7 @@
             insertion_id="0023e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="19"
             cite="Aeschylus Ch: s-34 w-24"/>
@@ -3551,7 +3551,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-39 w-15"/>
@@ -3850,7 +3850,7 @@
             insertion_id="0022e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="6"
             cite="Aeschylus Ch: s-41 w-23"/>
@@ -4046,7 +4046,7 @@
             insertion_id="0026e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="18"
             cite="Aeschylus Ch: s-42 w-27"/>
@@ -4519,7 +4519,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="4"
             cite="Aeschylus Ch: s-48 w-17"/>
@@ -4744,7 +4744,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-52 w-8"/>
@@ -5051,7 +5051,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="3"
             cite="Aeschylus Ch: s-57 w-9"/>
@@ -5114,7 +5114,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-58 w-8"/>
@@ -5243,7 +5243,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-61 w-9"/>
@@ -5353,7 +5353,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-63 w-8"/>
@@ -5477,7 +5477,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-65 w-9"/>
@@ -6094,7 +6094,7 @@
             insertion_id="0020e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ATR"
             head="14"
             cite="Aeschylus Ch: s-69 w-21"/>
@@ -6136,7 +6136,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-70 w-5"/>
@@ -6641,7 +6641,7 @@
             insertion_id="0022e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="7"
             cite="Aeschylus Ch: s-74 w-23"/>
@@ -7013,7 +7013,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-78 w-12"/>
@@ -7277,7 +7277,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="5"
             cite="Aeschylus Ch: s-80 w-17"/>
@@ -7769,7 +7769,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-87 w-9"/>
@@ -7851,7 +7851,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-89 w-4"/>
@@ -8015,7 +8015,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-92 w-8"/>
@@ -8111,7 +8111,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-94 w-4"/>
@@ -8207,7 +8207,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-96 w-7"/>
@@ -8610,7 +8610,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="9"
             cite="Aeschylus Ch: s-102 w-13"/>
@@ -9108,7 +9108,7 @@
             insertion_id="0022e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="19"
             cite="Aeschylus Ch: s-106 w-23"/>
@@ -9136,7 +9136,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-107 w-3"/>
@@ -9865,7 +9865,7 @@
             insertion_id="0030e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="15"
             cite="Aeschylus Ch: s-111 w-31"/>
@@ -10167,7 +10167,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-115 w-8"/>
@@ -10730,7 +10730,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-125 w-11"/>
@@ -10739,7 +10739,7 @@
             insertion_id="0010f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="6"
             cite="Aeschylus Ch: s-125 w-12"/>
@@ -10809,7 +10809,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="1"
             cite="Aeschylus Ch: s-126 w-9"/>
@@ -10996,7 +10996,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="0"
             cite="Aeschylus Ch: s-128 w-18"/>
@@ -11525,7 +11525,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-134 w-9"/>
@@ -11745,7 +11745,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="SBJ"
             head="8"
             cite="Aeschylus Ch: s-137 w-7"/>
@@ -11754,7 +11754,7 @@
             insertion_id="0006f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-137 w-8"/>
@@ -12220,7 +12220,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-143 w-9"/>
@@ -13394,7 +13394,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-152 w-11"/>
@@ -13740,7 +13740,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-155 w-8"/>
@@ -14254,7 +14254,7 @@
             insertion_id="0022e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-158 w-23"/>
@@ -14317,7 +14317,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-159 w-8"/>
@@ -14408,7 +14408,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-160 w-12"/>
@@ -14829,7 +14829,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-164 w-5"/>
@@ -14892,7 +14892,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="1"
             cite="Aeschylus Ch: s-165 w-8"/>
@@ -15227,7 +15227,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ_AP"
             head="3"
             cite="Aeschylus Ch: s-170 w-9"/>
@@ -16044,7 +16044,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="6"
             cite="Aeschylus Ch: s-179 w-10"/>
@@ -16053,7 +16053,7 @@
             insertion_id="0009f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="6"
             cite="Aeschylus Ch: s-179 w-11"/>
@@ -16095,7 +16095,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-180 w-5"/>
@@ -16668,7 +16668,7 @@
             insertion_id="0020e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-185 w-21"/>
@@ -17173,7 +17173,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="11"
             cite="Aeschylus Ch: s-189 w-18"/>
@@ -17386,7 +17386,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="9"
             cite="Aeschylus Ch: s-192 w-17"/>
@@ -17395,7 +17395,7 @@
             insertion_id="0016f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="9"
             cite="Aeschylus Ch: s-192 w-18"/>
@@ -17505,7 +17505,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="5"
             cite="Aeschylus Ch: s-194 w-9"/>
@@ -17645,7 +17645,7 @@
             insertion_id="0018e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="15"
             cite="Aeschylus Ch: s-195 w-19"/>
@@ -17893,7 +17893,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="5"
             cite="Aeschylus Ch: s-198 w-11"/>
@@ -18235,7 +18235,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-203 w-13"/>
@@ -18719,7 +18719,7 @@
             insertion_id="0023e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="15"
             cite="Aeschylus Ch: s-207 w-24"/>
@@ -18948,7 +18948,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="6"
             cite="Aeschylus Ch: s-209 w-16"/>
@@ -19093,7 +19093,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PNOM"
             head="3"
             cite="Aeschylus Ch: s-211 w-11"/>
@@ -19317,7 +19317,7 @@
             insertion_id="0030e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="14"
             cite="Aeschylus Ch: s-212 w-31"/>
@@ -19478,7 +19478,7 @@
             insertion_id="0021e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ_CO"
             head="15"
             cite="Aeschylus Ch: s-213 w-22"/>
@@ -20683,7 +20683,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="4"
             cite="Aeschylus Ch: s-231 w-8"/>
@@ -20936,7 +20936,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="4"
             cite="Aeschylus Ch: s-235 w-10"/>
@@ -20985,7 +20985,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-236 w-6"/>
@@ -21027,7 +21027,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-237 w-5"/>
@@ -21181,7 +21181,7 @@
             insertion_id="0020e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-238 w-21"/>
@@ -21190,7 +21190,7 @@
             insertion_id="0020f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="12"
             cite="Aeschylus Ch: s-238 w-22"/>
@@ -21253,7 +21253,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-239 w-8"/>
@@ -21749,7 +21749,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="1"
             cite="Aeschylus Ch: s-244 w-13"/>
@@ -22239,7 +22239,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-252 w-7"/>
@@ -22824,7 +22824,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-258 w-8"/>
@@ -22929,7 +22929,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="3"
             cite="Aeschylus Ch: s-259 w-14"/>
@@ -23681,7 +23681,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-269 w-14"/>
@@ -24185,7 +24185,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-277 w-7"/>
@@ -24248,7 +24248,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="9"
             cite="Aeschylus Ch: s-278 w-8"/>
@@ -24257,7 +24257,7 @@
             insertion_id="0007f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-278 w-9"/>
@@ -24428,7 +24428,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-281 w-8"/>
@@ -24463,7 +24463,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-282 w-4"/>
@@ -25547,7 +25547,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-294 w-5"/>
@@ -25827,7 +25827,7 @@
             insertion_id="0038e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="7"
             cite="Aeschylus Ch: s-295 w-39"/>
@@ -26685,7 +26685,7 @@
             insertion_id="0045e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="33"
             cite="Aeschylus Ch: s-301 w-46"/>
@@ -27873,7 +27873,7 @@
             insertion_id="0039e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="SBJ"
             head="1"
             cite="Aeschylus Ch: s-310 w-40"/>
@@ -28111,7 +28111,7 @@
             insertion_id="0032e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="14"
             cite="Aeschylus Ch: s-311 w-33"/>
@@ -28368,7 +28368,7 @@
             insertion_id="0029e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-313 w-30"/>
@@ -28377,7 +28377,7 @@
             insertion_id="0029f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="SBJ"
             head="30"
             cite="Aeschylus Ch: s-313 w-31"/>
@@ -29012,7 +29012,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="SBJ"
             head="19"
             cite="Aeschylus Ch: s-322 w-18"/>
@@ -29021,7 +29021,7 @@
             insertion_id="0017f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-322 w-19"/>
@@ -29370,7 +29370,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-327 w-15"/>
@@ -29534,7 +29534,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-330 w-5"/>
@@ -29562,7 +29562,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-331 w-3"/>
@@ -29812,7 +29812,7 @@
             insertion_id="0020e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV_CO"
             head="12"
             cite="Aeschylus Ch: s-333 w-21"/>
@@ -29903,7 +29903,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="1"
             cite="Aeschylus Ch: s-334 w-12"/>
@@ -29912,7 +29912,7 @@
             insertion_id="0011f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="SBJ"
             head="12"
             cite="Aeschylus Ch: s-334 w-13"/>
@@ -30057,7 +30057,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="0"
             cite="Aeschylus Ch: s-336 w-10"/>
@@ -30279,7 +30279,7 @@
             insertion_id="0021e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="SBJ_AP"
             head="8"
             cite="Aeschylus Ch: s-338 w-22"/>
@@ -31027,7 +31027,7 @@
             insertion_id="0024e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="SBJ"
             head="26"
             cite="Aeschylus Ch: s-343 w-25"/>
@@ -31036,7 +31036,7 @@
             insertion_id="0024f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ_CO"
             head="8"
             cite="Aeschylus Ch: s-343 w-26"/>
@@ -31284,7 +31284,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="14"
             cite="Aeschylus Ch: s-346 w-18"/>
@@ -31756,7 +31756,7 @@
             insertion_id="0030e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="18"
             cite="Aeschylus Ch: s-349 w-31"/>
@@ -32524,7 +32524,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="1"
             cite="Aeschylus Ch: s-358 w-8"/>
@@ -33757,7 +33757,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-369 w-5"/>
@@ -34213,7 +34213,7 @@
             insertion_id="0027e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-373 w-28"/>
@@ -34346,7 +34346,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-374 w-18"/>
@@ -34355,7 +34355,7 @@
             insertion_id="0017f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_PA"
             head="18"
             cite="Aeschylus Ch: s-374 w-19"/>
@@ -34563,7 +34563,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-376 w-7"/>
@@ -34724,7 +34724,7 @@
             insertion_id="0021e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="14"
             cite="Aeschylus Ch: s-377 w-22"/>
@@ -35038,7 +35038,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-382 w-4"/>
@@ -35155,7 +35155,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ_CO"
             head="1"
             cite="Aeschylus Ch: s-384 w-8"/>
@@ -35164,7 +35164,7 @@
             insertion_id="0007f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-384 w-9"/>
@@ -35173,7 +35173,7 @@
             insertion_id="0007g"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ_CO"
             head="4"
             cite="Aeschylus Ch: s-384 w-10"/>
@@ -35562,7 +35562,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-390 w-9"/>
@@ -35597,7 +35597,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-391 w-4"/>
@@ -35646,7 +35646,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="3"
             cite="Aeschylus Ch: s-392 w-6"/>
@@ -35674,7 +35674,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-393 w-3"/>
@@ -37208,7 +37208,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="8"
             cite="Aeschylus Ch: s-411 w-14"/>
@@ -37395,7 +37395,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="14"
             cite="Aeschylus Ch: s-413 w-18"/>
@@ -37535,7 +37535,7 @@
             insertion_id="0018e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ_AP"
             head="7"
             cite="Aeschylus Ch: s-414 w-19"/>
@@ -37544,7 +37544,7 @@
             insertion_id="0018f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ_AP_CO"
             head="11"
             cite="Aeschylus Ch: s-414 w-20"/>
@@ -38724,7 +38724,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-427 w-11"/>
@@ -39084,7 +39084,7 @@
             insertion_id="0020e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="8"
             cite="Aeschylus Ch: s-430 w-21"/>
@@ -39484,7 +39484,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-434 w-6"/>
@@ -39526,7 +39526,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-435 w-5"/>
@@ -39770,7 +39770,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-440 w-7"/>
@@ -39833,7 +39833,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-441 w-8"/>
@@ -40072,7 +40072,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-445 w-4"/>
@@ -40107,7 +40107,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-446 w-4"/>
@@ -40203,7 +40203,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-448 w-4"/>
@@ -40494,7 +40494,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-454 w-5"/>
@@ -40865,7 +40865,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-462 w-5"/>
@@ -41397,7 +41397,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-470 w-14"/>
@@ -41950,7 +41950,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-478 w-10"/>
@@ -42290,7 +42290,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-484 w-9"/>
@@ -42536,7 +42536,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-488 w-8"/>
@@ -43094,7 +43094,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Ch: s-497 w-8"/>
@@ -43185,7 +43185,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="SBJ"
             head="4"
             cite="Aeschylus Ch: s-498 w-12"/>

@@ -604,7 +604,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-5 w-8"/>
@@ -805,7 +805,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="8"
             cite="Sophocles OT: s-7 w-17"/>
@@ -987,7 +987,7 @@
             insertion_id="0024e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="9"
             cite="Sophocles OT: s-8 w-25"/>
@@ -996,7 +996,7 @@
             insertion_id="0024f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="15"
             cite="Sophocles OT: s-8 w-26"/>
@@ -1005,7 +1005,7 @@
             insertion_id="0024g"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="15"
             cite="Sophocles OT: s-8 w-27"/>
@@ -1014,7 +1014,7 @@
             insertion_id="0024h"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PNOM"
             head="27"
             cite="Sophocles OT: s-8 w-28"/>
@@ -1023,7 +1023,7 @@
             insertion_id="0024i"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="21"
             cite="Sophocles OT: s-8 w-29"/>
@@ -1420,7 +1420,7 @@
             insertion_id="0035e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="0"
             cite="Sophocles OT: s-10 w-36"/>
@@ -1429,7 +1429,7 @@
             insertion_id="0035f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="36"
             cite="Sophocles OT: s-10 w-37"/>
@@ -2277,7 +2277,7 @@
             insertion_id="0030e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV_CO"
             head="25"
             cite="Sophocles OT: s-14 w-31"/>
@@ -2375,7 +2375,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-15 w-13"/>
@@ -2569,7 +2569,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-17 w-13"/>
@@ -2955,7 +2955,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="0"
             cite="Sophocles OT: s-21 w-17"/>
@@ -3074,7 +3074,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-22 w-16"/>
@@ -3310,7 +3310,7 @@
             insertion_id="0020e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="11"
             cite="Sophocles OT: s-24 w-21"/>
@@ -3506,7 +3506,7 @@
             insertion_id="0026e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="6"
             cite="Sophocles OT: s-25 w-27"/>
@@ -3681,7 +3681,7 @@
             insertion_id="0023e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-26 w-24"/>
@@ -4488,7 +4488,7 @@
             insertion_id="0020e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="13"
             cite="Sophocles OT: s-33 w-21"/>
@@ -4638,7 +4638,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-36 w-6"/>
@@ -4783,7 +4783,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="4"
             cite="Sophocles OT: s-38 w-3"/>
@@ -4792,7 +4792,7 @@
             insertion_id="0002f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-38 w-4"/>
@@ -5164,7 +5164,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-42 w-15"/>
@@ -5302,7 +5302,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="7"
             cite="Sophocles OT: s-44 w-14"/>
@@ -5543,7 +5543,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-47 w-4"/>
@@ -5599,7 +5599,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-48 w-7"/>
@@ -5704,7 +5704,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="15"
             cite="Sophocles OT: s-49 w-14"/>
@@ -5713,7 +5713,7 @@
             insertion_id="0013f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-49 w-15"/>
@@ -6203,7 +6203,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="3"
             cite="Sophocles OT: s-57 w-6"/>
@@ -6280,7 +6280,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="7"
             cite="Sophocles OT: s-58 w-10"/>
@@ -6799,7 +6799,7 @@
             insertion_id="0020e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="4"
             cite="Sophocles OT: s-62 w-21"/>
@@ -6834,7 +6834,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-63 w-4"/>
@@ -7630,7 +7630,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="6"
             cite="Sophocles OT: s-72 w-15"/>
@@ -7735,7 +7735,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-73 w-14"/>
@@ -7847,7 +7847,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="8"
             cite="Sophocles OT: s-74 w-15"/>
@@ -8296,7 +8296,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="8"
             cite="Sophocles OT: s-78 w-11"/>
@@ -8806,7 +8806,7 @@
             insertion_id="0025e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ_CO"
             head="19"
             cite="Sophocles OT: s-83 w-26"/>
@@ -9238,7 +9238,7 @@
             insertion_id="0048e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="25"
             cite="Sophocles OT: s-85 w-49"/>
@@ -9652,7 +9652,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="6"
             cite="Sophocles OT: s-89 w-18"/>
@@ -9886,7 +9886,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="5"
             cite="Sophocles OT: s-92 w-17"/>
@@ -10269,7 +10269,7 @@
             insertion_id="0033e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-94 w-34"/>
@@ -11092,7 +11092,7 @@
             insertion_id="0021e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="17"
             cite="Sophocles OT: s-100 w-22"/>
@@ -11529,7 +11529,7 @@
             insertion_id="0018e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="7"
             cite="Sophocles OT: s-103 w-19"/>
@@ -12495,7 +12495,7 @@
             insertion_id="0021e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-111 w-22"/>
@@ -12766,7 +12766,7 @@
             insertion_id="0021e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV_CO"
             head="11"
             cite="Sophocles OT: s-113 w-22"/>
@@ -13065,7 +13065,7 @@
             insertion_id="0021e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="20"
             cite="Sophocles OT: s-115 w-22"/>
@@ -13539,7 +13539,7 @@
             insertion_id="0038e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-117 w-39"/>
@@ -13873,7 +13873,7 @@
             insertion_id="0035e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="0"
             cite="Sophocles OT: s-119 w-36"/>
@@ -15184,7 +15184,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-133 w-11"/>
@@ -15226,7 +15226,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-134 w-5"/>
@@ -15975,7 +15975,7 @@
             insertion_id="0030e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="24"
             cite="Sophocles OT: s-142 w-31"/>
@@ -16531,7 +16531,7 @@
             insertion_id="0031e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV_CO"
             head="8"
             cite="Sophocles OT: s-145 w-32"/>
@@ -16676,7 +16676,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-147 w-14"/>
@@ -16774,7 +16774,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-148 w-13"/>
@@ -17093,7 +17093,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="0"
             cite="Sophocles OT: s-154 w-15"/>
@@ -17102,7 +17102,7 @@
             insertion_id="0014f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="15"
             cite="Sophocles OT: s-154 w-16"/>
@@ -17490,7 +17490,7 @@
             insertion_id="0022e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-157 w-23"/>
@@ -18106,7 +18106,7 @@
             insertion_id="0024e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="23"
             cite="Sophocles OT: s-165 w-25"/>
@@ -18635,7 +18635,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ATR"
             head="9"
             cite="Sophocles OT: s-171 w-13"/>
@@ -18850,7 +18850,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="8"
             cite="Sophocles OT: s-173 w-16"/>
@@ -18988,7 +18988,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-175 w-3"/>
@@ -19370,7 +19370,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-181 w-5"/>
@@ -19433,7 +19433,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-182 w-8"/>
@@ -19468,7 +19468,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-183 w-4"/>
@@ -19557,7 +19557,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="5"
             cite="Sophocles OT: s-185 w-4"/>
@@ -19566,7 +19566,7 @@
             insertion_id="0003f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-185 w-5"/>
@@ -19749,7 +19749,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-189 w-7"/>
@@ -20021,7 +20021,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-194 w-5"/>
@@ -20063,7 +20063,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-195 w-5"/>
@@ -20311,7 +20311,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-198 w-9"/>
@@ -20615,7 +20615,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-201 w-17"/>
@@ -20893,7 +20893,7 @@
             insertion_id="0018e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-203 w-19"/>
@@ -20949,7 +20949,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-204 w-7"/>
@@ -21040,7 +21040,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="7"
             cite="Sophocles OT: s-205 w-12"/>
@@ -21049,7 +21049,7 @@
             insertion_id="0011f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="7"
             cite="Sophocles OT: s-205 w-13"/>
@@ -21642,7 +21642,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-207 w-12"/>
@@ -22657,7 +22657,7 @@
             insertion_id="0034e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="23"
             cite="Sophocles OT: s-215 w-35"/>
@@ -22741,7 +22741,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-216 w-11"/>
@@ -22912,7 +22912,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-219 w-7"/>
@@ -23452,7 +23452,7 @@
             insertion_id="0038e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="6"
             cite="Sophocles OT: s-223 w-39"/>
@@ -23662,7 +23662,7 @@
             insertion_id="0028e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="9"
             cite="Sophocles OT: s-224 w-29"/>
@@ -23999,7 +23999,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-228 w-9"/>
@@ -24041,7 +24041,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-229 w-5"/>
@@ -24076,7 +24076,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-230 w-4"/>
@@ -24504,7 +24504,7 @@
             insertion_id="0020e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="13"
             cite="Sophocles OT: s-234 w-21"/>
@@ -24532,7 +24532,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-235 w-3"/>
@@ -24710,7 +24710,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="2"
             cite="Sophocles OT: s-238 w-8"/>
@@ -25193,7 +25193,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-246 w-16"/>
@@ -25621,7 +25621,7 @@
             insertion_id="0033e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="7"
             cite="Sophocles OT: s-250 w-34"/>
@@ -25934,7 +25934,7 @@
             insertion_id="0027e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="20"
             cite="Sophocles OT: s-252 w-28"/>
@@ -25943,7 +25943,7 @@
             insertion_id="0027f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="20"
             cite="Sophocles OT: s-252 w-29"/>
@@ -26177,7 +26177,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-255 w-14"/>
@@ -26254,7 +26254,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-256 w-10"/>
@@ -26656,7 +26656,7 @@
             insertion_id="0022e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="1"
             cite="Sophocles OT: s-259 w-23"/>
@@ -27297,7 +27297,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-265 w-15"/>
@@ -27416,7 +27416,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="6"
             cite="Sophocles OT: s-266 w-16"/>
@@ -28080,7 +28080,7 @@
             insertion_id="0030e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-271 w-31"/>
@@ -28304,7 +28304,7 @@
             insertion_id="0030e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV_CO"
             head="24"
             cite="Sophocles OT: s-272 w-31"/>
@@ -28423,7 +28423,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="10"
             cite="Sophocles OT: s-273 w-16"/>
@@ -28624,7 +28624,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="5"
             cite="Sophocles OT: s-275 w-11"/>
@@ -28729,7 +28729,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="9"
             cite="Sophocles OT: s-276 w-14"/>
@@ -29333,7 +29333,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-283 w-15"/>
@@ -29684,7 +29684,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="6"
             cite="Sophocles OT: s-287 w-11"/>
@@ -29693,7 +29693,7 @@
             insertion_id="0010f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="6"
             cite="Sophocles OT: s-287 w-12"/>
@@ -30522,7 +30522,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-297 w-12"/>
@@ -30787,7 +30787,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="6"
             cite="Sophocles OT: s-302 w-8"/>
@@ -30918,7 +30918,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-304 w-8"/>
@@ -31028,7 +31028,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_PA"
             head="1"
             cite="Sophocles OT: s-306 w-7"/>
@@ -31319,7 +31319,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-312 w-4"/>
@@ -31506,7 +31506,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-314 w-17"/>
@@ -31658,7 +31658,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ATR"
             head="6"
             cite="Sophocles OT: s-316 w-12"/>
@@ -31759,7 +31759,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-319 w-4"/>
@@ -32167,7 +32167,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-326 w-11"/>
@@ -32356,7 +32356,7 @@
             insertion_id="0025e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="27"
             cite="Sophocles OT: s-327 w-26"/>
@@ -32365,7 +32365,7 @@
             insertion_id="0025f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="15"
             cite="Sophocles OT: s-327 w-27"/>
@@ -32533,7 +32533,7 @@
             insertion_id="0022e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="12"
             cite="Sophocles OT: s-328 w-23"/>
@@ -32872,7 +32872,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="8"
             cite="Sophocles OT: s-331 w-14"/>
@@ -33815,7 +33815,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-340 w-17"/>
@@ -33948,7 +33948,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="7"
             cite="Sophocles OT: s-341 w-18"/>
@@ -34229,7 +34229,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-345 w-8"/>
@@ -34444,7 +34444,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="13"
             cite="Sophocles OT: s-347 w-16"/>
@@ -34533,7 +34533,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-349 w-7"/>
@@ -34561,7 +34561,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-350 w-3"/>
@@ -34685,7 +34685,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-352 w-9"/>
@@ -34842,7 +34842,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-355 w-5"/>
@@ -34898,7 +34898,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="SBJ"
             head="4"
             cite="Sophocles OT: s-356 w-7"/>
@@ -34980,7 +34980,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-358 w-6"/>
@@ -35022,7 +35022,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-359 w-5"/>
@@ -35071,7 +35071,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-360 w-6"/>
@@ -35113,7 +35113,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-361 w-5"/>
@@ -35361,7 +35361,7 @@
             insertion_id="0020e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ATR"
             head="9"
             cite="Sophocles OT: s-364 w-21"/>
@@ -35674,7 +35674,7 @@
             insertion_id="0022e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="7"
             cite="Sophocles OT: s-366 w-23"/>
@@ -36275,7 +36275,7 @@
             insertion_id="0024e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV_CO"
             head="16"
             cite="Sophocles OT: s-371 w-25"/>
@@ -36488,7 +36488,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-374 w-13"/>
@@ -36692,7 +36692,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-378 w-14"/>
@@ -36886,7 +36886,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-380 w-9"/>
@@ -36991,7 +36991,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-381 w-14"/>
@@ -37501,7 +37501,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="8"
             cite="Sophocles OT: s-386 w-14"/>
@@ -37632,7 +37632,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="0"
             cite="Sophocles OT: s-388 w-7"/>
@@ -37730,7 +37730,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="9"
             cite="Sophocles OT: s-389 w-13"/>
@@ -37854,7 +37854,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-391 w-7"/>
@@ -37863,7 +37863,7 @@
             insertion_id="0006f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="1"
             cite="Sophocles OT: s-391 w-8"/>
@@ -38001,7 +38001,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-393 w-5"/>
@@ -38029,7 +38029,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-394 w-3"/>
@@ -38848,7 +38848,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-402 w-8"/>
@@ -39026,7 +39026,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-405 w-8"/>
@@ -39145,7 +39145,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-406 w-16"/>
@@ -39603,7 +39603,7 @@
             insertion_id="0033e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ_CO"
             head="8"
             cite="Sophocles OT: s-409 w-34"/>
@@ -39736,7 +39736,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="5"
             cite="Sophocles OT: s-410 w-18"/>
@@ -40288,7 +40288,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="5"
             cite="Sophocles OT: s-415 w-14"/>
@@ -40714,7 +40714,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="15"
             cite="Sophocles OT: s-420 w-17"/>
@@ -41166,7 +41166,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ_CO"
             head="10"
             cite="Sophocles OT: s-426 w-15"/>
@@ -41787,7 +41787,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="4"
             cite="Sophocles OT: s-435 w-14"/>
@@ -41890,7 +41890,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-437 w-3"/>
@@ -41993,7 +41993,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-439 w-7"/>
@@ -42152,7 +42152,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-441 w-9"/>
@@ -42241,7 +42241,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-443 w-4"/>
@@ -42493,7 +42493,7 @@
             insertion_id="0034e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="23"
             cite="Sophocles OT: s-444 w-35"/>
@@ -43025,7 +43025,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-452 w-15"/>
@@ -43226,7 +43226,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="8"
             cite="Sophocles OT: s-454 w-16"/>
@@ -43324,7 +43324,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="9"
             cite="Sophocles OT: s-455 w-13"/>
@@ -44851,7 +44851,7 @@
             insertion_id="0024e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="23"
             cite="Sophocles OT: s-466 w-25"/>
@@ -45677,7 +45677,7 @@
             insertion_id="0020e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="17"
             cite="Sophocles OT: s-474 w-21"/>
@@ -45803,7 +45803,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="15"
             cite="Sophocles OT: s-475 w-17"/>
@@ -45981,7 +45981,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-478 w-6"/>
@@ -46226,7 +46226,7 @@
             insertion_id="0033e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-479 w-34"/>
@@ -46621,7 +46621,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-482 w-9"/>
@@ -46890,7 +46890,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-485 w-8"/>
@@ -47143,7 +47143,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="5"
             cite="Sophocles OT: s-489 w-10"/>
@@ -48109,7 +48109,7 @@
             insertion_id="0018e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-497 w-19"/>
@@ -48374,7 +48374,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ATR"
             head="1"
             cite="Sophocles OT: s-502 w-11"/>
@@ -48682,7 +48682,7 @@
             insertion_id="0042e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ATR_CO"
             head="30"
             cite="Sophocles OT: s-503 w-43"/>
@@ -48752,7 +48752,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="6"
             cite="Sophocles OT: s-504 w-9"/>
@@ -49002,7 +49002,7 @@
             insertion_id="0029e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ATR"
             head="4"
             cite="Sophocles OT: s-506 w-30"/>
@@ -49446,7 +49446,7 @@
             insertion_id="0042e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV_CO"
             head="13"
             cite="Sophocles OT: s-509 w-43"/>
@@ -49633,7 +49633,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="1"
             cite="Sophocles OT: s-511 w-13"/>
@@ -50112,7 +50112,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="8"
             cite="Sophocles OT: s-514 w-14"/>
@@ -50285,7 +50285,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="15"
             cite="Sophocles OT: s-516 w-18"/>
@@ -50507,7 +50507,7 @@
             insertion_id="0020e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="3"
             cite="Sophocles OT: s-518 w-21"/>
@@ -50827,7 +50827,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-520 w-12"/>
@@ -51028,7 +51028,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="7"
             cite="Sophocles OT: s-522 w-10"/>
@@ -51112,7 +51112,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="4"
             cite="Sophocles OT: s-523 w-11"/>
@@ -51121,7 +51121,7 @@
             insertion_id="0010f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="4"
             cite="Sophocles OT: s-523 w-12"/>
@@ -51191,7 +51191,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="10"
             cite="Sophocles OT: s-524 w-9"/>
@@ -51200,7 +51200,7 @@
             insertion_id="0008f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-524 w-10"/>
@@ -51387,7 +51387,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-526 w-10"/>
@@ -51525,7 +51525,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="5"
             cite="Sophocles OT: s-528 w-11"/>
@@ -51609,7 +51609,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-529 w-11"/>
@@ -51651,7 +51651,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-530 w-5"/>
@@ -51700,7 +51700,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-531 w-6"/>
@@ -51742,7 +51742,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-532 w-5"/>
@@ -51882,7 +51882,7 @@
             insertion_id="0018e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_PA"
             head="7"
             cite="Sophocles OT: s-533 w-19"/>
@@ -52086,7 +52086,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-537 w-4"/>
@@ -52149,7 +52149,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-538 w-8"/>
@@ -52233,7 +52233,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-539 w-11"/>
@@ -53076,7 +53076,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-549 w-17"/>
@@ -53322,7 +53322,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-553 w-7"/>
@@ -53500,7 +53500,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-556 w-8"/>
@@ -53724,7 +53724,7 @@
             insertion_id="0030e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="26"
             cite="Sophocles OT: s-557 w-31"/>
@@ -53848,7 +53848,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-559 w-8"/>
@@ -53911,7 +53911,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-560 w-8"/>
@@ -54532,7 +54532,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-569 w-9"/>
@@ -54979,7 +54979,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-574 w-15"/>
@@ -55056,7 +55056,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-575 w-10"/>
@@ -55098,7 +55098,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-576 w-5"/>
@@ -55147,7 +55147,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-577 w-6"/>
@@ -55278,7 +55278,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-579 w-10"/>
@@ -55409,7 +55409,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-581 w-8"/>
@@ -55444,7 +55444,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-582 w-4"/>
@@ -55500,7 +55500,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-583 w-7"/>
@@ -55535,7 +55535,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-584 w-4"/>
@@ -55839,7 +55839,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="4"
             cite="Sophocles OT: s-587 w-13"/>
@@ -55848,7 +55848,7 @@
             insertion_id="0012f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="4"
             cite="Sophocles OT: s-587 w-14"/>
@@ -55986,7 +55986,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-589 w-10"/>
@@ -56480,7 +56480,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-595 w-6"/>
@@ -56590,7 +56590,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-597 w-9"/>
@@ -56660,7 +56660,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-598 w-9"/>
@@ -56723,7 +56723,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-599 w-8"/>
@@ -56950,7 +56950,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-602 w-12"/>
@@ -57020,7 +57020,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-603 w-9"/>
@@ -57170,7 +57170,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-606 w-10"/>
@@ -57247,7 +57247,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-607 w-10"/>
@@ -57474,7 +57474,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-610 w-11"/>
@@ -57544,7 +57544,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="6"
             cite="Sophocles OT: s-611 w-9"/>
@@ -57722,7 +57722,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-614 w-7"/>
@@ -57886,7 +57886,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="3"
             cite="Sophocles OT: s-617 w-8"/>
@@ -57991,7 +57991,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-618 w-14"/>
@@ -58338,7 +58338,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-624 w-9"/>
@@ -58415,7 +58415,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-625 w-10"/>
@@ -58612,7 +58612,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="8"
             cite="Sophocles OT: s-629 w-12"/>
@@ -58682,7 +58682,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="3"
             cite="Sophocles OT: s-630 w-9"/>
@@ -58717,7 +58717,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-631 w-4"/>
@@ -58874,7 +58874,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-634 w-9"/>
@@ -58902,7 +58902,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-635 w-3"/>
@@ -59307,7 +59307,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="3"
             cite="Sophocles OT: s-640 w-9"/>
@@ -59419,7 +59419,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="5"
             cite="Sophocles OT: s-641 w-15"/>
@@ -59651,7 +59651,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-645 w-6"/>
@@ -59857,7 +59857,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="3"
             cite="Sophocles OT: s-648 w-15"/>
@@ -60002,7 +60002,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-650 w-5"/>
@@ -60647,7 +60647,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-661 w-6"/>
@@ -62084,7 +62084,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-675 w-8"/>
@@ -62147,7 +62147,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-676 w-8"/>
@@ -62865,7 +62865,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="4"
             cite="Sophocles OT: s-682 w-12"/>
@@ -63003,7 +63003,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-684 w-6"/>
@@ -63223,7 +63223,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-687 w-10"/>
@@ -63286,7 +63286,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-688 w-8"/>
@@ -63403,7 +63403,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-690 w-8"/>
@@ -63581,7 +63581,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-693 w-5"/>
@@ -63663,7 +63663,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-695 w-5"/>
@@ -63712,7 +63712,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-696 w-6"/>
@@ -63789,7 +63789,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-697 w-10"/>
@@ -63845,7 +63845,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-698 w-7"/>
@@ -64137,7 +64137,7 @@
             insertion_id="0032e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV_CO"
             head="18"
             cite="Sophocles OT: s-700 w-33"/>
@@ -64146,7 +64146,7 @@
             insertion_id="0032f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV_CO"
             head="18"
             cite="Sophocles OT: s-700 w-34"/>
@@ -64272,7 +64272,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="11"
             cite="Sophocles OT: s-701 w-17"/>
@@ -64729,7 +64729,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-708 w-5"/>
@@ -64916,7 +64916,7 @@
             insertion_id="0020e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="16"
             cite="Sophocles OT: s-710 w-21"/>
@@ -65054,7 +65054,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-712 w-9"/>
@@ -65396,7 +65396,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-717 w-6"/>
@@ -65438,7 +65438,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-718 w-5"/>
@@ -65874,7 +65874,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="5"
             cite="Sophocles OT: s-725 w-13"/>
@@ -65909,7 +65909,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-726 w-4"/>
@@ -65972,7 +65972,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="2"
             cite="Sophocles OT: s-727 w-8"/>
@@ -65981,7 +65981,7 @@
             insertion_id="0007f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="2"
             cite="Sophocles OT: s-727 w-9"/>
@@ -66058,7 +66058,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="7"
             cite="Sophocles OT: s-728 w-10"/>
@@ -66121,7 +66121,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="9"
             cite="Sophocles OT: s-729 w-8"/>
@@ -66130,7 +66130,7 @@
             insertion_id="0007f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-729 w-9"/>
@@ -66397,7 +66397,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-733 w-9"/>
@@ -66507,7 +66507,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-735 w-4"/>
@@ -66516,7 +66516,7 @@
             insertion_id="0003f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="4"
             cite="Sophocles OT: s-735 w-5"/>
@@ -66558,7 +66558,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-736 w-5"/>
@@ -66790,7 +66790,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-740 w-5"/>
@@ -66839,7 +66839,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-741 w-6"/>
@@ -66881,7 +66881,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-742 w-5"/>
@@ -66916,7 +66916,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-743 w-4"/>
@@ -66965,7 +66965,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-744 w-6"/>
@@ -66993,7 +66993,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="4"
             cite="Sophocles OT: s-745 w-3"/>
@@ -67002,7 +67002,7 @@
             insertion_id="0002f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-745 w-4"/>
@@ -67236,7 +67236,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-748 w-16"/>
@@ -67414,7 +67414,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-751 w-4"/>
@@ -67692,7 +67692,7 @@
             insertion_id="0031e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="SBJ"
             head="16"
             cite="Sophocles OT: s-753 w-32"/>
@@ -67797,7 +67797,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="8"
             cite="Sophocles OT: s-754 w-14"/>
@@ -67930,7 +67930,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ATR"
             head="11"
             cite="Sophocles OT: s-755 w-18"/>
@@ -68463,7 +68463,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-759 w-7"/>
@@ -68554,7 +68554,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="4"
             cite="Sophocles OT: s-760 w-12"/>
@@ -68563,7 +68563,7 @@
             insertion_id="0011f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PNOM"
             head="12"
             cite="Sophocles OT: s-760 w-13"/>
@@ -68572,7 +68572,7 @@
             insertion_id="0011g"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="4"
             cite="Sophocles OT: s-760 w-14"/>
@@ -69103,7 +69103,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="3"
             cite="Sophocles OT: s-765 w-9"/>
@@ -69645,7 +69645,7 @@
             insertion_id="0031e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="27"
             cite="Sophocles OT: s-768 w-32"/>
@@ -70036,7 +70036,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-773 w-9"/>
@@ -70078,7 +70078,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-774 w-5"/>
@@ -70831,7 +70831,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="15"
             cite="Sophocles OT: s-780 w-17"/>
@@ -71327,7 +71327,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-785 w-9"/>
@@ -71474,7 +71474,7 @@
             insertion_id="0019e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="4"
             cite="Sophocles OT: s-786 w-20"/>
@@ -72021,7 +72021,7 @@
             insertion_id="0050e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="SBJ"
             head="42"
             cite="Sophocles OT: s-790 w-51"/>
@@ -72381,7 +72381,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="10"
             cite="Sophocles OT: s-793 w-17"/>
@@ -73085,7 +73085,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-799 w-8"/>
@@ -73359,7 +73359,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-803 w-15"/>
@@ -73525,7 +73525,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-805 w-13"/>
@@ -73574,7 +73574,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-806 w-6"/>
@@ -73998,7 +73998,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-812 w-10"/>
@@ -74117,7 +74117,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-813 w-16"/>
@@ -74173,7 +74173,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-814 w-7"/>
@@ -74381,7 +74381,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-816 w-16"/>
@@ -74465,7 +74465,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-817 w-11"/>
@@ -74561,7 +74561,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-819 w-4"/>
@@ -74701,7 +74701,7 @@
             insertion_id="0018e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="10"
             cite="Sophocles OT: s-820 w-19"/>
@@ -75761,7 +75761,7 @@
             insertion_id="0022e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="13"
             cite="Sophocles OT: s-830 w-23"/>
@@ -76243,7 +76243,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="1"
             cite="Sophocles OT: s-835 w-13"/>
@@ -76381,7 +76381,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="6"
             cite="Sophocles OT: s-837 w-10"/>
@@ -76900,7 +76900,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-841 w-9"/>
@@ -77229,7 +77229,7 @@
             insertion_id="0045e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-842 w-46"/>
@@ -77346,7 +77346,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-844 w-4"/>
@@ -77638,7 +77638,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-846 w-11"/>
@@ -77818,7 +77818,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="9"
             cite="Sophocles OT: s-848 w-17"/>
@@ -78033,7 +78033,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="5"
             cite="Sophocles OT: s-850 w-10"/>
@@ -78320,7 +78320,7 @@
             insertion_id="0039e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="27"
             cite="Sophocles OT: s-851 w-40"/>
@@ -78808,7 +78808,7 @@
             insertion_id="0030e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="4"
             cite="Sophocles OT: s-853 w-31"/>
@@ -78993,7 +78993,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-856 w-12"/>
@@ -79468,7 +79468,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="10"
             cite="Sophocles OT: s-861 w-18"/>
@@ -80364,7 +80364,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="14"
             cite="Sophocles OT: s-869 w-18"/>
@@ -80605,7 +80605,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-872 w-12"/>
@@ -81461,7 +81461,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="8"
             cite="Sophocles OT: s-879 w-15"/>
@@ -81973,7 +81973,7 @@
             insertion_id="0029e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-883 w-30"/>
@@ -82090,7 +82090,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="7"
             cite="Sophocles OT: s-885 w-11"/>
@@ -82242,7 +82242,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="8"
             cite="Sophocles OT: s-887 w-12"/>
@@ -82729,7 +82729,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="12"
             cite="Sophocles OT: s-893 w-18"/>
@@ -83265,7 +83265,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-899 w-15"/>
@@ -84049,7 +84049,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="8"
             cite="Sophocles OT: s-907 w-16"/>
@@ -84446,7 +84446,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="11"
             cite="Sophocles OT: s-909 w-17"/>
@@ -84748,7 +84748,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-913 w-6"/>
@@ -84844,7 +84844,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-915 w-7"/>
@@ -84893,7 +84893,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-916 w-6"/>
@@ -85050,7 +85050,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-919 w-7"/>
@@ -85800,7 +85800,7 @@
             insertion_id="0036e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="29"
             cite="Sophocles OT: s-930 w-37"/>
@@ -85809,7 +85809,7 @@
             insertion_id="0036f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="29"
             cite="Sophocles OT: s-930 w-38"/>
@@ -85977,7 +85977,7 @@
             insertion_id="0022e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles OT: s-931 w-23"/>

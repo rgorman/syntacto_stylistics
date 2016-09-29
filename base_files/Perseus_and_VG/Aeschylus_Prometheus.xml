@@ -667,7 +667,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="12"
             cite="Aeschylus Prometheus: s-5 w-16"/>
@@ -826,7 +826,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-7 w-9"/>
@@ -882,7 +882,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-8 w-7"/>
@@ -1720,7 +1720,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-17 w-6"/>
@@ -1790,7 +1790,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-18 w-9"/>
@@ -2031,7 +2031,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-21 w-9"/>
@@ -2127,7 +2127,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-23 w-10"/>
@@ -2244,7 +2244,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-25 w-10"/>
@@ -2300,7 +2300,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-26 w-7"/>
@@ -2417,7 +2417,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-28 w-6"/>
@@ -2548,7 +2548,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-30 w-13"/>
@@ -2557,7 +2557,7 @@
             insertion_id="0012f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="3"
             cite="Aeschylus Prometheus: s-30 w-14"/>
@@ -2667,7 +2667,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-32 w-7"/>
@@ -3192,7 +3192,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-40 w-8"/>
@@ -3344,7 +3344,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="8"
             cite="Aeschylus Prometheus: s-42 w-14"/>
@@ -3679,7 +3679,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-47 w-7"/>
@@ -3883,7 +3883,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="0"
             cite="Aeschylus Prometheus: s-51 w-9"/>
@@ -3946,7 +3946,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="0"
             cite="Aeschylus Prometheus: s-52 w-8"/>
@@ -4178,7 +4178,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-56 w-8"/>
@@ -4187,7 +4187,7 @@
             insertion_id="0007f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="1"
             cite="Aeschylus Prometheus: s-56 w-9"/>
@@ -4550,7 +4550,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-61 w-10"/>
@@ -4896,7 +4896,7 @@
             insertion_id="0028e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="22"
             cite="Aeschylus Prometheus: s-64 w-29"/>
@@ -4966,7 +4966,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="1"
             cite="Aeschylus Prometheus: s-65 w-9"/>
@@ -5933,7 +5933,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-76 w-6"/>
@@ -6539,7 +6539,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-82 w-7"/>
@@ -7843,7 +7843,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-96 w-10"/>
@@ -7852,7 +7852,7 @@
             insertion_id="0009f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="2"
             cite="Aeschylus Prometheus: s-96 w-11"/>
@@ -8656,7 +8656,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="12"
             cite="Aeschylus Prometheus: s-101 w-15"/>
@@ -9007,7 +9007,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="2"
             cite="Aeschylus Prometheus: s-105 w-12"/>
@@ -9538,7 +9538,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="14"
             cite="Aeschylus Prometheus: s-110 w-17"/>
@@ -9547,7 +9547,7 @@
             insertion_id="0016f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="14"
             cite="Aeschylus Prometheus: s-110 w-18"/>
@@ -10285,7 +10285,7 @@
             insertion_id="0038e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-113 w-39"/>
@@ -11680,7 +11680,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-127 w-15"/>
@@ -11846,7 +11846,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-129 w-9"/>
@@ -12024,7 +12024,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-132 w-8"/>
@@ -12350,7 +12350,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-138 w-8"/>
@@ -12542,7 +12542,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-141 w-11"/>
@@ -12610,7 +12610,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-143 w-4"/>
@@ -12755,7 +12755,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="11"
             cite="Aeschylus Prometheus: s-145 w-14"/>
@@ -12764,7 +12764,7 @@
             insertion_id="0013f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="11"
             cite="Aeschylus Prometheus: s-145 w-15"/>
@@ -12951,7 +12951,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-147 w-14"/>
@@ -13810,7 +13810,7 @@
             insertion_id="0028e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="10"
             cite="Aeschylus Prometheus: s-156 w-29"/>
@@ -14191,7 +14191,7 @@
             insertion_id="0023e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="21"
             cite="Aeschylus Prometheus: s-159 w-24"/>
@@ -14296,7 +14296,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="4"
             cite="Aeschylus Prometheus: s-160 w-14"/>
@@ -14474,7 +14474,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-163 w-3"/>
@@ -15139,7 +15139,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-171 w-8"/>
@@ -15747,7 +15747,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="13"
             cite="Aeschylus Prometheus: s-176 w-18"/>
@@ -16370,7 +16370,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-184 w-5"/>
@@ -16515,7 +16515,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="8"
             cite="Aeschylus Prometheus: s-186 w-11"/>
@@ -17302,7 +17302,7 @@
             insertion_id="0027e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-196 w-28"/>
@@ -17826,7 +17826,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="0"
             cite="Aeschylus Prometheus: s-201 w-10"/>
@@ -18301,7 +18301,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="7"
             cite="Aeschylus Prometheus: s-206 w-12"/>
@@ -18659,7 +18659,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-210 w-15"/>
@@ -18823,7 +18823,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-213 w-7"/>
@@ -18942,7 +18942,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="8"
             cite="Aeschylus Prometheus: s-214 w-16"/>
@@ -19188,7 +19188,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-218 w-8"/>
@@ -19312,7 +19312,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-220 w-9"/>
@@ -20241,7 +20241,7 @@
             insertion_id="0024e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-229 w-25"/>
@@ -20416,7 +20416,7 @@
             insertion_id="0023e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-230 w-24"/>
@@ -21066,7 +21066,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="9"
             cite="Aeschylus Prometheus: s-235 w-15"/>
@@ -21707,7 +21707,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="4"
             cite="Aeschylus Prometheus: s-241 w-12"/>
@@ -22731,7 +22731,7 @@
             insertion_id="0022e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="8"
             cite="Aeschylus Prometheus: s-248 w-23"/>
@@ -22740,7 +22740,7 @@
             insertion_id="0022f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="18"
             cite="Aeschylus Prometheus: s-248 w-24"/>
@@ -23574,7 +23574,7 @@
             insertion_id="0031e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ_AP_CO"
             head="21"
             cite="Aeschylus Prometheus: s-252 w-32"/>
@@ -23583,7 +23583,7 @@
             insertion_id="0031f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ_AP_CO"
             head="21"
             cite="Aeschylus Prometheus: s-252 w-33"/>
@@ -23737,7 +23737,7 @@
             insertion_id="0020e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-253 w-21"/>
@@ -23952,7 +23952,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-255 w-6"/>
@@ -24202,7 +24202,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-257 w-11"/>
@@ -24307,7 +24307,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="7"
             cite="Aeschylus Prometheus: s-258 w-14"/>
@@ -24522,7 +24522,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-260 w-16"/>
@@ -24716,7 +24716,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-262 w-7"/>
@@ -24812,7 +24812,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-264 w-6"/>
@@ -25215,7 +25215,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="11"
             cite="Aeschylus Prometheus: s-270 w-16"/>
@@ -25685,7 +25685,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-274 w-16"/>
@@ -25919,7 +25919,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="1"
             cite="Aeschylus Prometheus: s-277 w-10"/>
@@ -25968,7 +25968,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ_CO"
             head="7"
             cite="Aeschylus Prometheus: s-278 w-6"/>
@@ -25977,7 +25977,7 @@
             insertion_id="0005f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="1"
             cite="Aeschylus Prometheus: s-278 w-7"/>
@@ -25986,7 +25986,7 @@
             insertion_id="0005g"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ_CO"
             head="7"
             cite="Aeschylus Prometheus: s-278 w-8"/>
@@ -26028,7 +26028,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-279 w-5"/>
@@ -26538,7 +26538,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-284 w-4"/>
@@ -26573,7 +26573,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-285 w-4"/>
@@ -28170,7 +28170,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="1"
             cite="Aeschylus Prometheus: s-303 w-8"/>
@@ -28584,7 +28584,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-307 w-15"/>
@@ -28593,7 +28593,7 @@
             insertion_id="0014f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="14"
             cite="Aeschylus Prometheus: s-307 w-16"/>
@@ -28768,7 +28768,7 @@
             insertion_id="0023e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="19"
             cite="Aeschylus Prometheus: s-308 w-24"/>
@@ -28997,7 +28997,7 @@
             insertion_id="0023e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ATR"
             head="17"
             cite="Aeschylus Prometheus: s-310 w-24"/>
@@ -29466,7 +29466,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-318 w-10"/>
@@ -29754,7 +29754,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-322 w-10"/>
@@ -30021,7 +30021,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="6"
             cite="Aeschylus Prometheus: s-326 w-11"/>
@@ -30091,7 +30091,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="5"
             cite="Aeschylus Prometheus: s-327 w-9"/>
@@ -30199,7 +30199,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-330 w-4"/>
@@ -30522,7 +30522,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-334 w-17"/>
@@ -30669,7 +30669,7 @@
             insertion_id="0019e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-335 w-20"/>
@@ -32072,7 +32072,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-345 w-16"/>
@@ -32163,7 +32163,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="0"
             cite="Aeschylus Prometheus: s-346 w-12"/>
@@ -32830,7 +32830,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="4"
             cite="Aeschylus Prometheus: s-353 w-12"/>
@@ -33542,7 +33542,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-362 w-11"/>
@@ -33935,7 +33935,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="10"
             cite="Aeschylus Prometheus: s-366 w-18"/>
@@ -34396,7 +34396,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-371 w-8"/>
@@ -34648,7 +34648,7 @@
             insertion_id="0034e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_PA"
             head="10"
             cite="Aeschylus Prometheus: s-372 w-35"/>
@@ -34907,7 +34907,7 @@
             insertion_id="0035e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ATR"
             head="23"
             cite="Aeschylus Prometheus: s-373 w-36"/>
@@ -35710,7 +35710,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-382 w-8"/>
@@ -35766,7 +35766,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="0"
             cite="Aeschylus Prometheus: s-383 w-7"/>
@@ -35958,7 +35958,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-386 w-7"/>
@@ -36147,7 +36147,7 @@
             insertion_id="0025e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="7"
             cite="Aeschylus Prometheus: s-387 w-26"/>
@@ -36238,7 +36238,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-388 w-12"/>
@@ -36732,7 +36732,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-394 w-12"/>
@@ -36896,7 +36896,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-397 w-7"/>
@@ -36931,7 +36931,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-398 w-4"/>
@@ -36994,7 +36994,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="3"
             cite="Aeschylus Prometheus: s-399 w-8"/>
@@ -37097,7 +37097,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="7"
             cite="Aeschylus Prometheus: s-401 w-6"/>
@@ -37106,7 +37106,7 @@
             insertion_id="0005f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-401 w-7"/>
@@ -37155,7 +37155,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="1"
             cite="Aeschylus Prometheus: s-402 w-6"/>
@@ -37197,7 +37197,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-403 w-5"/>
@@ -37206,7 +37206,7 @@
             insertion_id="0004f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="7"
             cite="Aeschylus Prometheus: s-403 w-6"/>
@@ -37215,7 +37215,7 @@
             insertion_id="0004g"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="1"
             cite="Aeschylus Prometheus: s-403 w-7"/>
@@ -37271,7 +37271,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-404 w-7"/>
@@ -37517,7 +37517,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-408 w-11"/>
@@ -37526,7 +37526,7 @@
             insertion_id="0010f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="4"
             cite="Aeschylus Prometheus: s-408 w-12"/>
@@ -37596,7 +37596,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="5"
             cite="Aeschylus Prometheus: s-409 w-9"/>
@@ -37814,7 +37814,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-413 w-9"/>
@@ -37870,7 +37870,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-414 w-7"/>
@@ -38060,7 +38060,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="4"
             cite="Aeschylus Prometheus: s-418 w-3"/>
@@ -38069,7 +38069,7 @@
             insertion_id="0002f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-418 w-4"/>
@@ -38399,7 +38399,7 @@
             insertion_id="0018e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ_CO"
             head="8"
             cite="Aeschylus Prometheus: s-422 w-19"/>
@@ -38504,7 +38504,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="10"
             cite="Aeschylus Prometheus: s-423 w-14"/>
@@ -39100,7 +39100,7 @@
             insertion_id="0048e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-427 w-49"/>
@@ -39240,7 +39240,7 @@
             insertion_id="0018e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-428 w-19"/>
@@ -39687,7 +39687,7 @@
             insertion_id="0018e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ATR"
             head="13"
             cite="Aeschylus Prometheus: s-433 w-19"/>
@@ -40124,7 +40124,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="3"
             cite="Aeschylus Prometheus: s-436 w-16"/>
@@ -41064,7 +41064,7 @@
             insertion_id="0043e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-443 w-44"/>
@@ -42667,7 +42667,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="9"
             cite="Aeschylus Prometheus: s-458 w-12"/>
@@ -42983,7 +42983,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="7"
             cite="Aeschylus Prometheus: s-462 w-11"/>
@@ -43109,7 +43109,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="18"
             cite="Aeschylus Prometheus: s-463 w-17"/>
@@ -43118,7 +43118,7 @@
             insertion_id="0016f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="5"
             cite="Aeschylus Prometheus: s-463 w-18"/>
@@ -43782,7 +43782,7 @@
             insertion_id="0039e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-468 w-40"/>
@@ -44140,7 +44140,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-472 w-11"/>
@@ -44149,7 +44149,7 @@
             insertion_id="0010f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="3"
             cite="Aeschylus Prometheus: s-472 w-12"/>
@@ -44327,7 +44327,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-475 w-10"/>
@@ -44905,7 +44905,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ_CO"
             head="4"
             cite="Aeschylus Prometheus: s-481 w-7"/>
@@ -45525,7 +45525,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="6"
             cite="Aeschylus Prometheus: s-487 w-16"/>
@@ -45914,7 +45914,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="SBJ"
             head="4"
             cite="Aeschylus Prometheus: s-493 w-10"/>
@@ -46064,7 +46064,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-496 w-5"/>
@@ -46120,7 +46120,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-497 w-7"/>
@@ -46258,7 +46258,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="5"
             cite="Aeschylus Prometheus: s-499 w-9"/>
@@ -46890,7 +46890,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="7"
             cite="Aeschylus Prometheus: s-506 w-12"/>
@@ -47138,7 +47138,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="SBJ"
             head="15"
             cite="Aeschylus Prometheus: s-509 w-14"/>
@@ -47147,7 +47147,7 @@
             insertion_id="0013f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="10"
             cite="Aeschylus Prometheus: s-509 w-15"/>
@@ -47374,7 +47374,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="6"
             cite="Aeschylus Prometheus: s-512 w-11"/>
@@ -48443,7 +48443,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="4"
             cite="Aeschylus Prometheus: s-528 w-10"/>
@@ -48539,7 +48539,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-530 w-3"/>
@@ -48567,7 +48567,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-531 w-3"/>
@@ -48975,7 +48975,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="3"
             cite="Aeschylus Prometheus: s-538 w-8"/>
@@ -49094,7 +49094,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-539 w-16"/>
@@ -49754,7 +49754,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="5"
             cite="Aeschylus Prometheus: s-546 w-8"/>
@@ -50180,7 +50180,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="4"
             cite="Aeschylus Prometheus: s-551 w-13"/>
@@ -51235,7 +51235,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-560 w-13"/>
@@ -51244,7 +51244,7 @@
             insertion_id="0012f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="1"
             cite="Aeschylus Prometheus: s-560 w-14"/>
@@ -51654,7 +51654,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-566 w-6"/>
@@ -51792,7 +51792,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Prometheus: s-568 w-10"/>
@@ -52848,7 +52848,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="SBJ"
             head="5"
             cite="Aeschylus Prometheus: s-580 w-9"/>
@@ -53194,7 +53194,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="4"
             cite="Aeschylus Prometheus: s-583 w-8"/>
@@ -53203,7 +53203,7 @@
             insertion_id="0007f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="4"
             cite="Aeschylus Prometheus: s-583 w-9"/>
@@ -53835,7 +53835,7 @@
             insertion_id="0018e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="13"
             cite="Aeschylus Prometheus: s-590 w-19"/>

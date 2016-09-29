@@ -785,7 +785,7 @@
             insertion_id="0026e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="13"
             cite="Plutarch Lycurgus: s-3 w-27"/>
@@ -1112,7 +1112,7 @@
             insertion_id="0019e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="13"
             cite="Plutarch Lycurgus: s-5 w-20"/>
@@ -1121,7 +1121,7 @@
             insertion_id="0019f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="13"
             cite="Plutarch Lycurgus: s-5 w-21"/>
@@ -2197,7 +2197,7 @@
             insertion_id="0077g"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="30"
             cite="Plutarch Lycurgus: s-9 w-80"/>
@@ -2784,7 +2784,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Plutarch Lycurgus: s-12 w-16"/>
@@ -3001,7 +3001,7 @@
             insertion_id="0029e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Plutarch Lycurgus: s-13 w-30"/>
@@ -4172,7 +4172,7 @@
             insertion_id="0026e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="23"
             cite="Plutarch Lycurgus: s-20 w-27"/>
@@ -4721,7 +4721,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Plutarch Lycurgus: s-23 w-11"/>
@@ -7134,7 +7134,7 @@
             insertion_id="0040f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ATR"
             head="39"
             cite="Plutarch Lycurgus: s-34 w-42"/>
@@ -7867,7 +7867,7 @@
             insertion_id="0048e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="31"
             cite="Plutarch Lycurgus: s-36 w-49"/>
@@ -10215,7 +10215,7 @@
             insertion_id="0043e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="20"
             cite="Plutarch Lycurgus: s-47 w-44"/>
@@ -10224,7 +10224,7 @@
             insertion_id="0043f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="24"
             cite="Plutarch Lycurgus: s-47 w-45"/>
@@ -12005,7 +12005,7 @@
             insertion_id="0066e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="9"
             cite="Plutarch Lycurgus: s-57 w-67"/>
@@ -12014,7 +12014,7 @@
             insertion_id="0066f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="17"
             cite="Plutarch Lycurgus: s-57 w-68"/>
@@ -13082,7 +13082,7 @@
             insertion_id="0036e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Plutarch Lycurgus: s-64 w-37"/>
@@ -13444,7 +13444,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="8"
             cite="Plutarch Lycurgus: s-67 w-12"/>
@@ -13638,7 +13638,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="6"
             cite="Plutarch Lycurgus: s-69 w-13"/>
@@ -13736,7 +13736,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Plutarch Lycurgus: s-70 w-13"/>
@@ -14782,7 +14782,7 @@
             insertion_id="0037e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Plutarch Lycurgus: s-75 w-38"/>
@@ -15198,7 +15198,7 @@
             insertion_id="0025e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Plutarch Lycurgus: s-78 w-26"/>
@@ -16690,7 +16690,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Plutarch Lycurgus: s-83 w-6"/>
@@ -17914,7 +17914,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Plutarch Lycurgus: s-89 w-15"/>
@@ -17923,7 +17923,7 @@
             insertion_id="0014f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ_CO"
             head="11"
             cite="Plutarch Lycurgus: s-89 w-16"/>
@@ -17932,7 +17932,7 @@
             insertion_id="0014g"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ_CO"
             head="11"
             cite="Plutarch Lycurgus: s-89 w-17"/>
@@ -22392,7 +22392,7 @@
             insertion_id="0028e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Plutarch Lycurgus: s-111 w-29"/>
@@ -22401,7 +22401,7 @@
             insertion_id="0028f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="23"
             cite="Plutarch Lycurgus: s-111 w-30"/>
@@ -27836,7 +27836,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Plutarch Lycurgus: s-146 w-5"/>
@@ -27885,7 +27885,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Plutarch Lycurgus: s-147 w-6"/>
@@ -29449,7 +29449,7 @@
             insertion_id="0030e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Plutarch Lycurgus: s-157 w-31"/>
@@ -30074,7 +30074,7 @@
             insertion_id="0086f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="SBJ_CO"
             head="80"
             cite="Plutarch Lycurgus: s-158 w-87"/>
@@ -30083,7 +30083,7 @@
             insertion_id="0086g"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="SBJ_CO"
             head="80"
             cite="Plutarch Lycurgus: s-158 w-88"/>
@@ -30092,7 +30092,7 @@
             insertion_id="0086e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="62"
             cite="Plutarch Lycurgus: s-158 w-89"/>
@@ -34938,7 +34938,7 @@
             insertion_id="0030e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="12"
             cite="Plutarch Lycurgus: s-186 w-31"/>
@@ -35912,7 +35912,7 @@
             insertion_id="0049e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="25"
             cite="Plutarch Lycurgus: s-190 w-50"/>
@@ -38114,7 +38114,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Plutarch Lycurgus: s-199 w-9"/>
@@ -38301,7 +38301,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Plutarch Lycurgus: s-201 w-7"/>
@@ -40923,7 +40923,7 @@
             insertion_id="0036e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="0"
             cite="Plutarch Lycurgus: s-216 w-37"/>
@@ -41297,7 +41297,7 @@
             insertion_id="0025e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="13"
             cite="Plutarch Lycurgus: s-219 w-26"/>
@@ -45241,7 +45241,7 @@
             insertion_id="0015g"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Plutarch Lycurgus: s-244 w-18"/>
@@ -48513,7 +48513,7 @@
             insertion_id="0018e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Plutarch Lycurgus: s-263 w-19"/>
@@ -48787,7 +48787,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Plutarch Lycurgus: s-267 w-7"/>
@@ -49860,7 +49860,7 @@
             insertion_id="0017f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ_AP"
             head="13"
             cite="Plutarch Lycurgus: s-275 w-18"/>
@@ -49916,7 +49916,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Plutarch Lycurgus: s-276 w-5"/>
@@ -51155,7 +51155,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Plutarch Lycurgus: s-285 w-8"/>
@@ -51583,7 +51583,7 @@
             insertion_id="0028e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ_CO"
             head="20"
             cite="Plutarch Lycurgus: s-289 w-29"/>
@@ -53002,7 +53002,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Plutarch Lycurgus: s-300 w-8"/>
@@ -54377,7 +54377,7 @@
             insertion_id="0034e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="25"
             cite="Plutarch Lycurgus: s-310 w-35"/>
@@ -56942,7 +56942,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Plutarch Lycurgus: s-322 w-18"/>
@@ -57061,7 +57061,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Plutarch Lycurgus: s-323 w-16"/>
@@ -57540,7 +57540,7 @@
             insertion_id="0020e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Plutarch Lycurgus: s-326 w-21"/>
@@ -57736,7 +57736,7 @@
             insertion_id="0026e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Plutarch Lycurgus: s-327 w-27"/>
@@ -59284,7 +59284,7 @@
             insertion_id="0028e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="4"
             cite="Plutarch Lycurgus: s-334 w-29"/>
@@ -60508,7 +60508,7 @@
             insertion_id="0031e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="21"
             cite="Plutarch Lycurgus: s-341 w-32"/>
@@ -61307,7 +61307,7 @@
             insertion_id="0032e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ_CO"
             head="27"
             cite="Plutarch Lycurgus: s-345 w-33"/>
@@ -61316,7 +61316,7 @@
             insertion_id="0032f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ_CO"
             head="27"
             cite="Plutarch Lycurgus: s-345 w-34"/>
@@ -61643,7 +61643,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Plutarch Lycurgus: s-347 w-16"/>
@@ -62938,7 +62938,7 @@
             insertion_id="0024f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV_CO"
             head="14"
             cite="Plutarch Lycurgus: s-356 w-26"/>
@@ -65907,7 +65907,7 @@
             insertion_id="0017f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="15"
             cite="Plutarch Lycurgus: s-377 w-19"/>
@@ -67402,7 +67402,7 @@
             insertion_id="0050e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="35"
             cite="Plutarch Lycurgus: s-385 w-51"/>
@@ -69329,7 +69329,7 @@
             insertion_id="0075e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="61"
             cite="Plutarch Lycurgus: s-393 w-76"/>
@@ -69740,7 +69740,7 @@
             insertion_id="0018e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Plutarch Lycurgus: s-395 w-19"/>
@@ -69824,7 +69824,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Plutarch Lycurgus: s-396 w-11"/>
@@ -71342,7 +71342,7 @@
             insertion_id="0040e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="16"
             cite="Plutarch Lycurgus: s-402 w-41"/>
@@ -71351,7 +71351,7 @@
             insertion_id="0040f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="16"
             cite="Plutarch Lycurgus: s-402 w-42"/>
@@ -72876,7 +72876,7 @@
             insertion_id="0101e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="92"
             cite="Plutarch Lycurgus: s-407 w-102"/>
@@ -73626,7 +73626,7 @@
             insertion_id="0019e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Plutarch Lycurgus: s-412 w-20"/>
@@ -74312,7 +74312,7 @@
             insertion_id="0059g"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="49"
             cite="Plutarch Lycurgus: s-415 w-62"/>
@@ -75214,7 +75214,7 @@
             insertion_id="0037e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="2"
             cite="Plutarch Lycurgus: s-420 w-38"/>
@@ -76242,7 +76242,7 @@
             insertion_id="0021e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Plutarch Lycurgus: s-426 w-22"/>
@@ -76424,7 +76424,7 @@
             insertion_id="0024e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Plutarch Lycurgus: s-427 w-25"/>
@@ -76606,7 +76606,7 @@
             insertion_id="0024e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Plutarch Lycurgus: s-428 w-25"/>
@@ -77437,7 +77437,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Plutarch Lycurgus: s-434 w-8"/>

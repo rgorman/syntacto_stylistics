@@ -171,7 +171,7 @@
             insertion_id="0022e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="8"
             cite="Sophocles Antigone: s-1 w-23"/>
@@ -381,7 +381,7 @@
             insertion_id="0028e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="27"
             cite="Sophocles Antigone: s-2 w-29"/>
@@ -526,7 +526,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="0"
             cite="Sophocles Antigone: s-4 w-5"/>
@@ -1120,7 +1120,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="3"
             cite="Sophocles Antigone: s-9 w-5"/>
@@ -1293,7 +1293,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="13"
             cite="Sophocles Antigone: s-11 w-17"/>
@@ -2010,7 +2010,7 @@
             insertion_id="0047e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="13"
             cite="Sophocles Antigone: s-14 w-48"/>
@@ -2129,7 +2129,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ_CO"
             head="12"
             cite="Sophocles Antigone: s-15 w-16"/>
@@ -2283,7 +2283,7 @@
             insertion_id="0020e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="7"
             cite="Sophocles Antigone: s-16 w-21"/>
@@ -2372,7 +2372,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-18 w-5"/>
@@ -2482,7 +2482,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-20 w-9"/>
@@ -2648,7 +2648,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-22 w-13"/>
@@ -2657,7 +2657,7 @@
             insertion_id="0012f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="13"
             cite="Sophocles Antigone: s-22 w-14"/>
@@ -2760,7 +2760,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-24 w-7"/>
@@ -2856,7 +2856,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-26 w-3"/>
@@ -3609,7 +3609,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-32 w-15"/>
@@ -4058,7 +4058,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="5"
             cite="Sophocles Antigone: s-36 w-12"/>
@@ -4114,7 +4114,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-37 w-7"/>
@@ -4294,7 +4294,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-39 w-13"/>
@@ -4915,7 +4915,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="14"
             cite="Sophocles Antigone: s-48 w-18"/>
@@ -5194,7 +5194,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-53 w-6"/>
@@ -5810,7 +5810,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="3"
             cite="Sophocles Antigone: s-61 w-15"/>
@@ -6298,7 +6298,7 @@
             insertion_id="0030e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="15"
             cite="Sophocles Antigone: s-63 w-31"/>
@@ -6347,7 +6347,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-64 w-6"/>
@@ -8233,7 +8233,7 @@
             insertion_id="0040e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="AtvV_CO"
             head="28"
             cite="Sophocles Antigone: s-74 w-41"/>
@@ -8616,7 +8616,7 @@
             insertion_id="0021e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-76 w-22"/>
@@ -9270,7 +9270,7 @@
             insertion_id="0050e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="36"
             cite="Sophocles Antigone: s-79 w-51"/>
@@ -9618,7 +9618,7 @@
             insertion_id="0027e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-81 w-28"/>
@@ -10176,7 +10176,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="4"
             cite="Sophocles Antigone: s-83 w-16"/>
@@ -10295,7 +10295,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="SBJ"
             head="14"
             cite="Sophocles Antigone: s-84 w-16"/>
@@ -10524,7 +10524,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="13"
             cite="Sophocles Antigone: s-86 w-15"/>
@@ -10594,7 +10594,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-87 w-9"/>
@@ -10833,7 +10833,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-91 w-9"/>
@@ -10957,7 +10957,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-93 w-8"/>
@@ -11449,7 +11449,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-100 w-9"/>
@@ -11838,7 +11838,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="12"
             cite="Sophocles Antigone: s-106 w-16"/>
@@ -12189,7 +12189,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="0"
             cite="Sophocles Antigone: s-110 w-9"/>
@@ -12524,7 +12524,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="6"
             cite="Sophocles Antigone: s-115 w-16"/>
@@ -12866,7 +12866,7 @@
             insertion_id="0018e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="13"
             cite="Sophocles Antigone: s-120 w-19"/>
@@ -13207,7 +13207,7 @@
             insertion_id="0033e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="15"
             cite="Sophocles Antigone: s-122 w-34"/>
@@ -13485,7 +13485,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="7"
             cite="Sophocles Antigone: s-124 w-16"/>
@@ -14025,7 +14025,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="9"
             cite="Sophocles Antigone: s-128 w-14"/>
@@ -14369,7 +14369,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="15"
             cite="Sophocles Antigone: s-132 w-17"/>
@@ -14757,7 +14757,7 @@
             insertion_id="0020e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="11"
             cite="Sophocles Antigone: s-135 w-21"/>
@@ -15183,7 +15183,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="4"
             cite="Sophocles Antigone: s-140 w-10"/>
@@ -16006,7 +16006,7 @@
             insertion_id="0048e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="29"
             cite="Sophocles Antigone: s-146 w-49"/>
@@ -16015,7 +16015,7 @@
             insertion_id="0048f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ_AP"
             head="49"
             cite="Sophocles Antigone: s-146 w-50"/>
@@ -16120,7 +16120,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="11"
             cite="Sophocles Antigone: s-147 w-14"/>
@@ -16387,7 +16387,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="3"
             cite="Sophocles Antigone: s-151 w-9"/>
@@ -16396,7 +16396,7 @@
             insertion_id="0008f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ_AP"
             head="9"
             cite="Sophocles Antigone: s-151 w-10"/>
@@ -16494,7 +16494,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="9"
             cite="Sophocles Antigone: s-152 w-13"/>
@@ -16618,7 +16618,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-154 w-9"/>
@@ -16695,7 +16695,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-155 w-10"/>
@@ -16723,7 +16723,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-156 w-3"/>
@@ -16800,7 +16800,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-157 w-10"/>
@@ -17172,7 +17172,7 @@
             insertion_id="0022e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ_AP_CO"
             head="6"
             cite="Sophocles Antigone: s-161 w-23"/>
@@ -17352,7 +17352,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="10"
             cite="Sophocles Antigone: s-163 w-9"/>
@@ -17361,7 +17361,7 @@
             insertion_id="0008f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="0"
             cite="Sophocles Antigone: s-163 w-10"/>
@@ -18381,7 +18381,7 @@
             insertion_id="0027e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="12"
             cite="Sophocles Antigone: s-172 w-28"/>
@@ -18458,7 +18458,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-173 w-10"/>
@@ -18739,7 +18739,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-177 w-11"/>
@@ -18858,7 +18858,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ATV_CO"
             head="11"
             cite="Sophocles Antigone: s-178 w-16"/>
@@ -18994,7 +18994,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-181 w-5"/>
@@ -19799,7 +19799,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="0"
             cite="Sophocles Antigone: s-189 w-17"/>
@@ -20146,7 +20146,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-195 w-11"/>
@@ -20249,7 +20249,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="0"
             cite="Sophocles Antigone: s-197 w-7"/>
@@ -20667,7 +20667,7 @@
             insertion_id="0052e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="38"
             cite="Sophocles Antigone: s-199 w-53"/>
@@ -20980,7 +20980,7 @@
             insertion_id="0025e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="6"
             cite="Sophocles Antigone: s-201 w-26"/>
@@ -21754,7 +21754,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="4"
             cite="Sophocles Antigone: s-207 w-12"/>
@@ -21887,7 +21887,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="12"
             cite="Sophocles Antigone: s-208 w-18"/>
@@ -21896,7 +21896,7 @@
             insertion_id="0017f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="12"
             cite="Sophocles Antigone: s-208 w-19"/>
@@ -22111,7 +22111,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="10"
             cite="Sophocles Antigone: s-210 w-18"/>
@@ -22181,7 +22181,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="5"
             cite="Sophocles Antigone: s-211 w-9"/>
@@ -22279,7 +22279,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="7"
             cite="Sophocles Antigone: s-212 w-13"/>
@@ -22862,7 +22862,7 @@
             insertion_id="0019e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="14"
             cite="Sophocles Antigone: s-219 w-20"/>
@@ -23016,7 +23016,7 @@
             insertion_id="0020e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="8"
             cite="Sophocles Antigone: s-220 w-21"/>
@@ -23203,7 +23203,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="6"
             cite="Sophocles Antigone: s-222 w-9"/>
@@ -23252,7 +23252,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-223 w-6"/>
@@ -23467,7 +23467,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="5"
             cite="Sophocles Antigone: s-225 w-17"/>
@@ -23551,7 +23551,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-226 w-11"/>
@@ -24485,7 +24485,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-236 w-16"/>
@@ -24625,7 +24625,7 @@
             insertion_id="0018e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="9"
             cite="Sophocles Antigone: s-237 w-19"/>
@@ -24634,7 +24634,7 @@
             insertion_id="0018f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="9"
             cite="Sophocles Antigone: s-237 w-20"/>
@@ -24795,7 +24795,7 @@
             insertion_id="0021e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV_CO"
             head="4"
             cite="Sophocles Antigone: s-238 w-22"/>
@@ -25261,7 +25261,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="4"
             cite="Sophocles Antigone: s-244 w-9"/>
@@ -25303,7 +25303,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-245 w-5"/>
@@ -25474,7 +25474,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-248 w-13"/>
@@ -25647,7 +25647,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="8"
             cite="Sophocles Antigone: s-250 w-15"/>
@@ -25862,7 +25862,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="0"
             cite="Sophocles Antigone: s-252 w-16"/>
@@ -26115,7 +26115,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-256 w-8"/>
@@ -26171,7 +26171,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-257 w-7"/>
@@ -26241,7 +26241,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-258 w-9"/>
@@ -26426,7 +26426,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-261 w-10"/>
@@ -26543,7 +26543,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-263 w-6"/>
@@ -26592,7 +26592,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-264 w-6"/>
@@ -26737,7 +26737,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-266 w-10"/>
@@ -26800,7 +26800,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="3"
             cite="Sophocles Antigone: s-267 w-8"/>
@@ -26891,7 +26891,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-268 w-12"/>
@@ -27029,7 +27029,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="5"
             cite="Sophocles Antigone: s-270 w-11"/>
@@ -27181,7 +27181,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-272 w-13"/>
@@ -27585,7 +27585,7 @@
             insertion_id="0043e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="7"
             cite="Sophocles Antigone: s-274 w-44"/>
@@ -27985,7 +27985,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="7"
             cite="Sophocles Antigone: s-278 w-9"/>
@@ -27994,7 +27994,7 @@
             insertion_id="0008f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-278 w-10"/>
@@ -28392,7 +28392,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-283 w-9"/>
@@ -28467,7 +28467,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-285 w-6"/>
@@ -28889,7 +28889,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="8"
             cite="Sophocles Antigone: s-292 w-11"/>
@@ -28966,7 +28966,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-293 w-10"/>
@@ -29064,7 +29064,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="7"
             cite="Sophocles Antigone: s-294 w-13"/>
@@ -29408,7 +29408,7 @@
             insertion_id="0018e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ_CO"
             head="12"
             cite="Sophocles Antigone: s-298 w-19"/>
@@ -29417,7 +29417,7 @@
             insertion_id="0018f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ_CO"
             head="12"
             cite="Sophocles Antigone: s-298 w-20"/>
@@ -29646,7 +29646,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-300 w-11"/>
@@ -29716,7 +29716,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-301 w-9"/>
@@ -29981,7 +29981,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-306 w-10"/>
@@ -30363,7 +30363,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-312 w-9"/>
@@ -30412,7 +30412,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="7"
             cite="Sophocles Antigone: s-313 w-6"/>
@@ -30421,7 +30421,7 @@
             insertion_id="0005f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-313 w-7"/>
@@ -30512,7 +30512,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="5"
             cite="Sophocles Antigone: s-314 w-12"/>
@@ -30760,7 +30760,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-317 w-7"/>
@@ -30769,7 +30769,7 @@
             insertion_id="0006f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="SBJ"
             head="7"
             cite="Sophocles Antigone: s-317 w-8"/>
@@ -31061,7 +31061,7 @@
             insertion_id="0024e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="2"
             cite="Sophocles Antigone: s-319 w-25"/>
@@ -31989,7 +31989,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="12"
             cite="Sophocles Antigone: s-325 w-17"/>
@@ -31998,7 +31998,7 @@
             insertion_id="0016f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="12"
             cite="Sophocles Antigone: s-325 w-18"/>
@@ -32260,7 +32260,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-328 w-15"/>
@@ -32398,7 +32398,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-330 w-11"/>
@@ -32693,7 +32693,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-334 w-9"/>
@@ -33378,7 +33378,7 @@
             insertion_id="0022e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV_CO"
             head="18"
             cite="Sophocles Antigone: s-339 w-23"/>
@@ -33387,7 +33387,7 @@
             insertion_id="0022f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV_CO"
             head="18"
             cite="Sophocles Antigone: s-339 w-24"/>
@@ -33672,7 +33672,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="7"
             cite="Sophocles Antigone: s-341 w-11"/>
@@ -33784,7 +33784,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="3"
             cite="Sophocles Antigone: s-342 w-15"/>
@@ -34102,7 +34102,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-345 w-15"/>
@@ -34670,7 +34670,7 @@
             insertion_id="0028e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="27"
             cite="Sophocles Antigone: s-349 w-29"/>
@@ -35000,7 +35000,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="7"
             cite="Sophocles Antigone: s-353 w-12"/>
@@ -35133,7 +35133,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="10"
             cite="Sophocles Antigone: s-354 w-18"/>
@@ -35767,7 +35767,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-360 w-18"/>
@@ -36155,7 +36155,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-363 w-8"/>
@@ -36419,7 +36419,7 @@
             insertion_id="0029e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="24"
             cite="Sophocles Antigone: s-365 w-30"/>
@@ -36428,7 +36428,7 @@
             insertion_id="0029f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="24"
             cite="Sophocles Antigone: s-365 w-31"/>
@@ -36755,7 +36755,7 @@
             insertion_id="0024e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ATR"
             head="16"
             cite="Sophocles Antigone: s-367 w-25"/>
@@ -36909,7 +36909,7 @@
             insertion_id="0020e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-368 w-21"/>
@@ -37517,7 +37517,7 @@
             insertion_id="0019e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-373 w-20"/>
@@ -37657,7 +37657,7 @@
             insertion_id="0018e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="15"
             cite="Sophocles Antigone: s-374 w-19"/>
@@ -37666,7 +37666,7 @@
             insertion_id="0018f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PNOM"
             head="21"
             cite="Sophocles Antigone: s-374 w-20"/>
@@ -37675,7 +37675,7 @@
             insertion_id="0018g"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="15"
             cite="Sophocles Antigone: s-374 w-21"/>
@@ -37853,7 +37853,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-377 w-6"/>
@@ -37965,7 +37965,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="1"
             cite="Sophocles Antigone: s-378 w-15"/>
@@ -38408,7 +38408,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="3"
             cite="Sophocles Antigone: s-385 w-12"/>
@@ -38708,7 +38708,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-390 w-5"/>
@@ -38818,7 +38818,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-392 w-9"/>
@@ -39057,7 +39057,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-396 w-8"/>
@@ -39202,7 +39202,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-398 w-10"/>
@@ -39286,7 +39286,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="6"
             cite="Sophocles Antigone: s-399 w-11"/>
@@ -39830,7 +39830,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-408 w-3"/>
@@ -40462,7 +40462,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="3"
             cite="Sophocles Antigone: s-415 w-8"/>
@@ -40640,7 +40640,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-418 w-7"/>
@@ -40937,7 +40937,7 @@
             insertion_id="0026e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="16"
             cite="Sophocles Antigone: s-421 w-27"/>
@@ -41341,7 +41341,7 @@
             insertion_id="0026e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-423 w-27"/>
@@ -41446,7 +41446,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="8"
             cite="Sophocles Antigone: s-424 w-14"/>
@@ -41455,7 +41455,7 @@
             insertion_id="0013f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PNOM"
             head="16"
             cite="Sophocles Antigone: s-424 w-15"/>
@@ -41464,7 +41464,7 @@
             insertion_id="0013g"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="8"
             cite="Sophocles Antigone: s-424 w-16"/>
@@ -41473,7 +41473,7 @@
             insertion_id="0013h"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="SBJ"
             head="16"
             cite="Sophocles Antigone: s-424 w-17"/>
@@ -42163,7 +42163,7 @@
             insertion_id="0022e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ATV_CO"
             head="20"
             cite="Sophocles Antigone: s-430 w-23"/>
@@ -42595,7 +42595,7 @@
             insertion_id="0031e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="3"
             cite="Sophocles Antigone: s-432 w-32"/>
@@ -42896,7 +42896,7 @@
             insertion_id="0041e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="15"
             cite="Sophocles Antigone: s-433 w-42"/>
@@ -43041,7 +43041,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="8"
             cite="Sophocles Antigone: s-435 w-13"/>
@@ -43050,7 +43050,7 @@
             insertion_id="0012f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="8"
             cite="Sophocles Antigone: s-435 w-14"/>
@@ -43127,7 +43127,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-436 w-10"/>
@@ -43176,7 +43176,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="7"
             cite="Sophocles Antigone: s-437 w-6"/>
@@ -43185,7 +43185,7 @@
             insertion_id="0005f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-437 w-7"/>
@@ -43323,7 +43323,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="10"
             cite="Sophocles Antigone: s-439 w-15"/>
@@ -43690,7 +43690,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-442 w-16"/>
@@ -44371,7 +44371,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="7"
             cite="Sophocles Antigone: s-449 w-15"/>
@@ -44584,7 +44584,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-452 w-11"/>
@@ -45122,7 +45122,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="9"
             cite="Sophocles Antigone: s-457 w-15"/>
@@ -45435,7 +45435,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="5"
             cite="Sophocles Antigone: s-459 w-17"/>
@@ -45617,7 +45617,7 @@
             insertion_id="0024e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ_CO"
             head="19"
             cite="Sophocles Antigone: s-460 w-25"/>
@@ -45626,7 +45626,7 @@
             insertion_id="0024f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ_CO"
             head="19"
             cite="Sophocles Antigone: s-460 w-26"/>
@@ -45717,7 +45717,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-461 w-12"/>
@@ -46367,7 +46367,7 @@
             insertion_id="0033e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="9"
             cite="Sophocles Antigone: s-466 w-34"/>
@@ -46804,7 +46804,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-469 w-6"/>
@@ -46921,7 +46921,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-471 w-5"/>
@@ -46991,7 +46991,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-472 w-9"/>
@@ -47602,7 +47602,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="0"
             cite="Sophocles Antigone: s-479 w-15"/>
@@ -48002,7 +48002,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="10"
             cite="Sophocles Antigone: s-483 w-16"/>
@@ -48065,7 +48065,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-484 w-8"/>
@@ -48867,7 +48867,7 @@
             insertion_id="0039e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-490 w-40"/>
@@ -50434,7 +50434,7 @@
             insertion_id="0029e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="23"
             cite="Sophocles Antigone: s-509 w-30"/>
@@ -50593,7 +50593,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="7"
             cite="Sophocles Antigone: s-511 w-10"/>
@@ -50602,7 +50602,7 @@
             insertion_id="0009f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="7"
             cite="Sophocles Antigone: s-511 w-11"/>
@@ -50817,7 +50817,7 @@
             insertion_id="0019e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-513 w-20"/>
@@ -51442,7 +51442,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-520 w-7"/>
@@ -51580,7 +51580,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-522 w-12"/>
@@ -51713,7 +51713,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="5"
             cite="Sophocles Antigone: s-523 w-18"/>
@@ -51783,7 +51783,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="0"
             cite="Sophocles Antigone: s-524 w-9"/>
@@ -52405,7 +52405,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-529 w-3"/>
@@ -52501,7 +52501,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-531 w-4"/>
@@ -52590,7 +52590,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-533 w-6"/>
@@ -52667,7 +52667,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-534 w-10"/>
@@ -52913,7 +52913,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-538 w-8"/>
@@ -53178,7 +53178,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-543 w-9"/>
@@ -53316,7 +53316,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="4"
             cite="Sophocles Antigone: s-545 w-11"/>
@@ -53858,7 +53858,7 @@
             insertion_id="0056e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="34"
             cite="Sophocles Antigone: s-548 w-57"/>
@@ -54258,7 +54258,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="11"
             cite="Sophocles Antigone: s-552 w-13"/>
@@ -54599,7 +54599,7 @@
             insertion_id="0021e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="7"
             cite="Sophocles Antigone: s-554 w-22"/>
@@ -54851,7 +54851,7 @@
             insertion_id="0034e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ_CO"
             head="27"
             cite="Sophocles Antigone: s-555 w-35"/>
@@ -55237,7 +55237,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="8"
             cite="Sophocles Antigone: s-559 w-16"/>
@@ -55610,7 +55610,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-566 w-8"/>
@@ -55699,7 +55699,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-568 w-3"/>
@@ -55776,7 +55776,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="5"
             cite="Sophocles Antigone: s-569 w-10"/>
@@ -55825,7 +55825,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-570 w-6"/>
@@ -56578,7 +56578,7 @@
             insertion_id="0039e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-576 w-40"/>
@@ -57312,7 +57312,7 @@
             insertion_id="0031e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="27"
             cite="Sophocles Antigone: s-581 w-32"/>
@@ -57630,7 +57630,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-584 w-8"/>
@@ -58400,7 +58400,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-592 w-7"/>
@@ -58482,7 +58482,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-594 w-6"/>
@@ -58623,7 +58623,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-598 w-8"/>
@@ -58693,7 +58693,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-599 w-9"/>
@@ -59332,7 +59332,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="8"
             cite="Sophocles Antigone: s-606 w-16"/>
@@ -59498,7 +59498,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="0"
             cite="Sophocles Antigone: s-608 w-15"/>
@@ -59622,7 +59622,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-610 w-5"/>
@@ -60948,7 +60948,7 @@
             insertion_id="0035e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="17"
             cite="Sophocles Antigone: s-620 w-36"/>
@@ -61067,7 +61067,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="2"
             cite="Sophocles Antigone: s-621 w-16"/>
@@ -61395,7 +61395,7 @@
             insertion_id="0018e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="15"
             cite="Sophocles Antigone: s-626 w-19"/>
@@ -61893,7 +61893,7 @@
             insertion_id="0026e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="16"
             cite="Sophocles Antigone: s-630 w-27"/>
@@ -62031,7 +62031,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-632 w-13"/>
@@ -62286,7 +62286,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-635 w-9"/>
@@ -62817,7 +62817,7 @@
             insertion_id="0024e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="13"
             cite="Sophocles Antigone: s-640 w-25"/>
@@ -62936,7 +62936,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-641 w-16"/>
@@ -62985,7 +62985,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-642 w-6"/>
@@ -63682,7 +63682,7 @@
             insertion_id="0027e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-648 w-28"/>
@@ -64315,7 +64315,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-658 w-7"/>
@@ -64631,7 +64631,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-662 w-9"/>
@@ -65059,7 +65059,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="7"
             cite="Sophocles Antigone: s-666 w-11"/>
@@ -65157,7 +65157,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="12"
             cite="Sophocles Antigone: s-667 w-13"/>
@@ -65316,7 +65316,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-669 w-14"/>
@@ -65669,7 +65669,7 @@
             insertion_id="0019e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="17"
             cite="Sophocles Antigone: s-672 w-20"/>
@@ -65746,7 +65746,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="4"
             cite="Sophocles Antigone: s-673 w-10"/>
@@ -65809,7 +65809,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-674 w-8"/>
@@ -66015,7 +66015,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-677 w-4"/>
@@ -66280,7 +66280,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Antigone: s-682 w-9"/>
@@ -66628,7 +66628,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="8"
             cite="Sophocles Antigone: s-684 w-16"/>

@@ -138,7 +138,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="6"
             cite="Hesiod Works: s-1 w-14"/>
@@ -278,7 +278,7 @@
             insertion_id="0018e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Works: s-2 w-19"/>
@@ -776,7 +776,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="SBJ"
             head="11"
             cite="Hesiod Works: s-6 w-14"/>
@@ -1300,7 +1300,7 @@
             insertion_id="0027e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="23"
             cite="Hesiod Works: s-11 w-28"/>
@@ -1644,7 +1644,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Works: s-15 w-7"/>
@@ -1770,7 +1770,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="5"
             cite="Hesiod Works: s-16 w-17"/>
@@ -1779,7 +1779,7 @@
             insertion_id="0016f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="13"
             cite="Hesiod Works: s-16 w-18"/>
@@ -2698,7 +2698,7 @@
             insertion_id="0020e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ_CO"
             head="11"
             cite="Hesiod Works: s-23 w-21"/>
@@ -2707,7 +2707,7 @@
             insertion_id="0020f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ_CO"
             head="11"
             cite="Hesiod Works: s-23 w-22"/>
@@ -4053,7 +4053,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Works: s-37 w-10"/>
@@ -4158,7 +4158,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Works: s-38 w-14"/>
@@ -4624,7 +4624,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="12"
             cite="Hesiod Works: s-44 w-15"/>
@@ -6255,7 +6255,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="8"
             cite="Hesiod Works: s-59 w-11"/>
@@ -6264,7 +6264,7 @@
             insertion_id="0010f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="8"
             cite="Hesiod Works: s-59 w-12"/>
@@ -6439,7 +6439,7 @@
             insertion_id="0023e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="8"
             cite="Hesiod Works: s-60 w-24"/>
@@ -6720,7 +6720,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Works: s-64 w-9"/>
@@ -6996,7 +6996,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="4"
             cite="Hesiod Works: s-67 w-15"/>
@@ -7455,7 +7455,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Works: s-73 w-8"/>
@@ -7763,7 +7763,7 @@
             insertion_id="0042e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Works: s-74 w-43"/>
@@ -8436,7 +8436,7 @@
             insertion_id="0027e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ATR"
             head="15"
             cite="Hesiod Works: s-78 w-28"/>
@@ -9205,7 +9205,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="4"
             cite="Hesiod Works: s-83 w-14"/>
@@ -9324,7 +9324,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="13"
             cite="Hesiod Works: s-84 w-16"/>
@@ -10170,7 +10170,7 @@
             insertion_id="0041e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_AP"
             head="10"
             cite="Hesiod Works: s-89 w-42"/>
@@ -10179,7 +10179,7 @@
             insertion_id="0041f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_AP_CO"
             head="27"
             cite="Hesiod Works: s-89 w-43"/>
@@ -10588,7 +10588,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Works: s-92 w-5"/>
@@ -11190,7 +11190,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="11"
             cite="Hesiod Works: s-100 w-16"/>
@@ -11625,7 +11625,7 @@
             insertion_id="0029e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="20"
             cite="Hesiod Works: s-104 w-30"/>
@@ -11634,7 +11634,7 @@
             insertion_id="0029f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="20"
             cite="Hesiod Works: s-104 w-31"/>
@@ -11643,7 +11643,7 @@
             insertion_id="0029g"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="15"
             cite="Hesiod Works: s-104 w-32"/>
@@ -11652,7 +11652,7 @@
             insertion_id="0029h"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PNOM"
             head="32"
             cite="Hesiod Works: s-104 w-33"/>
@@ -11661,7 +11661,7 @@
             insertion_id="0029i"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="15"
             cite="Hesiod Works: s-104 w-34"/>
@@ -11670,7 +11670,7 @@
             insertion_id="0029j"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PNOM"
             head="34"
             cite="Hesiod Works: s-104 w-35"/>
@@ -11679,7 +11679,7 @@
             insertion_id="0029k"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="20"
             cite="Hesiod Works: s-104 w-36"/>
@@ -12208,7 +12208,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="6"
             cite="Hesiod Works: s-110 w-11"/>
@@ -13337,7 +13337,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Works: s-124 w-11"/>
@@ -13625,7 +13625,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Works: s-128 w-8"/>
@@ -13819,7 +13819,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Works: s-130 w-10"/>
@@ -14135,7 +14135,7 @@
             insertion_id="0018e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Works: s-134 w-19"/>
@@ -14614,7 +14614,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="8"
             cite="Hesiod Works: s-137 w-17"/>
@@ -14899,7 +14899,7 @@
             insertion_id="0020e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="18"
             cite="Hesiod Works: s-139 w-21"/>
@@ -15468,7 +15468,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="5"
             cite="Hesiod Works: s-146 w-13"/>
@@ -15751,7 +15751,7 @@
             insertion_id="0021e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="14"
             cite="Hesiod Works: s-149 w-22"/>
@@ -16843,7 +16843,7 @@
             insertion_id="0018e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="12"
             cite="Hesiod Works: s-157 w-19"/>
@@ -17266,7 +17266,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Works: s-160 w-14"/>
@@ -17275,7 +17275,7 @@
             insertion_id="0013f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="1"
             cite="Hesiod Works: s-160 w-15"/>
@@ -17677,7 +17677,7 @@
             insertion_id="0023e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="5"
             cite="Hesiod Works: s-163 w-24"/>
@@ -18119,7 +18119,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Works: s-167 w-8"/>
@@ -18353,7 +18353,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="6"
             cite="Hesiod Works: s-170 w-10"/>
@@ -18519,7 +18519,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Works: s-172 w-13"/>
@@ -18776,7 +18776,7 @@
             insertion_id="0019e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Works: s-174 w-20"/>
@@ -18860,7 +18860,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Works: s-175 w-11"/>
@@ -19007,7 +19007,7 @@
             insertion_id="0019e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Works: s-176 w-20"/>
@@ -19306,7 +19306,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Works: s-178 w-9"/>
@@ -19680,7 +19680,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Works: s-181 w-10"/>
@@ -19736,7 +19736,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Works: s-182 w-7"/>
@@ -19820,7 +19820,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="7"
             cite="Hesiod Works: s-183 w-11"/>
@@ -19829,7 +19829,7 @@
             insertion_id="0010f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="7"
             cite="Hesiod Works: s-183 w-12"/>
@@ -20161,7 +20161,7 @@
             insertion_id="0026e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Works: s-186 w-27"/>
@@ -20376,7 +20376,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="7"
             cite="Hesiod Works: s-188 w-11"/>
@@ -20385,7 +20385,7 @@
             insertion_id="0010f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="7"
             cite="Hesiod Works: s-188 w-12"/>
@@ -20462,7 +20462,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="5"
             cite="Hesiod Works: s-189 w-10"/>
@@ -20471,7 +20471,7 @@
             insertion_id="0009f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="5"
             cite="Hesiod Works: s-189 w-11"/>
@@ -20737,7 +20737,7 @@
             insertion_id="0036e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Works: s-190 w-37"/>
@@ -21218,7 +21218,7 @@
             insertion_id="0046e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Works: s-192 w-47"/>
@@ -21227,7 +21227,7 @@
             insertion_id="0046f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ATR_CO"
             head="7"
             cite="Hesiod Works: s-192 w-48"/>
@@ -21236,7 +21236,7 @@
             insertion_id="0046g"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="1"
             cite="Hesiod Works: s-192 w-49"/>
@@ -21825,7 +21825,7 @@
             insertion_id="0036e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV_CO"
             head="31"
             cite="Hesiod Works: s-196 w-37"/>
@@ -22197,7 +22197,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Works: s-200 w-11"/>
@@ -22206,7 +22206,7 @@
             insertion_id="0010f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="11"
             cite="Hesiod Works: s-200 w-12"/>
@@ -22594,7 +22594,7 @@
             insertion_id="0030e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="15"
             cite="Hesiod Works: s-203 w-31"/>
@@ -22676,7 +22676,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Works: s-205 w-6"/>
@@ -23020,7 +23020,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="5"
             cite="Hesiod Works: s-209 w-11"/>
@@ -23029,7 +23029,7 @@
             insertion_id="0010f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="5"
             cite="Hesiod Works: s-209 w-12"/>
@@ -23204,7 +23204,7 @@
             insertion_id="0023e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ATR"
             head="8"
             cite="Hesiod Works: s-210 w-24"/>
@@ -23728,7 +23728,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Works: s-215 w-10"/>
@@ -23737,7 +23737,7 @@
             insertion_id="0009f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="5"
             cite="Hesiod Works: s-215 w-11"/>
@@ -23863,7 +23863,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="7"
             cite="Hesiod Works: s-216 w-17"/>
@@ -23872,7 +23872,7 @@
             insertion_id="0016f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="7"
             cite="Hesiod Works: s-216 w-18"/>
@@ -24003,7 +24003,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Works: s-218 w-7"/>
@@ -24673,7 +24673,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="7"
             cite="Hesiod Works: s-227 w-10"/>
@@ -24682,7 +24682,7 @@
             insertion_id="0009f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="7"
             cite="Hesiod Works: s-227 w-11"/>
@@ -24904,7 +24904,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="8"
             cite="Hesiod Works: s-229 w-11"/>
@@ -26520,7 +26520,7 @@
             insertion_id="0051e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="21"
             cite="Hesiod Works: s-241 w-52"/>
@@ -26679,7 +26679,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="8"
             cite="Hesiod Works: s-243 w-11"/>
@@ -26948,7 +26948,7 @@
             insertion_id="0022e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Works: s-246 w-23"/>
@@ -27416,7 +27416,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Works: s-251 w-8"/>
@@ -27507,7 +27507,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="1"
             cite="Hesiod Works: s-252 w-12"/>
@@ -27603,7 +27603,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Works: s-254 w-5"/>
@@ -28026,7 +28026,7 @@
             insertion_id="0018e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="14"
             cite="Hesiod Works: s-257 w-19"/>
@@ -28213,7 +28213,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Works: s-259 w-14"/>
@@ -28339,7 +28339,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="8"
             cite="Hesiod Works: s-260 w-17"/>
@@ -28381,7 +28381,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Works: s-261 w-5"/>
@@ -28839,7 +28839,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Works: s-264 w-13"/>
@@ -29235,7 +29235,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Works: s-270 w-6"/>
@@ -29317,7 +29317,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Works: s-272 w-5"/>
@@ -29565,7 +29565,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Works: s-275 w-14"/>
@@ -29984,7 +29984,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Works: s-280 w-6"/>
@@ -29993,7 +29993,7 @@
             insertion_id="0005f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="6"
             cite="Hesiod Works: s-280 w-7"/>
@@ -30416,7 +30416,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="8"
             cite="Hesiod Works: s-283 w-11"/>
@@ -30425,7 +30425,7 @@
             insertion_id="0010f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="8"
             cite="Hesiod Works: s-283 w-12"/>
@@ -31141,7 +31141,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="9"
             cite="Hesiod Works: s-290 w-14"/>
@@ -31150,7 +31150,7 @@
             insertion_id="0013f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="9"
             cite="Hesiod Works: s-290 w-15"/>
@@ -32895,7 +32895,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ATR"
             head="1"
             cite="Hesiod Works: s-304 w-17"/>
@@ -33246,7 +33246,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="6"
             cite="Hesiod Works: s-308 w-17"/>
@@ -35541,7 +35541,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Works: s-327 w-15"/>
@@ -35632,7 +35632,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="7"
             cite="Hesiod Works: s-328 w-12"/>
@@ -36203,7 +36203,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Works: s-334 w-5"/>
@@ -36343,7 +36343,7 @@
             insertion_id="0018e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Works: s-335 w-19"/>
@@ -37266,7 +37266,7 @@
             insertion_id="0053e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="35"
             cite="Hesiod Works: s-340 w-54"/>
@@ -37275,7 +37275,7 @@
             insertion_id="0053f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="35"
             cite="Hesiod Works: s-340 w-55"/>
@@ -37284,7 +37284,7 @@
             insertion_id="0053g"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="35"
             cite="Hesiod Works: s-340 w-56"/>
@@ -37293,7 +37293,7 @@
             insertion_id="0053h"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV_CO"
             head="48"
             cite="Hesiod Works: s-340 w-57"/>
@@ -37795,7 +37795,7 @@
             insertion_id="0039e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ATR"
             head="21"
             cite="Hesiod Works: s-342 w-40"/>
@@ -38209,7 +38209,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Works: s-346 w-6"/>
@@ -38880,7 +38880,7 @@
             insertion_id="0023e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="13"
             cite="Hesiod Works: s-351 w-24"/>
@@ -38889,7 +38889,7 @@
             insertion_id="0023f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="19"
             cite="Hesiod Works: s-351 w-25"/>
@@ -40374,7 +40374,7 @@
             insertion_id="0019e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Works: s-362 w-20"/>
@@ -40659,7 +40659,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="15"
             cite="Hesiod Works: s-364 w-18"/>
@@ -40668,7 +40668,7 @@
             insertion_id="0017f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PNOM"
             head="18"
             cite="Hesiod Works: s-364 w-19"/>
@@ -40752,7 +40752,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="7"
             cite="Hesiod Works: s-365 w-11"/>
@@ -40899,7 +40899,7 @@
             insertion_id="0019e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="6"
             cite="Hesiod Works: s-366 w-20"/>
@@ -41373,7 +41373,7 @@
             insertion_id="0033e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="11"
             cite="Hesiod Works: s-368 w-34"/>
@@ -42354,7 +42354,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="6"
             cite="Hesiod Works: s-379 w-10"/>
@@ -42363,7 +42363,7 @@
             insertion_id="0009f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="6"
             cite="Hesiod Works: s-379 w-11"/>
@@ -43168,7 +43168,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Works: s-387 w-3"/>
@@ -43679,7 +43679,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Works: s-395 w-9"/>
@@ -43777,7 +43777,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Works: s-396 w-13"/>
@@ -43786,7 +43786,7 @@
             insertion_id="0012f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="4"
             cite="Hesiod Works: s-396 w-14"/>
@@ -43835,7 +43835,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Works: s-397 w-6"/>
@@ -43917,7 +43917,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Works: s-399 w-7"/>
@@ -44111,7 +44111,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Works: s-401 w-7"/>
@@ -44195,7 +44195,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="5"
             cite="Hesiod Works: s-402 w-11"/>
@@ -44204,7 +44204,7 @@
             insertion_id="0010f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="9"
             cite="Hesiod Works: s-402 w-12"/>
@@ -44585,7 +44585,7 @@
             insertion_id="0021e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="13"
             cite="Hesiod Works: s-405 w-22"/>
@@ -45657,7 +45657,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="10"
             cite="Hesiod Works: s-416 w-16"/>
@@ -45666,7 +45666,7 @@
             insertion_id="0015f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="10"
             cite="Hesiod Works: s-416 w-17"/>
@@ -45886,7 +45886,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="6"
             cite="Hesiod Works: s-419 w-9"/>
@@ -45895,7 +45895,7 @@
             insertion_id="0008f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="6"
             cite="Hesiod Works: s-419 w-10"/>
@@ -46246,7 +46246,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Works: s-423 w-12"/>
@@ -46344,7 +46344,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="10"
             cite="Hesiod Works: s-424 w-13"/>
@@ -46531,7 +46531,7 @@
             insertion_id="0019e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="11"
             cite="Hesiod Works: s-426 w-20"/>
@@ -46540,7 +46540,7 @@
             insertion_id="0019f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="11"
             cite="Hesiod Works: s-426 w-21"/>
@@ -47516,7 +47516,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Works: s-436 w-7"/>
@@ -47525,7 +47525,7 @@
             insertion_id="0006f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="1"
             cite="Hesiod Works: s-436 w-8"/>
@@ -47693,7 +47693,7 @@
             insertion_id="0022e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="8"
             cite="Hesiod Works: s-437 w-23"/>
@@ -47702,7 +47702,7 @@
             insertion_id="0022f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="20"
             cite="Hesiod Works: s-437 w-24"/>
@@ -48745,7 +48745,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Works: s-452 w-11"/>
@@ -48932,7 +48932,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Works: s-454 w-10"/>
@@ -49112,7 +49112,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Works: s-456 w-17"/>
@@ -49252,7 +49252,7 @@
             insertion_id="0018e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Works: s-457 w-19"/>
@@ -49322,7 +49322,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Works: s-458 w-9"/>
@@ -49617,7 +49617,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Works: s-462 w-6"/>
@@ -49722,7 +49722,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="11"
             cite="Hesiod Works: s-463 w-14"/>
@@ -50021,7 +50021,7 @@
             insertion_id="0024e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="12"
             cite="Hesiod Works: s-465 w-25"/>
@@ -50030,7 +50030,7 @@
             insertion_id="0024f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="12"
             cite="Hesiod Works: s-465 w-26"/>
@@ -50072,7 +50072,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Works: s-466 w-5"/>
@@ -50294,7 +50294,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="11"
             cite="Hesiod Works: s-468 w-15"/>
@@ -50528,7 +50528,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="7"
             cite="Hesiod Works: s-471 w-12"/>
@@ -50537,7 +50537,7 @@
             insertion_id="0011f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="7"
             cite="Hesiod Works: s-471 w-13"/>
@@ -50808,7 +50808,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ATR"
             head="4"
             cite="Hesiod Works: s-473 w-18"/>
@@ -50817,7 +50817,7 @@
             insertion_id="0017f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="14"
             cite="Hesiod Works: s-473 w-19"/>
@@ -50943,7 +50943,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ATR"
             head="8"
             cite="Hesiod Works: s-474 w-17"/>
@@ -51027,7 +51027,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="5"
             cite="Hesiod Works: s-475 w-11"/>
@@ -51525,7 +51525,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="11"
             cite="Hesiod Works: s-479 w-16"/>
@@ -51534,7 +51534,7 @@
             insertion_id="0015f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="11"
             cite="Hesiod Works: s-479 w-17"/>
@@ -51646,7 +51646,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Works: s-480 w-15"/>
@@ -51695,7 +51695,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Works: s-481 w-6"/>
@@ -51919,7 +51919,7 @@
             insertion_id="0030e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="4"
             cite="Hesiod Works: s-482 w-31"/>
@@ -52062,7 +52062,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Works: s-485 w-7"/>
@@ -52146,7 +52146,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Works: s-486 w-11"/>
@@ -52155,7 +52155,7 @@
             insertion_id="0010f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="SBJ"
             head="13"
             cite="Hesiod Works: s-486 w-12"/>
@@ -52164,7 +52164,7 @@
             insertion_id="0010g"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="11"
             cite="Hesiod Works: s-486 w-13"/>
@@ -52358,7 +52358,7 @@
             insertion_id="0019e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="10"
             cite="Hesiod Works: s-488 w-20"/>
@@ -52496,7 +52496,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="5"
             cite="Hesiod Works: s-490 w-9"/>
@@ -52650,7 +52650,7 @@
             insertion_id="0020e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Works: s-491 w-21"/>

@@ -580,7 +580,7 @@
             insertion_id="0039e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="37"
             cite="Aeschylus Suppliants: s-3 w-40"/>
@@ -699,7 +699,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="9"
             cite="Aeschylus Suppliants: s-4 w-16"/>
@@ -1491,7 +1491,7 @@
             insertion_id="0020e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-8 w-21"/>
@@ -1790,7 +1790,7 @@
             insertion_id="0029e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="14"
             cite="Aeschylus Suppliants: s-10 w-30"/>
@@ -2108,7 +2108,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ATR"
             head="12"
             cite="Aeschylus Suppliants: s-13 w-11"/>
@@ -2117,7 +2117,7 @@
             insertion_id="0010f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-13 w-12"/>
@@ -3276,7 +3276,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-26 w-5"/>
@@ -3692,7 +3692,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="2"
             cite="Aeschylus Suppliants: s-29 w-16"/>
@@ -4015,7 +4015,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-33 w-13"/>
@@ -4078,7 +4078,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-34 w-8"/>
@@ -5089,7 +5089,7 @@
             insertion_id="0026e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="1"
             cite="Aeschylus Suppliants: s-44 w-27"/>
@@ -5173,7 +5173,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-45 w-11"/>
@@ -6222,7 +6222,7 @@
             insertion_id="0027e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV_CO"
             head="4"
             cite="Aeschylus Suppliants: s-57 w-28"/>
@@ -6551,7 +6551,7 @@
             insertion_id="0045e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="8"
             cite="Aeschylus Suppliants: s-58 w-46"/>
@@ -6834,7 +6834,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-61 w-7"/>
@@ -7897,7 +7897,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-80 w-8"/>
@@ -8131,7 +8131,7 @@
             insertion_id="0018e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="5"
             cite="Aeschylus Suppliants: s-83 w-19"/>
@@ -8482,7 +8482,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="5"
             cite="Aeschylus Suppliants: s-87 w-15"/>
@@ -8765,7 +8765,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-90 w-12"/>
@@ -9378,7 +9378,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="6"
             cite="Aeschylus Suppliants: s-96 w-18"/>
@@ -10265,7 +10265,7 @@
             insertion_id="0029e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="12"
             cite="Aeschylus Suppliants: s-105 w-30"/>
@@ -10274,7 +10274,7 @@
             insertion_id="0029f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="22"
             cite="Aeschylus Suppliants: s-105 w-31"/>
@@ -10625,7 +10625,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-109 w-7"/>
@@ -11292,7 +11292,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="14"
             cite="Aeschylus Suppliants: s-116 w-17"/>
@@ -11411,7 +11411,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ_AP"
             head="8"
             cite="Aeschylus Suppliants: s-117 w-16"/>
@@ -11645,7 +11645,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-120 w-9"/>
@@ -11701,7 +11701,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-121 w-7"/>
@@ -11926,7 +11926,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="1"
             cite="Aeschylus Suppliants: s-125 w-8"/>
@@ -11996,7 +11996,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-126 w-9"/>
@@ -12160,7 +12160,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-129 w-9"/>
@@ -12256,7 +12256,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-131 w-5"/>
@@ -12650,7 +12650,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-138 w-6"/>
@@ -12713,7 +12713,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-139 w-8"/>
@@ -12837,7 +12837,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-141 w-8"/>
@@ -12961,7 +12961,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-143 w-8"/>
@@ -13043,7 +13043,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-145 w-3"/>
@@ -13343,7 +13343,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-150 w-8"/>
@@ -13551,7 +13551,7 @@
             insertion_id="0019e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-152 w-20"/>
@@ -13703,7 +13703,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-154 w-8"/>
@@ -13787,7 +13787,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="5"
             cite="Aeschylus Suppliants: s-155 w-11"/>
@@ -13796,7 +13796,7 @@
             insertion_id="0010f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="9"
             cite="Aeschylus Suppliants: s-155 w-12"/>
@@ -13967,7 +13967,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-158 w-7"/>
@@ -14098,7 +14098,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-160 w-9"/>
@@ -14290,7 +14290,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-163 w-9"/>
@@ -14454,7 +14454,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-166 w-8"/>
@@ -14718,7 +14718,7 @@
             insertion_id="0024e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="9"
             cite="Aeschylus Suppliants: s-168 w-25"/>
@@ -15147,7 +15147,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-175 w-8"/>
@@ -15203,7 +15203,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-176 w-7"/>
@@ -15533,7 +15533,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="6"
             cite="Aeschylus Suppliants: s-180 w-10"/>
@@ -15542,7 +15542,7 @@
             insertion_id="0009f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="6"
             cite="Aeschylus Suppliants: s-180 w-11"/>
@@ -15921,7 +15921,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-184 w-11"/>
@@ -16766,7 +16766,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-193 w-6"/>
@@ -17196,7 +17196,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV_CO"
             head="15"
             cite="Aeschylus Suppliants: s-196 w-18"/>
@@ -17740,7 +17740,7 @@
             insertion_id="0063e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="52"
             cite="Aeschylus Suppliants: s-198 w-64"/>
@@ -18703,7 +18703,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-211 w-7"/>
@@ -19002,7 +19002,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="7"
             cite="Aeschylus Suppliants: s-213 w-18"/>
@@ -19266,7 +19266,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="11"
             cite="Aeschylus Suppliants: s-215 w-16"/>
@@ -19632,7 +19632,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-222 w-10"/>
@@ -19756,7 +19756,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-224 w-9"/>
@@ -19859,7 +19859,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-226 w-7"/>
@@ -19894,7 +19894,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-227 w-4"/>
@@ -19990,7 +19990,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-229 w-8"/>
@@ -20187,7 +20187,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="8"
             cite="Aeschylus Suppliants: s-233 w-14"/>
@@ -20299,7 +20299,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="11"
             cite="Aeschylus Suppliants: s-234 w-15"/>
@@ -20666,7 +20666,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-237 w-9"/>
@@ -20722,7 +20722,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-238 w-7"/>
@@ -21035,7 +21035,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-240 w-7"/>
@@ -21580,7 +21580,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-245 w-7"/>
@@ -22460,7 +22460,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-261 w-7"/>
@@ -22469,7 +22469,7 @@
             insertion_id="0006f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="2"
             cite="Aeschylus Suppliants: s-261 w-8"/>
@@ -22572,7 +22572,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-263 w-8"/>
@@ -23579,7 +23579,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="5"
             cite="Aeschylus Suppliants: s-275 w-11"/>
@@ -24142,7 +24142,7 @@
             insertion_id="0030e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="11"
             cite="Aeschylus Suppliants: s-278 w-31"/>
@@ -24881,7 +24881,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="7"
             cite="Aeschylus Suppliants: s-284 w-6"/>
@@ -24890,7 +24890,7 @@
             insertion_id="0005f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-284 w-7"/>
@@ -25152,7 +25152,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="4"
             cite="Aeschylus Suppliants: s-287 w-13"/>
@@ -25353,7 +25353,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="19"
             cite="Aeschylus Suppliants: s-289 w-18"/>
@@ -25362,7 +25362,7 @@
             insertion_id="0017f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-289 w-19"/>
@@ -25589,7 +25589,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="4"
             cite="Aeschylus Suppliants: s-292 w-13"/>
@@ -25664,7 +25664,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-294 w-6"/>
@@ -26104,7 +26104,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-299 w-12"/>
@@ -26174,7 +26174,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-300 w-9"/>
@@ -26307,7 +26307,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-301 w-18"/>
@@ -28015,7 +28015,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="15"
             cite="Aeschylus Suppliants: s-316 w-18"/>
@@ -28258,7 +28258,7 @@
             insertion_id="0019e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV_CO"
             head="11"
             cite="Aeschylus Suppliants: s-318 w-20"/>
@@ -29647,7 +29647,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="5"
             cite="Aeschylus Suppliants: s-335 w-7"/>
@@ -29843,7 +29843,7 @@
             insertion_id="0026e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-336 w-27"/>
@@ -30004,7 +30004,7 @@
             insertion_id="0021e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="12"
             cite="Aeschylus Suppliants: s-337 w-22"/>
@@ -30524,7 +30524,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-344 w-15"/>
@@ -30770,7 +30770,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-348 w-8"/>
@@ -30868,7 +30868,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ATR"
             head="9"
             cite="Aeschylus Suppliants: s-349 w-13"/>
@@ -31048,7 +31048,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="1"
             cite="Aeschylus Suppliants: s-351 w-18"/>
@@ -31456,7 +31456,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-358 w-5"/>
@@ -31622,7 +31622,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-360 w-18"/>
@@ -31933,7 +31933,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-363 w-13"/>
@@ -32160,7 +32160,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="15"
             cite="Aeschylus Suppliants: s-366 w-14"/>
@@ -32169,7 +32169,7 @@
             insertion_id="0013f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="1"
             cite="Aeschylus Suppliants: s-366 w-15"/>
@@ -32449,7 +32449,7 @@
             insertion_id="0038e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="20"
             cite="Aeschylus Suppliants: s-367 w-39"/>
@@ -32458,7 +32458,7 @@
             insertion_id="0038f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="20"
             cite="Aeschylus Suppliants: s-367 w-40"/>
@@ -32732,7 +32732,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-371 w-4"/>
@@ -33137,7 +33137,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="11"
             cite="Aeschylus Suppliants: s-376 w-13"/>
@@ -34116,7 +34116,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="1"
             cite="Aeschylus Suppliants: s-388 w-10"/>
@@ -34509,7 +34509,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-392 w-7"/>
@@ -34640,7 +34640,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-394 w-9"/>
@@ -34689,7 +34689,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-395 w-6"/>
@@ -34942,7 +34942,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-399 w-4"/>
@@ -35052,7 +35052,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="10"
             cite="Aeschylus Suppliants: s-401 w-9"/>
@@ -35061,7 +35061,7 @@
             insertion_id="0008f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="3"
             cite="Aeschylus Suppliants: s-401 w-10"/>
@@ -35262,7 +35262,7 @@
             insertion_id="0023e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="0"
             cite="Aeschylus Suppliants: s-403 w-24"/>
@@ -35271,7 +35271,7 @@
             insertion_id="0023f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="24"
             cite="Aeschylus Suppliants: s-403 w-25"/>
@@ -35484,7 +35484,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-406 w-7"/>
@@ -35561,7 +35561,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="0"
             cite="Aeschylus Suppliants: s-407 w-10"/>
@@ -35570,7 +35570,7 @@
             insertion_id="0009f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="10"
             cite="Aeschylus Suppliants: s-407 w-11"/>
@@ -35612,7 +35612,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-408 w-5"/>
@@ -35715,7 +35715,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="4"
             cite="Aeschylus Suppliants: s-410 w-6"/>
@@ -35888,7 +35888,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-412 w-10"/>
@@ -36014,7 +36014,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="1"
             cite="Aeschylus Suppliants: s-413 w-17"/>
@@ -36110,7 +36110,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-415 w-4"/>
@@ -36522,7 +36522,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-420 w-17"/>
@@ -36918,7 +36918,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="4"
             cite="Aeschylus Suppliants: s-426 w-7"/>
@@ -37093,7 +37093,7 @@
             insertion_id="0023e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="4"
             cite="Aeschylus Suppliants: s-427 w-24"/>
@@ -37332,7 +37332,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="3"
             cite="Aeschylus Suppliants: s-431 w-10"/>
@@ -38333,7 +38333,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-446 w-5"/>
@@ -38422,7 +38422,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-448 w-6"/>
@@ -38471,7 +38471,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-449 w-6"/>
@@ -38480,7 +38480,7 @@
             insertion_id="0005f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="1"
             cite="Aeschylus Suppliants: s-449 w-7"/>
@@ -38665,7 +38665,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-452 w-11"/>
@@ -39026,7 +39026,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-458 w-6"/>
@@ -39433,7 +39433,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="3"
             cite="Aeschylus Suppliants: s-462 w-10"/>
@@ -40667,7 +40667,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="1"
             cite="Aeschylus Suppliants: s-476 w-13"/>
@@ -40840,7 +40840,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-478 w-13"/>
@@ -41149,7 +41149,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-482 w-14"/>
@@ -41158,7 +41158,7 @@
             insertion_id="0013f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ATR_CO"
             head="10"
             cite="Aeschylus Suppliants: s-482 w-15"/>
@@ -41221,7 +41221,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-483 w-8"/>
@@ -41602,7 +41602,7 @@
             insertion_id="0024e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="13"
             cite="Aeschylus Suppliants: s-486 w-25"/>
@@ -42224,7 +42224,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="11"
             cite="Aeschylus Suppliants: s-491 w-17"/>
@@ -42376,7 +42376,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-493 w-7"/>
@@ -42453,7 +42453,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_PA"
             head="3"
             cite="Aeschylus Suppliants: s-494 w-10"/>
@@ -42509,7 +42509,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-495 w-7"/>
@@ -42892,7 +42892,7 @@
             insertion_id="0025e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="21"
             cite="Aeschylus Suppliants: s-497 w-26"/>
@@ -43039,7 +43039,7 @@
             insertion_id="0019e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ATR_CO"
             head="11"
             cite="Aeschylus Suppliants: s-498 w-20"/>
@@ -43074,7 +43074,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-499 w-4"/>
@@ -43788,7 +43788,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-507 w-18"/>
@@ -45047,7 +45047,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Suppliants: s-526 w-6"/>

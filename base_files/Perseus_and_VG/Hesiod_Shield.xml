@@ -168,7 +168,7 @@
             insertion_id="0019e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Shield: s-1 w-20"/>
@@ -472,7 +472,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ATR"
             head="9"
             cite="Hesiod Shield: s-4 w-16"/>
@@ -481,7 +481,7 @@
             insertion_id="0015f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="16"
             cite="Hesiod Shield: s-4 w-17"/>
@@ -1112,7 +1112,7 @@
             insertion_id="0043e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="37"
             cite="Hesiod Shield: s-8 w-44"/>
@@ -2233,7 +2233,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="12"
             cite="Hesiod Shield: s-19 w-16"/>
@@ -3075,7 +3075,7 @@
             insertion_id="0019e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="6"
             cite="Hesiod Shield: s-26 w-20"/>
@@ -3084,7 +3084,7 @@
             insertion_id="0019f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ATV"
             head="1"
             cite="Hesiod Shield: s-26 w-21"/>
@@ -3093,7 +3093,7 @@
             insertion_id="0019g"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="6"
             cite="Hesiod Shield: s-26 w-22"/>
@@ -3219,7 +3219,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="8"
             cite="Hesiod Shield: s-27 w-17"/>
@@ -3228,7 +3228,7 @@
             insertion_id="0016f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="8"
             cite="Hesiod Shield: s-27 w-18"/>
@@ -3237,7 +3237,7 @@
             insertion_id="0016g"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="18"
             cite="Hesiod Shield: s-27 w-19"/>
@@ -3356,7 +3356,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="8"
             cite="Hesiod Shield: s-28 w-16"/>
@@ -3365,7 +3365,7 @@
             insertion_id="0015f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="8"
             cite="Hesiod Shield: s-28 w-17"/>
@@ -3374,7 +3374,7 @@
             insertion_id="0015g"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="17"
             cite="Hesiod Shield: s-28 w-18"/>
@@ -3631,7 +3631,7 @@
             insertion_id="0026e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="8"
             cite="Hesiod Shield: s-30 w-27"/>
@@ -3640,7 +3640,7 @@
             insertion_id="0026f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="17"
             cite="Hesiod Shield: s-30 w-28"/>
@@ -4560,7 +4560,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="5"
             cite="Hesiod Shield: s-40 w-9"/>
@@ -6737,7 +6737,7 @@
             insertion_id="0053e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ_CO"
             head="14"
             cite="Hesiod Shield: s-55 w-54"/>
@@ -6746,7 +6746,7 @@
             insertion_id="0053f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV_CO"
             head="24"
             cite="Hesiod Shield: s-55 w-55"/>
@@ -6755,7 +6755,7 @@
             insertion_id="0053g"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ATR"
             head="45"
             cite="Hesiod Shield: s-55 w-56"/>
@@ -7034,7 +7034,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Shield: s-60 w-12"/>
@@ -7209,7 +7209,7 @@
             insertion_id="0023e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="16"
             cite="Hesiod Shield: s-61 w-24"/>
@@ -7590,7 +7590,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="1"
             cite="Hesiod Shield: s-64 w-11"/>
@@ -7735,7 +7735,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Shield: s-66 w-11"/>
@@ -7903,7 +7903,7 @@
             insertion_id="0022e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="11"
             cite="Hesiod Shield: s-67 w-23"/>
@@ -8452,7 +8452,7 @@
             insertion_id="0023e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="SBJ"
             head="12"
             cite="Hesiod Shield: s-70 w-24"/>
@@ -9041,7 +9041,7 @@
             insertion_id="0022e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="8"
             cite="Hesiod Shield: s-74 w-23"/>
@@ -9377,7 +9377,7 @@
             insertion_id="0046e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="29"
             cite="Hesiod Shield: s-75 w-47"/>
@@ -9943,7 +9943,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="6"
             cite="Hesiod Shield: s-80 w-9"/>
@@ -9999,7 +9999,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Shield: s-81 w-7"/>
@@ -10097,7 +10097,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="SBJ"
             head="1"
             cite="Hesiod Shield: s-82 w-13"/>
@@ -10427,7 +10427,7 @@
             insertion_id="0023e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="17"
             cite="Hesiod Shield: s-86 w-24"/>
@@ -10906,7 +10906,7 @@
             insertion_id="0038e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="33"
             cite="Hesiod Shield: s-89 w-39"/>
@@ -10976,7 +10976,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Shield: s-90 w-9"/>
@@ -11338,7 +11338,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="13"
             cite="Hesiod Shield: s-92 w-15"/>
@@ -11590,7 +11590,7 @@
             insertion_id="0034e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="11"
             cite="Hesiod Shield: s-93 w-35"/>
@@ -11599,7 +11599,7 @@
             insertion_id="0034f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="35"
             cite="Hesiod Shield: s-93 w-36"/>
@@ -11898,7 +11898,7 @@
             insertion_id="0028e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Shield: s-95 w-29"/>
@@ -11907,7 +11907,7 @@
             insertion_id="0028f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="29"
             cite="Hesiod Shield: s-95 w-30"/>
@@ -11916,7 +11916,7 @@
             insertion_id="0028g"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="9"
             cite="Hesiod Shield: s-95 w-31"/>
@@ -11925,7 +11925,7 @@
             insertion_id="0028h"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="11"
             cite="Hesiod Shield: s-95 w-32"/>
@@ -12178,7 +12178,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="8"
             cite="Hesiod Shield: s-99 w-7"/>
@@ -12187,7 +12187,7 @@
             insertion_id="0006f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Shield: s-99 w-8"/>
@@ -12292,7 +12292,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="6"
             cite="Hesiod Shield: s-100 w-14"/>
@@ -12390,7 +12390,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="4"
             cite="Hesiod Shield: s-101 w-13"/>
@@ -13057,7 +13057,7 @@
             insertion_id="0028e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV_CO"
             head="17"
             cite="Hesiod Shield: s-108 w-29"/>
@@ -13066,7 +13066,7 @@
             insertion_id="0028f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="2"
             cite="Hesiod Shield: s-108 w-30"/>
@@ -13333,7 +13333,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="6"
             cite="Hesiod Shield: s-112 w-8"/>
@@ -14581,7 +14581,7 @@
             insertion_id="0022e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_PA"
             head="12"
             cite="Hesiod Shield: s-126 w-23"/>
@@ -16214,7 +16214,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Shield: s-140 w-7"/>
@@ -17059,7 +17059,7 @@
             insertion_id="0029e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="28"
             cite="Hesiod Shield: s-149 w-30"/>
@@ -17068,7 +17068,7 @@
             insertion_id="0029f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="28"
             cite="Hesiod Shield: s-149 w-31"/>
@@ -17487,7 +17487,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="4"
             cite="Hesiod Shield: s-154 w-18"/>
@@ -17496,7 +17496,7 @@
             insertion_id="0017f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="14"
             cite="Hesiod Shield: s-154 w-19"/>
@@ -19269,7 +19269,7 @@
             insertion_id="0020e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Shield: s-168 w-21"/>
@@ -19531,7 +19531,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="8"
             cite="Hesiod Shield: s-171 w-12"/>
@@ -19650,7 +19650,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="4"
             cite="Hesiod Shield: s-172 w-16"/>
@@ -20326,7 +20326,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Shield: s-178 w-16"/>
@@ -20691,7 +20691,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="5"
             cite="Hesiod Shield: s-182 w-12"/>
@@ -21152,7 +21152,7 @@
             insertion_id="0019e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="7"
             cite="Hesiod Shield: s-187 w-20"/>
@@ -21482,7 +21482,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="3"
             cite="Hesiod Shield: s-191 w-8"/>
@@ -22385,7 +22385,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="SBJ_CO"
             head="14"
             cite="Hesiod Shield: s-199 w-18"/>
@@ -23533,7 +23533,7 @@
             insertion_id="0046e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="48"
             cite="Hesiod Shield: s-207 w-47"/>
@@ -23542,7 +23542,7 @@
             insertion_id="0046f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ATV"
             head="49"
             cite="Hesiod Shield: s-207 w-48"/>
@@ -23551,7 +23551,7 @@
             insertion_id="0046g"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="SBJ"
             head="50"
             cite="Hesiod Shield: s-207 w-49"/>
@@ -23560,7 +23560,7 @@
             insertion_id="0046h"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Shield: s-207 w-50"/>
@@ -23637,7 +23637,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="0"
             cite="Hesiod Shield: s-208 w-10"/>
@@ -24085,7 +24085,7 @@
             insertion_id="0062e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="0"
             cite="Hesiod Shield: s-209 w-63"/>
@@ -24094,7 +24094,7 @@
             insertion_id="0062f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ATR"
             head="65"
             cite="Hesiod Shield: s-209 w-64"/>
@@ -24103,7 +24103,7 @@
             insertion_id="0062g"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="66"
             cite="Hesiod Shield: s-209 w-65"/>
@@ -24112,7 +24112,7 @@
             insertion_id="0062h"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Shield: s-209 w-66"/>
@@ -24121,7 +24121,7 @@
             insertion_id="0062i"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ATR_CO"
             head="22"
             cite="Hesiod Shield: s-209 w-67"/>
@@ -24364,7 +24364,7 @@
             insertion_id="0023e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="25"
             cite="Hesiod Shield: s-211 w-24"/>
@@ -24373,7 +24373,7 @@
             insertion_id="0023f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="26"
             cite="Hesiod Shield: s-211 w-25"/>
@@ -24382,7 +24382,7 @@
             insertion_id="0023g"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Shield: s-211 w-26"/>
@@ -24676,7 +24676,7 @@
             insertion_id="0040e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="42"
             cite="Hesiod Shield: s-212 w-41"/>
@@ -24685,7 +24685,7 @@
             insertion_id="0040f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="43"
             cite="Hesiod Shield: s-212 w-42"/>
@@ -24694,7 +24694,7 @@
             insertion_id="0040g"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Shield: s-212 w-43"/>
@@ -24703,7 +24703,7 @@
             insertion_id="0040h"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="0"
             cite="Hesiod Shield: s-212 w-44"/>
@@ -24808,7 +24808,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="15"
             cite="Hesiod Shield: s-213 w-14"/>
@@ -24817,7 +24817,7 @@
             insertion_id="0013f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Shield: s-213 w-15"/>
@@ -24826,7 +24826,7 @@
             insertion_id="0013g"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="0"
             cite="Hesiod Shield: s-213 w-16"/>
@@ -24889,7 +24889,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="0"
             cite="Hesiod Shield: s-214 w-8"/>
@@ -25474,7 +25474,7 @@
             insertion_id="0018e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV_CO"
             head="9"
             cite="Hesiod Shield: s-220 w-19"/>
@@ -25841,7 +25841,7 @@
             insertion_id="0038e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="10"
             cite="Hesiod Shield: s-223 w-39"/>
@@ -25850,7 +25850,7 @@
             insertion_id="0038f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="17"
             cite="Hesiod Shield: s-223 w-40"/>
@@ -26568,7 +26568,7 @@
             insertion_id="0027e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ATR"
             head="29"
             cite="Hesiod Shield: s-229 w-28"/>
@@ -26577,7 +26577,7 @@
             insertion_id="0027f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="30"
             cite="Hesiod Shield: s-229 w-29"/>
@@ -26586,7 +26586,7 @@
             insertion_id="0027g"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="31"
             cite="Hesiod Shield: s-229 w-30"/>
@@ -26595,7 +26595,7 @@
             insertion_id="0027h"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Shield: s-229 w-31"/>
@@ -26665,7 +26665,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="SBJ"
             head="10"
             cite="Hesiod Shield: s-230 w-9"/>
@@ -26674,7 +26674,7 @@
             insertion_id="0008f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV_CO"
             head="11"
             cite="Hesiod Shield: s-230 w-10"/>
@@ -26683,7 +26683,7 @@
             insertion_id="0008g"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="12"
             cite="Hesiod Shield: s-230 w-11"/>
@@ -26692,7 +26692,7 @@
             insertion_id="0008h"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ATR"
             head="13"
             cite="Hesiod Shield: s-230 w-12"/>
@@ -26701,7 +26701,7 @@
             insertion_id="0008i"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="14"
             cite="Hesiod Shield: s-230 w-13"/>
@@ -26710,7 +26710,7 @@
             insertion_id="0008j"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="15"
             cite="Hesiod Shield: s-230 w-14"/>
@@ -26719,7 +26719,7 @@
             insertion_id="0008k"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Hesiod Shield: s-230 w-15"/>
@@ -26728,7 +26728,7 @@
             insertion_id="0008l"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="0"
             cite="Hesiod Shield: s-230 w-16"/>
@@ -26812,7 +26812,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="0"
             cite="Hesiod Shield: s-231 w-11"/>
@@ -28725,7 +28725,7 @@
             insertion_id="0028e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="13"
             cite="Hesiod Shield: s-252 w-29"/>

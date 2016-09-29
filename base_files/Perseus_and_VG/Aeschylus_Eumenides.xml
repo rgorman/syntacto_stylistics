@@ -218,7 +218,7 @@
             insertion_id="0018e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-2 w-19"/>
@@ -227,7 +227,7 @@
             insertion_id="0018f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="15"
             cite="Aeschylus Eumenides: s-2 w-20"/>
@@ -875,7 +875,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="9"
             cite="Aeschylus Eumenides: s-8 w-15"/>
@@ -1245,7 +1245,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ATR"
             head="3"
             cite="Aeschylus Eumenides: s-13 w-15"/>
@@ -2066,7 +2066,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="5"
             cite="Aeschylus Eumenides: s-20 w-10"/>
@@ -2075,7 +2075,7 @@
             insertion_id="0009f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="5"
             cite="Aeschylus Eumenides: s-20 w-11"/>
@@ -2749,7 +2749,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="15"
             cite="Aeschylus Eumenides: s-27 w-14"/>
@@ -2758,7 +2758,7 @@
             insertion_id="0013f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-27 w-15"/>
@@ -2978,7 +2978,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-30 w-16"/>
@@ -3200,7 +3200,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="7"
             cite="Aeschylus Eumenides: s-32 w-11"/>
@@ -3291,7 +3291,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="6"
             cite="Aeschylus Eumenides: s-33 w-12"/>
@@ -3691,7 +3691,7 @@
             insertion_id="0024e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-37 w-25"/>
@@ -4604,7 +4604,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-47 w-9"/>
@@ -5184,7 +5184,7 @@
             insertion_id="0023e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="21"
             cite="Aeschylus Eumenides: s-52 w-24"/>
@@ -5406,7 +5406,7 @@
             insertion_id="0019e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="8"
             cite="Aeschylus Eumenides: s-54 w-20"/>
@@ -5462,7 +5462,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="1"
             cite="Aeschylus Eumenides: s-55 w-7"/>
@@ -5471,7 +5471,7 @@
             insertion_id="0006f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ_AP"
             head="7"
             cite="Aeschylus Eumenides: s-55 w-8"/>
@@ -5576,7 +5576,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="9"
             cite="Aeschylus Eumenides: s-56 w-14"/>
@@ -6161,7 +6161,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-62 w-4"/>
@@ -6325,7 +6325,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-65 w-4"/>
@@ -6442,7 +6442,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="6"
             cite="Aeschylus Eumenides: s-67 w-8"/>
@@ -6477,7 +6477,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-68 w-4"/>
@@ -6646,7 +6646,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="0"
             cite="Aeschylus Eumenides: s-72 w-4"/>
@@ -6737,7 +6737,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="9"
             cite="Aeschylus Eumenides: s-73 w-12"/>
@@ -6786,7 +6786,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-74 w-6"/>
@@ -6952,7 +6952,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="7"
             cite="Aeschylus Eumenides: s-76 w-14"/>
@@ -7397,7 +7397,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="9"
             cite="Aeschylus Eumenides: s-82 w-12"/>
@@ -7547,7 +7547,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-85 w-5"/>
@@ -7664,7 +7664,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-87 w-10"/>
@@ -8867,7 +8867,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="11"
             cite="Aeschylus Eumenides: s-99 w-18"/>
@@ -9477,7 +9477,7 @@
             insertion_id="0028e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-103 w-29"/>
@@ -9486,7 +9486,7 @@
             insertion_id="0028f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ_CO"
             head="21"
             cite="Aeschylus Eumenides: s-103 w-30"/>
@@ -9495,7 +9495,7 @@
             insertion_id="0028g"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ_CO"
             head="21"
             cite="Aeschylus Eumenides: s-103 w-31"/>
@@ -9736,7 +9736,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-106 w-16"/>
@@ -9839,7 +9839,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-108 w-8"/>
@@ -10038,7 +10038,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-111 w-4"/>
@@ -10207,7 +10207,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-115 w-4"/>
@@ -10418,7 +10418,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-119 w-8"/>
@@ -10507,7 +10507,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-121 w-5"/>
@@ -10650,7 +10650,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-124 w-8"/>
@@ -11746,7 +11746,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="0"
             cite="Aeschylus Eumenides: s-137 w-15"/>
@@ -12155,7 +12155,7 @@
             insertion_id="0031e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="20"
             cite="Aeschylus Eumenides: s-140 w-32"/>
@@ -12375,7 +12375,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-143 w-3"/>
@@ -12560,7 +12560,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="3"
             cite="Aeschylus Eumenides: s-146 w-12"/>
@@ -13246,7 +13246,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="7"
             cite="Aeschylus Eumenides: s-154 w-14"/>
@@ -13901,7 +13901,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ_CO"
             head="9"
             cite="Aeschylus Eumenides: s-160 w-17"/>
@@ -14902,7 +14902,7 @@
             insertion_id="0046e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="28"
             cite="Aeschylus Eumenides: s-168 w-47"/>
@@ -15112,7 +15112,7 @@
             insertion_id="0028e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="19"
             cite="Aeschylus Eumenides: s-169 w-29"/>
@@ -15828,7 +15828,7 @@
             insertion_id="0021e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="4"
             cite="Aeschylus Eumenides: s-176 w-22"/>
@@ -16286,7 +16286,7 @@
             insertion_id="0026e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-179 w-27"/>
@@ -16508,7 +16508,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-181 w-7"/>
@@ -16704,7 +16704,7 @@
             insertion_id="0026e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-182 w-27"/>
@@ -16856,7 +16856,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="7"
             cite="Aeschylus Eumenides: s-184 w-13"/>
@@ -18344,7 +18344,7 @@
             insertion_id="0028e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-197 w-29"/>
@@ -19134,7 +19134,7 @@
             insertion_id="0020e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-202 w-21"/>
@@ -19424,7 +19424,7 @@
             insertion_id="0028e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-205 w-29"/>
@@ -19529,7 +19529,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="10"
             cite="Aeschylus Eumenides: s-206 w-14"/>
@@ -20012,7 +20012,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-214 w-10"/>
@@ -20068,7 +20068,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-215 w-7"/>
@@ -20239,7 +20239,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-218 w-9"/>
@@ -20302,7 +20302,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-219 w-8"/>
@@ -20487,7 +20487,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="4"
             cite="Aeschylus Eumenides: s-222 w-8"/>
@@ -20522,7 +20522,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-223 w-4"/>
@@ -20813,7 +20813,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-229 w-5"/>
@@ -20869,7 +20869,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-230 w-7"/>
@@ -21201,7 +21201,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-233 w-18"/>
@@ -21662,7 +21662,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-238 w-18"/>
@@ -22523,7 +22523,7 @@
             insertion_id="0019e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-246 w-20"/>
@@ -22600,7 +22600,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ_CO"
             head="3"
             cite="Aeschylus Eumenides: s-247 w-10"/>
@@ -22609,7 +22609,7 @@
             insertion_id="0009f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="12"
             cite="Aeschylus Eumenides: s-247 w-11"/>
@@ -22618,7 +22618,7 @@
             insertion_id="0009g"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ_CO"
             head="5"
             cite="Aeschylus Eumenides: s-247 w-12"/>
@@ -22770,7 +22770,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-249 w-12"/>
@@ -22854,7 +22854,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-250 w-11"/>
@@ -23193,7 +23193,7 @@
             insertion_id="0024e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="8"
             cite="Aeschylus Eumenides: s-253 w-25"/>
@@ -23310,7 +23310,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-255 w-10"/>
@@ -23815,7 +23815,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-259 w-17"/>
@@ -24711,7 +24711,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="SBJ_CO"
             head="7"
             cite="Aeschylus Eumenides: s-267 w-14"/>
@@ -24905,7 +24905,7 @@
             insertion_id="0020e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="18"
             cite="Aeschylus Eumenides: s-269 w-21"/>
@@ -25146,7 +25146,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="5"
             cite="Aeschylus Eumenides: s-272 w-13"/>
@@ -25244,7 +25244,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-273 w-13"/>
@@ -26550,7 +26550,7 @@
             insertion_id="0025e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="SBJ_CO"
             head="18"
             cite="Aeschylus Eumenides: s-286 w-26"/>
@@ -26854,7 +26854,7 @@
             insertion_id="0025e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_PA_CO"
             head="17"
             cite="Aeschylus Eumenides: s-289 w-26"/>
@@ -27074,7 +27074,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="6"
             cite="Aeschylus Eumenides: s-292 w-10"/>
@@ -27482,7 +27482,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-299 w-9"/>
@@ -27672,7 +27672,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-303 w-7"/>
@@ -27742,7 +27742,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="5"
             cite="Aeschylus Eumenides: s-304 w-9"/>
@@ -27784,7 +27784,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-305 w-5"/>
@@ -28209,7 +28209,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-314 w-4"/>
@@ -28373,7 +28373,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="7"
             cite="Aeschylus Eumenides: s-317 w-11"/>
@@ -28558,7 +28558,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-320 w-9"/>
@@ -29003,7 +29003,7 @@
             insertion_id="0018e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PNOM_CO"
             head="4"
             cite="Aeschylus Eumenides: s-326 w-19"/>
@@ -29129,7 +29129,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="2"
             cite="Aeschylus Eumenides: s-327 w-17"/>
@@ -29138,7 +29138,7 @@
             insertion_id="0016f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="1"
             cite="Aeschylus Eumenides: s-327 w-18"/>
@@ -29921,7 +29921,7 @@
             insertion_id="0039e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-332 w-40"/>
@@ -30145,7 +30145,7 @@
             insertion_id="0030e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="23"
             cite="Aeschylus Eumenides: s-333 w-31"/>
@@ -31180,7 +31180,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-345 w-7"/>
@@ -31407,7 +31407,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="10"
             cite="Aeschylus Eumenides: s-348 w-14"/>
@@ -31547,7 +31547,7 @@
             insertion_id="0018e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="8"
             cite="Aeschylus Eumenides: s-349 w-19"/>
@@ -32436,7 +32436,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-357 w-4"/>
@@ -33072,7 +33072,7 @@
             insertion_id="0038e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-362 w-39"/>
@@ -33549,7 +33549,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-366 w-8"/>
@@ -34870,7 +34870,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-382 w-14"/>
@@ -35256,7 +35256,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-386 w-9"/>
@@ -35935,7 +35935,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-394 w-10"/>
@@ -36012,7 +36012,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-395 w-10"/>
@@ -36403,7 +36403,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-400 w-10"/>
@@ -36758,7 +36758,7 @@
             insertion_id="0040e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ_CO"
             head="11"
             cite="Aeschylus Eumenides: s-402 w-41"/>
@@ -37197,7 +37197,7 @@
             insertion_id="0028e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV_CO"
             head="19"
             cite="Aeschylus Eumenides: s-404 w-29"/>
@@ -37742,7 +37742,7 @@
             insertion_id="0022e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-409 w-23"/>
@@ -37986,7 +37986,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-414 w-4"/>
@@ -38056,7 +38056,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-415 w-9"/>
@@ -38989,7 +38989,7 @@
             insertion_id="0022e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-422 w-23"/>
@@ -39233,7 +39233,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-427 w-4"/>
@@ -39303,7 +39303,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-428 w-9"/>
@@ -39832,7 +39832,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="6"
             cite="Aeschylus Eumenides: s-434 w-12"/>
@@ -39979,7 +39979,7 @@
             insertion_id="0019e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="13"
             cite="Aeschylus Eumenides: s-435 w-20"/>
@@ -40119,7 +40119,7 @@
             insertion_id="0018e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-436 w-19"/>
@@ -40229,7 +40229,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-438 w-7"/>
@@ -41257,7 +41257,7 @@
             insertion_id="0040e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="24"
             cite="Aeschylus Eumenides: s-450 w-41"/>
@@ -41706,7 +41706,7 @@
             insertion_id="0018e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-454 w-19"/>
@@ -41816,7 +41816,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-456 w-7"/>
@@ -42703,7 +42703,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="6"
             cite="Aeschylus Eumenides: s-465 w-5"/>
@@ -42712,7 +42712,7 @@
             insertion_id="0004f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-465 w-6"/>
@@ -42895,7 +42895,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-469 w-9"/>
@@ -43434,7 +43434,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ_CO"
             head="7"
             cite="Aeschylus Eumenides: s-477 w-18"/>
@@ -43443,7 +43443,7 @@
             insertion_id="0017f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-477 w-19"/>
@@ -43452,7 +43452,7 @@
             insertion_id="0017g"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ_CO"
             head="7"
             cite="Aeschylus Eumenides: s-477 w-20"/>
@@ -43515,7 +43515,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-478 w-8"/>
@@ -43655,7 +43655,7 @@
             insertion_id="0018e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-479 w-19"/>
@@ -44521,7 +44521,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="8"
             cite="Aeschylus Eumenides: s-488 w-13"/>
@@ -44965,7 +44965,7 @@
             insertion_id="0029e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="20"
             cite="Aeschylus Eumenides: s-491 w-30"/>
@@ -45339,7 +45339,7 @@
             insertion_id="0032e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV_CO"
             head="26"
             cite="Aeschylus Eumenides: s-494 w-33"/>
@@ -46125,7 +46125,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-501 w-16"/>
@@ -46270,7 +46270,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-503 w-8"/>
@@ -47754,7 +47754,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="6"
             cite="Aeschylus Eumenides: s-518 w-18"/>
@@ -47763,7 +47763,7 @@
             insertion_id="0017f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="SBJ_AP_CO"
             head="14"
             cite="Aeschylus Eumenides: s-518 w-19"/>
@@ -48186,7 +48186,7 @@
             insertion_id="0021e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="2"
             cite="Aeschylus Eumenides: s-521 w-22"/>
@@ -48434,7 +48434,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Aeschylus Eumenides: s-524 w-11"/>

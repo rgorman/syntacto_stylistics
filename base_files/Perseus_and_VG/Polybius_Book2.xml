@@ -8618,7 +8618,7 @@
             span="Polybius Book 2: s-146">
             <word id="1" form="παρὰ" lemma="παρά" postag="r--------" relation="AuxP" head="14"
                   cite="Polybius Book 2: s-146 w-1"/>
-            <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="" head="19"
+            <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="MISSING" head="19"
                   cite="Polybius Book 2: s-146 w-2"/>
             <word id="3" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" head="5"
                   cite="Polybius Book 2: s-146 w-3"/>
@@ -19618,7 +19618,7 @@
                   cite="Polybius Book 2: s-341 w-3"/>
             <word id="4" form="αὐτῶν" lemma="αὐτός" postag="p-p---mg-" relation="ATR" head="3"
                   cite="Polybius Book 2: s-341 w-4"/>
-            <word id="5" form="Ἀνηρόεστος" lemma="" postag="" relation="SBJ" head="12"
+            <word id="5" form="Ἀνηρόεστος" lemma="" postag="e--------" relation="SBJ" head="12"
                   cite="Polybius Book 2: s-341 w-5"/>
             <word id="6" form="εἴς" lemma="εἰς" postag="r--------" relation="AuxP" head="9"
                   cite="Polybius Book 2: s-341 w-6"/>
@@ -24626,29 +24626,29 @@
       </sentence>
       <sentence id="417" document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1" subdoc="2.38.7"
             span="Polybius Book 2: s-417">
-            <word id="1" form="τινὰς" lemma="τις" postag="p-p---ma-" relation="" head="3"
+            <word id="1" form="τινὰς" lemma="τις" postag="p-p---ma-" relation="MISSING" head="3"
                   cite="Polybius Book 2: s-417 w-1"/>
-            <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="" head="9"
+            <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="MISSING" head="9"
                   cite="Polybius Book 2: s-417 w-2"/>
-            <word id="3" form="βιασαμένη" lemma="βιάζω" postag="v-sapmfn-" relation="" head="9"
+            <word id="3" form="βιασαμένη" lemma="βιάζω" postag="v-sapmfn-" relation="MISSING" head="9"
                   cite="Polybius Book 2: s-417 w-3"/>
-            <word id="4" form="σὺν" lemma="σύν" postag="r--------" relation="" head="3"
+            <word id="4" form="σὺν" lemma="σύν" postag="r--------" relation="MISSING" head="3"
                   cite="Polybius Book 2: s-417 w-4"/>
-            <word id="5" form="καιρῷ" lemma="καιρός" postag="n-s---md-" relation="" head="4"
+            <word id="5" form="καιρῷ" lemma="καιρός" postag="n-s---md-" relation="MISSING" head="4"
                   cite="Polybius Book 2: s-417 w-5"/>
-            <word id="6" form="παραχρῆμα" lemma="παραχρῆμα" postag="d--------" relation="" head="9"
+            <word id="6" form="παραχρῆμα" lemma="παραχρῆμα" postag="d--------" relation="MISSING" head="9"
                   cite="Polybius Book 2: s-417 w-6"/>
-            <word id="7" form="πάλιν" lemma="πάλιν" postag="d--------" relation="" head="8"
+            <word id="7" form="πάλιν" lemma="πάλιν" postag="d--------" relation="MISSING" head="8"
                   cite="Polybius Book 2: s-417 w-7"/>
-            <word id="8" form="εὐδοκεῖν" lemma="εὐδοκέω" postag="v--pna---" relation="" head="9"
+            <word id="8" form="εὐδοκεῖν" lemma="εὐδοκέω" postag="v--pna---" relation="MISSING" head="9"
                   cite="Polybius Book 2: s-417 w-8"/>
-            <word id="9" form="ἐποίησεν" lemma="ποιέω" postag="v3saia---" relation="" head="0"
+            <word id="9" form="ἐποίησεν" lemma="ποιέω" postag="v3saia---" relation="MISSING" head="0"
                   cite="Polybius Book 2: s-417 w-9"/>
-            <word id="10" form="αὑτῇ" lemma="ἑαυτοῦ" postag="p-s---fd-" relation="" head="8"
+            <word id="10" form="αὑτῇ" lemma="ἑαυτοῦ" postag="p-s---fd-" relation="MISSING" head="8"
                   cite="Polybius Book 2: s-417 w-10"/>
-            <word id="11" form="τοὺς" lemma="ὁ" postag="l-p---ma-" relation="" head="12"
+            <word id="11" form="τοὺς" lemma="ὁ" postag="l-p---ma-" relation="MISSING" head="12"
                   cite="Polybius Book 2: s-417 w-11"/>
-            <word id="12" form="ἀναγκασθέντας" lemma="ἀναγκάζω" postag="v-pappma-" relation=""
+            <word id="12" form="ἀναγκασθέντας" lemma="ἀναγκάζω" postag="v-pappma-" relation="MISSING"
                   head="8" cite="Polybius Book 2: s-417 w-12"/>
             <word id="13" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
                   cite="Polybius Book 2: s-417 w-13"/>

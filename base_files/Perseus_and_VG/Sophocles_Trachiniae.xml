@@ -220,7 +220,7 @@
             insertion_id="0029e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ_AP_CO"
             head="22"
             cite="Sophocles Trachiniae: s-1 w-30"/>
@@ -229,7 +229,7 @@
             insertion_id="0029f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ_AP_CO"
             head="26"
             cite="Sophocles Trachiniae: s-1 w-31"/>
@@ -509,7 +509,7 @@
             insertion_id="0038e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="34"
             cite="Sophocles Trachiniae: s-2 w-39"/>
@@ -1049,7 +1049,7 @@
             insertion_id="0018e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="8"
             cite="Sophocles Trachiniae: s-6 w-19"/>
@@ -1494,7 +1494,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="8"
             cite="Sophocles Trachiniae: s-12 w-12"/>
@@ -1826,7 +1826,7 @@
             insertion_id="0020e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="10"
             cite="Sophocles Trachiniae: s-15 w-21"/>
@@ -2289,7 +2289,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-19 w-9"/>
@@ -2860,7 +2860,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="4"
             cite="Sophocles Trachiniae: s-25 w-18"/>
@@ -3084,7 +3084,7 @@
             insertion_id="0030e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="SBJ"
             head="32"
             cite="Sophocles Trachiniae: s-26 w-31"/>
@@ -3093,7 +3093,7 @@
             insertion_id="0030f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ATR"
             head="19"
             cite="Sophocles Trachiniae: s-26 w-32"/>
@@ -3460,7 +3460,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="8"
             cite="Sophocles Trachiniae: s-29 w-12"/>
@@ -3488,7 +3488,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="4"
             cite="Sophocles Trachiniae: s-30 w-3"/>
@@ -3497,7 +3497,7 @@
             insertion_id="0002f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-30 w-4"/>
@@ -3567,7 +3567,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="5"
             cite="Sophocles Trachiniae: s-31 w-9"/>
@@ -4410,7 +4410,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-41 w-6"/>
@@ -4618,7 +4618,7 @@
             insertion_id="0022e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-43 w-23"/>
@@ -5654,7 +5654,7 @@
             insertion_id="0044e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="15"
             cite="Sophocles Trachiniae: s-51 w-45"/>
@@ -5663,7 +5663,7 @@
             insertion_id="0044f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ_AP_CO"
             head="33"
             cite="Sophocles Trachiniae: s-51 w-46"/>
@@ -5672,7 +5672,7 @@
             insertion_id="0044g"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ_AP_CO"
             head="33"
             cite="Sophocles Trachiniae: s-51 w-47"/>
@@ -5938,7 +5938,7 @@
             insertion_id="0036e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="10"
             cite="Sophocles Trachiniae: s-52 w-37"/>
@@ -6340,7 +6340,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="8"
             cite="Sophocles Trachiniae: s-55 w-11"/>
@@ -6609,7 +6609,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="9"
             cite="Sophocles Trachiniae: s-58 w-14"/>
@@ -6948,7 +6948,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-61 w-9"/>
@@ -7729,7 +7729,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ATR"
             head="1"
             cite="Sophocles Trachiniae: s-67 w-11"/>
@@ -8427,7 +8427,7 @@
             insertion_id="0056e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="34"
             cite="Sophocles Trachiniae: s-69 w-57"/>
@@ -8691,7 +8691,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="10"
             cite="Sophocles Trachiniae: s-71 w-14"/>
@@ -8845,7 +8845,7 @@
             insertion_id="0020e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-72 w-21"/>
@@ -8962,7 +8962,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-74 w-11"/>
@@ -9334,7 +9334,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-78 w-14"/>
@@ -9739,7 +9739,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-83 w-8"/>
@@ -10036,7 +10036,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="7"
             cite="Sophocles Trachiniae: s-86 w-10"/>
@@ -10904,7 +10904,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-94 w-5"/>
@@ -11140,7 +11140,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="11"
             cite="Sophocles Trachiniae: s-96 w-18"/>
@@ -11444,7 +11444,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-99 w-10"/>
@@ -11692,7 +11692,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-102 w-4"/>
@@ -11734,7 +11734,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="6"
             cite="Sophocles Trachiniae: s-103 w-5"/>
@@ -11743,7 +11743,7 @@
             insertion_id="0004f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-103 w-6"/>
@@ -11928,7 +11928,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-106 w-8"/>
@@ -12033,7 +12033,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-107 w-14"/>
@@ -12199,7 +12199,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-109 w-10"/>
@@ -12545,7 +12545,7 @@
             insertion_id="0021e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="3"
             cite="Sophocles Trachiniae: s-112 w-22"/>
@@ -13763,7 +13763,7 @@
             insertion_id="0032e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV_CO"
             head="23"
             cite="Sophocles Trachiniae: s-120 w-33"/>
@@ -14233,7 +14233,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="11"
             cite="Sophocles Trachiniae: s-124 w-18"/>
@@ -14647,7 +14647,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-128 w-10"/>
@@ -15505,7 +15505,7 @@
             insertion_id="0027e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="17"
             cite="Sophocles Trachiniae: s-134 w-28"/>
@@ -15655,7 +15655,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-137 w-5"/>
@@ -15753,7 +15753,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-138 w-13"/>
@@ -15905,7 +15905,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-140 w-11"/>
@@ -16029,7 +16029,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-142 w-14"/>
@@ -16188,7 +16188,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-144 w-9"/>
@@ -16230,7 +16230,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-145 w-5"/>
@@ -16239,7 +16239,7 @@
             insertion_id="0004f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PNOM"
             head="5"
             cite="Sophocles Trachiniae: s-145 w-6"/>
@@ -16455,7 +16455,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-150 w-3"/>
@@ -16656,7 +16656,7 @@
             insertion_id="0021e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="11"
             cite="Sophocles Trachiniae: s-152 w-22"/>
@@ -17018,7 +17018,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="10"
             cite="Sophocles Trachiniae: s-154 w-14"/>
@@ -17207,7 +17207,7 @@
             insertion_id="0025e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="10"
             cite="Sophocles Trachiniae: s-155 w-26"/>
@@ -17256,7 +17256,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-156 w-6"/>
@@ -17583,7 +17583,7 @@
             insertion_id="0024e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-158 w-25"/>
@@ -17862,7 +17862,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="14"
             cite="Sophocles Trachiniae: s-163 w-16"/>
@@ -18283,7 +18283,7 @@
             insertion_id="0022e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="16"
             cite="Sophocles Trachiniae: s-167 w-23"/>
@@ -19293,7 +19293,7 @@
             insertion_id="0021e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV_CO"
             head="19"
             cite="Sophocles Trachiniae: s-174 w-22"/>
@@ -19403,7 +19403,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-176 w-9"/>
@@ -19883,7 +19883,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-182 w-4"/>
@@ -20161,7 +20161,7 @@
             insertion_id="0029e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="9"
             cite="Sophocles Trachiniae: s-184 w-30"/>
@@ -21267,7 +21267,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="1"
             cite="Sophocles Trachiniae: s-199 w-11"/>
@@ -21363,7 +21363,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-201 w-3"/>
@@ -21815,7 +21815,7 @@
             insertion_id="0022e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-207 w-23"/>
@@ -21958,7 +21958,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-210 w-4"/>
@@ -21993,7 +21993,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-211 w-4"/>
@@ -22131,7 +22131,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-213 w-5"/>
@@ -22199,7 +22199,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-215 w-3"/>
@@ -22403,7 +22403,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-219 w-10"/>
@@ -22757,7 +22757,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="3"
             cite="Sophocles Trachiniae: s-225 w-16"/>
@@ -22799,7 +22799,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-226 w-5"/>
@@ -22909,7 +22909,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-228 w-4"/>
@@ -23101,7 +23101,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="4"
             cite="Sophocles Trachiniae: s-231 w-10"/>
@@ -23136,7 +23136,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-232 w-4"/>
@@ -23239,7 +23239,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-234 w-4"/>
@@ -23358,7 +23358,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="4"
             cite="Sophocles Trachiniae: s-235 w-16"/>
@@ -23540,7 +23540,7 @@
             insertion_id="0024e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-236 w-25"/>
@@ -23664,7 +23664,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-238 w-9"/>
@@ -24045,7 +24045,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="7"
             cite="Sophocles Trachiniae: s-241 w-15"/>
@@ -24197,7 +24197,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-243 w-9"/>
@@ -24428,7 +24428,7 @@
             insertion_id="0031e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-244 w-32"/>
@@ -24784,7 +24784,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-249 w-10"/>
@@ -24922,7 +24922,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-251 w-10"/>
@@ -25109,7 +25109,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-253 w-7"/>
@@ -25186,7 +25186,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="7"
             cite="Sophocles Trachiniae: s-254 w-10"/>
@@ -25548,7 +25548,7 @@
             insertion_id="0036e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-256 w-37"/>
@@ -26820,7 +26820,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-265 w-15"/>
@@ -27208,7 +27208,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-268 w-13"/>
@@ -27292,7 +27292,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="6"
             cite="Sophocles Trachiniae: s-269 w-11"/>
@@ -27467,7 +27467,7 @@
             insertion_id="0023e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="25"
             cite="Sophocles Trachiniae: s-270 w-24"/>
@@ -27476,7 +27476,7 @@
             insertion_id="0023f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="15"
             cite="Sophocles Trachiniae: s-270 w-25"/>
@@ -28091,7 +28091,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="SBJ"
             head="2"
             cite="Sophocles Trachiniae: s-275 w-15"/>
@@ -28496,7 +28496,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="6"
             cite="Sophocles Trachiniae: s-280 w-10"/>
@@ -28907,7 +28907,7 @@
             insertion_id="0021e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ_CO"
             head="8"
             cite="Sophocles Trachiniae: s-282 w-22"/>
@@ -29101,7 +29101,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="8"
             cite="Sophocles Trachiniae: s-284 w-16"/>
@@ -29700,7 +29700,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-290 w-14"/>
@@ -31468,7 +31468,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="1"
             cite="Sophocles Trachiniae: s-303 w-7"/>
@@ -32100,7 +32100,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-310 w-11"/>
@@ -33262,7 +33262,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-318 w-16"/>
@@ -33840,7 +33840,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-324 w-7"/>
@@ -34034,7 +34034,7 @@
             insertion_id="0018e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="14"
             cite="Sophocles Trachiniae: s-326 w-19"/>
@@ -34244,7 +34244,7 @@
             insertion_id="0028e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-327 w-29"/>
@@ -35340,7 +35340,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-340 w-9"/>
@@ -35445,7 +35445,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-341 w-14"/>
@@ -35522,7 +35522,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="3"
             cite="Sophocles Trachiniae: s-342 w-10"/>
@@ -35634,7 +35634,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ATR"
             head="1"
             cite="Sophocles Trachiniae: s-343 w-15"/>
@@ -36169,7 +36169,7 @@
             insertion_id="0027e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="22"
             cite="Sophocles Trachiniae: s-346 w-28"/>
@@ -36391,7 +36391,7 @@
             insertion_id="0020e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-348 w-21"/>
@@ -37308,7 +37308,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-356 w-9"/>
@@ -38057,7 +38057,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-364 w-5"/>
@@ -38265,7 +38265,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-366 w-14"/>
@@ -38639,7 +38639,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-369 w-17"/>
@@ -39535,7 +39535,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ATR"
             head="10"
             cite="Sophocles Trachiniae: s-377 w-9"/>
@@ -39544,7 +39544,7 @@
             insertion_id="0008f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="11"
             cite="Sophocles Trachiniae: s-377 w-10"/>
@@ -39553,7 +39553,7 @@
             insertion_id="0008g"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-377 w-11"/>
@@ -39855,7 +39855,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-381 w-13"/>
@@ -39993,7 +39993,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-383 w-11"/>
@@ -40210,7 +40210,7 @@
             insertion_id="0029e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="9"
             cite="Sophocles Trachiniae: s-384 w-30"/>
@@ -40935,7 +40935,7 @@
             insertion_id="0028e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="5"
             cite="Sophocles Trachiniae: s-390 w-29"/>
@@ -41314,7 +41314,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="10"
             cite="Sophocles Trachiniae: s-394 w-16"/>
@@ -41824,7 +41824,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="4"
             cite="Sophocles Trachiniae: s-399 w-11"/>
@@ -42298,7 +42298,7 @@
             insertion_id="0052e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="25"
             cite="Sophocles Trachiniae: s-401 w-53"/>
@@ -43091,7 +43091,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="1"
             cite="Sophocles Trachiniae: s-408 w-7"/>
@@ -43273,7 +43273,7 @@
             insertion_id="0024e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-409 w-25"/>
@@ -44366,7 +44366,7 @@
             insertion_id="0038e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="29"
             cite="Sophocles Trachiniae: s-420 w-39"/>
@@ -45070,7 +45070,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-426 w-18"/>
@@ -45250,7 +45250,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="5"
             cite="Sophocles Trachiniae: s-428 w-14"/>
@@ -45498,7 +45498,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="1"
             cite="Sophocles Trachiniae: s-431 w-15"/>
@@ -45814,7 +45814,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-435 w-7"/>
@@ -45934,7 +45934,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-439 w-4"/>
@@ -46030,7 +46030,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-441 w-6"/>
@@ -46309,7 +46309,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-446 w-6"/>
@@ -46485,7 +46485,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-450 w-3"/>
@@ -46612,7 +46612,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-454 w-3"/>
@@ -46736,7 +46736,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-456 w-4"/>
@@ -46935,7 +46935,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-459 w-4"/>
@@ -47540,7 +47540,7 @@
             insertion_id="0031e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="5"
             cite="Sophocles Trachiniae: s-462 w-32"/>
@@ -49046,7 +49046,7 @@
             insertion_id="0049e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="16"
             cite="Sophocles Trachiniae: s-473 w-50"/>
@@ -49191,7 +49191,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-475 w-15"/>
@@ -49399,7 +49399,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-477 w-13"/>
@@ -49551,7 +49551,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-479 w-8"/>
@@ -49836,7 +49836,7 @@
             insertion_id="0012e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-481 w-13"/>
@@ -49927,7 +49927,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="9"
             cite="Sophocles Trachiniae: s-482 w-12"/>
@@ -49990,7 +49990,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-483 w-8"/>
@@ -50229,7 +50229,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="9"
             cite="Sophocles Trachiniae: s-487 w-11"/>
@@ -50320,7 +50320,7 @@
             insertion_id="0011e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-488 w-12"/>
@@ -50407,7 +50407,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-491 w-3"/>
@@ -50761,7 +50761,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="0"
             cite="Sophocles Trachiniae: s-497 w-17"/>
@@ -50770,7 +50770,7 @@
             insertion_id="0016f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="17"
             cite="Sophocles Trachiniae: s-497 w-18"/>
@@ -50833,7 +50833,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-498 w-8"/>
@@ -51023,7 +51023,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-502 w-6"/>
@@ -51098,7 +51098,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-504 w-3"/>
@@ -51442,7 +51442,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-508 w-4"/>
@@ -51746,7 +51746,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="18"
             cite="Sophocles Trachiniae: s-511 w-17"/>
@@ -51755,7 +51755,7 @@
             insertion_id="0016f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="4"
             cite="Sophocles Trachiniae: s-511 w-18"/>
@@ -52535,7 +52535,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-521 w-4"/>
@@ -52647,7 +52647,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="10"
             cite="Sophocles Trachiniae: s-522 w-15"/>
@@ -52764,7 +52764,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-524 w-11"/>
@@ -53092,7 +53092,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-529 w-7"/>
@@ -54675,7 +54675,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV_CO"
             head="6"
             cite="Sophocles Trachiniae: s-540 w-17"/>
@@ -55016,7 +55016,7 @@
             insertion_id="0029e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="31"
             cite="Sophocles Trachiniae: s-542 w-30"/>
@@ -55025,7 +55025,7 @@
             insertion_id="0029f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="21"
             cite="Sophocles Trachiniae: s-542 w-31"/>
@@ -55317,7 +55317,7 @@
             insertion_id="0032e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="8"
             cite="Sophocles Trachiniae: s-544 w-33"/>
@@ -56647,7 +56647,7 @@
             insertion_id="0081e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="30"
             cite="Sophocles Trachiniae: s-552 w-82"/>
@@ -57489,7 +57489,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="1"
             cite="Sophocles Trachiniae: s-559 w-8"/>
@@ -57676,7 +57676,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="4"
             cite="Sophocles Trachiniae: s-561 w-14"/>
@@ -57800,7 +57800,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-563 w-11"/>
@@ -57926,7 +57926,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="APOS"
             head="6"
             cite="Sophocles Trachiniae: s-564 w-17"/>
@@ -58160,7 +58160,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-567 w-8"/>
@@ -58397,7 +58397,7 @@
             insertion_id="0003e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-572 w-4"/>
@@ -58514,7 +58514,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-574 w-9"/>
@@ -58542,7 +58542,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-575 w-3"/>
@@ -58619,7 +58619,7 @@
             insertion_id="0009e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-576 w-10"/>
@@ -59048,7 +59048,7 @@
             insertion_id="0006e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-583 w-7"/>
@@ -59708,7 +59708,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="7"
             cite="Sophocles Trachiniae: s-590 w-15"/>
@@ -61557,7 +61557,7 @@
             insertion_id="0005e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-608 w-6"/>
@@ -61660,7 +61660,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-610 w-9"/>
@@ -62311,7 +62311,7 @@
             insertion_id="0041e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV_CO"
             head="9"
             cite="Sophocles Trachiniae: s-618 w-42"/>
@@ -62444,7 +62444,7 @@
             insertion_id="0017e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="16"
             cite="Sophocles Trachiniae: s-619 w-18"/>
@@ -62556,7 +62556,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="1"
             cite="Sophocles Trachiniae: s-620 w-15"/>
@@ -62692,7 +62692,7 @@
             insertion_id="0004e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-623 w-5"/>
@@ -62804,7 +62804,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="1"
             cite="Sophocles Trachiniae: s-624 w-15"/>
@@ -63040,7 +63040,7 @@
             insertion_id="0015e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="5"
             cite="Sophocles Trachiniae: s-626 w-16"/>
@@ -63049,7 +63049,7 @@
             insertion_id="0015f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ"
             head="18"
             cite="Sophocles Trachiniae: s-626 w-17"/>
@@ -63058,7 +63058,7 @@
             insertion_id="0015g"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="5"
             cite="Sophocles Trachiniae: s-626 w-18"/>
@@ -63318,7 +63318,7 @@
             insertion_id="0007e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-630 w-8"/>
@@ -63388,7 +63388,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="ADV"
             head="6"
             cite="Sophocles Trachiniae: s-631 w-9"/>
@@ -64281,7 +64281,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-644 w-3"/>
@@ -64407,7 +64407,7 @@
             insertion_id="0016e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="8"
             cite="Sophocles Trachiniae: s-645 w-17"/>
@@ -64692,7 +64692,7 @@
             insertion_id="0031e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="18"
             cite="Sophocles Trachiniae: s-647 w-32"/>
@@ -64701,7 +64701,7 @@
             insertion_id="0031f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ_CO"
             head="13"
             cite="Sophocles Trachiniae: s-647 w-33"/>
@@ -64710,7 +64710,7 @@
             insertion_id="0031g"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="OBJ_CO"
             head="13"
             cite="Sophocles Trachiniae: s-647 w-34"/>
@@ -64822,7 +64822,7 @@
             insertion_id="0014e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-648 w-15"/>
@@ -65375,7 +65375,7 @@
             insertion_id="0008e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-656 w-9"/>
@@ -65457,7 +65457,7 @@
             insertion_id="0002e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-658 w-3"/>
@@ -65986,7 +65986,7 @@
             insertion_id="0010e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED"
             head="0"
             cite="Sophocles Trachiniae: s-664 w-11"/>
@@ -66091,7 +66091,7 @@
             insertion_id="0013e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="COORD"
             head="8"
             cite="Sophocles Trachiniae: s-665 w-14"/>
@@ -66703,7 +66703,7 @@
             insertion_id="0029e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="17"
             cite="Sophocles Trachiniae: s-668 w-30"/>
@@ -66712,7 +66712,7 @@
             insertion_id="0029f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="17"
             cite="Sophocles Trachiniae: s-668 w-31"/>
@@ -66929,7 +66929,7 @@
             insertion_id="0029e"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PRED_CO"
             head="22"
             cite="Sophocles Trachiniae: s-669 w-30"/>
@@ -66938,7 +66938,7 @@
             insertion_id="0029f"
             artificial="elliptic"
             lemma=""
-            postag=""
+            postag="e--------"
             relation="PNOM"
             head="30"
             cite="Sophocles Trachiniae: s-669 w-31"/>

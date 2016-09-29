@@ -14,7 +14,7 @@ doc.object <- xmlTreeParse(file = "../graph_theory/source.xml")
 # this line reads doc.object into an XML Node object which can be accessed through subsetting
 top <- xmlRoot(doc.object)
 
-# check "top" to see which element has firt sentence
+# check "top" to see which element has first sentence
 top[[1]]
 # set variabe for sentence number in "top".
 

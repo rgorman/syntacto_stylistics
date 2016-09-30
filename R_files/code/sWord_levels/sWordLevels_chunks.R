@@ -8,7 +8,7 @@ rm(list = ls())
 library(XML)
 
 source("code/corpusFunctions.R")
-input.dir <- "./working_input"
+input.dir <- "./working_input3"
 files.v <- dir(path=input.dir, pattern=".*xml")
 
 
@@ -28,7 +28,7 @@ for (i in 1:length(files.v)) {
   
   # here we must split files into chunks
   
-  divisor <- length(word.nodes)/500
+  divisor <- length(word.nodes)/3000
   max.length <- length(word.nodes)/divisor
   x <- seq_along(word.nodes)
   chunks.l <- split(word.nodes, ceiling(x/max.length))
@@ -182,7 +182,7 @@ for (i in 1:length(files.v))  {
   
   # here we must split files into chunks
   
-  divisor <- length(word.nodes)/500
+  divisor <- length(word.nodes)/3000
   max.length <- length(word.nodes)/divisor
   x <- seq_along(word.nodes)
   chunks.l <- split(word.nodes, ceiling(x/max.length))
@@ -248,7 +248,7 @@ rm(result.t)
 freq.means.v <- colMeans(final.df[, ])
 
 #collect column means of a given magnitude
-keepers.v <- which(freq.means.v >=.0044)
+keepers.v <- which(freq.means.v >=.005)
 
 
 
@@ -273,8 +273,11 @@ rm(final.df, freqs.df2, smaller.df)
 rm(chunks.l, freq.means.v, freqs.l, ID.holder, sWord.freq.table.list, sWord.nodes.l, word.nodes)
 
 #save data frame object to .csv file
-write.csv(ordered.df, file = "Results_Sept-2016/AllGreekFiles_500tokens_Sept-25.csv")
+write.csv(ordered.df, file = "Results_Sept-2016/AllGreekFiles_3000tokens_Sept-30.csv")
 
+
+smaller.df <- ordered.df
+View(smaller.df)
 scaled.df <- scale(ordered.df)
 View(scaled.df)
 

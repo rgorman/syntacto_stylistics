@@ -28,7 +28,7 @@ for (i in 1:length(files.v)) {
   
   # here we must split files into chunks
   
-  divisor <- length(word.nodes)/3000
+  divisor <- length(word.nodes)/250
   max.length <- length(word.nodes)/divisor
   x <- seq_along(word.nodes)
   chunks.l <- split(word.nodes, ceiling(x/max.length))
@@ -182,7 +182,7 @@ for (i in 1:length(files.v))  {
   
   # here we must split files into chunks
   
-  divisor <- length(word.nodes)/3000
+  divisor <- length(word.nodes)/250
   max.length <- length(word.nodes)/divisor
   x <- seq_along(word.nodes)
   chunks.l <- split(word.nodes, ceiling(x/max.length))
@@ -267,13 +267,13 @@ View(ordered.df)
 
 # free memory by removing data frame objects no longer necessary
 
-rm(final.df, freqs.df2, smaller.df)
+rm(final.df)
 
 # house cleaning
 rm(chunks.l, freq.means.v, freqs.l, ID.holder, sWord.freq.table.list, sWord.nodes.l, word.nodes)
 
 #save data frame object to .csv file
-write.csv(ordered.df, file = "Results_Sept-2016/AllGreekFiles_3000tokens_Sept-30.csv")
+write.csv(ordered.df, file = "Results_Sept-2016/AllGreekFiles_250tokens_Oct-1.csv")
 
 
 smaller.df <- ordered.df

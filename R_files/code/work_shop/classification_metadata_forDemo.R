@@ -19,7 +19,13 @@ aesch <- sum(chunk.total[1:7])
 
 a = 1/12
 
-sum(chunk.total[36:37])
+sum(chunk.total[37])
 
-a/6
+a/83
 
+
+1765-37
+1728-172
+
+rm(chunks.l, combined.content, content.nodes, freq.means.v, freqs.l, ID.holder, sWord.freq.table, sWord.freq.table.list, sWord.nodes.l,
+   sWord.table, word.nodes)

@@ -8,7 +8,7 @@ rm(list = ls())
 library(XML)
 
 source("code/corpusFunctions.R")
-input.dir <- "../sWord_levels/ngram_files"
+input.dir <- "./working_input3"
 files.v <- dir(path=input.dir, pattern=".*xml")
 
 
@@ -25,7 +25,7 @@ for (i in 1:length(files.v)) {
   doc.object <- xmlTreeParse(file.path(input.dir, files.v[i]), useInternalNodes=TRUE)
   # extract all <word> elements and children into XmlNodeList object
   word.nodes <- getNodeSet(doc.object, "//word")
-  word.nodes <- word.nodes[sample(1:length(word.nodes), floor(length(word.nodes)/3))]
+  word.nodes <- word.nodes[sample(1:length(word.nodes), floor(length(word.nodes)/5))]
   
   # here we must split files into chunks
   

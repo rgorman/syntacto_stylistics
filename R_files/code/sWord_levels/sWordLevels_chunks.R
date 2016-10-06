@@ -8,7 +8,7 @@ rm(list = ls())
 library(XML)
 
 source("code/corpusFunctions.R")
-input.dir <- "./working_input3"
+input.dir <- "./working_input4"
 files.v <- dir(path=input.dir, pattern=".*xml")
 
 

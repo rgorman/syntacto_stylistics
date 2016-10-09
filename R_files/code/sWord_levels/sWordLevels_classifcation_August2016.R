@@ -21,7 +21,7 @@ rm(ordered.df)
 # to test tha value of scaling, use the  following:
 smaller.df <- scale(smaller.df)
 
-chunk.ratios.m <- read.csv(file="Results_Sept-2016./MetaData_AllGreek_500-tokens.csv", stringsAsFactors = FALSE, header = TRUE)
+chunk.ratios.m <- read.csv(file="Results_Sept-2016./MetaData_AllGreek_250-tokens.csv", stringsAsFactors = FALSE, header = TRUE)
 dim(chunk.ratios.m)
 chunk.ratios.m[,2]
 View(chunk.ratios.m)
@@ -47,7 +47,7 @@ for (i in 1:100) {
   
   
   #create vector of random integers = 10% of obs in smaller.df
-  testing.index.v <- sample (seq (1, nrow(smaller.df)), 172, prob = chunk.ratios.m[, 2])
+  testing.index.v <- sample (seq (1, nrow(smaller.df)), 206, prob = chunk.ratios.m[, 2])
   
   
   #create training and testing data matrices using testing.index.v and its inverse
@@ -81,7 +81,7 @@ sum(a[,13])/2
 
 
 
-(17200-(sum(a[,13])/2))/17200
+(20600-(sum(a[,13])/2))/20600
 
 summary(model.svm)
 model.svm$
@@ -98,9 +98,9 @@ recheck <- svm(training.data, training.classes, kernel = "linear", scale = FALSE
 
 
 
-save(svm.error.matrix.l, file="Results_Sept-2016/svmErrorMatrix_500tokens_Oct-1-2016.R")
-save(svm.results.l, file="Results_Sept-2016/svmResults_500tokens_Oct-1-2016.R")
-write.csv(a, file = "Results_Sept-2016/svmError_Spreadsheet_500tokens_Oct-1-2016.csv")
+save(svm.error.matrix.l, file="Results_Sept-2016/svmErrorMatrix_250tokens_Oct-1-2016.R")
+save(svm.results.l, file="Results_Sept-2016/svmResults_250tokens_Oct-1-2016.R")
+write.csv(a, file = "Results_Sept-2016/svmError_Spreadsheet_250tokens_Oct-1-2016.csv")
 
 
 save(svm.error.matrix.l, file="Results_Sept-2016/scaled-svmErrorMatrix_500tokens_Oct-1-2016.R")

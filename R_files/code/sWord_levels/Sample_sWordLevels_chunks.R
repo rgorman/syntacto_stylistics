@@ -25,7 +25,7 @@ for (i in 1:length(files.v)) {
   doc.object <- xmlTreeParse(file.path(input.dir, files.v[i]), useInternalNodes=TRUE)
   # extract all <word> elements and children into XmlNodeList object
   word.nodes <- getNodeSet(doc.object, "//word")
-  word.nodes <- word.nodes[sample(1:length(word.nodes), floor(length(word.nodes)/5))]
+  word.nodes <- word.nodes[sample(1:length(word.nodes), floor(length(word.nodes)/3))]
   
   # here we must split files into chunks
   
@@ -198,7 +198,7 @@ for (i in 1:length(files.v))  {
 #identifier tags
 
 
-i <- 1
+i <- 23
 chunk.number <- NULL
 ID.holder <- NULL
 n <- 1
@@ -219,10 +219,12 @@ for (i in 1:length(chunk.total)) {
   
   j <- 1
   
+  
 }
 
 
-ID.holder[100000]
+ID.holder[length(ID.holder)]
+chunk.total
 
 length(sWord.freq.table.list)
 
@@ -248,11 +250,17 @@ rm(result.t)
 freq.means.v <- colMeans(final.df[, ])
 
 #collect column means of a given magnitude
-keepers.v <- which(freq.means.v >=.000173)
+keepers.v <- which(freq.means.v >=.005)
 
 row.names(smaller.df)
 
 #use keepers.v to make a smaller data frame object for analysis
+
+middle.df <- final.df[, keepers.v]
+ordered.df <- middle.df[, order(colMeans(middle.df), decreasing=TRUE)]
+smaller.df <- ordered.df[, 1:1747]
+
+
 smaller.df <- final.df[, keepers.v]
 smaller.df <- ordered.df[, 1:12000]
 
@@ -275,8 +283,7 @@ rm(final.df, freqs.df2, smaller.df)
 # house cleaning
 rm(chunks.l, freq.means.v, freqs.l, ID.holder, sWord.freq.table.list, sWord.nodes.l, word.nodes)
 
-#save data frame object to .csv file
-write.csv(ordered.df, file = "Rresults/matrices/sWordLevels_Sample_50tokenChunks_Aug-2-2016.csv")
+
 
 
 

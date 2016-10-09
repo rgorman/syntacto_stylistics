@@ -8,7 +8,7 @@ rm(list = ls())
 library(XML)
 
 source("code/corpusFunctions.R")
-input.dir <- "./working_input4"
+input.dir <- "./working_input5"
 files.v <- dir(path=input.dir, pattern=".*xml")
 
 
@@ -194,6 +194,7 @@ for (i in 1:length(files.v))  {
 }
 
 
+
 # this series of nested loops uses chunk.total to produce a vector (ID.holder) containing the correct set of chunk
 #identifier tags
 
@@ -238,8 +239,21 @@ dim(result.t)
 
 #convert to a data frame
 final.df <- as.data.frame.matrix(result.t)
+final.df <- final.df[, order(colMeans(final.df), decreasing=TRUE)]
+View(final.df)
 
-final.df2
+final.df2 <- as.data.frame.matrix(result.t)
+final.df2 <- final.df2[, order(colMeans(final.df2), decreasing=TRUE)]
+View(final.df2)
+
+
+short.df1 <- final.df[, 1:100]
+short.df2 <- final.df2[, 1:100]
+
+colnames(short.df1)
+colnames(short.df2)
+
+merged.t <- merge(short.df1, short.df2, colnames(short.df1), colnames(short.df2))
 
 # remove result.t from memory; this is necessary when dealing with a large number of chunks
 rm(result.t)

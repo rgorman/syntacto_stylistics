@@ -10,11 +10,86 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>base_files/Perseus_and_VG/Xenophon_Hell1.xml</String>
+                                    <String>base_files/Perseus_and_VG/processing/Polybius_Book9.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>Xenophon_Hell1</String>
+                                        <String>Polybius_Book10</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>base_files/Perseus_and_VG/processing/Polybius_Book21.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>Polybius_Book10</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>base_files/Perseus_and_VG/Polybius_Book10.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>Polybius_Book10</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>base_files/Perseus_and_VG/processing/Polybius_Book10.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>Polybius_Book10</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>base_files/Perseus_and_VG/Polybius_Book9.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>Polybius_Book10</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>base_files/Perseus_and_VG/Polybius_Book21.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>Polybius_Book10</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -33,7 +108,7 @@
                                     <null/>
                                 </field>
                                 <field name="name">
-                                    <String>Xenophon_Hell1</String>
+                                    <String>Polybius_Book10</String>
                                 </field>
                                 <field name="baseURL">
                                     <String></String>
@@ -51,7 +126,7 @@
                                     <String></String>
                                 </field>
                                 <field name="inputXSLURL">
-                                    <String>${pdu}/xsl%20files/sWord_relation_with_metadata.xsl</String>
+                                    <String>${pdu}/xsl%20files/revised_add_reference_to_words.xsl</String>
                                 </field>
                                 <field name="inputXMLURL">
                                     <String>${currentFileURL}</String>
@@ -72,10 +147,10 @@
                                     <Boolean>false</Boolean>
                                 </field>
                                 <field name="outputFile">
-                                    <null/>
+                                    <File>${pd}/base_files/Perseus_and_VG/processing/${cfne}</File>
                                 </field>
                                 <field name="outputResource">
-                                    <null/>
+                                    <String>${pd}/base_files/Perseus_and_VG/processing/${cfne}</String>
                                 </field>
                                 <field name="openOtherLocationInBrowser">
                                     <Boolean>false</Boolean>
@@ -84,13 +159,13 @@
                                     <null/>
                                 </field>
                                 <field name="openInEditor">
-                                    <Boolean>true</Boolean>
+                                    <Boolean>false</Boolean>
                                 </field>
                                 <field name="showInHTMLPane">
                                     <Boolean>false</Boolean>
                                 </field>
                                 <field name="showInXMLPane">
-                                    <Boolean>true</Boolean>
+                                    <Boolean>false</Boolean>
                                 </field>
                                 <field name="showInSVGPane">
                                     <Boolean>false</Boolean>

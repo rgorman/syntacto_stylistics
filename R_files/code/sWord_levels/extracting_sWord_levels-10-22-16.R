@@ -57,16 +57,21 @@ for (i in 1:length(files.v))  {
   # create a contingency table of sWord.contents. The table lists nuber of occurences for all sWords.
   sWord.table <- table(sWord.contents)
   
-  # normalize sWord.table by dividing by total sWords. Multiply by 1000 to produce rate of sWord occurence per 1000 sWords.
-  sWord.freq.table <- 1000*(sWord.table/sum(sWord.table))
+  # normalize sWord.table by dividing by total sWords.
+  sWord.freq.table <- sWord.table/sum(sWord.table)
   
   # insert sWord.freq.table into list
   sWord.freq.table.list[[i]] <- sWord.freq.table
   
 }
 
+
+# End of extraction loop!
+
+
+
 # save sWord.freq.table.list to disk
-save(sWord.freq.table.list, file = "freq_table_lists/list_10-22-06_1230AM.R")
+save(sWord.freq.table.list, file = "freq_table_lists/list_10-23-16_0958AM.R")
 
 # Convert sWord.freq.table.list into a data matrix. This allows for further analysis and manipulation.
 
@@ -113,7 +118,7 @@ smaller.m <- ordered.df[,1:1000]
 
 View(smaller.m)
 
-
+write.csv(smaller.m, file = "working_output1/rel_pos_Levels_Oct-23-2016_1001AM.csv")
 
 
 

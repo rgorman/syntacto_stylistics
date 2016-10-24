@@ -12,8 +12,8 @@ dim(m)
 m <- m[, c(matrix(1:ncol(m), nrow = 2, byrow = T))]  
 
 # make matrix of labels for columns
-label.a <- matrix(rep("Rel. Freq. per 100 tokens", 496), ncol = 496)
-label.b <- matrix(rep("Z-Score", 496), ncol = 496)
+label.a <- matrix(rep("Rel. Freq. per 100 tokens", 1000), ncol = 1000)
+label.b <- matrix(rep("Z-Score", 1000), ncol = 1000)
 
 # combine matrices
 labels.ab <- cbind(label.a, label.b)
@@ -26,7 +26,7 @@ labels.ab <- matrix(labels.ab, nrow = 1)
 # loop to make rank labels
 i <- 1
 rank <- NULL
-for (i in 1:496)  {
+for (i in 1:1000)  {
   rank <- append(rank, rep(i, 2))
   
   
@@ -41,4 +41,4 @@ combined.m <- rbind(combined.m, m)
 
 
 # save as csv file
-write.csv(combined.m, file = "working_output1/rel_pos_)0-Level_withZ-Scores_Oct-23-2016_1255PM.csv")
+write.csv(combined.m, file = "working_output1/rel_pos_1-Level_withZ-Scores_Oct-24-2016_1243AM.csv")

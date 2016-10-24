@@ -10,26 +10,11 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>base_files/Perseus_and_VG/Polybius_Book9.xml</String>
+                                    <String>base_files/Perseus_and_VG/file_transfer/Polybius_Book6.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>Polybius_Book10</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>base_files/Perseus_and_VG/Polybius_Book10.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>Polybius_Book10</String>
+                                        <String>Polybius_Book6</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -48,7 +33,7 @@
                                     <null/>
                                 </field>
                                 <field name="name">
-                                    <String>Polybius_Book10</String>
+                                    <String>Polybius_Book6</String>
                                 </field>
                                 <field name="baseURL">
                                     <String></String>

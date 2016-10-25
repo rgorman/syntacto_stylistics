@@ -2,14 +2,21 @@
 
 smaller.m
 zscores.m <- scale(smaller.m)
+zscores.m <- scale(ordered.df)
 
 # combine the two matrices by columns
-m <- cbind(smaller.m, zscores.m)                  
+m <- cbind(smaller.m, zscores.m)
+
+m <- cbind(rawOrdered.df, ordered.df, zscores.m)
+m[, 990:1000]
+
 dim(m)
 
 # Reorder the columns to interleave them
 # the concatinate function -- c() -- appatently conjoins rows 1 and 2 of each column
 m <- m[, c(matrix(1:ncol(m), nrow = 2, byrow = T))]  
+m <- m[, c(matrix(1:ncol(m), nrow = 3, byrow = T))] 
+
 
 # make matrix of labels for columns
 label.a <- matrix(rep("Rel. Freq. per 100 tokens", 1000), ncol = 1000)

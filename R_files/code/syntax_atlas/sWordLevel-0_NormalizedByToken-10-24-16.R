@@ -77,7 +77,7 @@ for (i in 1:length(files.v))  {
 
 
 # save sWord.freq.table.list to disk
-save(sWord.freq.table.list, file = "freq_table_lists/list_10-23-16_1245PM.R")
+save(sWord.freq.table.list, file = "freq_table_lists/list_10-24-16_0930PM.R")
 
 # Convert sWord.freq.table.list into a data matrix. This allows for further analysis and manipulation.
 
@@ -104,16 +104,20 @@ names(rawFreqs.df)
 
 #convert from long form table to wide format (i.e., the files will be represented by rows, the sWords by columns)
 result <- xtabs(Freq ~ ID+sWord.contents, data=freqs.df)
+countResult <- xtabs(Freq ~ ID+sWord.contents, data=rawFreqs.df)
+
 
 #convert wide format table to matrix object
 final.m <- apply(result, 2, as.numeric)
+
+rawFinal.m <- apply(countResult, 2, as.numeric)
 
 # make names for rows
 names_for_files.v <- gsub (".xml", "", files.v)
 
 
 # substitute files names for row numbers
-rownames(final.m) <-names_for_files.v
+rownames(rawFinal.m) <-names_for_files.v
 
 rownames(final.m)
 
@@ -124,6 +128,9 @@ dim(final.m)
 # order columns by column mean, largest to smallest and create object with results
 ordered.df <- final.m[, order(colMeans(final.m), decreasing=TRUE)]
 
+which(final.m[, order(colMeans(final.m), decreasing=TRUE)])
+index.v <- 1:498
+index.v <-  index.v[order(colMeans(final.m), decreasing=TRUE)]
 
 # reduce data matrix to features with largest means (most common features)
 smaller.m <- ordered.df[,1:1000]

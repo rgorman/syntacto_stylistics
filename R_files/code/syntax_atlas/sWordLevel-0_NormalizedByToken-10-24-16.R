@@ -139,11 +139,24 @@ smaller.m <- ordered.df[,1:1000]
 # small decimal fractions)
 smaller.m <- 100 * smaller.m
 
+smaller.m <- 100 * smaller.m
+
+ordered.df <- 100 * ordered.df
+
+rawFinal.m <- rawFinal.m[, index.v]
+
 View(smaller.m)
 
 #save matrix to disk
 write.csv(smaller.m, file = "working_output1/rel_pos_Levels_Oct-23-2016_1251PM.csv")
 
+tokenTotal.v <- NULL
+
+tokenTotal.v <- append(tokenTotal.v, sapply(tokenTotal.list, paste, collapse = NULL))
+
+# add two NA elements at beginning of vector to correspond to rows added to matrix
+tokenTotal.v <- c(NA, NA, tokenTotal.v)
 
 
-
+tokenTotal.v  <-  as.integer(tokenTotal.v)
+tokenTotal.m <- matrix(tokenTotal.v, ncol = 1)

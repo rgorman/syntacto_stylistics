@@ -28,6 +28,8 @@ label.c <- matrix(rep("Raw Count", 498), ncol = 498)
 labels.ab <- cbind(label.a, label.b)
 
 labels.abc <- cbind(label.c, label.a, label.b)
+
+
 # reorder columns to interleave
 
 index.abc <- c(matrix(1:ncol(labels.abc), nrow = 3, byrow = TRUE))

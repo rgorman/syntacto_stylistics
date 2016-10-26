@@ -48,11 +48,12 @@ for (i in 1:length(files.v))  {
   
   for (j in 1:length(sWord.nodes)) {
     
-    # if test to avoid nodes with two few sWord children
-    if ((xmlSize(sWord.nodes[[j]]) >= 3)) {
+    # if test to avoid nodes with two few sWord children. !!Be sure to change integer in if test and in 
+    # the sWord.nodes[[j]][] reference or the code will not run properly
+    if ((xmlSize(sWord.nodes[[j]]) >= 5)) {
       
       # extract contents of all <sWord> elements. Result is a charcter vector object.
-      sWord.contents <- append(sWord.contents, paste(xmlValue(sWord.nodes[[j]][[3]]), collapse = NULL))
+      sWord.contents <- append(sWord.contents, paste(xmlValue(sWord.nodes[[j]][[5]]), collapse = NULL))
       
     } else {
       
@@ -183,13 +184,15 @@ zscores.m <- scale(smaller.m)
 
 # combine matrices of frequencies
 m <- cbind(rawFinal.m, smaller.m, zscores.m)
-View(m)
+
 
 # Reorder the columns to interleave them
 # the concatinate function -- c() -- appatently conjoins rows 1, 2, and 3 of each column
  
 
 m <- m[, c(matrix(1:ncol(m), nrow = 3, byrow = T))] 
+View(m)
+
 
 # make matrix of labels for columns
 label.b <- matrix(rep("Rel. Freq. per 100 tokens", ncol(smaller.m)), ncol = ncol(smaller.m))
@@ -234,7 +237,7 @@ dim (tokenTotal.m)
 dim (combined.m)
 
 # save as csv file
-write.csv(combined.m, file = "working_output1/rel-pos_Output_10-25-2016_1144PM.csv")
+write.csv(combined.m, file = "working_output1/rel-pos_Output_10-26-2016_1049AM.csv")
 
 
 

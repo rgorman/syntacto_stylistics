@@ -27,6 +27,7 @@ i <- 1
 sWord.rawCount.list <- list()
 sWord.freq.table.list <- list()
 tokenTotal.list <- list()
+sWordTotal.list <- list()
 
 for (i in 1:length(files.v))  {
   
@@ -80,6 +81,8 @@ for (i in 1:length(files.v))  {
   sWord.rawCount.list[[i]] <- sWord.table
   #insert token totals for each file in list
   tokenTotal.list[[i]] <- length(sWord.nodes)
+  # insert total number of sWords of a given level into a list object
+  sWordTotal.list[[i]] <- length(sWord.contents)
   
 }
 

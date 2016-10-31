@@ -51,10 +51,10 @@ for (i in 1:length(files.v))  {
     
     # if test to avoid nodes with two few sWord children. !!Be sure to change integer in if test and in 
     # the sWord.nodes[[j]][] reference or the code will not run properly
-    if ((xmlSize(sWord.nodes[[j]]) >= 5)) {
+    if ((xmlSize(sWord.nodes[[j]]) >= 6)) {
       
       # extract contents of all <sWord> elements. Result is a charcter vector object.
-      sWord.contents <- append(sWord.contents, paste(xmlValue(sWord.nodes[[j]][[5]]), collapse = NULL))
+      sWord.contents <- append(sWord.contents, paste(xmlValue(sWord.nodes[[j]][[6]]), collapse = NULL))
       
     } else {
       
@@ -90,7 +90,7 @@ for (i in 1:length(files.v))  {
 
 
 # save sWord.freq.table.list to disk
-save(sWord.freq.table.list, file = "freq_table_lists/list_10-24-16_0930PM.R")
+# save(sWord.freq.table.list, file = "freq_table_lists/list_10-24-16_0930PM.R")
 
 # Convert sWord.freq.table.list into a data matrix. This allows for further analysis and manipulation.
 
@@ -119,6 +119,8 @@ names(rawFreqs.df)
 result <- xtabs(Freq ~ ID+sWord.contents, data=freqs.df)
 countResult <- xtabs(Freq ~ ID+sWord.contents, data=rawFreqs.df)
 
+
+dim(result)
 
 #convert wide format table to matrix object
 final.m <- apply(result, 2, as.numeric)
@@ -160,12 +162,15 @@ index.v <- index.v[1:ncol(smaller.m)]
 
 smaller.m <- 100 * smaller.m
 
+# reduce number of decimals
+smaller.m <- round(smaller.m, 4)
+
 # reorder rawFinal.m to match smaller.m
 rawFinal.m <- rawFinal.m[, index.v]
 dim(rawFinal.m)
 
 #save matrix to disk
-write.csv(smaller.m, file = "working_output1/rel_pos_Levels_Oct-23-2016_1251PM.csv")
+# write.csv(smaller.m, file = "working_output1/rel_pos_Levels_Oct-23-2016_1251PM.csv")
 
 # Make empty vector to contain the number of total tokens in each file.
 tokenTotal.v <- NULL
@@ -182,8 +187,33 @@ tokenTotal.v  <-  as.integer(tokenTotal.v)
 # Change tokenTotal.v to matric so it can be combined with the other matrices.
 tokenTotal.m <- matrix(tokenTotal.v, ncol = 1)
 
+
+
+# Make empty vector to contain the number of total sWords in each level
+sWordTotal.v <- NULL
+
+# Fill that vectort object with contents of tokenTotal.list
+sWordTotal.v <- append(sWordTotal.v, sapply(sWordTotal.list, paste, collapse = NULL))
+
+# add two NA elements at beginning of vector to correspond to rows added to matrix
+sWordTotal.v <- c(NA, NA, sWordTotal.v)
+
+# Change tokenTotal to integer vector.
+sWordTotal.v  <-  as.integer(sWordTotal.v)
+
+
+
+# Change tokenTotal.v to matric so it can be combined with the other matrices.
+sWordTotal.m <- matrix(sWordTotal.v, ncol = 1)
+
+# add sWordTotal.v as a column in the matrix
+sWordTotal.m <- cbind(sWordTotal.m, sWordTotal.v)
+
+DoubleTotal.m <- cbind(tokenTotal.m, sWordTotal.v)
+
+
 # Make matrix of z-scores from smaller.m
-zscores.m <- scale(smaller.m)
+zscores.m <- round(scale(smaller.m), 4)
 
 # combine matrices of frequencies
 m <- cbind(rawFinal.m, smaller.m, zscores.m)
@@ -235,12 +265,15 @@ rank.m <- matrix(rank, ncol = length(rank))
 combined.m <- rbind(rank.m, labels.abc, m)
 
 # add total token amounts as first column in matrix
-combined.m <- cbind(tokenTotal.m, combined.m)
+combined.m <- cbind(DoubleTotal.m, combined.m)
 dim (tokenTotal.m)
 dim (combined.m)
 
 # save as csv file
-write.csv(combined.m, file = "working_output1/rel-pos_Output_10-26-2016_1049AM.csv")
+write.csv(combined.m, file = "working_output1/rel-pos_Output_10-30-2016_1139PM.csv")
+
+# save as csv file the number of sWords associated with each level
+write.csv(sWordTotal.m, file = "working_output1/rel-pos_sWordTotal.csv")
 
 
 

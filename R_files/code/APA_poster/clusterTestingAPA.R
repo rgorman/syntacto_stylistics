@@ -75,6 +75,9 @@ View(smaller.m)
 ordered.m <- smaller.m[, order(colMeans(smaller.m), decreasing=TRUE)]
 View(ordered.m)
 
+# save ordered.m
+write.csv(ordered.m, file="working_output1/cluster_matrix.csv")
+
 #create distance object as input to hclust algorithm. Possible methods are "euclidian", "maximum", "manhattan", "canberra", "binary" or "minkowski". Default is "euclidian".
 dist.smaller.m <- dist(smaller.m)
 dist.smaller.m2 <- dist(scale(smaller.m), upper = FALSE, diag = TRUE)

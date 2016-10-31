@@ -20,6 +20,71 @@ files.v <- dir(path=input.dir, pattern=".*xml")
 # The following loop extracts the sWords from each file in the given directory and inserts them as character vectors
 # into the appropriate element in a list object.
 
+GrandsWordTotal.list <- list()
+
+for (f in 1:12) {
+  
+  # set incremental varaible to 1
+  i <- 1
+  
+  # create list objects with no content. Vectors extracted from XML files will be stored here.
+  sWord.rawCount.list <- list()
+  sWord.freq.table.list <- list()
+  tokenTotal.list <- list()
+  sWordTotal.list <- list()
+  
+  for (i in 1:length(files.v))  {
+    
+    # read xml structure from file to .R object
+    doc.object <- xmlTreeParse(file.path(input.dir, files.v[i]), useInternalNodes=TRUE)
+    # extract all <word> elements and children into XmlNodeList object
+    word.nodes <- getNodeSet(doc.object, "//word")
+    # extract all <sWord> elements from word,nodes. The result is an XMLNodeList object.
+    sWord.nodes <- sapply(word.nodes, xmlChildren)
+    
+    
+    # The following loop extracts contents of all <sWord> elements, i.e., extracts the sWords themselve srom the XML.
+    
+    # set incremetal variable for loop
+    j <- 1
+    
+    # create vector object sWord,contents with no content.
+    sWord.contents <- NULL
+    
+    for (j in 1:length(sWord.nodes)) {
+      
+      # if test to avoid nodes with two few sWord children. !!Be sure to change integer in if test and in 
+      # the sWord.nodes[[j]][] reference or the code will not run properly
+      if ((xmlSize(sWord.nodes[[j]]) >= f)) {
+        
+        # extract contents of all <sWord> elements. Result is a charcter vector object.
+        sWord.contents <- append(sWord.contents, paste(xmlValue(sWord.nodes[[j]][[f]]), collapse = NULL))
+        
+      } else {
+        
+        
+        
+      }
+      
+      
+    }
+    
+    
+    
+    # insert total number of sWords of a given level into a list object
+    sWordTotal.list[[i]] <- length(sWord.contents)
+    
+  }
+  
+  # End of Loop!!!
+  
+  
+  
+  
+  GrandsWordTotal.list[[f]] <- sapply(sWordTotal.list, paste, collapse = NULL)
+  
+}
+
 # set incremental varaible to 1
 i <- 1
 
@@ -51,10 +116,10 @@ for (i in 1:length(files.v))  {
     
     # if test to avoid nodes with two few sWord children. !!Be sure to change integer in if test and in 
     # the sWord.nodes[[j]][] reference or the code will not run properly
-    if ((xmlSize(sWord.nodes[[j]]) >= 8)) {
+    if ((xmlSize(sWord.nodes[[j]]) >= f)) {
       
       # extract contents of all <sWord> elements. Result is a charcter vector object.
-      sWord.contents <- append(sWord.contents, paste(xmlValue(sWord.nodes[[j]][[8]]), collapse = NULL))
+      sWord.contents <- append(sWord.contents, paste(xmlValue(sWord.nodes[[j]][[f]]), collapse = NULL))
       
     } else {
       
@@ -66,21 +131,7 @@ for (i in 1:length(files.v))  {
   }
   
   
-  # change sWord.contents vector to lower case
-  sWord.contents <- tolower(sWord.contents)
-  
-  # create a contingency table of sWord.contents. The table lists nuber of occurences for all sWords.
-  sWord.table <- table(sWord.contents)
-  
-  # normalize sWord.table by number of tokens (not number of sWords).
-  sWord.freq.table <- sWord.table/length(sWord.nodes)
-  
-  # insert sWord.freq.table into list
-  sWord.freq.table.list[[i]] <- sWord.freq.table
-  # insert raw frequencies into list
-  sWord.rawCount.list[[i]] <- sWord.table
-  #insert token totals for each file in list
-  tokenTotal.list[[i]] <- length(sWord.nodes)
+ 
   # insert total number of sWords of a given level into a list object
   sWordTotal.list[[i]] <- length(sWord.contents)
   

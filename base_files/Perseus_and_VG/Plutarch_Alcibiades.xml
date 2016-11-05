@@ -19388,7 +19388,7 @@
             form="τε"
             lemma="τε"
             postag="d--------"
-            relation="COORD"
+            relation="AuxY"
             head="27"
             cite=" Plutarch Alcibiades: s-114 w-23"/>
       <word id="24"
@@ -19654,7 +19654,7 @@
             form="τε"
             lemma="τε"
             postag="d--------"
-            relation="COORD"
+            relation="AuxY"
             head="63"
             cite=" Plutarch Alcibiades: s-114 w-61"/>
       <word id="62"

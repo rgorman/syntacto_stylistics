@@ -5139,7 +5139,7 @@
       <word id="10"
             form="καὶ"
             lemma="καί"
-            postag="d--------"
+            postag="c--------"
             relation="COORD"
             head="0"
             cite=" Plutarch Lycurgus: s-25 w-10"/>
@@ -41004,7 +41004,7 @@
             form="δ̓"
             lemma="δέ"
             postag="d--------"
-            relation="COORD"
+            relation="AuxY"
             head="10"
             cite=" Plutarch Lycurgus: s-218 w-2"/>
       <word id="3"
@@ -50111,7 +50111,7 @@
             form="ἁμέρᾳ"
             lemma="ἡμέρα"
             postag="n-s---fd-"
-            relation="COORD"
+            relation="ADV"
             head="29"
             cite=" Plutarch Lycurgus: s-277 w-27"/>
       <word id="28"
@@ -53069,7 +53069,7 @@
             form="ὅλως"
             lemma="ὅλος"
             postag="d--------"
-            relation="COORD"
+            relation="ADV"
             head="5"
             cite=" Plutarch Lycurgus: s-302 w-1"/>
       <word id="2"

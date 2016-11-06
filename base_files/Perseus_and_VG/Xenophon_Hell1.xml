@@ -20792,14 +20792,14 @@
             form="δὲ"
             lemma="δέ"
             postag="d--------"
-            relation="COORD"
+            relation="AuxY"
             head="11"
             cite="Xenophon Hellenica Book 1: s-139 w-2"/>
       <word id="3"
             form="καὶ"
             lemma="καί"
             postag="d--------"
-            relation="COORD"
+            relation="AuxY"
             head="7"
             cite="Xenophon Hellenica Book 1: s-139 w-3"/>
       <word id="4"
@@ -20869,7 +20869,7 @@
             form="καὶ"
             lemma="καί"
             postag="d--------"
-            relation="COORD"
+            relation="AuxY"
             head="21"
             cite="Xenophon Hellenica Book 1: s-139 w-13"/>
       <word id="14"

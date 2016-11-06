@@ -1,3 +1,3 @@
 for $word in //word
-where $word/@relation="COORD" and contains($word/@postag, "d")
+where $word/@relation="AuxY" and contains($word/@postag, "c-")
 return $word

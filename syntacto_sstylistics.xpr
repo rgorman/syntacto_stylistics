@@ -10,11 +10,11 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>base_files/Perseus_and_VG/Polybius_Book10.xml</String>
+                                    <String>xsl%20files/working/Polybius_Book10.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>Lysias_SelectOrations</String>
+                                        <String>Polybius_Book10</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -25,11 +25,26 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>base_files/Perseus_and_VG/Lysias_SelectOrations.xml</String>
+                                    <String>base_files/Perseus_and_VG/Polybius_Book10.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>Lysias_SelectOrations</String>
+                                        <String>Polybius_Book10</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>R_files/working_input1/Polybius_Book10.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>Polybius_Book10</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -48,7 +63,7 @@
                                     <null/>
                                 </field>
                                 <field name="name">
-                                    <String>Lysias_SelectOrations</String>
+                                    <String>Polybius_Book10</String>
                                 </field>
                                 <field name="baseURL">
                                     <String></String>
@@ -66,7 +81,7 @@
                                     <String></String>
                                 </field>
                                 <field name="inputXSLURL">
-                                    <String>${pdu}/xsl%20files/working/change_sentence_number.xsl</String>
+                                    <String>${pdu}/xsl%20files/revised_add_reference_to_words.xsl</String>
                                 </field>
                                 <field name="inputXMLURL">
                                     <String>${currentFileURL}</String>

@@ -15723,83 +15723,50 @@
             <word id="17" insertion_id="0016e" artificial="elliptic" relation="PRED" form="[0]"
                   head="0" cite="Polybius Book 10: s-234 w-17"/>
       </sentence>
-      <sentence id="235" document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1" subdoc="10.26.1"
+      <sentence id="235"
+            document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
+            subdoc="10.26.1"
             span="Polybius Book 10: s-235">
-            <word id="1" form="ὅτι" lemma="ὅτι2" postag="c--------" relation="AuxY" head="17"
-                  cite="Polybius Book 10: s-235 w-1"/>
-            <word id="2" form="Φίλιππος" lemma="Φίλιππος" postag="n-s---mn-" relation="SBJ"
-                  head="17" cite="Polybius Book 10: s-235 w-2"/>
-            <word id="3" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" head="2"
-                  cite="Polybius Book 10: s-235 w-3"/>
-            <word id="4" form="βασιλεὺς" lemma="βασιλεύς" postag="n-s---mn-" relation="ATR" head="2"
-                  cite="Polybius Book 10: s-235 w-4"/>
-            <word id="5" form="Μακεδόνων" lemma="Μακεδών" postag="n-p---mg-" relation="ATR" head="4"
-                  cite="Polybius Book 10: s-235 w-5"/>
-            <word id="6" form="μετὰ" lemma="μετά" postag="r--------" relation="AuxP" head="16"
-                  cite="Polybius Book 10: s-235 w-6"/>
-            <word id="7" form="τὸ" lemma="ὁ" postag="l-s---na-" relation="ATR" head="8"
-                  cite="Polybius Book 10: s-235 w-7"/>
-            <word id="8" form="ἐκτελέσαι" lemma="ἐκτελέω" postag="v--ana---" relation="ADV" head="6"
-                  cite="Polybius Book 10: s-235 w-8"/>
-            <word id="9" form="τὸν" lemma="ὁ" postag="l-s---ma-" relation="ATR" head="12"
-                  cite="Polybius Book 10: s-235 w-9"/>
-            <word id="10" form="τῶν" lemma="ὁ" postag="l-p---ng-" relation="ATR" head="11"
-                  cite="Polybius Book 10: s-235 w-10"/>
-            <word id="11" form="Νεμέων" lemma="Νέμεα" postag="n-p---ng-" relation="ATR" head="12"
-                  cite="Polybius Book 10: s-235 w-11"/>
-            <word id="12" form="ἀγῶνα" lemma="ἀγών" postag="n-s---ma-" relation="OBJ" head="8"
-                  cite="Polybius Book 10: s-235 w-12"/>
-            <word id="13" form="αὖθις" lemma="αὖθις" postag="d--------" relation="ADV" head="16"
-                  cite="Polybius Book 10: s-235 w-13"/>
-            <word id="14" form="εἰς" lemma="εἰς" postag="r--------" relation="AuxP" head="16"
-                  cite="Polybius Book 10: s-235 w-14"/>
-            <word id="15" form="Ἄργος" lemma="Ἄργος" postag="n-s---na-" relation="OBJ" head="14"
-                  cite="Polybius Book 10: s-235 w-15"/>
-            <word id="16" form="ἐπανῆλθε" lemma="ἐπανέρχομαι" postag="v3saia---" relation="PRED_CO"
-                  head="17" cite="Polybius Book 10: s-235 w-16"/>
-            <word id="17" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="0"
-                  cite="Polybius Book 10: s-235 w-17"/>
-            <word id="18" form="τὸ" lemma="ὁ" postag="l-s---na-" relation="ATR" head="20"
-                  cite="Polybius Book 10: s-235 w-18"/>
-            <word id="19" form="μὲν" lemma="μέν" postag="d--------" relation="AuxZ" head="20"
-                  cite="Polybius Book 10: s-235 w-19"/>
-            <word id="20" form="διάδημα" lemma="διάδημα" postag="n-s---na-" relation="OBJ_CO"
-                  head="21" cite="Polybius Book 10: s-235 w-20"/>
-            <word id="21" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="24"
-                  cite="Polybius Book 10: s-235 w-21"/>
-            <word id="22" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" head="23"
-                  cite="Polybius Book 10: s-235 w-22"/>
-            <word id="23" form="πορφύραν" lemma="πορφύρα" postag="n-s---fa-" relation="OBJ_CO"
-                  head="21" cite="Polybius Book 10: s-235 w-23"/>
-            <word id="24" form="ἀπέθετο" lemma="ἀποτίθημι" postag="v3saim---" relation="PRED_CO"
-                  head="17" cite="Polybius Book 10: s-235 w-24"/>
-            <word id="25" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"
-                  cite="Polybius Book 10: s-235 w-25"/>
-            <word id="26" form="βουλόμενος" lemma="βούλομαι" postag="v-sppemn-" relation="ADV"
-                  head="17" cite="Polybius Book 10: s-235 w-26"/>
-            <word id="27" form="αὑτὸν" lemma="ἑαυτοῦ" postag="p-s---ma-" relation="OBJ" head="36"
-                  cite="Polybius Book 10: s-235 w-27"/>
-            <word id="28" form="ἴσον" lemma="ἴσος" postag="a-s---ma-" relation="ATR_CO" head="34"
-                  cite="Polybius Book 10: s-235 w-28"/>
-            <word id="29" form="τοῖς" lemma="ὁ" postag="l-p---md-" relation="ATR" head="30"
-                  cite="Polybius Book 10: s-235 w-29"/>
-            <word id="30" form="πολλοῖς" lemma="πολύς" postag="a-p---md-" relation="OBJ" head="36"
-                  cite="Polybius Book 10: s-235 w-30"/>
-            <word id="31" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="34"
-                  cite="Polybius Book 10: s-235 w-31"/>
-            <word id="32" form="πρᾷόν" lemma="πρᾶος" postag="a-s---ma-" relation="ATR_CO" head="34"
-                  cite="Polybius Book 10: s-235 w-32"/>
-            <word id="33" form="τινα" lemma="τις" postag="p-s---ma-" relation="OCOMP" head="36"
-                  cite="Polybius Book 10: s-235 w-33"/>
-            <word id="34" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="33"
-                  cite="Polybius Book 10: s-235 w-34"/>
-            <word id="35" form="δημοτικὸν" lemma="δημοτικός" postag="a-s---ma-" relation="ATR_CO"
-                  head="34" cite="Polybius Book 10: s-235 w-35"/>
-            <word id="36" form="ὑπογράφειν" lemma="ὑπογράφω" postag="v--pna---" relation="OBJ"
-                  head="26" cite="Polybius Book 10: s-235 w-36"/>
-            <word id="37" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"
-                  cite="Polybius Book 10: s-235 w-37"/>
+            <word id="1" form="ὅτι" lemma="ὅτι2" postag="c--------" relation="AuxC" cite="Polybius Book 10: s-235 w-1" head="0"/>
+            <word id="2" form="Φίλιππος" lemma="Φίλιππος" postag="n-s---mn-" relation="SBJ" cite="Polybius Book 10: s-235 w-2" head="17"/>
+            <word id="3" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" cite="Polybius Book 10: s-235 w-3" head="2"/>
+            <word id="4" form="βασιλεὺς" lemma="βασιλεύς" postag="n-s---mn-" relation="ATR" cite="Polybius Book 10: s-235 w-4" head="2"/>
+            <word id="5" form="Μακεδόνων" lemma="Μακεδών" postag="n-p---mg-" relation="ATR" cite="Polybius Book 10: s-235 w-5" head="4"/>
+            <word id="6" form="μετὰ" lemma="μετά" postag="r--------" relation="AuxP" cite="Polybius Book 10: s-235 w-6" head="16"/>
+            <word id="7" form="τὸ" lemma="ὁ" postag="l-s---na-" relation="ATR" cite="Polybius Book 10: s-235 w-7" head="8"/>
+            <word id="8" form="ἐκτελέσαι" lemma="ἐκτελέω" postag="v--ana---" relation="ADV" cite="Polybius Book 10: s-235 w-8" head="6"/>
+            <word id="9" form="τὸν" lemma="ὁ" postag="l-s---ma-" relation="ATR" cite="Polybius Book 10: s-235 w-9" head="12"/>
+            <word id="10" form="τῶν" lemma="ὁ" postag="l-p---ng-" relation="ATR" cite="Polybius Book 10: s-235 w-10" head="11"/>
+            <word id="11" form="Νεμέων" lemma="Νέμεα" postag="n-p---ng-" relation="ATR" cite="Polybius Book 10: s-235 w-11" head="12"/>
+            <word id="12" form="ἀγῶνα" lemma="ἀγών" postag="n-s---ma-" relation="OBJ" cite="Polybius Book 10: s-235 w-12" head="8"/>
+            <word id="13" form="αὖθις" lemma="αὖθις" postag="d--------" relation="ADV" cite="Polybius Book 10: s-235 w-13" head="16"/>
+            <word id="14" form="εἰς" lemma="εἰς" postag="r--------" relation="AuxP" cite="Polybius Book 10: s-235 w-14" head="16"/>
+            <word id="15" form="Ἄργος" lemma="Ἄργος" postag="n-s---na-" relation="OBJ" cite="Polybius Book 10: s-235 w-15" head="14"/>
+            <word id="16" form="ἐπανῆλθε" lemma="ἐπανέρχομαι" postag="v3saia---" relation="PRED_CO" cite="Polybius Book 10: s-235 w-16" head="17"/>
+            <word id="17" form="καὶ" lemma="καί" postag="c--------" relation="COORD" cite="Polybius Book 10: s-235 w-17" head="1"/>
+            <word id="18" form="τὸ" lemma="ὁ" postag="l-s---na-" relation="ATR" cite="Polybius Book 10: s-235 w-18" head="20"/>
+            <word id="19" form="μὲν" lemma="μέν" postag="d--------" relation="AuxZ" cite="Polybius Book 10: s-235 w-19" head="20"/>
+            <word id="20" form="διάδημα" lemma="διάδημα" postag="n-s---na-" relation="OBJ_CO" cite="Polybius Book 10: s-235 w-20" head="21"/>
+            <word id="21" form="καὶ" lemma="καί" postag="c--------" relation="COORD" cite="Polybius Book 10: s-235 w-21" head="24"/>
+            <word id="22" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" cite="Polybius Book 10: s-235 w-22" head="23"/>
+            <word id="23" form="πορφύραν" lemma="πορφύρα" postag="n-s---fa-" relation="OBJ_CO" cite="Polybius Book 10: s-235 w-23" head="21"/>
+            <word id="24" form="ἀπέθετο" lemma="ἀποτίθημι" postag="v3saim---" relation="PRED_CO" cite="Polybius Book 10: s-235 w-24" head="17"/>
+            <word id="25" form="," lemma="punc1" postag="u--------" relation="AuxX" cite="Polybius Book 10: s-235 w-25" head="0"/>
+            <word id="26" form="βουλόμενος" lemma="βούλομαι" postag="v-sppemn-" relation="ADV" cite="Polybius Book 10: s-235 w-26" head="17"/>
+            <word id="27" form="αὑτὸν" lemma="ἑαυτοῦ" postag="p-s---ma-" relation="OBJ" cite="Polybius Book 10: s-235 w-27" head="36"/>
+            <word id="28" form="ἴσον" lemma="ἴσος" postag="a-s---ma-" relation="ATR_CO" cite="Polybius Book 10: s-235 w-28" head="34"/>
+            <word id="29" form="τοῖς" lemma="ὁ" postag="l-p---md-" relation="ATR" cite="Polybius Book 10: s-235 w-29" head="30"/>
+            <word id="30" form="πολλοῖς" lemma="πολύς" postag="a-p---md-" relation="OBJ" cite="Polybius Book 10: s-235 w-30" head="36"/>
+            <word id="31" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" cite="Polybius Book 10: s-235 w-31" head="34"/>
+            <word id="32" form="πρᾷόν" lemma="πρᾶος" postag="a-s---ma-" relation="ATR_CO" cite="Polybius Book 10: s-235 w-32" head="34"/>
+            <word id="33" form="τινα" lemma="τις" postag="p-s---ma-" relation="OCOMP" cite="Polybius Book 10: s-235 w-33" head="36"/>
+            <word id="34" form="καὶ" lemma="καί" postag="c--------" relation="COORD" cite="Polybius Book 10: s-235 w-34" head="33"/>
+            <word id="35" form="δημοτικὸν" lemma="δημοτικός" postag="a-s---ma-" relation="ATR_CO" cite="Polybius Book 10: s-235 w-35" head="34"/>
+            <word id="36" form="ὑπογράφειν" lemma="ὑπογράφω" postag="v--pna---" relation="OBJ" cite="Polybius Book 10: s-235 w-36" head="26"/>
+            <word id="37" form="." lemma="punc1" postag="u--------" relation="AuxK" cite="Polybius Book 10: s-235 w-37" head="0"/>
       </sentence>
+      
+      
       <sentence id="236" document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1" subdoc="10.26.2"
             span="Polybius Book 10: s-236">
             <word id="1" form="ὅσῳ" lemma="ὅσος" postag="a-s---nd-" relation="ADV" head="5"

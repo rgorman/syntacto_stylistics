@@ -51,10 +51,10 @@ for (i in 1:length(files.v))  {
     
     # if test to avoid nodes with two few sWord children. !!Be sure to change integer in if test and in 
     # the sWord.nodes[[j]][] reference or the code will not run properly
-    if ((xmlSize(sWord.nodes[[j]]) >= 8)) {
+    if ((xmlSize(sWord.nodes[[j]]) >= 3)) {
       
       # extract contents of all <sWord> elements. Result is a charcter vector object.
-      sWord.contents <- append(sWord.contents, paste(xmlValue(sWord.nodes[[j]][[8]]), collapse = NULL))
+      sWord.contents <- append(sWord.contents, paste(xmlValue(sWord.nodes[[j]][[3]]), collapse = NULL))
       
     } else {
       

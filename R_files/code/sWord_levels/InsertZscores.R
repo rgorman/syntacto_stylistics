@@ -49,3 +49,4 @@ for (i in 1:length(zIndex)) {
 
 # save file
 write.csv(newPoetry.m, file = "working_input2/newPoetry.csv")
+write.csv(newProse.m, file = "working_input2/newProse.csv")

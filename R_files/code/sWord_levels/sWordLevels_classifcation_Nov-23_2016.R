@@ -16,7 +16,7 @@ row.names(smaller.df)
 smaller.df <- scale(smaller.df)
 
 # read meta data from disk; 
-chunk.ratios.m <- read.csv(file="Results_Nov-2016/MetaData_AllGreek_125Tokens.csv", stringsAsFactors = FALSE, header = TRUE)
+chunk.ratios.m <- read.csv(file="Results_Nov-2016/MetaData_AllGreek_100Tokens.csv", stringsAsFactors = FALSE, header = TRUE)
 dim(chunk.ratios.m)
 chunk.ratios.m[,2]
 View(chunk.ratios.m)

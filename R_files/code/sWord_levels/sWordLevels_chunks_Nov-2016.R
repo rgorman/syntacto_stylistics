@@ -28,7 +28,7 @@ for (i in 1:length(files.v)) {
   
   # here we must split files into chunks
   
-  divisor <- length(word.nodes)/125
+  divisor <- length(word.nodes)/100
   max.length <- length(word.nodes)/divisor
   x <- seq_along(word.nodes)
   chunks.l <- split(word.nodes, ceiling(x/max.length))
@@ -148,6 +148,8 @@ for (i in 1:length(sWord.freq.table.list)) {
 freqs.df <- do.call(rbind, freqs.l)
 #the result is a long form data frame
 
+object.size(freqs.df)
+
 # divide freqs.df into smaller data frames so that we can cross tabulate without running out of memory
 z <- ceiling(nrow(freqs.df)/5)
 freqs.df[z,]
@@ -196,18 +198,46 @@ for (i in 1:5)  {
 }
 
 
+# or run xtab by hand
+result1 <- xtabs(Freq ~ ID+combined.content, data=freqs.df1)
+save(result1, file = "result1.R")
+rm(result1)
 
+result2 <- xtabs(Freq ~ ID+combined.content, data=freqs.df2)
+save(result2, file = "result2.R")
+rm(result2)
+
+result3 <- xtabs(Freq ~ ID+combined.content, data=freqs.df3)
+save(result3, file = "result3.R")
+rm(result3)
+
+result4 <- xtabs(Freq ~ ID+combined.content, data=freqs.df4)
+save(result4, file = "result4.R")
+rm(result4)
+
+result5 <- xtabs(Freq ~ ID+combined.content, data=freqs.df5)
+save(result5, file = "result5.R")
+rm(result5)
+# remove data frames to free up memory
+rm(freqs.df1, freqs.df2, freqs.df3, freqs.df4, freqs.df5)
+
+dim(result5)
 
 # reopen saved files and convert to data frames 
 
 load(file = "result5.R")
 
-final.df2 <- as.data.frame.matrix(result)
+rm(result5)
+
+final.df <- as.data.frame.matrix(result1)
+
+final.df2 <- as.data.frame.matrix(result5)
 
 final.df <- rbind(final.df, final.df2)
 
 object.size(final.df)
 
+rm(final.df2)
 
 # remove .xml suffix  from file names and store result in vector for generation of row labels
 bookids.v <- gsub(".xml", "", files.v)
@@ -230,7 +260,7 @@ for (i in 1:length(files.v))  {
   
   # here we must split files into chunks
   
-  divisor <- length(word.nodes)/125
+  divisor <- length(word.nodes)/100
   max.length <- length(word.nodes)/divisor
   x <- seq_along(word.nodes)
   chunks.l <- split(word.nodes, ceiling(x/max.length))
@@ -294,10 +324,10 @@ rm(final.df2, freqs.df1, freqs.df2, freqs.df3, freqs.df4, freqs.df5)
 #reduce the feature set
 
 # extract the mean of each column; slice the file so that only a portion is processed at one time to allow sufficient memory
-freq.means.v5 <- colMeans(final.df[,400001:425002])
+freq.means.v6 <- colMeans(final.df[,400001:425022])
 
 #combine the freq.means.v vectors into one vector
-freq.mean.v <- append(freq.means.v1, c(freq.means.v2, freq.means.v3, freq.means.v4, freq.means.v5))
+freq.mean.v <- append(freq.means.v1, c(freq.means.v2, freq.means.v3, freq.means.v4, freq.means.v5, freq.means.v6))
 
 #collect column means of a given magnitude
 keepers.v <- which(freq.mean.v >=.005)
@@ -310,7 +340,7 @@ smaller.df <- final.df[, keepers.v]
 
 dim(smaller.df)
 
-rm(freqs.df)
+
 
 
 # order columns by column mean, largest to smallest and create object with results
@@ -320,9 +350,10 @@ View(ordered.df)
 
 
 #save data frame object to .csv file
-write.csv(ordered.df, file = "Results_Nov-2016/AllGreekFiles_125tokens_Nov-24.csv")
-
+write.csv(ordered.df, file = "Results_Nov-2016/AllGreekFiles_100tokens_Nov-24.csv")
+save(final.df, file = "Results_Nov-2016/AllGreekFiles_100tokens_Nov-24.R")
 
 # memory should be scribbed and a sWord-levels_classification script run
+rm(final.df, freq.means.v1,  freq.means.v2, freq.means.v3, freq.means.v4, freq.means.v5, freq.means.v6 )
 
 

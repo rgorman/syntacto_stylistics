@@ -13,7 +13,7 @@
     </xsl:template>
     <xsl:template match="sentence">
         <sentence>
-            <xsl:attribute name="new_id">
+            <xsl:attribute name="id">
                 <xsl:value-of><xsl:number/></xsl:value-of>
             </xsl:attribute>
             <xsl:copy-of select="@*"/>

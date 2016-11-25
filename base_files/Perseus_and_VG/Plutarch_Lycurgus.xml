@@ -15600,7 +15600,7 @@
       <word id="2"
             form="καὶ"
             lemma="καί"
-            postag="c--------"
+            postag="d--------"
             relation="AuxY"
             head="3"
             cite=" Plutarch Lycurgus: s-80 w-2"/>
@@ -19194,7 +19194,7 @@
       <word id="3"
             form="ἢ"
             lemma="ἤ1"
-            postag="c--------"
+            postag="d--------"
             relation="AuxY"
             head="10"
             cite=" Plutarch Lycurgus: s-97 w-3"/>
@@ -19215,7 +19215,7 @@
       <word id="6"
             form="ἢ"
             lemma="ἤ1"
-            postag="c--------"
+            postag="d--------"
             relation="AuxY"
             head="10"
             cite=" Plutarch Lycurgus: s-97 w-6"/>
@@ -19229,7 +19229,7 @@
       <word id="8"
             form="ἢ"
             lemma="ἤ1"
-            postag="c--------"
+            postag="d--------"
             relation="AuxY"
             head="10"
             cite=" Plutarch Lycurgus: s-97 w-8"/>
@@ -63386,7 +63386,7 @@
             form="τε"
             lemma="τε"
             postag="c--------"
-            relation="AuxY"
+            relation="COORD"
             head="0"
             cite=" Plutarch Lycurgus: s-360 w-12"/>
       <word id="13"

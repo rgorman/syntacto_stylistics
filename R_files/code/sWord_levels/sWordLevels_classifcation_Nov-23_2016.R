@@ -1,40 +1,34 @@
+# clean workspace
+rm(list = ls())
 
 
-# removes large files created by extraction process
-rm(chunks.l, combined.content, content.nodes, freq.means.v, freqs.l, ID.holder, sWord.freq.table, sWord.freq.table.list, sWord.nodes.l,
-   sWord.table, word.nodes)
-
-smaller.df <- smaller.df[1:1328, ]
-# script to test svm classification
 
 require(e1071)
 require(gmodels)
 require(klaR)
 
-# rename ordered.df as smaller.df to fit in following script
-smaller.df <- ordered.df
-smaller.df <- smaller.df[1:1328, ]
-smaller.df <- scaled.df
-# remove ordered.df from memory
-rm(ordered.df)
+# read data from disk
+smaller.df <- read.csv(file="Results_Nov-2016/AllGreekFiles_125tokens_Nov-24.csv", stringsAsFactors = FALSE, header = TRUE, row.names = 1,)
+View(smaller.df)
+row.names(smaller.df)
 
 # to test tha value of scaling, use the  following:
 smaller.df <- scale(smaller.df)
 
-chunk.ratios.m <- read.csv(file="Results_Sept-2016./MetaData_AllGreek_250-tokens.csv", stringsAsFactors = FALSE, header = TRUE)
+# read meta data from disk; 
+chunk.ratios.m <- read.csv(file="Results_Nov-2016/MetaData_AllGreek_125Tokens.csv", stringsAsFactors = FALSE, header = TRUE)
 dim(chunk.ratios.m)
 chunk.ratios.m[,2]
 View(chunk.ratios.m)
 
 
-# we must have a list naming the author for each chunk; this should be automated
-# author.factor <- NULL
-# author.factor <- append(author.factor, rep("Thucydides", 24))
 
 # read in author.v for list of levels
 author.factor <- chunk.ratios.m[, 1]
 unique(author.factor)
 
+
+# make empty objects for results of classification tests
 svm.results.l <- list()
 svm.error.matrix.l <- list()
 testing.classes.l <- list()
@@ -47,7 +41,7 @@ for (i in 1:100) {
   
   
   #create vector of random integers = 10% of obs in smaller.df
-  testing.index.v <- sample (seq (1, nrow(smaller.df)), 206, prob = chunk.ratios.m[, 2])
+  testing.index.v <- sample (seq (1, nrow(smaller.df)), 460, prob = chunk.ratios.m[, 2])
   
   
   #create training and testing data matrices using testing.index.v and its inverse
@@ -77,11 +71,12 @@ View(a)
 sum(a[,13])
 
 
-sum(a[,13])/2
+sum(a[,15])/2
+
+250*100
 
 
-
-(20600-(sum(a[,13])/2))/20600
+(46000-(sum(a[,13])/2))/46000
 
 summary(model.svm)
 model.svm$
@@ -98,9 +93,9 @@ recheck <- svm(training.data, training.classes, kernel = "linear", scale = FALSE
 
 
 
-save(svm.error.matrix.l, file="Results_Sept-2016/svmErrorMatrix_250tokens_Oct-1-2016.R")
-save(svm.results.l, file="Results_Sept-2016/svmResults_250tokens_Oct-1-2016.R")
-write.csv(a, file = "Results_Sept-2016/svmError_Spreadsheet_250tokens_Oct-1-2016.csv")
+save(svm.error.matrix.l, file="Results_NOv-2016/svmErrorMatrix_250tokens_Nov-24-2016.R")
+save(svm.results.l, file="Results_Nov-2016/svmResults_125tokens_Nov-24-2016.R")
+write.csv(a, file = "Results_Nov-2016/svmError_Spreadsheet_125tokens_Nov-24-2016.csv")
 
 
 save(svm.error.matrix.l, file="Results_Sept-2016/scaled-svmErrorMatrix_500tokens_Oct-1-2016.R")

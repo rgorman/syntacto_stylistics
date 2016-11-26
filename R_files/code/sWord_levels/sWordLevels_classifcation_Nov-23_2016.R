@@ -1,7 +1,7 @@
 # clean workspace
 rm(list = ls())
 
-
+smaller.df <- ordered.df
 
 require(e1071)
 require(gmodels)
@@ -16,7 +16,7 @@ row.names(smaller.df)
 smaller.df <- scale(smaller.df)
 
 # read meta data from disk; 
-chunk.ratios.m <- read.csv(file="Results_Nov-2016/MetaData_AllGreek_100Tokens.csv", stringsAsFactors = FALSE, header = TRUE)
+chunk.ratios.m <- read.csv(file="Results_Nov-2016/MetaData_AllGreek_75Tokens.csv", stringsAsFactors = FALSE, header = TRUE)
 dim(chunk.ratios.m)
 chunk.ratios.m[,2]
 View(chunk.ratios.m)
@@ -35,13 +35,13 @@ testing.classes.l <- list()
 
 i <- 1
 
-
+timestamp()
 for (i in 1:100) {
   
   
   
   #create vector of random integers = 10% of obs in smaller.df
-  testing.index.v <- sample (seq (1, nrow(smaller.df)), 460, prob = chunk.ratios.m[, 2])
+  testing.index.v <- sample (seq (1, nrow(smaller.df)), 765, prob = chunk.ratios.m[, 2])
   
   
   #create training and testing data matrices using testing.index.v and its inverse
@@ -62,6 +62,7 @@ for (i in 1:100) {
   
 }
 
+timestamp()
 
 #combine all matrices contained in err.matr.l into one matrix for export to .csv file
 a <- do.call(rbind, svm.error.matrix.l)
@@ -71,12 +72,12 @@ View(a)
 sum(a[,13])
 
 
-sum(a[,15])/2
+sum(a[,13])/2
 
 250*100
 
 
-(46000-(sum(a[,13])/2))/46000
+(76500-(sum(a[,13])/2))/76500
 
 summary(model.svm)
 model.svm$
@@ -93,9 +94,9 @@ recheck <- svm(training.data, training.classes, kernel = "linear", scale = FALSE
 
 
 
-save(svm.error.matrix.l, file="Results_NOv-2016/svmErrorMatrix_250tokens_Nov-24-2016.R")
-save(svm.results.l, file="Results_Nov-2016/svmResults_125tokens_Nov-24-2016.R")
-write.csv(a, file = "Results_Nov-2016/svmError_Spreadsheet_125tokens_Nov-24-2016.csv")
+save(svm.error.matrix.l, file="Results_NOv-2016/svmErrorMatrix_100tokens_Nov-25-2016.R")
+save(svm.results.l, file="Results_Nov-2016/svmResults_100tokens_Nov-25-2016.R")
+write.csv(a, file = "Results_Nov-2016/svmError_Spreadsheet_100tokens_Nov-25-2016.csv")
 
 
 save(svm.error.matrix.l, file="Results_Sept-2016/scaled-svmErrorMatrix_500tokens_Oct-1-2016.R")

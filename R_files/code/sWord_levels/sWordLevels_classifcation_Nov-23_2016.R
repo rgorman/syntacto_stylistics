@@ -16,7 +16,7 @@ row.names(smaller.df)
 smaller.df <- scale(smaller.df)
 
 # read meta data from disk; 
-chunk.ratios.m <- read.csv(file="Results_Nov-2016/MetaData_AllGreek_75Tokens.csv", stringsAsFactors = FALSE, header = TRUE)
+chunk.ratios.m <- read.csv(file="Results_Nov-2016/MetaData_AllGreek_50Tokens.csv", stringsAsFactors = FALSE, header = TRUE)
 dim(chunk.ratios.m)
 chunk.ratios.m[,2]
 View(chunk.ratios.m)
@@ -41,7 +41,7 @@ for (i in 1:100) {
   
   
   #create vector of random integers = 10% of obs in smaller.df
-  testing.index.v <- sample (seq (1, nrow(smaller.df)), 765, prob = chunk.ratios.m[, 2])
+  testing.index.v <- sample (seq (1, nrow(smaller.df)), 1149, prob = chunk.ratios.m[, 2])
   
   
   #create training and testing data matrices using testing.index.v and its inverse
@@ -77,7 +77,7 @@ sum(a[,13])/2
 250*100
 
 
-(76500-(sum(a[,13])/2))/76500
+(114900-(sum(a[,13])/2))/114900
 
 summary(model.svm)
 model.svm$
@@ -94,9 +94,9 @@ recheck <- svm(training.data, training.classes, kernel = "linear", scale = FALSE
 
 
 
-save(svm.error.matrix.l, file="Results_NOv-2016/svmErrorMatrix_100tokens_Nov-25-2016.R")
-save(svm.results.l, file="Results_Nov-2016/svmResults_100tokens_Nov-25-2016.R")
-write.csv(a, file = "Results_Nov-2016/svmError_Spreadsheet_100tokens_Nov-25-2016.csv")
+save(svm.error.matrix.l, file="Results_NOv-2016/svmErrorMatrix_75tokens_Nov-26-2016.R")
+save(svm.results.l, file="Results_Nov-2016/svmResults_75tokens_Nov-26-2016.R")
+write.csv(a, file = "Results_Nov-2016/svmError_Spreadsheet_75tokens_Nov-26-2016.csv")
 
 
 save(svm.error.matrix.l, file="Results_Sept-2016/scaled-svmErrorMatrix_500tokens_Oct-1-2016.R")

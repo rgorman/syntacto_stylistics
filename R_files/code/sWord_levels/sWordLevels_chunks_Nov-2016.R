@@ -18,7 +18,7 @@ i <- 1
 sWord.freq.table.list <- list()
 
 
-start_time <- timestamp()
+timestamp()
 # set up loop to process each file in source directory
 for (i in 1:length(files.v)) {
   
@@ -30,7 +30,7 @@ for (i in 1:length(files.v)) {
   
   # here we must split files into chunks
   
-  divisor <- length(word.nodes)/75
+  divisor <- length(word.nodes)/50
   max.length <- length(word.nodes)/divisor
   x <- seq_along(word.nodes)
   chunks.l <- split(word.nodes, ceiling(x/max.length))
@@ -116,7 +116,7 @@ for (i in 1:length(files.v)) {
   
 }    
 
-end_time <- timestamp()
+timestamp()
 
 # !! stop here for evaluation
 
@@ -153,6 +153,7 @@ timestamp()
 
 object.size(freqs.df)
 
+timestamp()
 # divide freqs.df into smaller data frames so that we can cross tabulate without running out of memory. Divide
 # into at least 5 files
 z <- ceiling(nrow(freqs.df)/10)
@@ -204,6 +205,7 @@ z <- 1 + indexI[length(indexI)]
 freqs.df[z,]
 freqs.df10 <- freqs.df[z:nrow(freqs.df),]
 
+timestamp()
 
 # check sums for 5 files
 sum(nrow(freqs.df1), nrow(freqs.df2), nrow(freqs.df3), nrow(freqs.df4), nrow(freqs.df5)) == nrow(freqs.df)
@@ -233,6 +235,8 @@ for (i in 1:5)  {
 
 
 # or run xtab by hand
+timestamp()
+
 result1 <- xtabs(Freq ~ ID+combined.content, data=freqs.df1)
 save(result1, file = "result1.R")
 rm(result1)
@@ -274,17 +278,203 @@ result10 <- xtabs(Freq ~ ID+combined.content, data=freqs.df10)
 save(result10, file = "result10.R")
 rm(result10)
 
+timestamp()
+
 # remove data frames to free up memory
 rm(freqs.df1, freqs.df2, freqs.df3, freqs.df4, freqs.df5)
 rm(freqs.df1, freqs.df2, freqs.df3, freqs.df4, freqs.df5, freqs.df6, freqs.df7, freqs.df8, freqs.df9, freqs.df10)
 
 object.size(freqs.df)
 
-# reopen saved files and convert to data frames 
+# reopen saved files and convert to data frames
+# resultant combined data frames are saved to disk and erased from memory (except for last).
+
+timestamp()
+
+
+
+
+##################################
+#################################
+
+# Extract column means from each cross-tabulated file and store results in matrix
+
 
 load(file = "result1.R")
 final.df <- as.data.frame.matrix(result1)
 rm(result1)
+meany <- matrix(colMeans(final.df), nrow = 1)
+rm(final.df)
+
+
+load(file = "result2.R")
+final.df2 <- as.data.frame.matrix(result2)
+rm(result2)
+beany <- matrix(colMeans(final.df2), nrow = 1)
+meany <- rbind(meany, beany)
+rm(final.df2, beany)
+
+load(file = "result3.R")
+final.df3 <- as.data.frame.matrix(result3)
+rm(result3)
+beany <- matrix(colMeans(final.df3), nrow = 1)
+meany <- rbind(meany, beany)
+dim(meany)
+rm(final.df3, beany)
+
+
+load(file = "result4.R")
+final.df4 <- as.data.frame.matrix(result4)
+rm(result4)
+beany <- matrix(colMeans(final.df4), nrow = 1)
+meany <- rbind(meany, beany)
+rm(final.df4, beany)
+
+load(file = "result5.R")
+final.df5 <- as.data.frame.matrix(result5)
+rm(result5)
+beany <- matrix(colMeans(final.df5), nrow = 1)
+meany <- rbind(meany, beany)
+rm(final.df5, beany)
+
+
+load(file = "result6.R")
+final.df6 <- as.data.frame.matrix(result6)
+rm(result6)
+beany <- matrix(colMeans(final.df6), nrow = 1)
+meany <- rbind(meany, beany)
+rm(final.df6, beany)
+
+
+
+load(file = "result7.R")
+final.df7 <- as.data.frame.matrix(result7)
+rm(result7)
+beany <- matrix(colMeans(final.df7), nrow = 1)
+meany <- rbind(meany, beany)
+rm(final.df7, beany)
+
+
+
+load(file = "result8.R")
+final.df8 <- as.data.frame.matrix(result8)
+rm(result8)
+beany <- matrix(colMeans(final.df8), nrow = 1)
+meany <- rbind(meany, beany)
+rm(final.df8, beany)
+
+
+
+
+load(file = "result9.R")
+final.df9 <- as.data.frame.matrix(result9)
+rm(result9)
+beany <- matrix(colMeans(final.df9), nrow = 1)
+meany <- rbind(meany, beany)
+rm(final.df9, beany)
+
+
+
+load(file = "result10.R")
+final.df10 <- as.data.frame.matrix(result10)
+rm(result10)
+beany <- matrix(colMeans(final.df10), nrow = 1)
+meany <- rbind(meany, beany)
+rm(final.df10, beany)
+
+# extract vector of column means from our matrix of column means
+freq.mean.v <- colMeans(meany)
+
+#collect column means of a given magnitude
+keepers.v <- which(freq.mean.v >=.005)
+
+# re-open the cross-tabular files and slice the columns based on keepers.v
+load(file = "result1.R")
+final.df <- as.data.frame.matrix(result1)
+rm(result1)
+final.df <- final.df[, keepers.v]
+
+load(file = "result2.R")
+final.df2 <- as.data.frame.matrix(result2)
+rm(result2)
+final.df2 <- final.df2[, keepers.v]
+final.df <- rbind(final.df, final.df2)
+rm(final.df2)
+
+load(file = "result3.R")
+final.df3 <- as.data.frame.matrix(result3)
+rm(result3)
+final.df3 <- final.df3[, keepers.v]
+final.df <- rbind(final.df, final.df3)
+rm(final.df3)
+
+
+load(file = "result4.R")
+final.df4 <- as.data.frame.matrix(result4)
+rm(result4)
+final.df4 <- final.df4[, keepers.v]
+final.df <- rbind(final.df, final.df4)
+rm(final.df4)
+
+load(file = "result5.R")
+final.df5 <- as.data.frame.matrix(result5)
+rm(result5)
+final.df5 <- final.df5[, keepers.v]
+final.df <- rbind(final.df, final.df5)
+rm(final.df5)
+
+load(file = "result6.R")
+final.df6 <- as.data.frame.matrix(result6)
+rm(result6)
+final.df6 <- final.df6[, keepers.v]
+final.df <- rbind(final.df, final.df6)
+rm(final.df6)
+
+load(file = "result7.R")
+final.df7 <- as.data.frame.matrix(result7)
+rm(result7)
+final.df7 <- final.df7[, keepers.v]
+final.df <- rbind(final.df, final.df7)
+rm(final.df7)
+
+load(file = "result8.R")
+final.df8 <- as.data.frame.matrix(result8)
+rm(result8)
+final.df8 <- final.df8[, keepers.v]
+final.df <- rbind(final.df, final.df8)
+rm(final.df8)
+
+load(file = "result9.R")
+final.df9 <- as.data.frame.matrix(result9)
+rm(result9)
+final.df9 <- final.df9[, keepers.v]
+final.df <- rbind(final.df, final.df9)
+rm(final.df9)
+
+load(file = "result10.R")
+final.df10 <- as.data.frame.matrix(result10)
+rm(result10)
+final.df10 <- final.df10[, keepers.v]
+final.df <- rbind(final.df, final.df10)
+rm(final.df10)
+
+# now move on to naming rows
+
+#####################################
+#################################
+
+
+
+
+
+
+
+
+load(file = "result1.R")
+final.df <- as.data.frame.matrix(result1)
+rm(result1)
+meany <- matrix(colMeans(final.df), nrow = 1)
+
 
 load(file = "result2.R")
 final.df2 <- as.data.frame.matrix(result2)
@@ -298,60 +488,86 @@ final.df <- rbind(final.df, final.df3)
 rm(result3)
 rm(final.df3)
 
+save(final.df, file = "Data_Frame1.R")
+rm(final.df)
+
+
+
 load(file = "result4.R")
-final.df4 <- as.data.frame.matrix(result4)
-final.df <- rbind(final.df, final.df4)
+final.df.part2 <- as.data.frame.matrix(result4)
 rm(result4)
-rm(final.df4)
 
 load(file = "result5.R")
 final.df5 <- as.data.frame.matrix(result5)
-final.df <- rbind(final.df, final.df5)
+final.df.part2 <- rbind(final.df.part2, final.df5)
 rm(result5)
 rm(final.df5)
 
 load(file = "result6.R")
 final.df6 <- as.data.frame.matrix(result6)
-final.df <- rbind(final.df, final.df6)
+final.df.part2 <- rbind(final.df.part2, final.df6)
 rm(result6)
 rm(final.df6)
 
+save(final.df.part2, file = "Data_Frame2.R")
+rm(final.df.part2)
+
+
+
 load(file = "result7.R")
-final.df7 <- as.data.frame.matrix(result7)
-final.df <- rbind(final.df, final.df7)
+final.df.part3 <- as.data.frame.matrix(result7)
 rm(result7)
-rm(final.df7)
 
 load(file = "result8.R")
 final.df8 <- as.data.frame.matrix(result8)
-final.df <- rbind(final.df, final.df8)
+final.df.part3 <- rbind(final.df.part3, final.df8)
 rm(result8)
 rm(final.df8)
 
 load(file = "result9.R")
 final.df9 <- as.data.frame.matrix(result9)
-final.df <- rbind(final.df, final.df9)
+final.df.part3 <- rbind(final.df.part3, final.df9)
 rm(result9)
 rm(final.df9)
 
 load(file = "result10.R")
 final.df10 <- as.data.frame.matrix(result10)
-final.df <- rbind(final.df, final.df10)
+final.df.part3 <- rbind(final.df.part3, final.df10)
 rm(result10)
 rm(final.df10)
 
-final.df.part2 <- rbind(final.df9, final.df10)
 
-load("final.R")
+
+
 
 timestamp()
-save(final.df, file = "final.R")
 
-length(object.size(final.df.part2))
+load(file = "Data_Frame1.R")
+load(file = "Data_Frame2.R")
 
 final.df <- rbind(final.df, final.df.part2)
 
-rm(final.df2)
+object.size(final.df)
+rm(final.df.part2, final.df.part3)
+
+# slice data frames keeping only the first 10,000 columns to save memory
+final.df <- final.df[, 1:10000]
+final.df.part2 <- final.df.part2[, 1:10000]
+final.df.part3 <- final.df.part3[, 1:10000]
+
+timestamp()
+
+final.df <- rbind(final.df, final.df.part2)
+final.df <- rbind(final.df, final.df.part3)
+
+timestamp()
+
+
+rm(final.df.part2)
+
+
+#################################################
+
 
 # remove .xml suffix  from file names and store result in vector for generation of row labels
 bookids.v <- gsub(".xml", "", files.v)
@@ -374,7 +590,7 @@ for (i in 1:length(files.v))  {
   
   # here we must split files into chunks
   
-  divisor <- length(word.nodes)/75
+  divisor <- length(word.nodes)/50
   max.length <- length(word.nodes)/divisor
   x <- seq_along(word.nodes)
   chunks.l <- split(word.nodes, ceiling(x/max.length))
@@ -432,10 +648,14 @@ row.names(final.df) <- ID.holder
 # take a look
 View(final.df[, 1:5])
 
+object.size(final.df)
+
 # free up some memory
 rm(final.df2, freqs.df1, freqs.df2, freqs.df3, freqs.df4, freqs.df5)
 
 #reduce the feature set
+
+freq.mean.v <- colMeans(final.df)
 
 # extract the mean of each column; slice the file so that only a portion is processed at one time to allow sufficient memory
 z <- ceiling(ncol(final.df)/10)
@@ -481,7 +701,7 @@ row.names(ordered.df) <- ID.holder
 
 
 #save data frame object to .csv file
-write.csv(ordered.df, file = "Results_Nov-2016/AllGreekFiles_75tokens_Nov-25.csv")
+write.csv(ordered.df, file = "Results_Nov-2016/AllGreekFiles_50tokens_Nov-26.csv")
 save(final.df, file = "Results_Nov-2016/AllGreekFiles_100tokens_Nov-24.R")
 
 # memory should be scribbed and a sWord-levels_classification script run

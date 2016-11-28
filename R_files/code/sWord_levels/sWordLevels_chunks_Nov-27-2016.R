@@ -30,7 +30,7 @@ for (i in 1:length(files.v)) {
   
   # here we must split files into chunks
   
-  divisor <- length(word.nodes)/50
+  divisor <- length(word.nodes)/40
   max.length <- length(word.nodes)/divisor
   x <- seq_along(word.nodes)
   chunks.l <- split(word.nodes, ceiling(x/max.length))
@@ -590,7 +590,7 @@ for (i in 1:length(files.v))  {
   
   # here we must split files into chunks
   
-  divisor <- length(word.nodes)/50
+  divisor <- length(word.nodes)/40
   max.length <- length(word.nodes)/divisor
   x <- seq_along(word.nodes)
   chunks.l <- split(word.nodes, ceiling(x/max.length))
@@ -642,6 +642,9 @@ for (i in 1:length(chunk.total)) {
 }
 
 # replace row names in final.df with names of chunks from ID.holder
+ID.matrix <- matrix(ID.holder, ncol = 1)
+write.csv(ID.matrix, file = "Results_Nov-2016/Authors_AllGreekFiles_40tokens_Nov-28.csv")
+
 
 row.names(final.df) <- ID.holder
 

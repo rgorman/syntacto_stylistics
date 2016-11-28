@@ -10,7 +10,7 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>xsl%20files/working/Polybius_Book10.xml</String>
+                                    <String>base_files/Perseus_and_VG/Polybius_Book10.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -25,7 +25,7 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>base_files/Perseus_and_VG/Polybius_Book10.xml</String>
+                                    <String>xsl%20files/working/Polybius_Book10.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>

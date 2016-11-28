@@ -8,7 +8,7 @@ rm(list = ls())
 library(XML)
 
 source("code/corpusFunctions.R")
-input.dir <- "./working_input4"
+input.dir <- "./working_input1"
 files.v <- dir(path=input.dir, pattern=".*xml")
 
 
@@ -28,7 +28,7 @@ for (i in 1:length(files.v)) {
   
   # here we must split files into chunks
   
-  divisor <- length(word.nodes)/250
+  divisor <- length(word.nodes)/1000
   max.length <- length(word.nodes)/divisor
   x <- seq_along(word.nodes)
   chunks.l <- split(word.nodes, ceiling(x/max.length))
@@ -182,7 +182,7 @@ for (i in 1:length(files.v))  {
   
   # here we must split files into chunks
   
-  divisor <- length(word.nodes)/250
+  divisor <- length(word.nodes)/100
   max.length <- length(word.nodes)/divisor
   x <- seq_along(word.nodes)
   chunks.l <- split(word.nodes, ceiling(x/max.length))

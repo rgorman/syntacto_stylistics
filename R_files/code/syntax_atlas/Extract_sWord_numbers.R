@@ -85,6 +85,10 @@ for (f in 1:12) {
   
 }
 
+
+
+save(GrandsWordTotal.list, file = "sWordTotalsObject")
+
 # set incremental varaible to 1
 i <- 1
 

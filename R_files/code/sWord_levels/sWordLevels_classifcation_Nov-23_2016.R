@@ -94,9 +94,9 @@ recheck <- svm(training.data, training.classes, kernel = "linear", scale = FALSE
 
 
 
-save(svm.error.matrix.l, file="Results_NOv-2016/svmErrorMatrix_75tokens_Nov-26-2016.R")
-save(svm.results.l, file="Results_Nov-2016/svmResults_75tokens_Nov-26-2016.R")
-write.csv(a, file = "Results_Nov-2016/svmError_Spreadsheet_75tokens_Nov-26-2016.csv")
+save(svm.error.matrix.l, file="Results_NOv-2016/svmErrorMatrix_50tokens_Nov-27-2016.R")
+save(svm.results.l, file="Results_Nov-2016/svmResults_50tokens_Nov-27-2016.R")
+write.csv(a, file = "Results_Nov-2016/svmError_Spreadsheet_50tokens_Nov-27-2016.csv")
 
 
 save(svm.error.matrix.l, file="Results_Sept-2016/scaled-svmErrorMatrix_500tokens_Oct-1-2016.R")

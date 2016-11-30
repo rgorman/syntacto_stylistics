@@ -1,4 +1,4 @@
-
+load()
 
 # clean workspace
 rm(list = ls())
@@ -220,6 +220,7 @@ rm(freqs.df, chunks.l, doc.object, freqs.l, sWord.freq.table.list, sWord.nodes.l
 
 
 i <- 1
+timestamp()
 
 for (i in 1:10) {
   nam <- paste("result", i, sep = "")
@@ -235,6 +236,8 @@ for (i in 1:10) {
   
 }  
 timestamp()
+
+
 
 # or run xtab by hand
 timestamp()
